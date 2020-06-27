@@ -12,5 +12,4 @@ ACL集合
 [覃立波](链接网址 "http://ir.hit.edu.cn/~lbqin/") 于2020/6/27 (哈工大SCIR实验室在读博士) 
 
 
-导师：[车万翔教授](链接网址 "hhttp://ir.hit.edu.cn/~car/english.htm")
-
+导师：[车万翔教授]("http://ir.hit.edu.cn/~car/english.htm")
