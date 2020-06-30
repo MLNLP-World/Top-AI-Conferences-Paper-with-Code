@@ -19,7 +19,7 @@ NAACL集合
 
 
 
-[覃立波](http://ir.hit.edu.cn/~lbqin/) 于2020/6/27 (哈工大SCIR实验室在读博士) 
+[忆臻-覃立波](http://ir.hit.edu.cn/~lbqin/) 于2020/6/27 (哈工大SCIR实验室在读博士) 
 
 
 
