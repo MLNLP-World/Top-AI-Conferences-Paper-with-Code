@@ -18,11 +18,14 @@ NAACL集合
 
 [覃立波](http://ir.hit.edu.cn/~lbqin/) 于2020/6/27 (哈工大SCIR实验室在读博士) 
 
-Acknowledge：
 
-[魏福煊](https://github.com/awake020)(哈尔滨工业大学本科生)
 
 感谢车万翔老师的指导和支持
 
 导师：[车万翔教授](http://ir.hit.edu.cn/~car/english.htm)
 
+
+
+Acknowledge：
+
+[魏福煊](https://github.com/awake020)(哈尔滨工业大学本科生)
