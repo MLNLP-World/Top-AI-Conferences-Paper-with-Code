@@ -32,6 +32,6 @@ EMNLP集合
 特别感谢导师[车万翔教授](http://ir.hit.edu.cn/~car/english.htm)老师的指导和支持
 
 感谢贡献者：[魏福煊](https://github.com/awake020)(哈尔滨工业大学本科生)
-感谢贡献者：[谢天宝](https://github.com/Timothyxxx)(哈尔滨工业大学本科生)
+[谢天宝](https://github.com/Timothyxxx)(哈尔滨工业大学本科生)
 
 
