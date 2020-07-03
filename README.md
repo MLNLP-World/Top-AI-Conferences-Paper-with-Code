@@ -17,6 +17,10 @@ NAACL集合
 * [NAACL2019官方录用列表](https://www.aclweb.org/anthology/events/naacl-2019/)
 * [NAACL2019代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/NAACL/2019/naacl-2019.md)
 
+EMNLP集合
+
+* [EMNLP2019官方录用列表](https://www.aclweb.org/anthology/events/emnlp-2019/)
+* [EMNLP2019代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/EMNLP/2019/EMNLP2019.md)
 
 
 [忆臻-覃立波](http://ir.hit.edu.cn/~lbqin/) 于2020/6/27 (哈工大SCIR实验室在读博士) 
@@ -28,5 +32,6 @@ NAACL集合
 特别感谢导师[车万翔教授](http://ir.hit.edu.cn/~car/english.htm)老师的指导和支持
 
 感谢贡献者：[魏福煊](https://github.com/awake020)(哈尔滨工业大学本科生)
+感谢贡献者：[谢天宝](https://github.com/Timothyxxx)(哈尔滨工业大学本科生)
 
 
