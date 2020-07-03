@@ -1,8 +1,8 @@
 #### Attention is not not Explanation
 
--论文链接：[https://www.aclweb.org/anthology/D19-1002.pdf](https://www.aclweb.org/anthology/D19-1002.pdf)
+- 论文链接：[https://www.aclweb.org/anthology/D19-1002.pdf](https://www.aclweb.org/anthology/D19-1002.pdf)
 
--代码链接：[https://github.com/sarahwie/attention](https://github.com/sarahwie/attention)
+- 代码链接：[https://github.com/sarahwie/attention](https://github.com/sarahwie/attention)
 
 #### Transfer Learning Between Related Tasks Using Expected Label Proportions
 
