@@ -9,8 +9,10 @@ follow工作，最怕复现不了，有代码至少给我们提供的参考和�
 ACL集合
 
 * [ACL2019官方录用列表](https://www.aclweb.org/anthology/events/acl-2019/)
-
 * [ACL2019代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/ACL/2019/ACL2019.md)
+
+* [ACL2020官方录用列表](https://www.aclweb.org/anthology/events/acl-2020/)
+* [ACL2020代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/ACL/2020/ACL2020.md)
 
 NAACL集合
 
