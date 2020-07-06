@@ -6,11 +6,12 @@
 
 ## 资源列表
 
-ACL集合
-
+###ACL集合
+2019
 * [ACL2019官方录用列表](https://www.aclweb.org/anthology/events/acl-2019/)
 * [ACL2019代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/ACL/2019/ACL2019.md)
 
+2020
 * [ACL2020官方录用列表](https://www.aclweb.org/anthology/events/acl-2020/)
 * [ACL2020代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/ACL/2020/ACL2020.md)
 * ACL2020任务模块，如下：
@@ -22,13 +23,13 @@ ACL集合
 | 问题生成 | [ACL2020_QG.md](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/ACL/2020/QG/ACL2020_QG.md) |
 | 自然语言推理 | [ACL2020_NLI.md](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/ACL/2020/NLI/ACL2020_NLI.md) |
 
-NAACL集合
-
+### NAACL集合
+2019
 * [NAACL2019官方录用列表](https://www.aclweb.org/anthology/events/naacl-2019/)
 * [NAACL2019代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/NAACL/2019/naacl-2019.md)
 
-EMNLP集合
-
+### EMNLP集合
+2019
 * [EMNLP2019官方录用列表](https://www.aclweb.org/anthology/events/emnlp-2019/)
 * [EMNLP2019代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/EMNLP/2019/EMNLP2019.md)
 
