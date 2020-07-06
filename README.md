@@ -6,7 +6,7 @@
 
 ## 资源列表
 
-###ACL集合
+### ACL集合
 2019
 * [ACL2019官方录用列表](https://www.aclweb.org/anthology/events/acl-2019/)
 * [ACL2019代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/ACL/2019/ACL2019.md)
