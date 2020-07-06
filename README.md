@@ -13,6 +13,10 @@ ACL集合
 
 * [ACL2020官方录用列表](https://www.aclweb.org/anthology/events/acl-2020/)
 * [ACL2020代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/ACL/2020/ACL2020.md)
+* [ACL2020之自然语言推理](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/ACL/2020/NLI/ACL2020_NLI.md)
+* [ACL2020之预训练语言模型及部分应用模块](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/ACL/2020/PretrainLanguageModel/ACL2020_PretrainLanguageModel.md)
+* [ACL2020之QA问答系统及机器阅读理解](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/ACL/2020/QA_and_MRC/ACL2020_QA_and_MRC.md)
+* [ACL2020之问题生成](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/ACL/2020/QG/ACL2020_QG.md)
 
 NAACL集合
 
@@ -33,7 +37,7 @@ EMNLP集合
 
 特别感谢导师[车万翔教授](http://ir.hit.edu.cn/~car/english.htm)老师的指导和支持
 
-感谢贡献者：[魏福煊](https://github.com/awake020)(哈尔滨工业大学本科生)
-[谢天宝](https://github.com/Timothyxxx)(哈尔滨工业大学本科生)
-
+感谢贡献者：[魏福煊](https://github.com/awake020)(哈尔滨工业大学本科生)；
+[谢天宝](https://github.com/Timothyxxx)(哈尔滨工业大学本科生)；
+[刘聪](https://github.com/liucongg) (NLP工程师, 知乎: [刘聪NLP](https://www.zhihu.com/people/wo-de-xi-fu-jiu-shi-la-yao-ke-ai-88))
 
