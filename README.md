@@ -13,10 +13,14 @@ ACL集合
 
 * [ACL2020官方录用列表](https://www.aclweb.org/anthology/events/acl-2020/)
 * [ACL2020代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/ACL/2020/ACL2020.md)
-* [ACL2020之自然语言推理](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/ACL/2020/NLI/ACL2020_NLI.md)
-* [ACL2020之预训练语言模型及部分应用模块](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/ACL/2020/PretrainLanguageModel/ACL2020_PretrainLanguageModel.md)
-* [ACL2020之QA问答系统及机器阅读理解](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/ACL/2020/QA_and_MRC/ACL2020_QA_and_MRC.md)
-* [ACL2020之问题生成](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/ACL/2020/QG/ACL2020_QG.md)
+* ACL2020任务模块，如下：
+
+| 模块        | 文件   |
+| --------   | -----|
+| 预训练语言模型及部分应用 | [ACL2020_PretrainLanguageModel.md](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/ACL/2020/PretrainLanguageModel/ACL2020_PretrainLanguageModel.md) |
+| QA问答系统及机器阅读理解 | [ACL2020_QA_and_MRC.md](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/ACL/2020/QA_and_MRC/ACL2020_QA_and_MRC.md) |
+| 问题生成 | [ACL2020_QG.md](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/ACL/2020/QG/ACL2020_QG.md) |
+| 自然语言推理 | [ACL2020_NLI.md](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/ACL/2020/NLI/ACL2020_NLI.md) |
 
 NAACL集合
 
