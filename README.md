@@ -44,5 +44,6 @@
 
 感谢贡献者：[魏福煊](https://github.com/awake020)(哈尔滨工业大学本科生)；
 [谢天宝](https://github.com/Timothyxxx)(哈尔滨工业大学本科生)；
-[刘聪](https://github.com/liucongg) (NLP工程师, 知乎: [刘聪NLP](https://www.zhihu.com/people/wo-de-xi-fu-jiu-shi-la-yao-ke-ai-88))
+[刘聪](https://github.com/liucongg) (NLP工程师, 知乎: [刘聪NLP](https://www.zhihu.com/people/wo-de-xi-fu-jiu-shi-la-yao-ke-ai-88))；
+[禹棋赢](https://github.com/yqy2001)(哈尔滨工业大学本科生)
 
