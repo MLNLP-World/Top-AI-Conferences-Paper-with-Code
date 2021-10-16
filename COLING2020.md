@@ -31,7 +31,7 @@
 
  - 论文链接：https://aclanthology.org/2020.coling-main.7.pdf
 
-####Span-based Joint Entity and Relation Extraction with Attention-based Span-specific and Contextual Semantic Representations
+#### Span-based Joint Entity and Relation Extraction with Attention-based Span-specific and Contextual Semantic Representations
 
 - 论文链接：https://aclanthology.org/2020.coling-main.8.pdf
 
