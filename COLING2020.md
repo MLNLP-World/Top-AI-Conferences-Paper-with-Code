@@ -54,8 +54,8 @@
 
 **Jointly Learning Aspect-Focused and Inter-Aspect Relations with Graph Convolutional Networks for Aspect Sentiment Analysis**
 
-	- 论文链接：https://aclanthology.org/2020.coling-main.13.pdf
-	- 代码链接：https://github.com/BinLiang-NLP/InterGCN-ABSA
+- 论文链接：https://aclanthology.org/2020.coling-main.13.pdf
+- 代码链接：https://github.com/BinLiang-NLP/InterGCN-ABSA
 
 **METNet: A Mutual Enhanced Transformation Network for Aspect-based Sentiment Analysis**
 
@@ -67,8 +67,8 @@
 
 **From Sentiment Annotations to Sentiment Prediction through Discourse Augmentation**
 
-	- 论文链接：https://aclanthology.org/2020.coling-main.16.pdf
-	- 代码链接：https://github.com/castorini/hedwig
+- 论文链接：https://aclanthology.org/2020.coling-main.16.pdf
+- 代码链接：https://github.com/castorini/hedwig
 
 **End-to-End Emotion-Cause Pair Extraction with Graph Convolutional Network**
 
@@ -90,6 +90,6 @@
 
 **Understanding Pre-trained BERT for Aspect-based Sentiment Analysis**
 
-	- 论文链接：https://aclanthology.org/2020.coling-main.21.pdf
-	- 代码链接：https://github.com/howardhsu/BERT-for-RRC-ABSA
+- 论文链接：https://aclanthology.org/2020.coling-main.21.pdf
+- 代码链接：https://github.com/howardhsu/BERT-for-RRC-ABSA
 
