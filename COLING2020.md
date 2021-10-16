@@ -24,5 +24,5 @@
 #**Catching Attention with Automatic Pull Quote Selection**
 
 - 论文链接：https://aclanthology.org/2020.coling-main.6.pdf
-- 代码链接： https://github.com/tannerbohn/AutomaticPullQuoteSelection
+- 代码链接：https://github.com/tannerbohn/AutomaticPullQuoteSelection
 
