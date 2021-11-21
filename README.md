@@ -28,7 +28,13 @@
 * [NAACL2019官方录用列表](https://www.aclweb.org/anthology/events/naacl-2019/)
 * [NAACL2019代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/NAACL/2019/naacl-2019.md)
 
+2021
+
+- [NAACL2021官方录用列表](https://aclanthology.org/events/naacl-2021/#2021-naacl-main)
+- [NAACL2021代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/NAACL/2021/naacl-2021.md)
+
 ### EMNLP集合
+
 2019
 * [EMNLP2019官方录用列表](https://www.aclweb.org/anthology/events/emnlp-2019/)
 * [EMNLP2019代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/EMNLP/2019/EMNLP2019.md)
