@@ -33,7 +33,9 @@
 * [EMNLP2019官方录用列表](https://www.aclweb.org/anthology/events/emnlp-2019/)
 * [EMNLP2019代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/EMNLP/2019/EMNLP2019.md)
 
-
+2020
+* [EMNLP2020官方录用列表](https://www.aclweb.org/anthology/events/emnlp-2020/)
+* [EMNLP2020代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/EMNLP/2020/EMNLP2020.md)
 
 ## Acknowledgement
 
