@@ -44,6 +44,10 @@
 * [EMNLP2020代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/EMNLP/2020/EMNLP2020.md)
 
 ### AAAI集合
+2020
+* [AAAI2020官方录用列表](https://aaai.org/Library/AAAI/aaai20contents.php)
+* [AAAI2020代码集合](https://github.com/EcolesYee/NLP-Conferences-Code/blob/master/AAAI2020/AAAI2020.md)
+
 2021
 * [AAAI2021官方录用列表](https://aaai.org/Library/AAAI/aaai21contents.php)
 * [AAAI2021代码集合](https://github.com/Atream/NLP-Conferences-Code/blob/master/AAAI/2021/AAAI2021.md)
