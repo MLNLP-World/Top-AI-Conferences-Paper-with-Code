@@ -45,7 +45,7 @@
 
 ### AAAI集合
 2021
-* [AAAI2021官方录用列表]
+* [AAAI2021官方录用列表](https://aaai.org/Library/AAAI/aaai21contents.php)
 * [AAAI2021代码集合](https://github.com/Atream/NLP-Conferences-Code/blob/master/AAAI/2021/AAAI2021.md)
 
 ## Acknowledgement
