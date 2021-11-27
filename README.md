@@ -28,12 +28,29 @@
 * [NAACL2019官方录用列表](https://www.aclweb.org/anthology/events/naacl-2019/)
 * [NAACL2019代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/NAACL/2019/naacl-2019.md)
 
+2021
+
+- [NAACL2021官方录用列表](https://aclanthology.org/events/naacl-2021/#2021-naacl-main)
+- [NAACL2021代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/NAACL/2021/naacl-2021.md)
+
 ### EMNLP集合
+
 2019
 * [EMNLP2019官方录用列表](https://www.aclweb.org/anthology/events/emnlp-2019/)
 * [EMNLP2019代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/EMNLP/2019/EMNLP2019.md)
 
+2020
+* [EMNLP2020官方录用列表](https://www.aclweb.org/anthology/events/emnlp-2020/)
+* [EMNLP2020代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/EMNLP/2020/EMNLP2020.md)
 
+### AAAI集合
+2020
+* [AAAI2020官方录用列表](https://aaai.org/Library/AAAI/aaai20contents.php)
+* [AAAI2020代码集合](https://github.com/EcolesYee/NLP-Conferences-Code/blob/master/AAAI2020/AAAI2020.md)
+
+2021
+* [AAAI2021官方录用列表](https://aaai.org/Library/AAAI/aaai21contents.php)
+* [AAAI2021代码集合](https://github.com/Atream/NLP-Conferences-Code/blob/master/AAAI/2021/AAAI2021.md)
 
 ## Acknowledgement
 
