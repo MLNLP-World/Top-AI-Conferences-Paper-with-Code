@@ -68,5 +68,5 @@
 [方烨](https://github.com/Aleafy)(哈尔滨工业大学本科生)；
 [李婕妤](https://github.com/ClarifiedfishLee)(哈尔滨工业大学本科生)；
 [张博鑫](https://github.com/Atream)(哈尔滨工业大学本科生)；
-[宜睿琛](https://github.com/EcolesYee)(哈尔滨工业大学本科生)
+[宜睿琛](https://github.com/EcolesYee)(哈尔滨工业大学本科生)；
 [秦梓涵](https://github.com/having-salt)(哈尔滨工业大学本科生)
