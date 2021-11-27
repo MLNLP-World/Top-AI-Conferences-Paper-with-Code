@@ -46,11 +46,11 @@
 ### AAAI集合
 2020
 * [AAAI2020官方录用列表](https://aaai.org/Library/AAAI/aaai20contents.php)
-* [AAAI2020代码集合](https://github.com/EcolesYee/NLP-Conferences-Code/blob/master/AAAI2020/AAAI2020.md)
+* [AAAI2020代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/AAAI2020/AAAI2020.md)
 
 2021
 * [AAAI2021官方录用列表](https://aaai.org/Library/AAAI/aaai21contents.php)
-* [AAAI2021代码集合](https://github.com/Atream/NLP-Conferences-Code/blob/master/AAAI/2021/AAAI2021.md)
+* [AAAI2021代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/AAAI/2021/AAAI2021.md)
 
 ## Acknowledgement
 
@@ -59,5 +59,8 @@
 感谢贡献者：[魏福煊](https://github.com/awake020)(哈尔滨工业大学本科生)；
 [谢天宝](https://github.com/Timothyxxx)(哈尔滨工业大学本科生)；
 [刘聪](https://github.com/liucongg) (NLP工程师, 知乎: [刘聪NLP](https://www.zhihu.com/people/wo-de-xi-fu-jiu-shi-la-yao-ke-ai-88))；
-[禹棋赢](https://github.com/yqy2001)(哈尔滨工业大学本科生)
-
+[禹棋赢](https://github.com/yqy2001)(哈尔滨工业大学本科生)；
+[方烨](https://github.com/Aleafy)(哈尔滨工业大学本科生)；
+[李婕妤](https://github.com/ClarifiedfishLee)(哈尔滨工业大学本科生)；
+[张博鑫](https://github.com/Atream)(哈尔滨工业大学本科生)；
+[宜睿琛](https://github.com/EcolesYee)(哈尔滨工业大学本科生)
