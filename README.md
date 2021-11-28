@@ -44,6 +44,11 @@
 * [EMNLP2020代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/EMNLP/2020/EMNLP2020.md)
 
 ### AAAI集合
+
+2019
+* [AAAI2019官方录用列表](https://aaai.org/Library/AAAI/aaai19contents.php)
+* [AAAI2019代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/AAAI2019/AAAI2019.md)
+
 2020
 * [AAAI2020官方录用列表](https://aaai.org/Library/AAAI/aaai20contents.php)
 * [AAAI2020代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/AAAI2020/AAAI2020.md)
@@ -63,4 +68,5 @@
 [方烨](https://github.com/Aleafy)(哈尔滨工业大学本科生)；
 [李婕妤](https://github.com/ClarifiedfishLee)(哈尔滨工业大学本科生)；
 [张博鑫](https://github.com/Atream)(哈尔滨工业大学本科生)；
-[宜睿琛](https://github.com/EcolesYee)(哈尔滨工业大学本科生)
+[宜睿琛](https://github.com/EcolesYee)(哈尔滨工业大学本科生)；
+[秦梓涵](https://github.com/having-salt)(哈尔滨工业大学本科生)
