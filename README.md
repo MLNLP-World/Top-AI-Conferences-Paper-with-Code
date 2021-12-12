@@ -1,10 +1,10 @@
-# Top-Conferences-Paper-with-Code
+# Top-AI-Conferences-Paper-with-Code
 
 ## Motivation
 
-This repository is a collection for AI top conferences papers(e.g. ACL, EMNLP, NAACL, COLING, AAAI, IJCAI, ICLR, NeurIPS, and ICML) with **open resource code**.
+This repository is a collection of AI top conferences papers (e.g. ACL, EMNLP, NAACL, COLING, AAAI, IJCAI, ICLR, NeurIPS, and ICML) with **open resource code**.
 
-As we all know, it is very difficult for a paper to describe every implement details within a limited number of pages. A work with open resource code offers us more information and makes it easier for us to reproduce and follow. We organized these papers for easy reference.
+As we all know, it is very difficult for a paper to describe every implement detail within a limited number of pages. A work with open resource code offers us more information and makes it easier for us to reproduce and follow. We organized these papers for easy reference.
 
 ## Updates
 - 2021.11.28 add AAAI 2019, AAAI 2020, AAAI2021
