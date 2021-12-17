@@ -39,5 +39,6 @@ Thanks to the contributors:
 [JeYu Li](https://github.com/ClarifiedfishLee);
 [Boxin Zhang](https://github.com/Atream);
 [Ruishen Yi](https://github.com/EcolesYee);
-[Zihan Qin](https://github.com/having-salt)
+[Zihan Qin](https://github.com/having-salt);
+[ShiZi Zhou](https://github.com/fghccv)
 
