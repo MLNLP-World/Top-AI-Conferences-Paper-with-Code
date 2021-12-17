@@ -21,7 +21,7 @@ Contributions are strongly welcomed, you are encouraged to submit issues and Pul
 | NAACL      | [2019](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/NAACL/2019/naacl-2019.md) | 2020                                                         | [2021](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/NAACL/2021/naacl-2021.md) | 2022 | 2023 | 2024 | 2025 |
 | COLING     |                                                              | 2020                                                         |                                                              | 2022 |      | 2024 |      |
 | AAAI       | [2019](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/AAAI/2019/AAAI2019.md) | [2020](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/AAAI/2020/AAAI2020.md) | [2021](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/AAAI/2021/AAAI2021.md) | 2022 | 2023 | 2024 | 2025 |
-| IJCAI      | 2019                                                         | 2020                                                         | 2021                                                         | 2022 | 2023 | 2024 | 2025 |
+| IJCAI      | 2019                                                         | [2020](https://github.com/fghccv/Top-AI-Conferences-Paper-with-Code/blob/master/IJCAI/2020/IJCAI2020.md) | 2021                                                         | 2022 | 2023 | 2024 | 2025 |
 | ICLR       | 2019                                                         | 2020                                                         | 2021                                                         | 2022 | 2023 | 2024 | 2025 |
 | NeurIPS    | 2019                                                         | 2020                                                         | 2021                                                         | 2022 | 2023 | 2024 | 2025 |
 | ICML       | 2019                                                         | 2020                                                         | 2021                                                         | 2022 | 2023 | 2024 | 2025 |
@@ -41,4 +41,4 @@ Thanks to the contributors:
 [Ruishen Yi](https://github.com/EcolesYee);
 [Zihan Qin](https://github.com/having-salt);
 [Binyuan Hui](https://github.com/huybery);
-
+[ShiQi Zhou](https://github.com/fghccv)
