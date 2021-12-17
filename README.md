@@ -40,4 +40,5 @@ Thanks to the contributors:
 [Boxin Zhang](https://github.com/Atream);
 [Ruishen Yi](https://github.com/EcolesYee);
 [Zihan Qin](https://github.com/having-salt);
+[Binyuan Hui](https://github.com/huybery);
 [ShiQi Zhou](https://github.com/fghccv)
