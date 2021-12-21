@@ -7,7 +7,8 @@ This repository is a collection of AI top conferences papers (e.g. ACL, EMNLP, N
 As we all know, it is very difficult for a paper to describe every implement detail within a limited number of pages. A work with open resource code offers us more information and makes it easier for us to reproduce and follow. We organized these papers for easy reference.
 
 ## Updates
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) **2021.12.17 update IJCAI2020**
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)**2021.12.21 update IJCAI2019**
+-  2021.12.17 update IJCAI2020
 - 2021.11.28 add AAAI 2019, AAAI 2020, AAAI2021
 
 ## Call for Contributions
@@ -22,7 +23,7 @@ Contributions are strongly welcomed, you are encouraged to submit issues and Pul
 | NAACL      | [2019](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/NAACL/2019/naacl-2019.md) | 2020                                                         | [2021](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/NAACL/2021/naacl-2021.md) | 2022 | 2023 | 2024 | 2025 |
 | COLING     |                                                              | 2020                                                         |                                                              | 2022 |      | 2024 |      |
 | AAAI       | [2019](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/AAAI/2019/AAAI2019.md) | [2020](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/AAAI/2020/AAAI2020.md) | [2021](https://github.com/MLNLP-World/NLP-Conferences-Code/blob/master/AAAI/2021/AAAI2021.md) | 2022 | 2023 | 2024 | 2025 |
-| IJCAI      | 2019                                                         | [2020](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/IJCAI/2020/IJCAI2020.md) | 2021                                                         | 2022 | 2023 | 2024 | 2025 |
+| IJCAI      | [2019](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/IJCAI/2019/IJCAI2019.md) | [2020](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/IJCAI/2020/IJCAI2020.md) | 2021                                                         | 2022 | 2023 | 2024 | 2025 |
 | ICLR       | 2019                                                         | 2020                                                         | 2021                                                         | 2022 | 2023 | 2024 | 2025 |
 | NeurIPS    | 2019                                                         | 2020                                                         | 2021                                                         | 2022 | 2023 | 2024 | 2025 |
 | ICML       | 2019                                                         | 2020                                                         | 2021                                                         | 2022 | 2023 | 2024 | 2025 |
@@ -42,4 +43,5 @@ Thanks to the contributors:
 [Ruishen Yi](https://github.com/EcolesYee);
 [Zihan Qin](https://github.com/having-salt);
 [Binyuan Hui](https://github.com/huybery);
-[ShiQi Zhou](https://github.com/fghccv)
+[ShiQi Zhou](https://github.com/fghccv);
+[Chenyang Ding](https://github.com/fghccv);
