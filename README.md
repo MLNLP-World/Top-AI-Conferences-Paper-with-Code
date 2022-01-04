@@ -7,6 +7,7 @@
 ## 资源列表
 
 ### ACL集合
+
 2019
 * [ACL2019官方录用列表](https://www.aclweb.org/anthology/events/acl-2019/)
 * [ACL2019代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/ACL/2019/ACL2019.md)
@@ -23,7 +24,13 @@
 | 问题生成 | [ACL2020_QG.md](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/ACL/2020/QG/ACL2020_QG.md) |
 | 自然语言推理 | [ACL2020_NLI.md](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/ACL/2020/NLI/ACL2020_NLI.md) |
 
+2021
+
+- [ACL2021官方录用列表](https://www.aclweb.org/anthology/events/acl-2021/)
+- [ACL2019代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/ACL/2021/ACL2021.md)
+
 ### NAACL集合
+
 2019
 * [NAACL2019官方录用列表](https://www.aclweb.org/anthology/events/naacl-2019/)
 * [NAACL2019代码集合](https://github.com/yizhen20133868/NLP-Conferences-Code/blob/master/NAACL/2019/naacl-2019.md)
