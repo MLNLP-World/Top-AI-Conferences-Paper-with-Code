@@ -48,6 +48,5 @@ Thanks to the contributors:
 [ShiQi Zhou](https://github.com/fghccv);
 [Chenyang Ding](https://github.com/fghccv);
 [Jingguang Li](https://github.com/benmagnifico);
-
 [JiaQi Wang](https://github.com/kokolerk);
 
