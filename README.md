@@ -7,7 +7,7 @@ This repository is a collection of AI top conferences papers (e.g. ACL, EMNLP, N
 As we all know, it is very difficult for a paper to describe every implement detail within a limited number of pages. A work with open resource code offers us more information and makes it easier for us to reproduce and follow. We organized these papers for easy reference.
 
 ## Updates
-- **2022.1.9** update [COLING2021](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/COLING/COLING2020.md)
+- **2022.1.9** update [COLING2020](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/COLING/COLING2020.md)
 - **2022.1.4** update [ACL2021](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ACL/2021/ACL2021.md)
 - **2021.12.27** update [IJCAI2021](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/IJCAI/2021/IJCAI2021.md)
 - **2021.12.21** update IJCAI2019
