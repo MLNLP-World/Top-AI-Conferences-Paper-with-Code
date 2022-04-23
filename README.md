@@ -17,7 +17,7 @@ As we all know, it is very difficult for a paper to describe every implement det
 
 ## Call for Contributions
 
-Contributions are strongly welcomed, you are encouraged to submit issues and Pull Requests.
+Contributions are strongly welcomed and you are encouraged to submit issues and Pull Requests.
 
 ## Paper Reference
 | conferences |                                                              |                                                              |                                                              |      |      |      |      |
