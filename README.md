@@ -1,4 +1,29 @@
-# Top-AI-Conferences-Paper-with-Code
+
+
+<p align="center">
+<h1 align="center">  Top-AI-Conferences-Paper-with-Code</h1>
+</p>
+<p align="center">
+  	<a href="https://img.shields.io/badge/version-v0.1.0-blue">
+      <img alt="version" src="https://img.shields.io/badge/version-v0.1.0-blue?color=FF8000?color=009922" />
+    </a>
+  <a >
+       <img alt="Status-building" src="https://img.shields.io/badge/Status-building-blue" />
+  	</a>
+  <a >
+       <img alt="PRs-Welcome" src="https://img.shields.io/badge/PRs-Welcome-red" />
+  	</a>
+   	<a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/stargazers">
+       <img alt="stars" src="https://img.shields.io/github/stars/MLNLP-World/Top-AI-Conferences-Paper-with-Code" />
+  	</a>
+  	<a href="https://github.com/MLNLP-World/Paper_Writing_Tips/network/members">
+       <img alt="FORK" src="https://img.shields.io/github/forks/MLNLP-World/Top-AI-Conferences-Paper-with-Code?color=FF8000" />
+  	</a>
+    <a href="https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/MLNLP-World/Top-AI-Conferences-Paper-with-Code?color=0088ff"/>
+    </a>
+    <br />
+</p>
 
 ## Motivation
 
@@ -33,22 +58,13 @@ Contributions are strongly welcomed and you are encouraged to submit issues and 
 | ICML | [2019](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ICML/2019/ICML2019.md) | 2020                                                         | 2021                                                         | 2022 | 2023 | 2024 | 2025 |
 
 ## Contributor
+Thanks to the contributors:
+
+<a href="https://github.com/yizhen20133868"> <img src="pics/profile/LiboQin.png"  width="80" >  </a> <a href="https://github.com/awake020"> <img src="pics/profile/FuxuanWei.png"  width="80" >  </a> <a href="https://github.com/Timothyxxx"> <img src="pics/profile/TianbaoXie.png"  width="80" >  </a> <a href="https://github.com/liucongg"> <img src="pics/profile/CongLiu.png"  width="80" >  </a> <a href="https://github.com/yqy2001"> <img src="pics/profile/QiyingYu.png"  width="80" >  </a> <a href="https://github.com/Aleafy"> <img src="pics/profile/YeFang.png"  width="80" >  </a> <a href="https://github.com/ClarifiedfishLee"> <img src="pics/profile/JieyuLi.png"  width="80" >  </a> <a href="https://github.com/Atream"> <img src="pics/profile/BoxinZhang.png"  width="80" >  </a> <a href="https://github.com/EcolesYee"> <img src="pics/profile/RuishenYi.png"  width="80" >  </a> <a href="https://github.com/having-salt"> <img src="pics/profile/ZihanQin.png"  width="80" >  </a> <a href="https://github.com/huybery"> <img src="pics/profile/BinyuanHui.png"  width="80" >  </a> <a href="https://github.com/fghccv"> <img src="pics/profile/ShiqiZhou.png"  width="80" >  </a> <a href=""> <img src="pics/profile/ChenyangDing.png"  width="80" >  </a> <a href="https://github.com/benmagnifico"> <img src="pics/profile/JingguangLi.png"  width="80" >  </a> <a href="https://github.com/kokolerk"> <img src="pics/profile/JiaqiWang.png"  width="80" >  </a> <a href="https://github.com/cs-wangfeng"> <img src="pics/profile/FengWang.png"  width="80" >  </a> 
+
+
+
+## Acknowledgement
+
 Special thanks to [Prof. Wanxiang Che](http://ir.hit.edu.cn/~car/english.htm) for his guidance and support!
 
-Thanks to the contributors:
-[Libo Qin](https://github.com/yizhen20133868);
-[Fuxuan Wei](https://github.com/awake020);
-[Tianbao Xie](https://github.com/Timothyxxx);
-[Cong Liu](https://github.com/liucongg) ;
-[Qiying Yu](https://github.com/yqy2001);
-[Ye Fang](https://github.com/Aleafy);
-[JeYu Li](https://github.com/ClarifiedfishLee);
-[Boxin Zhang](https://github.com/Atream);
-[Ruishen Yi](https://github.com/EcolesYee);
-[Zihan Qin](https://github.com/having-salt);
-[Binyuan Hui](https://github.com/huybery);
-[ShiQi Zhou](https://github.com/fghccv);
-[Chenyang Ding](https://github.com/dcy-dhsunabzh);
-[Jingguang Li](https://github.com/benmagnifico);
-[JiaQi Wang](https://github.com/kokolerk);
-[Feng Wang](https://github.com/cs-wangfeng);
