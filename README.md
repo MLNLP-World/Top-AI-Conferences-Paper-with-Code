@@ -1,8 +1,10 @@
 
-
-<p align="center">
-<h1 align="center">  Top-AI-Conferences-Paper-with-Code</h1>
-</p>
+<div>
+  <h2 align="center">
+    <img src="https://cdn.jsdelivr.net/gh/LightChen233/blog-img/ai.png" width="30" />
+      Top-AI-Conferences-Paper-with-Code
+  </h2>
+</div>
 <p align="center">
   	<a href="https://img.shields.io/badge/version-v0.1.0-blue">
       <img alt="version" src="https://img.shields.io/badge/version-v0.1.0-blue?color=FF8000?color=009922" />
