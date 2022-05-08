@@ -1,8 +1,10 @@
 
-
-<p align="center">
-<h1 align="center">  Top-AI-Conferences-Paper-with-Code</h1>
-</p>
+<div>
+  <h2 align="center">
+    <img src="https://cdn.jsdelivr.net/gh/LightChen233/blog-img/ai.png" width="30" />
+      Top-AI-Conferences-Paper-with-Code
+  </h2>
+</div>
 <p align="center">
   	<a href="https://img.shields.io/badge/version-v0.1.0-blue">
       <img alt="version" src="https://img.shields.io/badge/version-v0.1.0-blue?color=FF8000?color=009922" />
@@ -25,13 +27,13 @@
     <br />
 </p>
 
-## Motivation
+## <img src="https://cdn.jsdelivr.net/gh/LightChen233/blog-img/motivation.png" width="25" /> Motivation
 
 This repository is a collection of AI top conferences papers (e.g. ACL, EMNLP, NAACL, COLING, AAAI, IJCAI, ICLR, NeurIPS, and ICML) with **open resource code**.
 
 As we all know, it is very difficult for a paper to describe every implement detail within a limited number of pages. A work with open resource code offers us more information and makes it easier for us to reproduce and follow. We organized these papers for easy reference.
 
-## Updates
+## <img src="https://cdn.jsdelivr.net/gh/LightChen233/blog-img/notes.png" width="25" /> Updates
 - **2022.4.28** update [EMNLP2021](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/EMNLP/2021/EMNLP2021.md)
 - **2022.4.19** update [ICML2019](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ICML/2019/ICML2019.md)
 - **2022.1.9** update [COLING2020](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/COLING/2020/COLING2020.md)
@@ -41,11 +43,11 @@ As we all know, it is very difficult for a paper to describe every implement det
 - **2021.12.17** update IJCAI2020
 - **2021.11.28** add AAAI 2019, AAAI 2020, AAAI2021
 
-## Call for Contributions
+## <img src="https://cdn.jsdelivr.net/gh/LightChen233/blog-img/intro.png" width="25" /> Call for Contributions
 
 Contributions are strongly welcomed and you are encouraged to submit issues and Pull Requests.
 
-## Paper List
+## <img src="https://cdn.jsdelivr.net/gh/LightChen233/blog-img/folders.png" width="25" /> Supported Conferences 
 | conferences |                                                              |                                                              |                                                              |      |      |      |      |
 | ---------- | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--: | :--: | :--: | :--: |
 | ACL        | [2019](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ACL/2019/ACL2019.md) | [2020](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ACL/2020/ACL2020.md) | [2021](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ACL/2021/ACL2021.md) | 2022 | 2023 | 2024 | 2025 |
@@ -58,14 +60,14 @@ Contributions are strongly welcomed and you are encouraged to submit issues and 
 | NeurIPS    | 2019                                                         | 2020                                                         | 2021                                                         | 2022 | 2023 | 2024 | 2025 |
 | ICML | [2019](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ICML/2019/ICML2019.md) | [2020](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ICML/2020/ICML2020.md) | 2021                                                         | 2022 | 2023 | 2024 | 2025 |
 
-## Contributor
+## <img src="https://cdn.jsdelivr.net/gh/LightChen233/blog-img/organizer.png" width="25" /> Contributor
 Thanks to the contributors:
 
 <a href="https://github.com/yizhen20133868"> <img src="pics/profile/LiboQin.png"  width="80" >  </a> <a href="https://github.com/awake020"> <img src="pics/profile/FuxuanWei.png"  width="80" >  </a> <a href="https://github.com/Timothyxxx"> <img src="pics/profile/TianbaoXie.png"  width="80" >  </a> <a href="https://github.com/liucongg"> <img src="pics/profile/CongLiu.png"  width="80" >  </a> <a href="https://github.com/yqy2001"> <img src="pics/profile/QiyingYu.png"  width="80" >  </a> <a href="https://github.com/Aleafy"> <img src="pics/profile/YeFang.png"  width="80" >  </a> <a href="https://github.com/ClarifiedfishLee"> <img src="pics/profile/JieyuLi.png"  width="80" >  </a> <a href="https://github.com/Atream"> <img src="pics/profile/BoxinZhang.png"  width="80" >  </a> <a href="https://github.com/EcolesYee"> <img src="pics/profile/RuishenYi.png"  width="80" >  </a> <a href="https://github.com/having-salt"> <img src="pics/profile/ZihanQin.png"  width="80" >  </a> <a href="https://github.com/huybery"> <img src="pics/profile/BinyuanHui.png"  width="80" >  </a> <a href="https://github.com/fghccv"> <img src="pics/profile/ShiqiZhou.png"  width="80" >  </a> <a href=""> <img src="pics/profile/ChenyangDing.png"  width="80" >  </a> <a href="https://github.com/benmagnifico"> <img src="pics/profile/JingguangLi.png"  width="80" >  </a> <a href="https://github.com/kokolerk"> <img src="pics/profile/JiaqiWang.png"  width="80" >  </a> <a href="https://github.com/cs-wangfeng"> <img src="pics/profile/FengWang.png"  width="80" >  </a> <a href="https://github.com/LightChen233"> <img src="pics/profile/QiguangChen.png"  width="80" >  </a><a href="https://github.com/s1530129650"> <img src="pics/profile/EnshengShi.png"  width="80" >  </a>
 
 
 
-## Acknowledgement
+## <img src="https://cdn.jsdelivr.net/gh/LightChen233/blog-img/heart.png" width="25" /> Acknowledgement
 
 Special thanks to [Prof. Wanxiang Che](http://ir.hit.edu.cn/~car/english.htm) for his guidance and support!
 
