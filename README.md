@@ -60,6 +60,10 @@ Contributions are strongly welcomed and you are encouraged to submit issues and 
 | NeurIPS    | 2019                                                         | 2020                                                         | 2021                                                         | 2022 | 2023 | 2024 | 2025 |
 | ICML | [2019](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ICML/2019/ICML2019.md) | [2020](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ICML/2020/ICML2020.md) | 2021                                                         | 2022 | 2023 | 2024 | 2025 |
 
+## <img src="https://cdn.jsdelivr.net/gh/LightChen233/blog-img/disclaimer2.png" width="25" /> Disclaimer
+
+Some results come from [DBLP](https://dblp.org/), [ACL](https://aclanthology.org/), [NIPS](https://papers.nips.cc/), [OpenReview](https://openreview.net/), if this violates your copyright, you can contact us at any time, we will delete it as soon as possible, thank you:)
+
 ## <img src="https://cdn.jsdelivr.net/gh/LightChen233/blog-img/organizer.png" width="25" /> Contributor
 Thanks to the contributors:
 
