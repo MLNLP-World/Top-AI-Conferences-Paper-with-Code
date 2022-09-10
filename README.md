@@ -63,7 +63,7 @@ Contributions are strongly welcomed and you are encouraged to submit issues and 
 
 ## <img src="https://cdn.jsdelivr.net/gh/LightChen233/blog-img/disclaimer2.png" width="25" /> Disclaimer
 
-Some results come from [DBLP](https://dblp.org/), [ACL](https://aclanthology.org/), [NIPS](https://papers.nips.cc/), [OpenReview](https://openreview.net/),  [paperwithcode](https://paperswithcode.com/) if this violates your copyright, you can contact us at any time, we will delete it as soon as possible, thank you:)
+Some results come from [DBLP](https://dblp.org/), [ACL](https://aclanthology.org/), [NIPS](https://papers.nips.cc/), [OpenReview](https://openreview.net/),  [paperwithcode](https://paperswithcode.com/), if this violates your copyright, you can contact us at any time, we will delete it as soon as possible, thank you:)
 
 ## <img src="https://cdn.jsdelivr.net/gh/LightChen233/blog-img/organizer.png" width="25" /> Contributor
 Thanks to the contributors:
