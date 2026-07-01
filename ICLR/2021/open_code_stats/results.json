@@ -1,0 +1,2461 @@
+{
+  "conference": "ICLR",
+  "year": 2021,
+  "source_kind": "github-markdown-list",
+  "official_conference_url": "https://iclr.cc/Conferences/2021",
+  "official_papers_url": "https://iclr.cc/virtual/2021/papers.html",
+  "source_repo_url": "https://github.com/yinizhilian/ICLR2025-Papers-with-Code/tree/main",
+  "source_url": "https://raw.githubusercontent.com/yinizhilian/ICLR2025-Papers-with-Code/main/ICLR2021-Papers-with-Code.md",
+  "total_papers_listed_with_code": 272,
+  "papers_with_code_or_community_links": 272,
+  "results": [
+    {
+      "title": "Robust Reinforcement Learning on State Observations with Learned Optimal Adversary",
+      "paper_url": "https://openreview.net/attachment?id=sCZbhBvqQaU&name=pdf",
+      "code_links": [
+        "https://github.com/huanzhang12/ATLA_robust_RL"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Modeling the Second Player in Distributionally Robust Optimization",
+      "paper_url": "https://openreview.net/attachment?id=ZDnzZrTqU9N&name=pdf",
+      "code_links": [
+        "https://github.com/pmichel31415/P-DRO"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "DEBERTA: DECODING-ENHANCED BERT WITH DISENTANGLED ATTENTION",
+      "paper_url": "https://openreview.net/attachment?id=XPZIaotutsD&name=pdf",
+      "code_links": [
+        "https://github.com/microsoft/DeBERTa"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Sparse encoding for more-interpretable feature-selecting representations in probabilistic matrix factorization",
+      "paper_url": "https://openreview.net/attachment?id=D_KeYoqCYC&name=pdf",
+      "code_links": [
+        "https://mederrata.com"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Neural networks with late-phase weights",
+      "paper_url": "https://openreview.net/attachment?id=C0qJUx5dxFb&name=pdf",
+      "code_links": [
+        "https://github.com/seijin-kobayashi/late-phase-weights"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "ResNet After All: Neural ODEs and Their Numerical Solution",
+      "paper_url": "https://openreview.net/attachment?id=HxzSxSxLOJZ&name=pdf",
+      "code_links": [
+        "https://github.com/boschresearch/numerics_independent_neural_odes"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Transformer protein language models are unsupervised structure learners",
+      "paper_url": "https://openreview.net/attachment?id=fylclEqgvgd&name=pdf",
+      "code_links": [
+        "https://github.com/facebookresearch/esm"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Mapping the Timescale Organization of Neural Language Models",
+      "paper_url": "https://openreview.net/attachment?id=J3OUycKwz-&name=pdf",
+      "code_links": [
+        "https://github.com/sherrychien/LSTM_timescales"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Differentiable Trust Region Layers for Deep Reinforcement Learning",
+      "paper_url": "https://openreview.net/attachment?id=qYZD-AO1Vn&name=pdf",
+      "code_links": [
+        "https://git.io/Jthb0"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Multiscale Score Matching for Out-of-Distribution Detection",
+      "paper_url": "https://openreview.net/attachment?id=xoHdgbQJohv&name=pdf",
+      "code_links": [
+        "https://github.com/ahsanMah/msma"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Learning Associative Inference Using Fast Weight Memory",
+      "paper_url": "https://openreview.net/attachment?id=TuK6agbdt27&name=pdf",
+      "code_links": [
+        "https://github.com/ischlag/Fast-Weight-Memory-public"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Hopfield Networks is All You Need",
+      "paper_url": "https://openreview.net/attachment?id=tL89RnzIiCd&name=pdf",
+      "code_links": [
+        "https://github.com/ml-jku/hopfield-layers"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Learning to Set Waypoints for Audio-Visual Navigation",
+      "paper_url": "https://openreview.net/attachment?id=cR91FAodFMe&name=pdf",
+      "code_links": [
+        "http://vision.cs.utexas.edu/projects/audio_visual_waypoints"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Variational Information Bottleneck for Effective Low-Resource Fine-Tuning",
+      "paper_url": "https://openreview.net/attachment?id=kvhzKz-_DMF&name=pdf",
+      "code_links": [
+        "https://github.com/rabeehk/vibert"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Seq2Tens: An Efficient Representation of Sequences by Low-Rank Tensor Projections",
+      "paper_url": "https://openreview.net/attachment?id=dx4b7lm8jMM&name=pdf",
+      "code_links": [
+        "https://github.com/tgcsaba/seq2tens"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Model-based micro-data reinforcement learning: what are the crucial model properties and which model to choose?",
+      "paper_url": "https://openreview.net/attachment?id=p5uylG94S68&name=pdf",
+      "code_links": [
+        "https://esource.bizenergyadvisor.com/article/manufacturing-facilities"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Colorization Transformer",
+      "paper_url": "https://openreview.net/attachment?id=5NA1PinlGFu&name=pdf",
+      "code_links": [
+        "https://github.com/google-research/google-research/tree/master/coltran"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Is Attention Better Than Matrix Decomposition?",
+      "paper_url": "https://openreview.net/attachment?id=1FvkSpWosOl&name=pdf",
+      "code_links": [
+        "https://github.com/Gsunshine/Enjoy-Hamburger"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Clairvoyance: A Pipeline Toolkit for Medical Time Series",
+      "paper_url": "https://openreview.net/attachment?id=xnC8YwKUE3k&name=pdf",
+      "code_links": [
+        "https://github.com/vanderschaarlab/clairvoyance"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing",
+      "paper_url": "https://openreview.net/attachment?id=kyaIeYj4zZ&name=pdf",
+      "code_links": [
+        "https://huggingface.co/Salesforce/grappa_large_jnt"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Characterizing signal propagation to close the performance gap in unnormalized ResNets",
+      "paper_url": "https://openreview.net/attachment?id=IX3Nnir2omJ&name=pdf",
+      "code_links": [
+        "http://dpmd.ai/nfnets"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Prototypical Contrastive Learning of Unsupervised Representations",
+      "paper_url": "https://openreview.net/attachment?id=KmykpuSrjcq&name=pdf",
+      "code_links": [
+        "https://github.com/salesforce/PCL"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Boost then Convolve: Gradient Boosting Meets Graph Neural Networks",
+      "paper_url": "https://openreview.net/attachment?id=ebS5NUfoMKL&name=pdf",
+      "code_links": [
+        "https://github.com/nd7141/bgnn"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "On the Stability of Fine-tuning BERT: Misconceptions, Explanations, and Strong Baselines",
+      "paper_url": "https://openreview.net/attachment?id=nzpLWnVAyah&name=pdf",
+      "code_links": [
+        "https://github.com/uds-lsv/bert-stable-fine-tuning"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "End-to-End Egospheric Spatial Memory",
+      "paper_url": "https://openreview.net/attachment?id=rRFIni1CYmy&name=pdf",
+      "code_links": [
+        "https://github.com/ivy-dl/memory"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Linear Mode Connectivity in Multitask and Continual Learning",
+      "paper_url": "https://openreview.net/attachment?id=Fmg_fQYUejf&name=pdf",
+      "code_links": [
+        "https://github.com/imirzadeh/MC-SGD"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Disentangling 3D Prototypical Networks for Few-Shot Concept Learning",
+      "paper_url": "https://openreview.net/attachment?id=-Lr-u0b42he&name=pdf",
+      "code_links": [
+        "https://mihirp1998.github.io/project_pages/d3dp/"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Learning Energy-Based Models by Diffusion Recovery Likelihood",
+      "paper_url": "https://openreview.net/attachment?id=v_1Soh8QUNc&name=pdf",
+      "code_links": [
+        "https://github.com/ruiqigao/recovery_likelihood"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Training GANs with Stronger Augmentations via Contrastive Discriminator",
+      "paper_url": "https://openreview.net/attachment?id=eo6U4CAwVmg&name=pdf",
+      "code_links": [
+        "https://github.com/jh-jeong/ContraD"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "On Graph Neural Networks versus Graph-Augmented MLPs",
+      "paper_url": "https://openreview.net/attachment?id=tiqI7w64JG2&name=pdf",
+      "code_links": [
+        "https://github.com/leichen2018/GNN_vs_GAMLP"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Adaptive Procedural Task Generation for Hard-Exploration Problems",
+      "paper_url": "https://openreview.net/attachment?id=8xLkv08d70T&name=pdf",
+      "code_links": [
+        "https://kuanfang.github.io/apt-gen/"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "DialoGraph: Incorporating Interpretable Strategy-Graph Networks into Negotiation Dialogues",
+      "paper_url": "https://openreview.net/attachment?id=kDnal_bbb-E&name=pdf",
+      "code_links": [
+        "https://github.com/rishabhjoshi/DialoGraph_ICLR21"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Solving Compositional Reinforcement Learning Problems via Task Reduction",
+      "paper_url": "https://openreview.net/attachment?id=9SS69KwomAM&name=pdf",
+      "code_links": [
+        "https://sites.google.com/view/sir-compositional"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Discovering Diverse Multi-Agent Strategic Behavior via Reward Randomization",
+      "paper_url": "https://openreview.net/attachment?id=lvRTC669EY_&name=pdf",
+      "code_links": [
+        "https://sites.google.com/view/staghuntrpg"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "WaNet - Imperceptible Warping-based Backdoor Attack",
+      "paper_url": "https://openreview.net/attachment?id=eEn8KTtJOx&name=pdf",
+      "code_links": [
+        "https://github.com/VinAIResearch/Warping-based_Backdoor_Attack-release"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Contextual Transformation Networks for Online Continual Learning",
+      "paper_url": "https://openreview.net/attachment?id=zx_uX-BO7CH&name=pdf",
+      "code_links": [
+        "https://github.com/phquang/Contextual-Transformation-Network"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Reset-Free Lifelong Learning with Skill-Space Planning",
+      "paper_url": "https://openreview.net/attachment?id=HIGSa_3kOx3&name=pdf",
+      "code_links": [
+        "https://sites.google.com/berkeley.edu/reset-free-lifelong-learning"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Revisiting Locally Supervised Learning: an Alternative to End-to-end Training",
+      "paper_url": "https://openreview.net/attachment?id=fAbkE6ant2&name=pdf",
+      "code_links": [
+        "https://github.com/blackfeather-wang/InfoPro-Pytorch"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "CaPC Learning: Confidential and Private Collaborative Learning",
+      "paper_url": "https://openreview.net/attachment?id=h2EbJ4_wMVq&name=pdf",
+      "code_links": [
+        "https://github.com/cleverhans-lab/capc-iclr"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Efficient Empowerment Estimation for Unsupervised Stabilization",
+      "paper_url": "https://openreview.net/attachment?id=u2YNJPcQlwq&name=pdf",
+      "code_links": [
+        "https://sites.google.com/view/latent-gce"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "SSD: A Unified Framework for Self-Supervised Outlier Detection",
+      "paper_url": "https://openreview.net/attachment?id=v5gjXpmR8J&name=pdf",
+      "code_links": [
+        "https://github.com/inspire-group/SSD"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Robust Overfitting may be mitigated by properly learned smoothening",
+      "paper_url": "https://openreview.net/attachment?id=qZzy5urZw9&name=pdf",
+      "code_links": [
+        "https://github.com/VITA-Group/Alleviate-Robust-Overfitting"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Inductive Representation Learning in Temporal Networks via Causal Anonymous Walks",
+      "paper_url": "https://openreview.net/attachment?id=KYPz4YsCPj&name=pdf",
+      "code_links": [
+        "http://snap.stanford.edu/caw/"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Property Controllable Variational Autoencoder via Invertible Mutual Dependence",
+      "paper_url": "https://openreview.net/attachment?id=tYxG_OMs9WE&name=pdf",
+      "code_links": [
+        "https://github.com/xguo7/PCVAE"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Learning Task Decomposition with Ordered Memory Policy Network",
+      "paper_url": "https://openreview.net/attachment?id=vcopnwZ7bC&name=pdf",
+      "code_links": [
+        "https://ordered-memory-rl.github.io/"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Conditional Generative Modeling via Learning the Latent Space",
+      "paper_url": "https://openreview.net/attachment?id=VJnrYcnRc6&name=pdf",
+      "code_links": [
+        "https://github.com/samgregoost/cGML"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Grounding Physical Concepts of Objects and Events Through Dynamic Visual Reasoning",
+      "paper_url": "https://openreview.net/attachment?id=bhCDO_cEGCz&name=pdf",
+      "code_links": [
+        "http://dcl.csail.mit.edu"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "gradSim: Differentiable simulation for system identification and visuomotor control",
+      "paper_url": "https://openreview.net/attachment?id=c_E8kFWfhp0&name=pdf",
+      "code_links": [
+        "https://gradsim.github.io"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Decentralized Attribution of Generative Models",
+      "paper_url": "https://openreview.net/attachment?id=_kxlwvhOodK&name=pdf",
+      "code_links": [
+        "https://github.com/ASU-Active-Perception-Group/decentralized_attribution_of_generative_models"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Extreme Memorization via Scale of Initialization",
+      "paper_url": "https://openreview.net/attachment?id=Z4R1vxLbRLO&name=pdf",
+      "code_links": [
+        "https://github.com/google-research/google-research/tree/master/extreme_memorization"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "GANs Can Play Lottery Tickets Too",
+      "paper_url": "https://openreview.net/attachment?id=1AoMhc_9jER&name=pdf",
+      "code_links": [
+        "https://github.com/VITA-Group/GAN-LTH"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Learning to Deceive Knowledge Graph Augmented Models via Targeted Perturbation",
+      "paper_url": "https://openreview.net/attachment?id=b7g3_ZMHnT0&name=pdf",
+      "code_links": [
+        "https://github.com/INK-USC/deceive-KG-models"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Into the Wild with AudioScope: Unsupervised Audio-Visual Separation of On-Screen Sounds",
+      "paper_url": "https://openreview.net/attachment?id=MDsQkFP1Aw&name=pdf",
+      "code_links": [
+        "https://audioscope.github.io"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Layer-adaptive Sparsity for the Magnitude-based Pruning",
+      "paper_url": "https://openreview.net/attachment?id=H6ATjJ0TKdf&name=pdf",
+      "code_links": [
+        "https://github.com/jaeho-lee/layer-adaptive-sparsity"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Understanding and Improving Encoder Layer Fusion in Sequence-to-Sequence Learning",
+      "paper_url": "https://openreview.net/attachment?id=n1HD8M6WGn&name=pdf",
+      "code_links": [
+        "https://github.com/SunbowLiu/SurfaceFusion"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "CompOFA – Compound Once-For-All Networks for Faster Multi-Platform Deployment",
+      "paper_url": "https://openreview.net/attachment?id=IgIk8RRT-Z&name=pdf",
+      "code_links": [
+        "https://github.com/gatech-sysml/CompOFA"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Are wider nets better given the same number of parameters?",
+      "paper_url": "https://openreview.net/attachment?id=_zx8Oka09eF&name=pdf",
+      "code_links": [
+        "https://github.com/google-research/wide-sparse-nets"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "SaliencyMix: A Saliency Guided Data Augmentation Strategy for Better Regularization",
+      "paper_url": "https://openreview.net/attachment?id=-M0QkvBGTTq&name=pdf",
+      "code_links": [
+        "https://github.com/SaliencyMix/SaliencyMix"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "PolarNet: Learning to Optimize Polar Keypoints for Keypoint Based Object Detection",
+      "paper_url": "https://openreview.net/attachment?id=TYXs_y84xRj&name=pdf",
+      "code_links": [
+        "https://github.com/XiongweiWu/PolarNetV1"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Unsupervised Representation Learning for Time Series with Temporal Neighborhood Coding",
+      "paper_url": "https://openreview.net/attachment?id=8qDwejCuCN&name=pdf",
+      "code_links": [
+        "http://www.cs.toronto.edu/~stonekaboni/"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective",
+      "paper_url": "https://openreview.net/attachment?id=Cnon5ezMHtu&name=pdf",
+      "code_links": [
+        "https://github.com/VITA-Group/TENAS"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Contrastive Syn-to-Real Generalization",
+      "paper_url": "https://openreview.net/attachment?id=F8whUO8HNbP&name=pdf",
+      "code_links": [
+        "https://github.com/NVlabs/CSG"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Pre-training Text-to-Text Transformers for Concept-centric Common Sense",
+      "paper_url": "https://openreview.net/attachment?id=3k20LAiHYL2&name=pdf",
+      "code_links": [
+        "https://github.com/INK-USC/CALM"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Benchmarks for Deep Off-Policy Evaluation",
+      "paper_url": "https://openreview.net/attachment?id=kWSeGEeHvF8&name=pdf",
+      "code_links": [
+        "https://github.com/google-research/deep_ope"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Learning Long-term Visual Dynamics with Region Proposal Interaction Networks",
+      "paper_url": "https://openreview.net/attachment?id=_X_4Akcd8Re&name=pdf",
+      "code_links": [
+        "https://haozhiqi.github.io/RPIN"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "IsarStep: a Benchmark for High-level Mathematical Reasoning",
+      "paper_url": "https://openreview.net/attachment?id=Pzj6fzU6wkj&name=pdf",
+      "code_links": [
+        "https://github.com/Wenda302/IsarStep"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Simple Spectral Graph Convolution",
+      "paper_url": "https://openreview.net/attachment?id=CYO5T-YjWZV&name=pdf",
+      "code_links": [
+        "https://github.com/allenhaozhu/SSGC"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Beyond Categorical Label Representations for Image Classification",
+      "paper_url": "https://openreview.net/attachment?id=MyHwDabUHZm&name=pdf",
+      "code_links": [
+        "https://www.creativemachineslab.com/label-representation.html"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Towards Robust Neural Networks via Close-loop Control",
+      "paper_url": "https://openreview.net/attachment?id=2AL06y9cDE-&name=pdf",
+      "code_links": [
+        "https://github.com/zhuotongchen/Towards-Robust-Neural-Networks-via-Close-loop-Control.git"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "On Fast Adversarial Robustness Adaptation in Model-Agnostic Meta-Learning",
+      "paper_url": "https://openreview.net/attachment?id=o81ZyBCojoA&name=pdf",
+      "code_links": [
+        "https://github.com/wangren09/MetaAdv"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Understanding the failure modes of out-of-distribution generalization",
+      "paper_url": "https://openreview.net/attachment?id=fSTD6NFIW_b&name=pdf",
+      "code_links": [
+        "https://github.com/google-research/OOD-failures"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Reinforcement Learning with Random Delays",
+      "paper_url": "https://openreview.net/attachment?id=QFYnKlBJYR&name=pdf",
+      "code_links": [
+        "https://github.com/rmst/rlrd"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Faster Binary Embeddings for Preserving Euclidean Distances",
+      "paper_url": "https://openreview.net/attachment?id=YCXrx6rRCXO&name=pdf",
+      "code_links": [
+        "https://github.com/jayzhang0727/Faster-Binary-Embeddings-for-Preserving-Euclidean-Distances.git"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Scalable Transfer Learning with Expert Models",
+      "paper_url": "https://openreview.net/attachment?id=23ZjUGpjcc&name=pdf",
+      "code_links": [
+        "https://pytorch.org/hub/"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Signatory: differentiable computations of the signature and logsignature transforms, on both CPU and GPU",
+      "paper_url": "https://openreview.net/attachment?id=lqU2cs3Zca&name=pdf",
+      "code_links": [
+        "https://github.com/patrick-kidger/signatory"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Deep Partition Aggregation: Provable Defenses against General Poisoning Attacks",
+      "paper_url": "https://openreview.net/attachment?id=YUGG2tFuPM&name=pdf",
+      "code_links": [
+        "https://github.com/alevine0/DPA"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "C-Learning: Horizon-Aware Cumulative Accessibility Estimation",
+      "paper_url": "https://openreview.net/attachment?id=W3Wf_wKmqm9&name=pdf",
+      "code_links": [
+        "https://github.com/layer6ai-labs/CAE"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Decoupling Global and Local Representations via Invertible Generative Flows",
+      "paper_url": "https://openreview.net/attachment?id=iWLByfvUhN&name=pdf",
+      "code_links": [
+        "https://github.com/XuezheMax/wolf"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Viewmaker Networks: Learning Views for Unsupervised Representation Learning",
+      "paper_url": "https://openreview.net/attachment?id=enoVQWLsfyL&name=pdf",
+      "code_links": [
+        "https://github.com/alextamkin/viewmaker"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Long Live the Lottery: The Existence of Winning Tickets in Lifelong Learning",
+      "paper_url": "https://openreview.net/attachment?id=LXMSvPmsm0g&name=pdf",
+      "code_links": [
+        "https://github.com/VITA-Group/Lifelong-Learning-LTH"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Neural representation and generation for RNA secondary structures",
+      "paper_url": "https://openreview.net/attachment?id=snOgiCYZgJ7&name=pdf",
+      "code_links": [
+        "https://mila.quebec/en/ai-society/exascale-search-of-molecules"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Learning A Minimax Optimizer: A Pilot Study",
+      "paper_url": "https://openreview.net/attachment?id=nkIDwI6oO4_&name=pdf",
+      "code_links": [
+        "https://github.com/VITA-Group/L2O-Minimax"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Fuzzy Tiling Activations: A Simple Approach to Learning Sparse Representations Online",
+      "paper_url": "https://openreview.net/attachment?id=zElset1Klrp&name=pdf",
+      "code_links": [
+        "https://github.com/yannickycpan/reproduceRL.git"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Calibration tests beyond classification",
+      "paper_url": "https://openreview.net/attachment?id=-bxf89v3Nx&name=pdf",
+      "code_links": [
+        "https://github.com/devmotion/Calibration_ICLR2021"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Class Normalization for (Continual)? Generalized Zero-Shot Learning",
+      "paper_url": "https://openreview.net/attachment?id=7pgFL2Dkyyy&name=pdf",
+      "code_links": [
+        "https://github.com/universome/class-norm"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "UMEC: Unified model and embedding compression for efficient recommendation systems",
+      "paper_url": "https://openreview.net/attachment?id=BM---bH_RSh&name=pdf",
+      "code_links": [
+        "https://github.com/VITA-Group/UMEC"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "No MCMC for me: Amortized sampling for fast and stable training of energy-based models",
+      "paper_url": "https://openreview.net/attachment?id=ixpSxO9flk3&name=pdf",
+      "code_links": [
+        "https://github.com/wgrathwohl/VERA"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Learning and Evaluating Representations for Deep One-Class Classification",
+      "paper_url": "https://openreview.net/attachment?id=HCSgyPUfeDj&name=pdf",
+      "code_links": [
+        "https://github.com/google-research/deep_representation_one_class"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "InfoBERT: Improving Robustness of Language Models from An Information Theoretic Perspective",
+      "paper_url": "https://openreview.net/attachment?id=hpH98mK5Puk&name=pdf",
+      "code_links": [
+        "https://github.com/AI-secure/InfoBERT"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "CopulaGNN: Towards Integrating Representational and Correlational Roles of Graphs in Graph Neural Networks",
+      "paper_url": "https://openreview.net/attachment?id=XI-OJ5yyse&name=pdf",
+      "code_links": [
+        "https://github.com/jiaqima/CopulaGNN"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Using latent space regression to analyze and leverage compositionality in GANs",
+      "paper_url": "https://openreview.net/attachment?id=sjuuTm4vj0&name=pdf",
+      "code_links": [
+        "https://chail.github.io/latent-composition/"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Zero-Cost Proxies for Lightweight NAS",
+      "paper_url": "https://openreview.net/attachment?id=0cmMMy8J5q&name=pdf",
+      "code_links": [
+        "https://github.com/mohsaied/zero-cost-nas"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "IOT: Instance-wise Layer Reordering for Transformer Structures",
+      "paper_url": "https://openreview.net/attachment?id=ipUPfYxWZvM&name=pdf",
+      "code_links": [
+        "https://github.com/instance-wise-ordered-transformer/IOT"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "BREEDS: Benchmarks for Subpopulation Shift",
+      "paper_url": "https://openreview.net/attachment?id=mQPBmvyAuk&name=pdf",
+      "code_links": [
+        "https://github.com/MadryLab/BREEDS-Benchmarks"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Federated Learning via Posterior Averaging: A New Perspective and Practical Algorithms",
+      "paper_url": "https://openreview.net/attachment?id=GFsU8a0sGB&name=pdf",
+      "code_links": [
+        "http://maruan.alshedivat.com"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "On the Impossibility of Global Convergence in Multi-Loss Optimization",
+      "paper_url": "https://openreview.net/attachment?id=NQbnPjPYaG6&name=pdf",
+      "code_links": [
+        "https://aletcher.github.io"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Spatial Dependency Networks: Neural Layers for Improved Generative Image Modeling",
+      "paper_url": "https://openreview.net/attachment?id=I4c4K9vBNny&name=pdf",
+      "code_links": [
+        "https://github.com/djordjemila/sdn"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Interpretable Neural Architecture Search via Bayesian Optimisation with Weisfeiler-Lehman Kernels",
+      "paper_url": "https://openreview.net/attachment?id=j9Rv7qdXjd&name=pdf",
+      "code_links": [
+        "https://github.com/xingchenwan/nasbowl"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "ChipNet: Budget-Aware Pruning with Heaviside Continuous Approximations",
+      "paper_url": "https://openreview.net/attachment?id=xCxXwTzx4L1&name=pdf",
+      "code_links": [
+        "https://github.com/transmuteAI/ChipNet"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "AdaSpeech: Adaptive Text to Speech for Custom Voice",
+      "paper_url": "https://openreview.net/attachment?id=Drynvt7gg4L&name=pdf",
+      "code_links": [
+        "https://speechresearch.github.io/adaspeech/"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Learning Safe Multi-agent Control with Decentralized Neural Barrier Certificates",
+      "paper_url": "https://openreview.net/attachment?id=P6_q1BRxY8Q&name=pdf",
+      "code_links": [
+        "https://realm.mit.edu/blog/learning-safe-multi-agent-control-decentralized-neural-barrier-certificates"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Progressive Skeletonization: Trimming more fat from a network at initialization",
+      "paper_url": "https://openreview.net/attachment?id=9GsFOUyUPi&name=pdf",
+      "code_links": [
+        "https://www.europe.naverlabs.com"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Estimating and Evaluating Regression Predictive Uncertainty in Deep Object Detectors",
+      "paper_url": "https://openreview.net/attachment?id=YLewtnvKgR7&name=pdf",
+      "code_links": [
+        "https://github.com/asharakeh/probdet.git"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Learnable Embedding sizes for Recommender Systems",
+      "paper_url": "https://openreview.net/attachment?id=vQzcqQWIS0q&name=pdf",
+      "code_links": [
+        "https://github.com/ssui-liu/learnable-embed-sizes-for-RecSys"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Learning Neural Generative Dynamics for Molecular Conformation Generation",
+      "paper_url": "https://openreview.net/attachment?id=pAbm1qfheGk&name=pdf",
+      "code_links": [
+        "https://github.com/DeepGraphLearning/CGCF-ConfGen"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Ask Your Humans: Using Human Instructions to Improve Generalization in Reinforcement Learning",
+      "paper_url": "https://openreview.net/attachment?id=Y87Ri-GNHYu&name=pdf",
+      "code_links": [
+        "https://github.com/valeriechen/ask-your-humans"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "FastSpeech 2: Fast and High-Quality End-to-End Text to Speech",
+      "paper_url": "https://openreview.net/attachment?id=piLPYqxtWuA&name=pdf",
+      "code_links": [
+        "https://speechresearch.github.io/fastspeech2/"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Revisiting Hierarchical Approach for Persistent Long-Term Video Prediction",
+      "paper_url": "https://openreview.net/attachment?id=3RLN4EPMdYd&name=pdf",
+      "code_links": [
+        "https://1konny.github.io/HVP/"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Taming GANs with Lookahead-Minmax",
+      "paper_url": "https://openreview.net/attachment?id=ZW0yXJyNmoG&name=pdf",
+      "code_links": [
+        "https://github.com/Chavdarova/LAGAN-Lookahead_Minimax"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "QPLEX: Duplex Dueling Multi-Agent Q-Learning",
+      "paper_url": "https://openreview.net/attachment?id=Rcmk0xxIQV&name=pdf",
+      "code_links": [
+        "https://sites.google.com/view/qplex-marl/"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Acting in Delayed Environments with Non-Stationary Markov Policies",
+      "paper_url": "https://openreview.net/attachment?id=j1RMMKeP2gR&name=pdf",
+      "code_links": [
+        "https://github.com/galdl/rl_delay_basic.git"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Prototypical Representation Learning for Relation Extraction",
+      "paper_url": "https://openreview.net/attachment?id=aCgLmfhIy_f&name=pdf",
+      "code_links": [
+        "http://ruizhang.info"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Deployment-Efficient Reinforcement Learning via Model-Based Offline Optimization",
+      "paper_url": "https://openreview.net/attachment?id=3hGNqpI4WS&name=pdf",
+      "code_links": [
+        "https://github.com/matsuolab/BREMEN"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Efficient Conformal Prediction via Cascaded Inference with Expanded Admission",
+      "paper_url": "https://openreview.net/attachment?id=tnSo6VRLmT&name=pdf",
+      "code_links": [
+        "https://github.com/ajfisch/conformal-cascades"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Uncertainty Estimation and Calibration with Finite-State Probabilistic RNNs",
+      "paper_url": "https://openreview.net/attachment?id=9EKHN1jOlA&name=pdf",
+      "code_links": [
+        "https://github.com/nec-research/st_tau"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Meta-learning Symmetries by Reparameterization",
+      "paper_url": "https://openreview.net/attachment?id=-QxT4mJdijq&name=pdf",
+      "code_links": [
+        "https://github.com/AllanYangZhou/metalearning-symmetries"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "When Optimizing  $f$-Divergence is Robust with Label Noise",
+      "paper_url": "https://openreview.net/attachment?id=WesiCoRVQ15&name=pdf",
+      "code_links": [
+        "https://github.com/UCSC-REAL/Robust-f-divergence-measures"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Answering Complex Open-Domain Questions with Multi-Hop Dense Retrieval",
+      "paper_url": "https://openreview.net/attachment?id=EMHoBG0avc1&name=pdf",
+      "code_links": [
+        "https://github.com/facebookresearch/multihop_dense_retrieval"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "What Makes Instance Discrimination Good for Transfer Learning?",
+      "paper_url": "https://openreview.net/attachment?id=tC6iW2UUbJf&name=pdf",
+      "code_links": [
+        "http://nxzhao.com/projects/good_transfer/"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "MODALS: Modality-agnostic Automated Data Augmentation in the Latent Space",
+      "paper_url": "https://openreview.net/attachment?id=XjYgR6gbCEc&name=pdf",
+      "code_links": [
+        "https://github.com/jamestszhim/modals"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning",
+      "paper_url": "https://openreview.net/attachment?id=0IOX0YcCdTn&name=pdf",
+      "code_links": [
+        "https://ALFWorld.github.io"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Latent Skill Planning for Exploration and Transfer",
+      "paper_url": "https://openreview.net/attachment?id=jXe91kq3jAq&name=pdf",
+      "code_links": [
+        "https://sites.google.com/view/latent-skill-planning/"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Combining Ensembles and Data Augmentation Can Harm Your Calibration",
+      "paper_url": "https://openreview.net/attachment?id=g11CZSghXyY&name=pdf",
+      "code_links": [
+        "https://github.com/google/edward2/tree/master/experimental/marginalization_mixup"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "AdaGCN: Adaboosting Graph Convolutional Networks into Deep Models",
+      "paper_url": "https://openreview.net/attachment?id=QkRbdiiEjM&name=pdf",
+      "code_links": [
+        "https://github.com/datake/AdaGCN"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "CoCo: Controllable Counterfactuals for Evaluating Dialogue State Trackers",
+      "paper_url": "https://openreview.net/attachment?id=eom0IUrF__F&name=pdf",
+      "code_links": [
+        "https://github.com/salesforce/coco-dst"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Loss Function Discovery for Object Detection via Convergence-Simulation Driven Search",
+      "paper_url": "https://openreview.net/attachment?id=5jzlpHvvRk&name=pdf",
+      "code_links": [
+        "https://github.com/PerdonLiu/CSE-Autoloss"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Generating Adversarial Computer Programs using Optimized Obfuscations",
+      "paper_url": "https://openreview.net/attachment?id=PH5PH9ZO_4&name=pdf",
+      "code_links": [
+        "https://github.com/ALFA-group/adversarial-code-generation"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Anchor & Transform: Learning Sparse Embeddings for Large Vocabularies",
+      "paper_url": "https://openreview.net/attachment?id=Vd7lCMvtLqg&name=pdf",
+      "code_links": [
+        "https://github.com/pliang279/sparse_discrete"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Fast convergence of stochastic subgradient method under interpolation",
+      "paper_url": "https://openreview.net/attachment?id=w2mYg3d0eot&name=pdf",
+      "code_links": [
+        "http://yann.lecun.com/exdb/mnist/"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Task-Agnostic Morphology Evolution",
+      "paper_url": "https://openreview.net/attachment?id=CGQ6ENUMX6&name=pdf",
+      "code_links": [
+        "https://sites.google.com/view/task-agnostic-evolution"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "WaveGrad: Estimating Gradients for Waveform Generation",
+      "paper_url": "https://openreview.net/attachment?id=NsMLjcFaO8O&name=pdf",
+      "code_links": [
+        "https://wavegrad.github.io/"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "C-Learning: Learning to Achieve Goals via Recursive Classification",
+      "paper_url": "https://openreview.net/attachment?id=tc5qisoB-C&name=pdf",
+      "code_links": [
+        "https://ben-eysenbach.github.io/c_learning/"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Revisiting Few-sample BERT Fine-tuning",
+      "paper_url": "https://openreview.net/attachment?id=cO1IH43yUF&name=pdf",
+      "code_links": [
+        "https://github.com/zihangdai/xlnet/issues/96"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Incorporating Symmetry into Deep Dynamics Models for Improved Generalization",
+      "paper_url": "https://openreview.net/attachment?id=wta_8Hx2KD&name=pdf",
+      "code_links": [
+        "https://github.com/Rose-STL-Lab/Equivariant-Net"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Contrastive Learning with Hard Negative Samples",
+      "paper_url": "https://openreview.net/attachment?id=CR1XOQ0UTh-&name=pdf",
+      "code_links": [
+        "https://github.com/joshr17/HCL"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Scaling Symbolic Methods using Gradients for Neural Model Explanation",
+      "paper_url": "https://openreview.net/attachment?id=V5j-jdoDDP&name=pdf",
+      "code_links": [
+        "https://github.com/google-research/google-research/tree/master/smug_saliency"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Risk-Averse Offline Reinforcement Learning",
+      "paper_url": "https://openreview.net/attachment?id=TBIzh9b5eaz&name=pdf",
+      "code_links": [
+        "https://github.com/nuria95/O-RAAC"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Fair Mixup: Fairness via Interpolation",
+      "paper_url": "https://openreview.net/attachment?id=DNl5s5BXeBn&name=pdf",
+      "code_links": [
+        "https://github.com/chingyaoc/fair-mixup"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis",
+      "paper_url": "https://openreview.net/attachment?id=Ig53hpHxS4&name=pdf",
+      "code_links": [
+        "https://github.com/NVIDIA/flowtron"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Learning with Instance-Dependent Label Noise: A Sample Sieve Approach",
+      "paper_url": "https://openreview.net/attachment?id=2VXyy9mIyU3&name=pdf",
+      "code_links": [
+        "https://github.com/UCSC-REAL/cores"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "R-GAP: Recursive Gradient Attack on Privacy",
+      "paper_url": "https://openreview.net/attachment?id=RSU17UoKfJF&name=pdf",
+      "code_links": [
+        "https://github.com/JunyiZhu-AI/R-GAP"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Unsupervised Audiovisual Synthesis via Exemplar Autoencoders",
+      "paper_url": "https://openreview.net/attachment?id=43VKWxg_Sqr&name=pdf",
+      "code_links": [
+        "https://dunbar12138.github.io/projectpage/Audiovisual/"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Exploring Balanced Feature Spaces for Representation Learning",
+      "paper_url": "https://openreview.net/attachment?id=OqtLIabPTit&name=pdf",
+      "code_links": [
+        "https://github.com/bingykang/BalFeat"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "DOP: Off-Policy Multi-Agent Decomposed Policy Gradients",
+      "paper_url": "https://openreview.net/attachment?id=6FqKiVAdI3Y&name=pdf",
+      "code_links": [
+        "https://sites.google.com/view/dop-mapg/"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "On the Bottleneck of Graph Neural Networks and its Practical Implications",
+      "paper_url": "https://openreview.net/attachment?id=i80OPhOCVH2&name=pdf",
+      "code_links": [
+        "https://github.com/tech-srl/bottleneck/"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "NBDT: Neural-Backed Decision Tree",
+      "paper_url": "https://openreview.net/attachment?id=mCLVeEpplNE&name=pdf",
+      "code_links": [
+        "https://github.com/alvinwan/neural-backed-decision-trees"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Shapley Explanation Networks",
+      "paper_url": "https://openreview.net/attachment?id=vsU0efpivw&name=pdf",
+      "code_links": [
+        "https://github.com/inouye-lab/ShapleyExplanationNetworks"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Diverse Video Generation using a Gaussian Process Trigger",
+      "paper_url": "https://openreview.net/attachment?id=Qm7R_SdqTpT&name=pdf",
+      "code_links": [
+        "http://www.cs.umd.edu/~gauravsh/dvg.html"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Auto Seg-Loss: Searching Metric Surrogates for Semantic Segmentation",
+      "paper_url": "https://openreview.net/attachment?id=MJAqnaC2vO1&name=pdf",
+      "code_links": [
+        "https://github.com/fundamentalvision/Auto-Seg-Loss"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "NeMo: Neural Mesh Models of Contrastive Features for Robust 3D Pose Estimation",
+      "paper_url": "https://openreview.net/attachment?id=pmj131uIL9H&name=pdf",
+      "code_links": [
+        "https://github.com/Angtian/NeMo"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "MiCE: Mixture of Contrastive Experts for Unsupervised Image Clustering",
+      "paper_url": "https://openreview.net/attachment?id=gV3wdEOGy_V&name=pdf",
+      "code_links": [
+        "https://github.com/TsungWeiTsai/MiCE"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Stochastic Security: Adversarial Defense Using Long-Run Dynamics of Energy-Based Models",
+      "paper_url": "https://openreview.net/attachment?id=gwFTuzxJW0&name=pdf",
+      "code_links": [
+        "https://github.com/point0bar1/ebm-defense"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Rank the Episodes: A Simple Approach for Exploration in Procedurally-Generated Environments",
+      "paper_url": "https://openreview.net/attachment?id=MtEE0CktZht&name=pdf",
+      "code_links": [
+        "https://github.com/daochenzha/rapid"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Denoising Diffusion Implicit Models",
+      "paper_url": "https://openreview.net/attachment?id=St1giarCHLP&name=pdf",
+      "code_links": [
+        "https://github.com/ajbrock/BigGAN-PyTorch"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "BERTology Meets Biology: Interpreting Attention in Protein Language Models",
+      "paper_url": "https://openreview.net/attachment?id=YWtLZvLmud7&name=pdf",
+      "code_links": [
+        "https://github.com/salesforce/provis"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Trajectory Prediction using Equivariant Continuous Convolution",
+      "paper_url": "https://openreview.net/attachment?id=J8_GttYLFgr&name=pdf",
+      "code_links": [
+        "https://github.com/Rose-STL-Lab/ECCO"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Heteroskedastic and Imbalanced Deep Learning with Adaptive Regularization",
+      "paper_url": "https://openreview.net/attachment?id=mEdwVCRJuX4&name=pdf",
+      "code_links": [
+        "https://github.com/kaidic/HAR"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Robust and Generalizable Visual Representation Learning via Random Convolutions",
+      "paper_url": "https://openreview.net/attachment?id=BVSM0x3EDK6&name=pdf",
+      "code_links": [
+        "https://github.com/wildphoton/RandConv"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "VA-RED$^2$: Video Adaptive Redundancy Reduction",
+      "paper_url": "https://openreview.net/attachment?id=g21u6nlbPzn&name=pdf",
+      "code_links": [
+        "http://people.csail.mit.edu/bpan/va-red/"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Bowtie Networks: Generative Modeling for Joint Few-Shot Recognition and Novel-View Synthesis",
+      "paper_url": "https://openreview.net/attachment?id=ESG-DMKQKsD&name=pdf",
+      "code_links": [
+        "https://github.com/zpbao/bowtie_networks"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "What Can You Learn From Your Muscles? Learning Visual Representation from Human Interactions",
+      "paper_url": "https://openreview.net/attachment?id=Qm8UNVCFdh&name=pdf",
+      "code_links": [
+        "https://github.com/ehsanik/muscleTorch"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Graph Traversal with Tensor Functionals: A Meta-Algorithm for Scalable Learning",
+      "paper_url": "https://openreview.net/attachment?id=6DOZ8XNNfGN&name=pdf",
+      "code_links": [
+        "https://github.com/isi-usc-edu/gttf"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Multi-Time Attention Networks for Irregularly Sampled Time Series",
+      "paper_url": "https://openreview.net/attachment?id=4c0J6lwQ4_&name=pdf",
+      "code_links": [
+        "https://github.com/reml-lab/mTAN"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Conservative Safety Critics for Exploration",
+      "paper_url": "https://openreview.net/attachment?id=iaO86DUuKi&name=pdf",
+      "code_links": [
+        "https://sites.google.com/view/conservative-safety-critics/"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Knowledge distillation via softmax regression representation learning",
+      "paper_url": "https://openreview.net/attachment?id=ZzwDy_wiWv&name=pdf",
+      "code_links": [
+        "https://github.com/jingyang2017/KD_SRRL"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "OPAL: Offline Primitive Discovery for Accelerating Offline Reinforcement Learning",
+      "paper_url": "https://openreview.net/attachment?id=V69LGwJ0lIN&name=pdf",
+      "code_links": [
+        "https://sites.google.com/view/opal-iclr"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Remembering for the Right Reasons: Explanations Reduce Catastrophic Forgetting",
+      "paper_url": "https://openreview.net/attachment?id=tHgJoMfy6nI&name=pdf",
+      "code_links": [
+        "https://github.com/SaynaEbrahimi/Remembering-for-the-Right-Reasons"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "A Trainable Optimal Transport Embedding for Feature Aggregation and its Relationship to Attention",
+      "paper_url": "https://openreview.net/attachment?id=ZK6vTvb84s&name=pdf",
+      "code_links": [
+        "https://github.com/claying/OTK"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "RODE: Learning Roles to Decompose Multi-Agent Tasks",
+      "paper_url": "https://openreview.net/attachment?id=TTUVg6vkNjK&name=pdf",
+      "code_links": [
+        "https://sites.google.com/view/rode-marl"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Learning perturbation sets for robust machine learning",
+      "paper_url": "https://openreview.net/attachment?id=MIDckA56aD&name=pdf",
+      "code_links": [
+        "https://github.com/locuslab/perturbation_learning"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "$i$-Mix: A Domain-Agnostic Strategy for Contrastive Representation Learning",
+      "paper_url": "https://openreview.net/attachment?id=T6AxtOaWydQ&name=pdf",
+      "code_links": [
+        "https://github.com/kibok90/imix"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Probing BERT in Hyperbolic Spaces",
+      "paper_url": "https://openreview.net/attachment?id=17VnwXYZyhH&name=pdf",
+      "code_links": [
+        "https://github.com/FranxYao/PoincareProbe"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Practical Massively Parallel Monte-Carlo Tree Search Applied to Molecular Design",
+      "paper_url": "https://openreview.net/attachment?id=6k7VdojAIK&name=pdf",
+      "code_links": [
+        "https://github.com/yoshizoe/mp-chemts"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Multi-Prize Lottery Ticket Hypothesis: Finding Accurate Binary Neural Networks by Pruning A Randomly Weighted Network",
+      "paper_url": "https://openreview.net/attachment?id=U_mat0b9iv&name=pdf",
+      "code_links": [
+        "https://github.com/chrundle/biprop"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Unbiased Teacher for Semi-Supervised Object Detection",
+      "paper_url": "https://openreview.net/attachment?id=MJIve1zgR_&name=pdf",
+      "code_links": [
+        "https://github.com/facebookresearch/unbiased-teacher"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "High-Capacity Expert Binary Networks",
+      "paper_url": "https://openreview.net/attachment?id=MxaY4FzOTa&name=pdf",
+      "code_links": [
+        "https://www.adrianbulat.com/binary-networks"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Wasserstein Embedding for Graph Learning",
+      "paper_url": "https://openreview.net/attachment?id=AAes_3W-2z&name=pdf",
+      "code_links": [
+        "https://github.com/navid-naderi/WEGL"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Hopper: Multi-hop Transformer for Spatiotemporal Reasoning",
+      "paper_url": "https://openreview.net/attachment?id=MaZFq7bJif7&name=pdf",
+      "code_links": [
+        "https://github.com/necla-ml/cater-h"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Training with Quantization Noise for Extreme Model Compression",
+      "paper_url": "https://openreview.net/attachment?id=dV19Yyi1fS3&name=pdf",
+      "code_links": [
+        "https://github.com/pytorch/fairseq/tree/master/examples/quant_noise"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Multi-Class Uncertainty Calibration via Mutual Information Maximization-based Binning",
+      "paper_url": "https://openreview.net/attachment?id=AICNpd8ke-m&name=pdf",
+      "code_links": [
+        "https://github.com/boschresearch/imax-calibration"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Deep Encoder, Shallow Decoder: Reevaluating Non-autoregressive Machine Translation",
+      "paper_url": "https://openreview.net/attachment?id=KpfasTaLUpq&name=pdf",
+      "code_links": [
+        "https://github.com/jungokasai/deep-shallow"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Neural Pruning via Growing Regularization",
+      "paper_url": "https://openreview.net/attachment?id=o966_Is_nPA&name=pdf",
+      "code_links": [
+        "https://github.com/mingsun-tse/regularization-pruning"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Hierarchical Reinforcement Learning by Discovering Intrinsic Options",
+      "paper_url": "https://openreview.net/attachment?id=r-gPPHEjpmw&name=pdf",
+      "code_links": [
+        "https://www.github.com/jesbu1/hidio"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Is Label Smoothing Truly Incompatible with Knowledge Distillation: An Empirical Study",
+      "paper_url": "https://openreview.net/attachment?id=PObuuGVrGaZ&name=pdf",
+      "code_links": [
+        "http://zhiqiangshen.com/projects/LS_and_KD/index.html"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "DINO: A Conditional Energy-Based GAN for Domain Translation",
+      "paper_url": "https://openreview.net/attachment?id=WAISmwsqDsb&name=pdf",
+      "code_links": [
+        "https://github.com/DinoMan/DINO"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Optimal Conversion of Conventional Artificial Neural Networks to Spiking Neural Networks",
+      "paper_url": "https://openreview.net/attachment?id=FZ1oTwcXchK&name=pdf",
+      "code_links": [
+        "https://github.com/Jackn0/snn_optimal_conversion_pipeline"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Efficient Continual Learning with Modular Networks and Task-Driven Priors",
+      "paper_url": "https://openreview.net/attachment?id=EKV158tSfwv&name=pdf",
+      "code_links": [
+        "https://github.com/facebookresearch/CTrLBenchmark"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Federated Semi-Supervised Learning with Inter-Client Consistency & Disjoint Learning",
+      "paper_url": "https://openreview.net/attachment?id=ce6CFXBh30h&name=pdf",
+      "code_links": [
+        "https://github.com/wyjeong/FedMatch"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "CPR: Classifier-Projection Regularization for Continual Learning",
+      "paper_url": "https://openreview.net/attachment?id=F2v4aqEL6ze&name=pdf",
+      "code_links": [
+        "https://github.com/csm9493/CPR_CL"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "GAN2GAN: Generative Noise Learning for Blind Denoising with Single Noisy Images",
+      "paper_url": "https://openreview.net/attachment?id=SHvF5xaueVn&name=pdf",
+      "code_links": [
+        "https://github.com/csm9493/GAN2GAN"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Self-supervised Representation Learning with Relative Predictive Coding",
+      "paper_url": "https://openreview.net/attachment?id=068E_JSq9O&name=pdf",
+      "code_links": [
+        "https://github.com/martinmamql/relative_predictive_coding"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Rapid Neural Architecture Search by Learning to Generate Graphs from Datasets",
+      "paper_url": "https://openreview.net/attachment?id=rkQuFUmUOg3&name=pdf",
+      "code_links": [
+        "https://github.com/HayeonLee/MetaD2A"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters & Less Data",
+      "paper_url": "https://openreview.net/attachment?id=de11dbHzAMF&name=pdf",
+      "code_links": [
+        "https://github.com/CAMTL/CA-MTL"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "On Learning Universal Representations Across Languages",
+      "paper_url": "https://openreview.net/attachment?id=Uu1Nw-eeTxJ&name=pdf",
+      "code_links": [
+        "https://sites.research.google/xtreme"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "FOCAL: Efficient Fully-Offline Meta-Reinforcement Learning via Distance Metric Learning and Behavior Regularization",
+      "paper_url": "https://openreview.net/attachment?id=8cpHIfgY4Dj&name=pdf",
+      "code_links": [
+        "https://github.com/FOCAL-ICLR/FOCAL-ICLR/"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "GraphCodeBERT: Pre-training Code Representations with Data Flow",
+      "paper_url": "https://openreview.net/attachment?id=jLoC4ez43PZ&name=pdf",
+      "code_links": [
+        "https://github.com/microsoft/CodeBERT"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Targeted Attack against Deep Neural Networks via Flipping Limited Weight Bits",
+      "paper_url": "https://openreview.net/attachment?id=iKQAk8a2kM0&name=pdf",
+      "code_links": [
+        "https://github.com/jiawangbai/TA-LBF"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "MoPro: Webly Supervised Learning with Momentum Prototypes",
+      "paper_url": "https://openreview.net/attachment?id=0-EYBhgw80y&name=pdf",
+      "code_links": [
+        "https://github.com/salesforce/MoPro"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "AdamP: Slowing Down the Slowdown for Momentum Optimizers on Scale-invariant Weights",
+      "paper_url": "https://openreview.net/attachment?id=Iz3zU3M316D&name=pdf",
+      "code_links": [
+        "https://github.com/clovaai/adamp"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "FedBN: Federated Learning on Non-IID Features via Local Batch Normalization",
+      "paper_url": "https://openreview.net/attachment?id=6YEQUn0QICG&name=pdf",
+      "code_links": [
+        "https://github.com/med-air/FedBN"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "A Unified Approach to Interpreting and Boosting Adversarial Transferability",
+      "paper_url": "https://openreview.net/attachment?id=X76iqnUbBjz&name=pdf",
+      "code_links": [
+        "https://github.com/xherdan76/A-Unified-Approach-to-Interpreting-and-Boosting-Adversarial-Transferability"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Learning Subgoal Representations with Slow Dynamics",
+      "paper_url": "https://openreview.net/attachment?id=wxRwhSdORKG&name=pdf",
+      "code_links": [
+        "https://sites.google.com/view/lesson-iclr"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Learning N:M  Fine-grained Structured Sparse Neural Networks From Scratch",
+      "paper_url": "https://openreview.net/attachment?id=K9bw7vqp_s&name=pdf",
+      "code_links": [
+        "https://github.com/anonymous-NM-sparsity/NM-sparsity"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Active Contrastive Learning of Audio-Visual Video Representations",
+      "paper_url": "https://openreview.net/attachment?id=OMizHuea_HB&name=pdf",
+      "code_links": [
+        "https://github.com/yunyikristy/CM-ACC"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "PseudoSeg: Designing Pseudo Labels for Semantic Segmentation",
+      "paper_url": "https://openreview.net/attachment?id=-TwO99rbVRu&name=pdf",
+      "code_links": [
+        "https://github.com/googleinterns/wss"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Shape-Texture Debiased Neural Network Training",
+      "paper_url": "https://openreview.net/attachment?id=Db4yerZTYkz&name=pdf",
+      "code_links": [
+        "https://github.com/LiYingwei/ShapeTextureDebiasedTraining"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Revisiting Dynamic Convolution via Matrix Decomposition",
+      "paper_url": "https://openreview.net/attachment?id=YwpZmcAehZ&name=pdf",
+      "code_links": [
+        "https://github.com/liyunsheng13/dcd"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Contemplating Real-World Object Classification",
+      "paper_url": "https://openreview.net/attachment?id=Q4EUywJIkqr&name=pdf",
+      "code_links": [
+        "https://github.com/aliborji/ObjectNetReanalysis.git"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Bag of Tricks for Adversarial Training",
+      "paper_url": "https://openreview.net/attachment?id=Xb8xvrtB8Ce&name=pdf",
+      "code_links": [
+        "https://github.com/P2333/Bag-of-Tricks-for-AT"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "MALI: A memory efficient and reverse accurate integrator for Neural ODEs",
+      "paper_url": "https://openreview.net/attachment?id=blfSjHeFM_e&name=pdf",
+      "code_links": [
+        "https://jzkay12.github.io/TorchDiffEqPack"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Explainable Deep One-Class Classification",
+      "paper_url": "https://openreview.net/attachment?id=A5VV3UyIQz&name=pdf",
+      "code_links": [
+        "https://github.com/liznerski/fcdd"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Universal Weakly Supervised Segmentation by Pixel-to-Segment Contrastive Learning",
+      "paper_url": "https://openreview.net/attachment?id=N33d7wjgzde&name=pdf",
+      "code_links": [
+        "https://github.com/twke18/SPML"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Policy-Driven Attack: Learning to Query for Hard-label Black-box Adversarial Examples",
+      "paper_url": "https://openreview.net/attachment?id=pzpytjk3Xb2&name=pdf",
+      "code_links": [
+        "https://github.com/ZiangYan/pda.pytorch"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Rethinking Soft Labels for Knowledge Distillation: A Bias–Variance Tradeoff Perspective",
+      "paper_url": "https://openreview.net/attachment?id=gIHd-5X324&name=pdf",
+      "code_links": [
+        "https://github.com/bellymonster/Weighted-Soft-Label-Distillation"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "DARTS-: Robustly Stepping out of Performance Collapse Without Indicators",
+      "paper_url": "https://openreview.net/attachment?id=KLH36ELmwIB&name=pdf",
+      "code_links": [
+        "https://github.com/Meituan-AutoML/DARTS-"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "AdaFuse: Adaptive Temporal Fusion Network for Efficient Action Recognition",
+      "paper_url": "https://openreview.net/attachment?id=bM3L3I_853&name=pdf",
+      "code_links": [
+        "https://mengyuest.github.io/AdaFuse/"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "BRECQ: Pushing the Limit of Post-Training Quantization by Block Reconstruction",
+      "paper_url": "https://openreview.net/attachment?id=POWv6hDd9XH&name=pdf",
+      "code_links": [
+        "https://github.com/yhhhli/BRECQ"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Generating Furry Cars: Disentangling Object Shape and Appearance across Multiple Domains",
+      "paper_url": "https://openreview.net/attachment?id=M88oFvqp_9&name=pdf",
+      "code_links": [
+        "https://utkarshojha.github.io/inter-domain-gan/"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Distributed Momentum for Byzantine-resilient Stochastic Gradient Descent",
+      "paper_url": "https://openreview.net/attachment?id=H8UHdhWG6A3&name=pdf",
+      "code_links": [
+        "https://elmahdielmhamdi.com/"
+      ],
+      "section": "ICLR2021 Accept Paper With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Complex Query Answering with Neural Link Predictors",
+      "paper_url": "https://openreview.net/attachment?id=Mos9F9kDwkz&name=pdf",
+      "code_links": [
+        "https://github.com/uclnlp/cqd"
+      ],
+      "section": "ICLR2021 Accept Oral With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Co-Mixup: Saliency Guided Joint Mixup with Supermodular Diversity",
+      "paper_url": "https://openreview.net/attachment?id=gvxJzw8kW4b&name=pdf",
+      "code_links": [
+        "https://github.com/snu-mllab/Co-Mixup"
+      ],
+      "section": "ICLR2021 Accept Oral With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "End-to-end Adversarial Text-to-Speech",
+      "paper_url": "https://openreview.net/attachment?id=rsf1z-JSj87&name=pdf",
+      "code_links": [
+        "https://deepmind.com/research/publications/End-to-End-Adversarial-Text-to-Speech"
+      ],
+      "section": "ICLR2021 Accept Oral With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Share or Not? Learning to Schedule Language-Specific Capacity for Multilingual Translation",
+      "paper_url": "https://openreview.net/attachment?id=Wj4ODo0uyCF&name=pdf",
+      "code_links": [
+        "https://github.com/bzhangGo/zero/tree/iclr2021_clsr"
+      ],
+      "section": "ICLR2021 Accept Oral With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "When Do Curricula Work?",
+      "paper_url": "https://openreview.net/attachment?id=tW4QEInpni&name=pdf",
+      "code_links": [
+        "https://github.com/google-research/understanding-curricula"
+      ],
+      "section": "ICLR2021 Accept Oral With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Parrot: Data-Driven Behavioral Priors for Reinforcement Learning",
+      "paper_url": "https://openreview.net/attachment?id=Ysuv-WOFeKR&name=pdf",
+      "code_links": [
+        "https://sites.google.com/view/parrot-rl"
+      ],
+      "section": "ICLR2021 Accept Oral With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+      "paper_url": "https://openreview.net/attachment?id=YicbFdNTTy&name=pdf",
+      "code_links": [
+        "https://github.com/google-research/vision_transformer"
+      ],
+      "section": "ICLR2021 Accept Oral With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Self-training For Few-shot Transfer Across Extreme Task Differences",
+      "paper_url": "https://openreview.net/attachment?id=O3Y56aqpChA&name=pdf",
+      "code_links": [
+        "https://github.com/cpphoo/STARTUP"
+      ],
+      "section": "ICLR2021 Accept Oral With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "DiffWave: A Versatile Diffusion Model for Audio Synthesis",
+      "paper_url": "https://openreview.net/attachment?id=a-xFK8Ymz5J&name=pdf",
+      "code_links": [
+        "https://diffwave-demo.github.io/"
+      ],
+      "section": "ICLR2021 Accept Oral With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Learning Cross-Domain Correspondence for Control with Dynamics Cycle-Consistency",
+      "paper_url": "https://openreview.net/attachment?id=QIRlze3I6hX&name=pdf",
+      "code_links": [
+        "https://sjtuzq.github.io/cycle_dynamics.html"
+      ],
+      "section": "ICLR2021 Accept Oral With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "A Distributional Approach to Controlled Text Generation",
+      "paper_url": "https://openreview.net/attachment?id=jWkw45-9AbL&name=pdf",
+      "code_links": [
+        "https://github.com/naver/gdc"
+      ],
+      "section": "ICLR2021 Accept Oral With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Gradient Projection Memory for Continual Learning",
+      "paper_url": "https://openreview.net/attachment?id=3AOj0RCNC2&name=pdf",
+      "code_links": [
+        "https://github.com/sahagobinda/GPM"
+      ],
+      "section": "ICLR2021 Accept Oral With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Rethinking Attention with Performers",
+      "paper_url": "https://openreview.net/attachment?id=Ua6zuk0WRH&name=pdf",
+      "code_links": [
+        "https://github.com/google-research/google-research/tree/master/protein_lm"
+      ],
+      "section": "ICLR2021 Accept Oral With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Neural Synthesis of Binaural Speech From Mono Audio",
+      "paper_url": "https://openreview.net/attachment?id=uAX8q61EVRu&name=pdf",
+      "code_links": [
+        "https://github.com/facebookresearch/BinauralSpeechSynthesis"
+      ],
+      "section": "ICLR2021 Accept Oral With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Dataset Condensation with Gradient Matching",
+      "paper_url": "https://openreview.net/attachment?id=mSAKhLYLSsl&name=pdf",
+      "code_links": [
+        "https://github.com/VICO-UoE/DatasetCondensation"
+      ],
+      "section": "ICLR2021 Accept Oral With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Free Lunch for Few-shot Learning:  Distribution Calibration",
+      "paper_url": "https://openreview.net/attachment?id=JWOiYxMG92s&name=pdf",
+      "code_links": [
+        "https://github.com/ShuoYang-1998/Few_Shot_Distribution_Calibration"
+      ],
+      "section": "ICLR2021 Accept Oral With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Self-supervised Visual Reinforcement Learning with Object-centric Representations",
+      "paper_url": "https://openreview.net/attachment?id=xppLmXCbOw1&name=pdf",
+      "code_links": [
+        "https://martius-lab.github.io/SMORL"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "MARS: Markov Molecular Sampling for Multi-objective Drug Discovery",
+      "paper_url": "https://openreview.net/attachment?id=kHSu4ebxFXY&name=pdf",
+      "code_links": [
+        "https://github.com/yutxie/mars."
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "The Intrinsic Dimension of Images and Its Impact on Learning",
+      "paper_url": "https://openreview.net/attachment?id=XJk19XzGq2J&name=pdf",
+      "code_links": [
+        "https://github.com/ppope/dimensions"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Orthogonalizing Convolutional Layers with the Cayley Transform",
+      "paper_url": "https://openreview.net/attachment?id=Pbj8H_jEHYv&name=pdf",
+      "code_links": [
+        "https://github.com/locuslab/orthogonal-convolutions"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Learning Mesh-Based Simulation with Graph Networks",
+      "paper_url": "https://openreview.net/attachment?id=roNqYL0_XP&name=pdf",
+      "code_links": [
+        "https://sites.google.com/view/meshgraphnets"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "CPT: Efficient Deep Neural Network Training via Cyclic Precision",
+      "paper_url": "https://openreview.net/attachment?id=87ZwsaQNHPZ&name=pdf",
+      "code_links": [
+        "https://github.com/RICE-EIC/CPT"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "PlasticineLab: A Soft-Body Manipulation Benchmark with Differentiable Physics",
+      "paper_url": "https://openreview.net/attachment?id=xCcdBRQEDW&name=pdf",
+      "code_links": [
+        "http://plasticinelab.csail.mit.edu"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Memory Optimization for Deep Networks",
+      "paper_url": "https://openreview.net/attachment?id=bnY0jm4l59&name=pdf",
+      "code_links": [
+        "https://github.com/utsaslab/MONeT"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Watch-And-Help: A Challenge for Social Perception and Human-AI Collaboration",
+      "paper_url": "https://openreview.net/attachment?id=w_7JMpGZRh0&name=pdf",
+      "code_links": [
+        "https://virtual-home.org"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "HW-NAS-Bench: Hardware-Aware Neural Architecture Search Benchmark",
+      "paper_url": "https://openreview.net/attachment?id=_0kaDkv3dVf&name=pdf",
+      "code_links": [
+        "https://github.com/RICE-EIC/HW-NAS-Bench"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Dataset Inference: Ownership Resolution in Machine Learning",
+      "paper_url": "https://openreview.net/attachment?id=hvdKKV2yt7T&name=pdf",
+      "code_links": [
+        "https://github.com/cleverhans-lab/dataset-inference"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Learning from Protein Structure with Geometric Vector Perceptrons",
+      "paper_url": "https://openreview.net/attachment?id=1YLJDvSx6J4&name=pdf",
+      "code_links": [
+        "https://github.com/drorlab/gvp"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Fast Geometric Projections for Local Robustness Certification",
+      "paper_url": "https://openreview.net/attachment?id=zWy1uxjDdZJ&name=pdf",
+      "code_links": [
+        "https://github.com/klasleino/fast-geometric-projections"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Sharpness-aware Minimization for Efficiently Improving Generalization",
+      "paper_url": "https://openreview.net/attachment?id=6Tm1mposlrM&name=pdf",
+      "code_links": [
+        "https://github.com/google-research/sam"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Self-Supervised Policy Adaptation during Deployment",
+      "paper_url": "https://openreview.net/attachment?id=o_V-MjyyGV_&name=pdf",
+      "code_links": [
+        "https://nicklashansen.github.io/PAD/"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Data-Efficient Reinforcement Learning with Self-Predictive Representations",
+      "paper_url": "https://openreview.net/attachment?id=uCQfPZwRaUu&name=pdf",
+      "code_links": [
+        "https://github.com/mila-iqia/spr"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Dynamic Tensor Rematerialization",
+      "paper_url": "https://openreview.net/attachment?id=Vfs_2RnOD0H&name=pdf",
+      "code_links": [
+        "https://octoml.ai/"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Model-Based Visual Planning with Self-Supervised Functional Distances",
+      "paper_url": "https://openreview.net/attachment?id=UcoXdfrORC&name=pdf",
+      "code_links": [
+        "https://sites.google.com/berkeley.edu/mbold"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Regularization Matters in Policy Optimization - An Empirical Study on Continuous Control",
+      "paper_url": "https://openreview.net/attachment?id=yr1mzrH3IC&name=pdf",
+      "code_links": [
+        "https://github.com/xuanlinli17/iclr2021_rlreg"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Autoregressive Entity Retrieval",
+      "paper_url": "https://openreview.net/attachment?id=5k8F6UU39V&name=pdf",
+      "code_links": [
+        "https://github.com/facebookresearch/GENRE"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Neural Approximate Sufficient Statistics for Implicit Models",
+      "paper_url": "https://openreview.net/attachment?id=SRDuJssQud&name=pdf",
+      "code_links": [
+        "https://github.com/cyz-ai/neural-approx-ss-lfi"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Tent: Fully Test-Time Adaptation by Entropy Minimization",
+      "paper_url": "https://openreview.net/attachment?id=uXl3bZLkr3c&name=pdf",
+      "code_links": [
+        "https://github.com/DequanWang/tent"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Are Neural Rankers still Outperformed by Gradient Boosted Decision Trees?",
+      "paper_url": "https://openreview.net/attachment?id=Ut1vF_q_vC&name=pdf",
+      "code_links": [
+        "https://sourceforge.net/p/lemur/wiki/RankLib/"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "A Panda? No, It's a Sloth: Slowdown Attacks on Adaptive Multi-Exit Neural Network Inference",
+      "paper_url": "https://openreview.net/attachment?id=9xC2tWEwBD&name=pdf",
+      "code_links": [
+        "https://github.com/Sanghyun-Hong/DeepSloth"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Large Scale Image Completion via Co-Modulated Generative Adversarial Networks",
+      "paper_url": "https://openreview.net/attachment?id=sSjqmfsk95O&name=pdf",
+      "code_links": [
+        "https://github.com/zsyzzsoft/co-mod-gan"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Undistillable: Making A Nasty Teacher That CANNOT teach students",
+      "paper_url": "https://openreview.net/attachment?id=0zvfm-nZqQs&name=pdf",
+      "code_links": [
+        "https://github.com/VITA-Group/Nasty-Teacher"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "A Good Image Generator Is What You Need for High-Resolution Video Synthesis",
+      "paper_url": "https://openreview.net/attachment?id=6puCSjH3hwA&name=pdf",
+      "code_links": [
+        "https://github.com/snap-research/MoCoGAN-HD"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Noise against noise: stochastic label noise helps combat inherent label noise",
+      "paper_url": "https://openreview.net/attachment?id=80FMcTSZ6J0&name=pdf",
+      "code_links": [
+        "https://github.com/chenpf1025/SLN"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Quantifying Differences in Reward Functions",
+      "paper_url": "https://openreview.net/attachment?id=LwEQnp6CYev&name=pdf",
+      "code_links": [
+        "https://github.com/HumanCompatibleAI/evaluating-rewards"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images",
+      "paper_url": "https://openreview.net/attachment?id=RLRXCV6DbEJ&name=pdf",
+      "code_links": [
+        "https://github.com/openai/vdvae"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "UPDeT: Universal Multi-agent RL via Policy Decoupling with Transformers",
+      "paper_url": "https://openreview.net/attachment?id=v9c7hr9ADKx&name=pdf",
+      "code_links": [
+        "https://github.com/hhhusiyi-monash/UPDeT"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Mutual Information State Intrinsic Control",
+      "paper_url": "https://openreview.net/attachment?id=OthEq8I5v1&name=pdf",
+      "code_links": [
+        "https://youtu.be/AUCwc9RThpk"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Long-tailed Recognition by Routing Diverse Distribution-Aware Experts",
+      "paper_url": "https://openreview.net/attachment?id=D9I3drBz4UC&name=pdf",
+      "code_links": [
+        "https://github.com/frank-xwang/RIDE-LongTailRecognition"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Uncertainty Sets for Image Classifiers using Conformal Prediction",
+      "paper_url": "https://openreview.net/attachment?id=eNdiU_DbM9&name=pdf",
+      "code_links": [
+        "https://people.eecs.berkeley.edu/~angelopoulos/blog/posts/conformal-classification"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Stabilized Medical Image Attacks",
+      "paper_url": "https://openreview.net/attachment?id=QfTXQiGYudJ&name=pdf",
+      "code_links": [
+        "https://github.com/imogenqi/SMA"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Sequential Density Ratio Estimation for Simultaneous Optimization of Speed and Accuracy",
+      "paper_url": "https://openreview.net/attachment?id=Rhsu5qD36cL&name=pdf",
+      "code_links": [
+        "https://github.com/TaikiMiyagawa/SPRT-TANDEM"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    },
+    {
+      "title": "Improving Adversarial Robustness via Channel-wise Activation Suppressing",
+      "paper_url": "https://openreview.net/attachment?id=zQTezqCCtNx&name=pdf",
+      "code_links": [
+        "https://github.com/bymavis/CAS_ICLR2021"
+      ],
+      "section": "ICLR2021 Accept Spotlight With Code",
+      "evidence": "source-repo-code-list"
+    }
+  ]
+}

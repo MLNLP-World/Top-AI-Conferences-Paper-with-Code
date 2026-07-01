@@ -1,0 +1,341 @@
+# ICLR 2026 Papers Claiming Code In Abstract Without Direct URL
+
+1. Stability Under Scrutiny: Benchmarking Representation Paradigms for Online HD Mapping
+   - Paper: https://openreview.net/forum?id=mxz5RqhCMe
+2. Demystifying Supervision Data Generalization in Multimodal LMs
+   - Paper: https://openreview.net/forum?id=iYMZKz5BGz
+3. Large Depth Completion Model from Sparse Observations
+   - Paper: https://openreview.net/forum?id=I9o2OkPwCX
+4. TS-Attn: Temporal-wise Separable Attention for Multi-Event Video Generation
+   - Paper: https://openreview.net/forum?id=QixNhagZ9t
+5. ToProVAR: Efficient Visual Autoregressive Modeling via Tri-Dimensional Entropy-Aware Semantic Analysis and Sparsity Optimization
+   - Paper: https://openreview.net/forum?id=s1djcQx3Ak
+6. Beyond Distributions: Geometric Action Control for Continuous Reinforcement Learning
+   - Paper: https://openreview.net/forum?id=6VqCOnTVXa
+7. CLAP: Unsupervised 3D Representation Learning for Fusion 3D Perception via Curvature Sampling and Prototype Learning
+   - Paper: https://openreview.net/forum?id=3qF8HeAVAO
+8. WholeBodyVLA: Towards Unified Latent VLA for Whole-body Loco-manipulation Control
+   - Paper: https://openreview.net/forum?id=OCJmVjyzN7
+9. SinkTrack: Attention Sink based Context Anchoring for Large Language Models
+   - Paper: https://openreview.net/forum?id=Gg1aPETCL6
+10. XQC: Well-conditioned Optimization Accelerates Deep Reinforcement Learning
+   - Paper: https://openreview.net/forum?id=tx1ZvypKqS
+11. FSOD-VFM: Few-Shot Object Detection with Vision Foundation Models and Graph Diffusion
+   - Paper: https://openreview.net/forum?id=jHlAq2rYUw
+12. PreferThinker: Reasoning-based Personalized Image Preference Assessment
+   - Paper: https://openreview.net/forum?id=iFrdyBKMff
+13. VidBridge-R1: Bridging QA and Captioning for RL-based Video Understanding Models with Intermediate Proxy Tasks
+   - Paper: https://openreview.net/forum?id=K7SdrTobcY
+14. Nüwa: Mending the Spatial Integrity Torn by VLM Token Pruning
+   - Paper: https://openreview.net/forum?id=C9yclwdquU
+15. EgoHandICL: Egocentric 3D Hand Reconstruction with In-Context Learning
+   - Paper: https://openreview.net/forum?id=nwjy9BeorI
+16. Leveraging Data to Say No: Memory Augmented Plug-and-Play Selective Prediction
+   - Paper: https://openreview.net/forum?id=2OcklgJiU0
+17. FlowBind: Efficient Any-to-Any Generation with Bidirectional Flows
+   - Paper: https://openreview.net/forum?id=7DeARTwvwL
+18. DiffTrans: Differentiable Geometry-Materials Decomposition for Reconstructing Transparent Objects
+   - Paper: https://openreview.net/forum?id=H4VySIfvZE
+19. SceneTransporter: Optimal Transport-Guided Compositional Latent Diffusion for Single-Image  Structured 3D Scene Generation
+   - Paper: https://openreview.net/forum?id=xjCkwPhQWq
+20. From Vicious to Virtuous Cycles: Synergistic Representation Learning for Unsupervised Video Object-Centric Learning
+   - Paper: https://openreview.net/forum?id=bWoT6Z21rH
+21. Endowing GPT-4 with a Humanoid Body: Building the Bridge Between Off-the-Shelf VLMs and the Physical World
+   - Paper: https://openreview.net/forum?id=aQWSEjcN9V
+22. Event-T2M: Event-level Conditioning for Complex Text-to-Motion Synthesis
+   - Paper: https://openreview.net/forum?id=mXPeXZ1KWT
+23. Regret-Guided Search Control for Efficient Learning in AlphaZero
+   - Paper: https://openreview.net/forum?id=Eoiu5iJD71
+24. Patronus: Interpretable Diffusion Models with Prototypes
+   - Paper: https://openreview.net/forum?id=1bz8CA8gPo
+25. ODI-Bench: Can MLLMs Understand Immersive Omnidirectional Environments?
+   - Paper: https://openreview.net/forum?id=fT8FrhGNo0
+26. Distributional Equivalence in Linear Non-Gaussian Latent-Variable Cyclic Causal Models: Characterization and Learning
+   - Paper: https://openreview.net/forum?id=b8TlYh6PN6
+27. AFTER: Mitigating the Object Hallucination of LVLM via Adaptive Factual-Guided Activation Editing
+   - Paper: https://openreview.net/forum?id=ggycXmhrrG
+28. PreciseCache: Precise Feature Caching for Efficient and High-fidelity Video Generation
+   - Paper: https://openreview.net/forum?id=DjfRkr82jn
+29. D$^2$GS: Depth-and-Density Guided Gaussian Splatting for Stable and Accurate Sparse-View Reconstruction
+   - Paper: https://openreview.net/forum?id=7yvz93kBw9
+30. CLUTCH: Contextualized Language model for Unlocking Text-Conditioned Hand motion modelling in the wild
+   - Paper: https://openreview.net/forum?id=W7YRskO47j
+31. BigMaQ: A Big Macaque Motion and Animation Dataset Bridging Image and 3D Pose Representations
+   - Paper: https://openreview.net/forum?id=n7viYE7Xbo
+32. TriC-Motion: Tri-Domain Causal Modeling Grounded Text-to-Motion Generation
+   - Paper: https://openreview.net/forum?id=ROh4oDPVpD
+33. HiCache: A Plug-in Scaled-Hermite Upgrade for Taylor-Style Cache-then-Forecast Diffusion Acceleration
+   - Paper: https://openreview.net/forum?id=faYbbo1KsQ
+34. LaplacianFormer:Rethinking Linear Attention with Laplacian Kernel
+   - Paper: https://openreview.net/forum?id=bJZExGYWqx
+35. Reconstructing KV Caches with Cross-Layer Fusion for Enhanced Transformers
+   - Paper: https://openreview.net/forum?id=4pivvEJiCl
+36. ComGS: Efficient 3D Object-Scene Composition via Surface Octahedral Probes
+   - Paper: https://openreview.net/forum?id=yXiSPBMrTT
+37. BTZSC: A Benchmark for Zero-Shot Text Classification Across Cross-Encoders, Embedding Models, Rerankers and LLMs
+   - Paper: https://openreview.net/forum?id=IxMryAz2p3
+38. UltraGauss: Ultrafast Gaussian Reconstruction of 3D Ultrasound Volumes
+   - Paper: https://openreview.net/forum?id=0imrI7UXdu
+39. Learning to Recall with Transformers Beyond Orthogonal Embeddings
+   - Paper: https://openreview.net/forum?id=CfFj68C9Cn
+40. From Neural Networks to Logical Theories: The Correspondence between Fibring Modal Logics and Fibring Neural Networks
+   - Paper: https://openreview.net/forum?id=P1iAEhonhY
+41. Features Emerge as Discrete States: The First Application of SAEs to 3D Representations
+   - Paper: https://openreview.net/forum?id=UcaSiq18Tb
+42. BioTamperNet: Affinity-Guided State-Space Model Detecting Tampered Biomedical Images
+   - Paper: https://openreview.net/forum?id=TB0Pdvxpm8
+43. FlowAD: Ego-Scene Interactive Modeling for Autonomous Driving
+   - Paper: https://openreview.net/forum?id=m4JpoJRgAr
+44. On the Thinking-Language Modeling Gap in Large Language Models
+   - Paper: https://openreview.net/forum?id=lSWIzMX2Ie
+45. DVD-Quant: Data-free Video Diffusion Transformers Quantization
+   - Paper: https://openreview.net/forum?id=3AnRMvlVDw
+46. When would Vision-Proprioception Policies Fail in Robotic Manipulation?
+   - Paper: https://openreview.net/forum?id=2RIqqNqALN
+47. Scaling Atomistic Protein Binder Design with Generative Pretraining and Test-Time Compute
+   - Paper: https://openreview.net/forum?id=qmCpJtFZra
+48. Text2Interact: High-Fidelity and Diverse Text-to-Two-Person Interaction Generation
+   - Paper: https://openreview.net/forum?id=cthzUgBUn7
+49. Constructive Distortion: Improving MLLMs with Attention-Guided Image Warping
+   - Paper: https://openreview.net/forum?id=SRl0xy0UOj
+50. SelvaBox: A high‑resolution dataset for tropical tree crown detection
+   - Paper: https://openreview.net/forum?id=GH7z1RURL6
+51. ViTSP: A Vision Language Models Guided Framework for Solving Large-Scale Traveling Salesman Problems
+   - Paper: https://openreview.net/forum?id=2LoaiaGKuV
+52. Code2Bench: Scaling Source and Rigor for Dynamic Benchmark Construction
+   - Paper: https://openreview.net/forum?id=QZmKyAy1VK
+53. K-Sort Eval: Efficient Preference Evaluation for Visual Generation via Corrected VLM-as-a-Judge
+   - Paper: https://openreview.net/forum?id=rcdGXD2dfW
+54. Cross-Domain Policy Optimization via Bellman Consistency and Hybrid Critics
+   - Paper: https://openreview.net/forum?id=kTXRFtWHnM
+55. Talking Points: Describing and Localizing Pixels
+   - Paper: https://openreview.net/forum?id=FcGQVshxMP
+56. A Primer on SO(3) Action Representations in Deep Reinforcement Learning
+   - Paper: https://openreview.net/forum?id=g4ZrpMQL1Z
+57. Steering and Rectifying Latent Representation Manifolds in Frozen Multi-modal LLMs for Video Anomaly Detection
+   - Paper: https://openreview.net/forum?id=ol78tbpqyu
+58. Personalized Feature Translation for Expression Recognition: An Efficient Source-Free Domain Adaptation Method
+   - Paper: https://openreview.net/forum?id=0ucmlIQTlu
+59. Ambig-SWE: Interactive Agents to Overcome Underspecificity in Software Engineering
+   - Paper: https://openreview.net/forum?id=X2yzXtH4wp
+60. Densemarks: Learning Canonical Embeddings for Human Heads Images via Point Tracks
+   - Paper: https://openreview.net/forum?id=KOvRxAMBzV
+61. VLMgineer: Vision-Language Models as Robotic Toolsmiths
+   - Paper: https://openreview.net/forum?id=nESyz4PvJL
+62. PixelVLA: Advancing Pixel-level Understanding in Vision-Language-Action Model
+   - Paper: https://openreview.net/forum?id=7M6ryCABIc
+63. Scaling up Memory for Robotic Control via Experience Retrieval
+   - Paper: https://openreview.net/forum?id=1dH4ARGdwD
+64. Let's Think in Two Steps: Mitigating Agreement Bias in MLLMs with Self-Grounded Verification
+   - Paper: https://openreview.net/forum?id=rwo7bVlnzo
+65. COSMO-INR: Complex Sinusoidal Modulation for Implicit Neural Representations
+   - Paper: https://openreview.net/forum?id=yGJrvSU6wK
+66. SCRAPL: Scattering Transform with Random Paths for Machine Learning
+   - Paper: https://openreview.net/forum?id=RuYwbd5xYa
+67. Reinforcement Learning via Value Gradient Flow
+   - Paper: https://openreview.net/forum?id=JLL4VNVhM9
+68. IceCache: Memory-efficient KV-cache Management for Long-Sequence LLMs
+   - Paper: https://openreview.net/forum?id=yHxSKM9kdr
+69. LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation
+   - Paper: https://openreview.net/forum?id=r5o6PWgzav
+70. Toward Complex-Valued Neural Networks for Waveform Generation
+   - Paper: https://openreview.net/forum?id=U4GXPqm3Va
+71. Latent Particle World Models: Self-supervised Object-centric Stochastic Dynamics Modeling
+   - Paper: https://openreview.net/forum?id=lTaPtGiUUc
+72. TikZilla: Scaling Text-to-TikZ with High-Quality Data and Reinforcement Learning
+   - Paper: https://openreview.net/forum?id=rJv2byEWA3
+73. Unveiling the Cognitive Compass: Theory-of-Mind-Guided Multimodal Emotion Reasoning
+   - Paper: https://openreview.net/forum?id=8VSrk2CaBr
+74. JavisDiT++: Unified Modeling and Optimization for Joint Audio-Video Generation
+   - Paper: https://openreview.net/forum?id=hRRWfFpKRp
+75. Spilled Energy in Large Language Models
+   - Paper: https://openreview.net/forum?id=EXFKk4Y3yc
+76. DM4CT: Benchmarking Diffusion Models for Computed Tomography Reconstruction
+   - Paper: https://openreview.net/forum?id=YE5scJekg5
+77. RFEval: Benchmarking Reasoning Faithfulness under Counterfactual Reasoning Intervention in Large Reasoning Models
+   - Paper: https://openreview.net/forum?id=2Gc8aj0afg
+78. Omni-iEEG: A Large-Scale, Comprehensive iEEG Dataset and Benchmark for Epilepsy Research
+   - Paper: https://openreview.net/forum?id=rv9lQpY5cG
+79. AVERE: Improving Audiovisual Emotion Reasoning with Preference Optimization
+   - Paper: https://openreview.net/forum?id=td682AAuPr
+80. QVLA: Not All Channels Are Equal in Vision-Language-Action Model's Quantization
+   - Paper: https://openreview.net/forum?id=TpL2nXanru
+81. PRISM: Festina Lente Proactivity -- Risk-Sensitive, Uncertainty-Aware Deliberation for Proactive Agents
+   - Paper: https://openreview.net/forum?id=rH6IsmeJrv
+82. RedSage: A Cybersecurity Generalist LLM
+   - Paper: https://openreview.net/forum?id=W4FAenIrQ2
+83. Transductive Visual Programming: Evolving Tool Libraries from Experience for Spatial Reasoning
+   - Paper: https://openreview.net/forum?id=XCW1l9qcxy
+84. Training LLMs with LogicReward for Faithful and Rigorous Reasoning
+   - Paper: https://openreview.net/forum?id=IRhYVOKFe0
+85. Decoupled Q-Chunking
+   - Paper: https://openreview.net/forum?id=aqGNdZQL9l
+86. What matters for Representation Alignment: Global Information or Spatial Structure?
+   - Paper: https://openreview.net/forum?id=y0UxFtXqXf
+87. DoVer: Intervention-Driven Auto Debugging for LLM Multi-Agent Systems
+   - Paper: https://openreview.net/forum?id=mrEK16Jy6h
+88. DAComp: Benchmarking Data Agents across the Full Data Intelligence Lifecycle
+   - Paper: https://openreview.net/forum?id=EtzJy9yI5J
+89. ViPRA: Video Prediction for Robot Actions
+   - Paper: https://openreview.net/forum?id=w3Ik8HUyTT
+90. Time-to-Move: Training-Free Motion Controlled Video Generation via Dual-Clock Denoising
+   - Paper: https://openreview.net/forum?id=OxO9OSYVw5
+91. Contamination Detection for VLMs using Multi-Modal Semantic Perturbation
+   - Paper: https://openreview.net/forum?id=gk6OC3XIZW
+92. The Quest for Generalizable Motion Generation: Data, Model, and
+  Evaluation
+   - Paper: https://openreview.net/forum?id=KNke6Pkq4o
+93. OSWorld-MCP: Benchmarking MCP Tool Invocation In Computer-Use Agents
+   - Paper: https://openreview.net/forum?id=rceD6wwt4B
+94. Towards Physically Executable 3D Gaussian for Embodied Navigation
+   - Paper: https://openreview.net/forum?id=HB6KvsqcAn
+95. ParaRNN: Unlocking Parallel Training of Nonlinear RNNs for Large
+  Language Models
+   - Paper: https://openreview.net/forum?id=mX8b64iUaa
+96. End-to-end Listen, Look, Speak and Act
+   - Paper: https://openreview.net/forum?id=LYyoRqf0Ij
+97. Map the Flow: Revealing Hidden Pathways of Information in VideoLLMs
+   - Paper: https://openreview.net/forum?id=QCB0HN61TU
+98. Learning to Grasp Anything by Playing with Random Toys
+   - Paper: https://openreview.net/forum?id=NZDaMcpXZm
+99. GIR-Bench: Versatile Benchmark for Generating Images with Reasoning
+   - Paper: https://openreview.net/forum?id=4c1gAsVd9C
+100. Unleashing Perception-Time Scaling to Multimodal Reasoning Models
+   - Paper: https://openreview.net/forum?id=WGIcXH9rk9
+101. MATRIX: Mask Track Alignment for Interaction-aware Video Generation
+   - Paper: https://openreview.net/forum?id=lhVrFEssk5
+102. MetaVLA: Unified Meta Co-training For Efficient Embodied Adaption
+   - Paper: https://openreview.net/forum?id=E1K2Ph3LtS
+103. SIGMA-GEN: Structure and Identity Guided Multi-subject Assembly for Image Generation
+   - Paper: https://openreview.net/forum?id=x2DWTywZ1i
+104. EgoNight: Towards Egocentric Vision Understanding at Night with a
+  Challenging Benchmark
+   - Paper: https://openreview.net/forum?id=DKD4QbOKBN
+105. Human3R: Everyone Everywhere All at Once
+   - Paper: https://openreview.net/forum?id=y7duXr0JXF
+106. Selective Expert Guidance for Effective and Diverse Exploration in Reinforcement Learning of LLMs
+   - Paper: https://openreview.net/forum?id=axlFycAkoL
+107. VidGuard-R1: AI-Generated Video Detection and Explanation via Reasoning
+  MLLMs and RL
+   - Paper: https://openreview.net/forum?id=gXjOsBcXIR
+108. DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag
+  Editing
+   - Paper: https://openreview.net/forum?id=Zhckizkww1
+109. CoT Vectors: Transferring and Probing the Reasoning Mechanisms of LLMs
+   - Paper: https://openreview.net/forum?id=L1FUfBCL0c
+110. FlexiCodec: A Dynamic Neural Audio Codec for Low Frame Rates
+   - Paper: https://openreview.net/forum?id=kYkfCs4ZAH
+111. EchoGen: Generating Visual Echoes in Any Scene via Feed-Forward
+  Subject-Driven Auto-Regressive Model
+   - Paper: https://openreview.net/forum?id=ctmyCjo18u
+112. Fast-dLLM v2: Efficient Block-Diffusion LLM
+   - Paper: https://openreview.net/forum?id=1NZ3DHF9nT
+113. TTT3R: 3D Reconstruction as Test-Time Training
+   - Paper: https://openreview.net/forum?id=aMs6FtNaY5
+114. DA^2: Depth Anything in Any Direction
+   - Paper: https://openreview.net/forum?id=323ximYcsk
+115. VitaBench: Benchmarking LLM Agents with Versatile Interactive Tasks in
+  Real-world Applications
+   - Paper: https://openreview.net/forum?id=rtcX9qOBaz
+116. Ultra-Fast Language Generation via Discrete Diffusion Divergence
+  Instruct
+   - Paper: https://openreview.net/forum?id=mtdyZsa47V
+117. NAIPv2: Debiased Pairwise Learning for Efficient Paper Quality
+  Estimation
+   - Paper: https://openreview.net/forum?id=rNl8XiSHiJ
+118. Your Models Have Thought Enough: Training Large Reasoning Models to Stop
+  Overthinking
+   - Paper: https://openreview.net/forum?id=2u5ZRzDyS0
+119. Dynamic Novel View Synthesis in High Dynamic Range
+   - Paper: https://openreview.net/forum?id=10iBNwPtl2
+120. WAVE: Learning Unified & Versatile Audio-Visual Embeddings with
+  Multimodal LLM
+   - Paper: https://openreview.net/forum?id=MiV3WXDYJb
+121. CodeBrain: Towards Decoupled Interpretability and Multi-Scale Architecture for EEG Foundation Model
+   - Paper: https://openreview.net/forum?id=msJgEkjwh5
+122. Does FLUX Already Know How to Perform Physically Plausible Image
+  Composition?
+   - Paper: https://openreview.net/forum?id=DcVg87ibK9
+123. FLUX-Reason-6M & PRISM-Bench: A Million-Scale Text-to-Image Reasoning   Dataset and Comprehensive Benchmark
+   - Paper: https://openreview.net/forum?id=cPzgZnpVbN
+124. BranchGRPO: Stable and Efficient GRPO with Structured Branching in
+  Diffusion Models
+   - Paper: https://openreview.net/forum?id=T2nP2IQasd
+125. FastVGGT: Training-Free Acceleration of Visual Geometry Transformer
+   - Paper: https://openreview.net/forum?id=asl8NJlIMe
+126. A Stitch in Time Saves Nine: Proactive Self-Refinement for Language   Models
+   - Paper: https://openreview.net/forum?id=0GaCfBRFnf
+127. S$^2$-Guidance: Stochastic Self Guidance for Training-Free Enhancement   of Diffusion Models
+   - Paper: https://openreview.net/forum?id=9RyRIyzgT5
+128. Next Visual Granularity Generation
+   - Paper: https://openreview.net/forum?id=hALNNyL1jj
+129. UniUGG: Unified 3D Understanding and Generation via Geometric-Semantic
+  Encoding
+   - Paper: https://openreview.net/forum?id=XbMp83tvK7
+130. What Matters for Bioacoustic Encoding
+   - Paper: https://openreview.net/forum?id=MFuM9KAEYc
+131. VisCodex: Unified Multimodal Code Generation via Merging Vision and   Coding Models
+   - Paper: https://openreview.net/forum?id=hUXzPauNEM
+132. Genie Envisioner: A Unified World Foundation Platform for Robotic   Manipulation
+   - Paper: https://openreview.net/forum?id=fHLtSxDFKC
+133. $π^3$: Scalable Permutation-Equivariant Visual Geometry Learning
+   - Paper: https://openreview.net/forum?id=DTQIjngDta
+134. Seq vs Seq: An Open Suite of Paired Encoders and Decoders
+   - Paper: https://openreview.net/forum?id=z5Mn8Rxi3l
+135. SpeakerVid-5M: A Large-Scale High-Quality Dataset for Audio-Visual   Dyadic Interactive Human Generation
+   - Paper: https://openreview.net/forum?id=U004uqALWl
+136. Unveiling the Potential of Diffusion Large Language Model in
+  Controllable Generation
+   - Paper: https://openreview.net/forum?id=qhd0qv6L0k
+137. EDINET-Bench: Evaluating LLMs on Complex Financial Tasks using Japanese Financial Statements
+   - Paper: https://openreview.net/forum?id=Dxns0cj15A
+138. VideoMathQA: Benchmarking Mathematical Reasoning via Multimodal Understanding in Videos
+   - Paper: https://openreview.net/forum?id=VI4kGUfPio
+139. OpenThoughts: Data Recipes for Reasoning Models
+   - Paper: https://openreview.net/forum?id=7xjoTuaNmN
+140. MotionSight: Boosting Fine-Grained Motion Understanding in Multimodal   LLMs
+   - Paper: https://openreview.net/forum?id=ISZPRsh5YV
+141. CodeSense: a Real-World Benchmark and Dataset for Code Semantic Reasoning
+   - Paper: https://openreview.net/forum?id=ehXVDJm0PS
+142. Vision Language Models are Biased
+   - Paper: https://openreview.net/forum?id=DG4S2OlGQA
+143. PoliCon: Evaluating LLMs on Achieving Diverse Political Consensus Objectives
+   - Paper: https://openreview.net/forum?id=MHlwNs9k1Y
+144. ScienceBoard: Evaluating Multimodal Autonomous Agents in Realistic Scientific Workflows
+   - Paper: https://openreview.net/forum?id=bJvwJahJeF
+145. BAH Dataset for Ambivalence/Hesitancy Recognition in Videos for Behavioural Change
+   - Paper: https://openreview.net/forum?id=jYDHVscRO3
+146. Evaluating Text Creativity across Diverse Domains: A Dataset and Large Language Model Evaluator
+   - Paper: https://openreview.net/forum?id=WHrmlyQEM7
+147. LAMDA: A Longitudinal Android Malware Benchmark for Concept Drift Analysis
+   - Paper: https://openreview.net/forum?id=1FnCrZtBNQ
+148. DanceTogether! Identity-Preserving Multi-Person Interactive Video   Generation
+   - Paper: https://openreview.net/forum?id=7VEECFBzmm
+149. Plan and Budget: Effective and Efficient Test-Time Scaling on Large Language Model Reasoning
+   - Paper: https://openreview.net/forum?id=ctspw4CqbS
+150. gen2seg: Generative Models Enable Generalizable Instance Segmentation
+   - Paper: https://openreview.net/forum?id=cSpjHOf04S
+151. S2R-HDR: A Large-Scale Rendered Dataset for HDR Fusion
+   - Paper: https://openreview.net/forum?id=Uc89k7HaUb
+152. TASTE: Text-Aligned Speech Tokenization and Embedding for Spoken Language Modeling
+   - Paper: https://openreview.net/forum?id=6STb8DauN1
+153. MME-Unify: A Comprehensive Benchmark for Unified Multimodal Understanding and Generation Models
+   - Paper: https://openreview.net/forum?id=7x6TxVIarj
+154. JavisDiT: Joint Audio-Video Diffusion Transformer with Hierarchical Spatio-Temporal Prior Synchronization
+   - Paper: https://openreview.net/forum?id=y7HV7KT3Bd
+155. Language-guided Open-world Video Anomaly Detection
+   - Paper: https://openreview.net/forum?id=70lFIQG5OB
+156. AudioX: Diffusion Transformer for Anything-to-Audio Generation
+   - Paper: https://openreview.net/forum?id=qjJWxK3yWo
+157. VideoPhy-2: A Challenging Action-Centric Physical Commonsense Evaluation in Video Generation
+   - Paper: https://openreview.net/forum?id=HA8KSQW7SO
+158. OpenFly: A Comprehensive Platform for Aerial Vision-Language Navigation
+   - Paper: https://openreview.net/forum?id=OKm3w71ymP
+159. FoNE: Precise Single-Token Number Embeddings via Fourier Features
+   - Paper: https://openreview.net/forum?id=g0vtWmwDDh
+160. Edge Weight Prediction For Category-Agnostic Pose Estimation
+   - Paper: https://openreview.net/forum?id=f0iKV3cKFE
+161. Reassessing Layer Pruning in LLMs: New Insights and Methods
+   - Paper: https://openreview.net/forum?id=04Tfwy3LLC
+162. Story-Adapter: A Training-free Iterative Framework for Long Story Visualization
+   - Paper: https://openreview.net/forum?id=puBVb9vTah
