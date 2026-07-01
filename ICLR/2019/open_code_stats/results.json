@@ -73,6 +73,17 @@
       "proceeding": "ICLR 2019 Oral"
     },
     {
+      "title": "KnockoffGAN: Generating Knockoffs for Feature Selection using Generative Adversarial Networks",
+      "paper_url": "https://openreview.net/forum?id=ByeZ5jC5YQ",
+      "code_links": [
+        "https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/knockoffgan"
+      ],
+      "evidence": "code",
+      "openreview_id": "ByeZ5jC5YQ",
+      "presentation_type": "Oral",
+      "proceeding": "ICLR 2019 Oral"
+    },
+    {
       "title": "Large Scale GAN Training for High Fidelity Natural Image Synthesis",
       "paper_url": "https://openreview.net/forum?id=B1xsqj09Fm",
       "code_links": [
@@ -1847,17 +1858,6 @@
       "proceeding": "ICLR 2019 Poster"
     },
     {
-      "title": "KnockoffGAN: Generating Knockoffs for Feature Selection using Generative Adversarial Networks",
-      "paper_url": "https://openreview.net/forum?id=ByeZ5jC5YQ",
-      "code_links": [
-        "https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/knockoffgan"
-      ],
-      "evidence": "code",
-      "openreview_id": "ByeZ5jC5YQ",
-      "presentation_type": "Poster",
-      "proceeding": "ICLR 2019 Poster"
-    },
-    {
       "title": "Knowledge Flow: Improve Upon Your Teachers",
       "paper_url": "https://openreview.net/forum?id=BJeOioA9Y7",
       "code_links": [
@@ -2777,6 +2777,18 @@
       ],
       "evidence": "community_implementations",
       "openreview_id": "Sk4jFoA9K7",
+      "presentation_type": "Poster",
+      "proceeding": "ICLR 2019 Poster"
+    },
+    {
+      "title": "Phase-Aware Speech Enhancement with Deep Complex U-Net",
+      "paper_url": "https://openreview.net/forum?id=SkeRTsAcYm",
+      "code_links": [
+        "https://paperswithcode.com/paper/?openreview=SkeRTsAcYm",
+        "https://www.catalyzex.com/paper/phase-aware-speech-enhancement-with-deep/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "SkeRTsAcYm",
       "presentation_type": "Poster",
       "proceeding": "ICLR 2019 Poster"
     },
@@ -3786,93 +3798,47 @@
       "proceeding": "ICLR 2019 Poster"
     },
     {
-      "title": "A Case for Object Compositionality in Deep Generative Models of Images",
-      "paper_url": "https://openreview.net/forum?id=BJgEjiRqYX",
+      "title": "ADAPTIVE NETWORK SPARSIFICATION VIA DEPENDENT VARIATIONAL BETA-BERNOULLI DROPOUT",
+      "paper_url": "https://openreview.net/forum?id=SylU3jC5Y7",
       "code_links": [
-        "https://www.catalyzex.com/paper/a-case-for-object-compositionality-in-deep/code"
+        "https://www.catalyzex.com/paper/adaptive-network-sparsification-via-dependent/code"
       ],
       "evidence": "community_implementations",
-      "openreview_id": "BJgEjiRqYX",
+      "openreview_id": "SylU3jC5Y7",
       "presentation_type": "Reject",
       "proceeding": "ICLR 2019 Reject"
     },
     {
-      "title": "A fast quasi-Newton-type method for large-scale stochastic optimisation",
-      "paper_url": "https://openreview.net/forum?id=Hkg1csA5Y7",
+      "title": "Adaptive Neural Trees",
+      "paper_url": "https://openreview.net/forum?id=ByN7Yo05YX",
       "code_links": [
-        "https://www.catalyzex.com/paper/a-fast-quasi-newton-type-method-for-large/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "Hkg1csA5Y7",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "A Frank-Wolfe Framework for Efficient and Effective Adversarial Attacks",
-      "paper_url": "https://openreview.net/forum?id=Hyewf3AqYX",
-      "code_links": [
-        "https://github.com/uclaml/Frank-Wolfe-AdvML",
-        "https://paperswithcode.com/paper/?openreview=Hyewf3AqYX",
-        "https://www.catalyzex.com/paper/a-frank-wolfe-framework-for-efficient-and/code"
+        "https://github.com/rtanno21609/AdaptiveNeuralTrees",
+        "https://www.catalyzex.com/paper/adaptive-neural-trees/code"
       ],
       "evidence": "code",
-      "openreview_id": "Hyewf3AqYX",
+      "openreview_id": "ByN7Yo05YX",
       "presentation_type": "Reject",
       "proceeding": "ICLR 2019 Reject"
     },
     {
-      "title": "A More Globally Accurate Dimensionality Reduction Method Using Triplets",
-      "paper_url": "https://openreview.net/forum?id=BkgVx3A9Km",
+      "title": "Adaptive Pruning of Neural Language Models for Mobile Devices",
+      "paper_url": "https://openreview.net/forum?id=S1GcHsAqtm",
       "code_links": [
-        "https://www.catalyzex.com/paper/a-more-globally-accurate-dimensionality/code"
+        "https://www.catalyzex.com/paper/adaptive-pruning-of-neural-language-models/code"
       ],
       "evidence": "community_implementations",
-      "openreview_id": "BkgVx3A9Km",
+      "openreview_id": "S1GcHsAqtm",
       "presentation_type": "Reject",
       "proceeding": "ICLR 2019 Reject"
     },
     {
-      "title": "A Rotation and a Translation Suffice: Fooling CNNs with Simple Transformations",
-      "paper_url": "https://openreview.net/forum?id=BJfvknCqFQ",
+      "title": "Adversarial Attacks on Node Embeddings",
+      "paper_url": "https://openreview.net/forum?id=Sye7qoC5FQ",
       "code_links": [
-        "https://www.catalyzex.com/paper/a-rotation-and-a-translation-suffice-fooling/code"
+        "https://www.catalyzex.com/paper/adversarial-attacks-on-node-embeddings/code"
       ],
       "evidence": "community_implementations",
-      "openreview_id": "BJfvknCqFQ",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "A unified theory of adaptive stochastic gradient descent as Bayesian filtering",
-      "paper_url": "https://openreview.net/forum?id=BygREjC9YQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/a-unified-theory-of-adaptive-stochastic/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "BygREjC9YQ",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "ACIQ: Analytical Clipping for Integer Quantization of neural networks",
-      "paper_url": "https://openreview.net/forum?id=B1x33sC9KQ",
-      "code_links": [
-        "https://github.com/submission2019/AnalyticalScaleForIntegerQuantization",
-        "https://www.catalyzex.com/paper/aciq-analytical-clipping-for-integer/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "B1x33sC9KQ",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "Adversarial Examples Are a Natural Consequence of Test Error in Noise",
-      "paper_url": "https://openreview.net/forum?id=S1xoy3CcYX",
-      "code_links": [
-        "https://www.catalyzex.com/paper/adversarial-examples-are-a-natural/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "S1xoy3CcYX",
+      "openreview_id": "Sye7qoC5FQ",
       "presentation_type": "Reject",
       "proceeding": "ICLR 2019 Reject"
     },
@@ -4001,35 +3967,92 @@
       "proceeding": "ICLR 2019 Reject"
     },
     {
-      "title": "Are Generative Classifiers More Robust to Adversarial Attacks?",
-      "paper_url": "https://openreview.net/forum?id=HygUOoC5KX",
+      "title": "Backdrop: Stochastic Backpropagation",
+      "paper_url": "https://openreview.net/forum?id=B1l8iiA9tQ",
       "code_links": [
-        "https://www.catalyzex.com/paper/are-generative-classifiers-more-robust-to/code"
+        "https://github.com/dexgen/backdrop",
+        "https://www.catalyzex.com/paper/backdrop-stochastic-backpropagation/code"
       ],
-      "evidence": "community_implementations",
-      "openreview_id": "HygUOoC5KX",
+      "evidence": "code",
+      "openreview_id": "B1l8iiA9tQ",
       "presentation_type": "Reject",
       "proceeding": "ICLR 2019 Reject"
     },
     {
-      "title": "Area Attention",
-      "paper_url": "https://openreview.net/forum?id=rygp3iRcF7",
+      "title": "Backplay: 'Man muss immer umkehren'",
+      "paper_url": "https://openreview.net/forum?id=H1xk8jAqKQ",
       "code_links": [
-        "https://www.catalyzex.com/paper/area-attention/code"
+        "https://www.catalyzex.com/paper/backplay-man-muss-immer-umkehren/code"
       ],
       "evidence": "community_implementations",
-      "openreview_id": "rygp3iRcF7",
+      "openreview_id": "H1xk8jAqKQ",
       "presentation_type": "Reject",
       "proceeding": "ICLR 2019 Reject"
     },
     {
-      "title": "Classification from Positive, Unlabeled and Biased Negative Data",
-      "paper_url": "https://openreview.net/forum?id=H1ldNoC9tX",
+      "title": "BNN+: Improved Binary Network Training",
+      "paper_url": "https://openreview.net/forum?id=SJfHg2A5tQ",
       "code_links": [
-        "https://www.catalyzex.com/paper/classification-from-positive-unlabeled-and/code"
+        "https://www.catalyzex.com/paper/bnn-improved-binary-network-training/code"
       ],
       "evidence": "community_implementations",
-      "openreview_id": "H1ldNoC9tX",
+      "openreview_id": "SJfHg2A5tQ",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
+      "title": "Boosting Trust Region Policy Optimization by Normalizing flows Policy",
+      "paper_url": "https://openreview.net/forum?id=SJNRHiAcYX",
+      "code_links": [
+        "https://www.catalyzex.com/paper/boosting-trust-region-policy-optimization-by/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "SJNRHiAcYX",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
+      "title": "CAML: Fast Context Adaptation via Meta-Learning",
+      "paper_url": "https://openreview.net/forum?id=BylBfnRqFm",
+      "code_links": [
+        "https://www.catalyzex.com/paper/caml-fast-context-adaptation-via-meta/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "BylBfnRqFm",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
+      "title": "Can I trust you more? Model-Agnostic Hierarchical Explanations",
+      "paper_url": "https://openreview.net/forum?id=rkMD73A5FX",
+      "code_links": [
+        "https://www.catalyzex.com/paper/can-i-trust-you-more-model-agnostic/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "rkMD73A5FX",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
+      "title": "CHEMICAL NAMES STANDARDIZATION USING NEURAL SEQUENCE TO SEQUENCE MODEL",
+      "paper_url": "https://openreview.net/forum?id=rJg_NjCqtX",
+      "code_links": [
+        "https://github.com/zhanjunlang/Neural_Chemical_Name_Standardization",
+        "https://www.catalyzex.com/paper/chemical-names-standardization-using-neural/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "rJg_NjCqtX",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
+      "title": "ChoiceNet: Robust Learning by  Revealing Output Correlations",
+      "paper_url": "https://openreview.net/forum?id=S1MQ6jCcK7",
+      "code_links": [
+        "https://www.catalyzex.com/paper/choicenet-robust-learning-by-revealing-output/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "S1MQ6jCcK7",
       "presentation_type": "Reject",
       "proceeding": "ICLR 2019 Reject"
     },
@@ -4046,36 +4069,36 @@
       "proceeding": "ICLR 2019 Reject"
     },
     {
-      "title": "Collapse of deep and narrow neural nets",
-      "paper_url": "https://openreview.net/forum?id=r1MSBjA9Ym",
+      "title": "Complementary-label learning for arbitrary losses and models",
+      "paper_url": "https://openreview.net/forum?id=SJMnG2C9YX",
       "code_links": [
-        "https://www.catalyzex.com/paper/collapse-of-deep-and-narrow-neural-nets/code"
+        "https://www.catalyzex.com/paper/complementary-label-learning-for-arbitrary/code"
       ],
       "evidence": "community_implementations",
-      "openreview_id": "r1MSBjA9Ym",
+      "openreview_id": "SJMnG2C9YX",
       "presentation_type": "Reject",
       "proceeding": "ICLR 2019 Reject"
     },
     {
-      "title": "Consistency-based anomaly detection with adaptive multiple-hypotheses predictions",
-      "paper_url": "https://openreview.net/forum?id=r1ledo0ctX",
+      "title": "Conditional Inference in Pre-trained Variational Autoencoders via Cross-coding",
+      "paper_url": "https://openreview.net/forum?id=ByxLl309Ym",
       "code_links": [
-        "https://paperswithcode.com/paper/?openreview=r1ledo0ctX",
-        "https://www.catalyzex.com/paper/consistency-based-anomaly-detection-with/code"
+        "https://github.com/wuga214/XCoder_VAE_Conditional_Inference",
+        "https://www.catalyzex.com/paper/conditional-inference-in-pre-trained/code"
       ],
       "evidence": "code",
-      "openreview_id": "r1ledo0ctX",
+      "openreview_id": "ByxLl309Ym",
       "presentation_type": "Reject",
       "proceeding": "ICLR 2019 Reject"
     },
     {
-      "title": "Consistent Jumpy Predictions for Videos and Scenes",
-      "paper_url": "https://openreview.net/forum?id=S1gQ5sRcFm",
+      "title": "Connecting the Dots Between MLE and RL for Sequence Generation",
+      "paper_url": "https://openreview.net/forum?id=r1MxciCcKm",
       "code_links": [
-        "https://www.catalyzex.com/paper/consistent-jumpy-predictions-for-videos-and/code"
+        "https://www.catalyzex.com/paper/connecting-the-dots-between-mle-and-rl-for/code"
       ],
       "evidence": "community_implementations",
-      "openreview_id": "S1gQ5sRcFm",
+      "openreview_id": "r1MxciCcKm",
       "presentation_type": "Reject",
       "proceeding": "ICLR 2019 Reject"
     },
@@ -4150,19 +4173,6 @@
       "proceeding": "ICLR 2019 Reject"
     },
     {
-      "title": "Count-Based Exploration with the Successor Representation",
-      "paper_url": "https://openreview.net/forum?id=S1giVsRcYm",
-      "code_links": [
-        "https://github.com/mcmachado/count_based_exploration_sr",
-        "https://paperswithcode.com/paper/?openreview=S1giVsRcYm",
-        "https://www.catalyzex.com/paper/count-based-exploration-with-the-successor/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "S1giVsRcYm",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
       "title": "Countdown Regression: Sharp and Calibrated Survival Predictions",
       "paper_url": "https://openreview.net/forum?id=Bkx8OiRcYX",
       "code_links": [
@@ -4170,30 +4180,6 @@
       ],
       "evidence": "community_implementations",
       "openreview_id": "Bkx8OiRcYX",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "Cramer-Wold AutoEncoder",
-      "paper_url": "https://openreview.net/forum?id=rkgwuiA9F7",
-      "code_links": [
-        "https://github.com/gmum/cwae",
-        "https://paperswithcode.com/paper/?openreview=rkgwuiA9F7",
-        "https://www.catalyzex.com/paper/cramer-wold-autoencoder/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "rkgwuiA9F7",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "Cutting Down Training Memory by Re-fowarding",
-      "paper_url": "https://openreview.net/forum?id=BJMvBjC5YQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/cutting-down-training-memory-by-re-fowarding/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "BJMvBjC5YQ",
       "presentation_type": "Reject",
       "proceeding": "ICLR 2019 Reject"
     },
@@ -4287,26 +4273,106 @@
       "proceeding": "ICLR 2019 Reject"
     },
     {
-      "title": "Discovering Low-Precision Networks Close to Full-Precision Networks for Efficient Embedded Inference",
-      "paper_url": "https://openreview.net/forum?id=BJx1SsAcYQ",
+      "title": "Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning",
+      "paper_url": "https://openreview.net/forum?id=HyGh4sR9YQ",
       "code_links": [
-        "https://www.catalyzex.com/paper/discovering-low-precision-networks-close-to/code"
+        "https://www.catalyzex.com/paper/deep-neuroevolution-genetic-algorithms-are-a/code"
       ],
       "evidence": "community_implementations",
-      "openreview_id": "BJx1SsAcYQ",
+      "openreview_id": "HyGh4sR9YQ",
       "presentation_type": "Reject",
       "proceeding": "ICLR 2019 Reject"
     },
     {
-      "title": "Discriminative Active Learning",
-      "paper_url": "https://openreview.net/forum?id=rJl-HsR9KX",
+      "title": "Deep processing of structured data",
+      "paper_url": "https://openreview.net/forum?id=Hke8Do0cF7",
       "code_links": [
-        "https://github.com/dsgissin/DiscriminativeActiveLearning",
-        "https://paperswithcode.com/paper/?openreview=rJl-HsR9KX",
-        "https://www.catalyzex.com/paper/discriminative-active-learning/code"
+        "https://www.catalyzex.com/paper/deep-processing-of-structured-data/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "Hke8Do0cF7",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
+      "title": "Deep Recurrent Gaussian Process with Variational Sparse Spectrum Approximation",
+      "paper_url": "https://openreview.net/forum?id=BkgosiRcKm",
+      "code_links": [
+        "https://www.catalyzex.com/paper/deep-recurrent-gaussian-process-with/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "BkgosiRcKm",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
+      "title": "Dense Morphological Network: An Universal Function Approximator",
+      "paper_url": "https://openreview.net/forum?id=SyxknjC9KQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/dense-morphological-network-an-universal/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "SyxknjC9KQ",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
+      "title": "Detecting Adversarial Examples Via Neural Fingerprinting",
+      "paper_url": "https://openreview.net/forum?id=SJekyhCctQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/detecting-adversarial-examples-via-neural/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "SJekyhCctQ",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
+      "title": "Differentially Private Federated Learning: A Client Level Perspective",
+      "paper_url": "https://openreview.net/forum?id=SkVRTj0cYQ",
+      "code_links": [
+        "https://github.com/cyrusgeyer/DiffPrivate_FedLearning",
+        "https://paperswithcode.com/paper/?openreview=SkVRTj0cYQ",
+        "https://www.catalyzex.com/paper/differentially-private-federated-learning-a/code"
       ],
       "evidence": "code",
-      "openreview_id": "rJl-HsR9KX",
+      "openreview_id": "SkVRTj0cYQ",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
+      "title": "Direct Optimization through $\\arg \\max$  for  Discrete Variational Auto-Encoder",
+      "paper_url": "https://openreview.net/forum?id=S1ey2sRcYQ",
+      "code_links": [
+        "https://github.com/GuyLor/direct_vae",
+        "https://paperswithcode.com/paper/?openreview=S1ey2sRcYQ",
+        "https://www.catalyzex.com/paper/direct-optimization-through-arg-max-for/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "S1ey2sRcYQ",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
+      "title": "Dirichlet Variational Autoencoder",
+      "paper_url": "https://openreview.net/forum?id=rkgsvoA9K7",
+      "code_links": [
+        "https://www.catalyzex.com/paper/dirichlet-variational-autoencoder/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "rkgsvoA9K7",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
+      "title": "Discovering General-Purpose Active Learning Strategies",
+      "paper_url": "https://openreview.net/forum?id=HJxfm2CqKm",
+      "code_links": [
+        "https://github.com/ksenia-konyushkova/LAL-RL",
+        "https://www.catalyzex.com/paper/discovering-general-purpose-active-learning/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "HJxfm2CqKm",
       "presentation_type": "Reject",
       "proceeding": "ICLR 2019 Reject"
     },
@@ -4344,25 +4410,14 @@
       "proceeding": "ICLR 2019 Reject"
     },
     {
-      "title": "Dynamic Graph Representation Learning via Self-Attention Networks",
-      "paper_url": "https://openreview.net/forum?id=HylsgnCcFQ",
+      "title": "DVOLVER: Efficient Pareto-Optimal Neural Network Architecture Search",
+      "paper_url": "https://openreview.net/forum?id=Bkf1tjR9KQ",
       "code_links": [
-        "https://www.catalyzex.com/paper/dynamic-graph-representation-learning-via/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "HylsgnCcFQ",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "EDDI: Efficient Dynamic Discovery of High-Value Information with Partial VAE",
-      "paper_url": "https://openreview.net/forum?id=HJl0jiRqtX",
-      "code_links": [
-        "https://github.com/microsoft/EDDI",
-        "https://www.catalyzex.com/paper/eddi-efficient-dynamic-discovery-of-high/code"
+        "https://github.com/guillaume-michel/dvolver",
+        "https://www.catalyzex.com/paper/dvolver-efficient-pareto-optimal-neural/code"
       ],
       "evidence": "code",
-      "openreview_id": "HJl0jiRqtX",
+      "openreview_id": "Bkf1tjR9KQ",
       "presentation_type": "Reject",
       "proceeding": "ICLR 2019 Reject"
     },
@@ -4378,69 +4433,50 @@
       "proceeding": "ICLR 2019 Reject"
     },
     {
-      "title": "EFFICIENT SEQUENCE LABELING WITH ACTOR-CRITIC TRAINING",
-      "paper_url": "https://openreview.net/forum?id=H1e6ij0cKQ",
+      "title": "Excitation Dropout: Encouraging Plasticity in Deep Neural Networks",
+      "paper_url": "https://openreview.net/forum?id=H1xQSjCqFQ",
       "code_links": [
-        "https://www.catalyzex.com/paper/efficient-sequence-labeling-with-actor-critic/code"
+        "https://www.catalyzex.com/paper/excitation-dropout-encouraging-plasticity-in/code"
       ],
       "evidence": "community_implementations",
-      "openreview_id": "H1e6ij0cKQ",
+      "openreview_id": "H1xQSjCqFQ",
       "presentation_type": "Reject",
       "proceeding": "ICLR 2019 Reject"
     },
     {
-      "title": "EMI: Exploration with Mutual Information Maximizing State and Action Embeddings",
-      "paper_url": "https://openreview.net/forum?id=Hylyui09tm",
+      "title": "Finding Mixed Nash Equilibria of Generative Adversarial Networks",
+      "paper_url": "https://openreview.net/forum?id=ryMQ5sRqYX",
       "code_links": [
-        "https://www.catalyzex.com/paper/emi-exploration-with-mutual-information/code"
+        "https://www.catalyzex.com/paper/finding-mixed-nash-equilibria-of-generative/code"
       ],
       "evidence": "community_implementations",
-      "openreview_id": "Hylyui09tm",
+      "openreview_id": "ryMQ5sRqYX",
       "presentation_type": "Reject",
       "proceeding": "ICLR 2019 Reject"
     },
     {
-      "title": "Entropic GANs meet VAEs: A Statistical Approach to Compute Sample Likelihoods in GANs",
-      "paper_url": "https://openreview.net/forum?id=BygMAiRqK7",
+      "title": "Flow++: Improving Flow-Based Generative Models  with  Variational Dequantization and Architecture Design",
+      "paper_url": "https://openreview.net/forum?id=Hyg74h05tX",
       "code_links": [
-        "https://github.com/yogeshbalaji/EntropicGANs_meet_VAEs",
-        "https://www.catalyzex.com/paper/entropic-gans-meet-vaes-a-statistical/code"
+        "https://github.com/aravind0706/flowpp",
+        "https://paperswithcode.com/paper/?openreview=Hyg74h05tX",
+        "https://www.catalyzex.com/paper/flow-improving-flow-based-generative-models/code"
       ],
       "evidence": "code",
-      "openreview_id": "BygMAiRqK7",
+      "openreview_id": "Hyg74h05tX",
       "presentation_type": "Reject",
       "proceeding": "ICLR 2019 Reject"
     },
     {
-      "title": "Ergodic Measure Preserving Flows",
-      "paper_url": "https://openreview.net/forum?id=HJx4KjRqYQ",
+      "title": "Formal Limitations on the Measurement of Mutual Information",
+      "paper_url": "https://openreview.net/forum?id=BkedwoC5t7",
       "code_links": [
-        "https://www.catalyzex.com/paper/ergodic-measure-preserving-flows/code"
+        "https://github.com/karlstratos/doe",
+        "https://paperswithcode.com/paper/?openreview=BkedwoC5t7",
+        "https://www.catalyzex.com/paper/formal-limitations-on-the-measurement-of/code"
       ],
-      "evidence": "community_implementations",
-      "openreview_id": "HJx4KjRqYQ",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "Evaluating GANs via Duality",
-      "paper_url": "https://openreview.net/forum?id=Syeben09FQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/evaluating-gans-via-duality/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "Syeben09FQ",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "Generative Ensembles for Robust Anomaly Detection",
-      "paper_url": "https://openreview.net/forum?id=B1e8CsRctX",
-      "code_links": [
-        "https://www.catalyzex.com/paper/generative-ensembles-for-robust-anomaly/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "B1e8CsRctX",
+      "evidence": "code",
+      "openreview_id": "BkedwoC5t7",
       "presentation_type": "Reject",
       "proceeding": "ICLR 2019 Reject"
     },
@@ -4491,17 +4527,6 @@
       "proceeding": "ICLR 2019 Reject"
     },
     {
-      "title": "Graph Generation via Scattering",
-      "paper_url": "https://openreview.net/forum?id=HyxSBh09t7",
-      "code_links": [
-        "https://www.catalyzex.com/paper/graph-generation-via-scattering/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "HyxSBh09t7",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
       "title": "Greedy Attack and Gumbel Attack: Generating Adversarial Examples for Discrete Data",
       "paper_url": "https://openreview.net/forum?id=ByghKiC5YX",
       "code_links": [
@@ -4509,17 +4534,6 @@
       ],
       "evidence": "community_implementations",
       "openreview_id": "ByghKiC5YX",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "Guided Evolutionary Strategies: Escaping the curse of dimensionality in random search",
-      "paper_url": "https://openreview.net/forum?id=B1xFxh0cKX",
-      "code_links": [
-        "https://www.catalyzex.com/paper/guided-evolutionary-strategies-escaping-the/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "B1xFxh0cKX",
       "presentation_type": "Reject",
       "proceeding": "ICLR 2019 Reject"
     },
@@ -4580,17 +4594,6 @@
       "proceeding": "ICLR 2019 Reject"
     },
     {
-      "title": "I Know the Feeling: Learning to Converse with Empathy",
-      "paper_url": "https://openreview.net/forum?id=HyesW2C9YQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/i-know-the-feeling-learning-to-converse-with/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "HyesW2C9YQ",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
       "title": "IB-GAN: Disentangled Representation Learning with Information Bottleneck GAN",
       "paper_url": "https://openreview.net/forum?id=ryljV2A5KX",
       "code_links": [
@@ -4599,17 +4602,6 @@
       ],
       "evidence": "code",
       "openreview_id": "ryljV2A5KX",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "Identifying Generalization Properties in Neural Networks",
-      "paper_url": "https://openreview.net/forum?id=BJxOHs0cKm",
-      "code_links": [
-        "https://www.catalyzex.com/paper/identifying-generalization-properties-in/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "BJxOHs0cKm",
       "presentation_type": "Reject",
       "proceeding": "ICLR 2019 Reject"
     },
@@ -4735,28 +4727,6 @@
       "proceeding": "ICLR 2019 Reject"
     },
     {
-      "title": "Learning to Progressively Plan",
-      "paper_url": "https://openreview.net/forum?id=BJgQB20qFQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/learning-to-progressively-plan/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "BJgQB20qFQ",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "Learning to Separate Domains in Generalized Zero-Shot and Open Set Learning: a probabilistic perspective",
-      "paper_url": "https://openreview.net/forum?id=H1GaLiAcY7",
-      "code_links": [
-        "https://www.catalyzex.com/paper/learning-to-separate-domains-in-generalized/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "H1GaLiAcY7",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
       "title": "Learning with Random Learning Rates.",
       "paper_url": "https://openreview.net/forum?id=S1fcnoR9K7",
       "code_links": [
@@ -4764,28 +4734,6 @@
       ],
       "evidence": "community_implementations",
       "openreview_id": "S1fcnoR9K7",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "Like What You Like: Knowledge Distill via Neuron Selectivity Transfer",
-      "paper_url": "https://openreview.net/forum?id=rJf0BjAqYX",
-      "code_links": [
-        "https://www.catalyzex.com/paper/like-what-you-like-knowledge-distill-via/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "rJf0BjAqYX",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "Local Image-to-Image Translation via Pixel-wise Highway Adaptive Instance Normalization",
-      "paper_url": "https://openreview.net/forum?id=HJgTHnActQ",
-      "code_links": [
-        "https://github.com/AnonymousIclrAuthor/Highway-Adaptive-Instance-Normalization"
-      ],
-      "evidence": "code",
-      "openreview_id": "HJgTHnActQ",
       "presentation_type": "Reject",
       "proceeding": "ICLR 2019 Reject"
     },
@@ -4801,6 +4749,17 @@
       "proceeding": "ICLR 2019 Reject"
     },
     {
+      "title": "Massively Parallel Hyperparameter Tuning",
+      "paper_url": "https://openreview.net/forum?id=S1MAriC5F7",
+      "code_links": [
+        "https://www.catalyzex.com/paper/massively-parallel-hyperparameter-tuning/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "S1MAriC5F7",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
       "title": "Metric-Optimized Example Weights",
       "paper_url": "https://openreview.net/forum?id=SklgHoRqt7",
       "code_links": [
@@ -4808,17 +4767,6 @@
       ],
       "evidence": "community_implementations",
       "openreview_id": "SklgHoRqt7",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "Metropolis-Hastings view on variational inference and adversarial training",
-      "paper_url": "https://openreview.net/forum?id=Hkg313AcFX",
-      "code_links": [
-        "https://www.catalyzex.com/paper/metropolis-hastings-view-on-variational/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "Hkg313AcFX",
       "presentation_type": "Reject",
       "proceeding": "ICLR 2019 Reject"
     },
@@ -4857,29 +4805,6 @@
       "proceeding": "ICLR 2019 Reject"
     },
     {
-      "title": "Model Compression with Generative Adversarial Networks",
-      "paper_url": "https://openreview.net/forum?id=Byxz4n09tQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/model-compression-with-generative-adversarial/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "Byxz4n09tQ",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "Mol-CycleGAN - a generative model for molecular optimization",
-      "paper_url": "https://openreview.net/forum?id=BklKFo09YX",
-      "code_links": [
-        "https://github.com/ardigen/mol-cycle-gan",
-        "https://www.catalyzex.com/paper/mol-cyclegan-a-generative-model-for-molecular/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "BklKFo09YX",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
       "title": "Morpho-MNIST: Quantitative Assessment and Diagnostics for Representation Learning",
       "paper_url": "https://openreview.net/forum?id=r1esnoAqt7",
       "code_links": [
@@ -4903,96 +4828,6 @@
       "proceeding": "ICLR 2019 Reject"
     },
     {
-      "title": "Multi-turn Dialogue Response Generation in an Adversarial Learning Framework",
-      "paper_url": "https://openreview.net/forum?id=SJxzPsAqFQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/multi-turn-dialogue-response-generation-in-an/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "SJxzPsAqFQ",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "NECST: Neural Joint Source-Channel Coding",
-      "paper_url": "https://openreview.net/forum?id=BJgbzhC5Ym",
-      "code_links": [
-        "https://www.catalyzex.com/paper/necst-neural-joint-source-channel-coding/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "BJgbzhC5Ym",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "NETWORK COMPRESSION USING CORRELATION ANALYSIS OF LAYER RESPONSES",
-      "paper_url": "https://openreview.net/forum?id=rkl42iA5t7",
-      "code_links": [
-        "https://www.catalyzex.com/paper/network-compression-using-correlation/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "rkl42iA5t7",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "Neural Message Passing for Multi-Label Classification",
-      "paper_url": "https://openreview.net/forum?id=r1xYr3C5t7",
-      "code_links": [
-        "https://github.com/QData/LaMP",
-        "https://www.catalyzex.com/paper/neural-message-passing-for-multi-label/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "r1xYr3C5t7",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "Neural Networks with Structural Resistance to Adversarial Attacks",
-      "paper_url": "https://openreview.net/forum?id=BJgolhR9Km",
-      "code_links": [
-        "https://www.catalyzex.com/paper/neural-networks-with-structural-resistance-to/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "BJgolhR9Km",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "Neural separation of observed and unobserved distributions",
-      "paper_url": "https://openreview.net/forum?id=SkelJnRqt7",
-      "code_links": [
-        "https://www.catalyzex.com/paper/neural-separation-of-observed-and-unobserved/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "SkelJnRqt7",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "NICE: noise injection and clamping estimation for neural network quantization",
-      "paper_url": "https://openreview.net/forum?id=HyfyN30qt7",
-      "code_links": [
-        "https://github.com/Lancer555/NICE",
-        "https://www.catalyzex.com/paper/nice-noise-injection-and-clamping-estimation/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "HyfyN30qt7",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "NLProlog: Reasoning with Weak Unification for Natural Language Question Answering",
-      "paper_url": "https://openreview.net/forum?id=ByfXe2C5tm",
-      "code_links": [
-        "https://www.catalyzex.com/paper/nlprolog-reasoning-with-weak-unification-for/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "ByfXe2C5tm",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
       "title": "NSGA-Net: A Multi-Objective Genetic Algorithm for Neural Architecture Search",
       "paper_url": "https://openreview.net/forum?id=B1gIf305Ym",
       "code_links": [
@@ -5000,17 +4835,6 @@
       ],
       "evidence": "community_implementations",
       "openreview_id": "B1gIf305Ym",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "On Generalization Bounds of a Family of Recurrent Neural Networks",
-      "paper_url": "https://openreview.net/forum?id=Skf-oo0qt7",
-      "code_links": [
-        "https://www.catalyzex.com/paper/on-generalization-bounds-of-a-family-of/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "Skf-oo0qt7",
       "presentation_type": "Reject",
       "proceeding": "ICLR 2019 Reject"
     },
@@ -5048,19 +4872,6 @@
       "proceeding": "ICLR 2019 Reject"
     },
     {
-      "title": "On the Spectral Bias of Neural Networks",
-      "paper_url": "https://openreview.net/forum?id=r1gR2sC9FX",
-      "code_links": [
-        "https://github.com/nasimrahaman/SpectralBias",
-        "https://paperswithcode.com/paper/?openreview=r1gR2sC9FX",
-        "https://www.catalyzex.com/paper/on-the-spectral-bias-of-neural-networks/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "r1gR2sC9FX",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
       "title": "On-Policy Trust Region Policy Optimisation with Replay Buffers",
       "paper_url": "https://openreview.net/forum?id=B1MB5oRqtQ",
       "code_links": [
@@ -5070,30 +4881,6 @@
       ],
       "evidence": "code",
       "openreview_id": "B1MB5oRqtQ",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "Open Vocabulary Learning on Source Code with a Graph-Structured Cache",
-      "paper_url": "https://openreview.net/forum?id=SkNSehA9FQ",
-      "code_links": [
-        "https://github.com/mwcvitkovic/Deep_Learning_On_Code_With_A_Graph_Vocabulary--Code_Preprocessor",
-        "https://paperswithcode.com/paper/?openreview=SkNSehA9FQ",
-        "https://www.catalyzex.com/paper/open-vocabulary-learning-on-source-code-with/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "SkNSehA9FQ",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "Optimizing for Generalization in Machine Learning with Cross-Validation Gradients",
-      "paper_url": "https://openreview.net/forum?id=rJlMBjAcYX",
-      "code_links": [
-        "https://www.catalyzex.com/paper/optimizing-for-generalization-in-machine/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "rJlMBjAcYX",
       "presentation_type": "Reject",
       "proceeding": "ICLR 2019 Reject"
     },
@@ -5117,6 +4904,106 @@
       ],
       "evidence": "community_implementations",
       "openreview_id": "ByeNFoRcK7",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
+      "title": "Perfect Match: A Simple Method for Learning Representations For Counterfactual Inference With Neural Networks",
+      "paper_url": "https://openreview.net/forum?id=rkxt8oC9FQ",
+      "code_links": [
+        "https://github.com/d909b/perfect_match",
+        "https://www.catalyzex.com/paper/perfect-match-a-simple-method-for-learning/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "rkxt8oC9FQ",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
+      "title": "Phrase-Based Attentions",
+      "paper_url": "https://openreview.net/forum?id=r1xN5oA5tm",
+      "code_links": [
+        "https://www.catalyzex.com/paper/phrase-based-attentions/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "r1xN5oA5tm",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
+      "title": "Point Cloud GAN",
+      "paper_url": "https://openreview.net/forum?id=ByxAcjCqt7",
+      "code_links": [
+        "https://www.catalyzex.com/paper/point-cloud-gan/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "ByxAcjCqt7",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
+      "title": "PPD: Permutation Phase Defense Against Adversarial Examples in Deep Learning",
+      "paper_url": "https://openreview.net/forum?id=HkElFj0qYQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/ppd-permutation-phase-defense-against/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "HkElFj0qYQ",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
+      "title": "Pumpout: A Meta Approach for Robustly Training Deep Neural Networks with Noisy Labels",
+      "paper_url": "https://openreview.net/forum?id=HyG1_j0cYQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/pumpout-a-meta-approach-for-robustly-training/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "HyG1_j0cYQ",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
+      "title": "Pushing the bounds of dropout",
+      "paper_url": "https://openreview.net/forum?id=rklwwo05Ym",
+      "code_links": [
+        "https://www.catalyzex.com/paper/pushing-the-bounds-of-dropout/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "rklwwo05Ym",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
+      "title": "Q-map: a Convolutional Approach for Goal-Oriented Reinforcement Learning",
+      "paper_url": "https://openreview.net/forum?id=rye7XnRqFm",
+      "code_links": [
+        "https://paperswithcode.com/paper/?openreview=rye7XnRqFm"
+      ],
+      "evidence": "code",
+      "openreview_id": "rye7XnRqFm",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
+      "title": "q-Neurons: Neuron Activations based on Stochastic Jackson's Derivative Operators",
+      "paper_url": "https://openreview.net/forum?id=r1xkIjA9tX",
+      "code_links": [
+        "https://www.catalyzex.com/paper/q-neurons-neuron-activations-based-on/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "r1xkIjA9tX",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
+      "title": "Quality Evaluation of GANs Using Cross Local Intrinsic Dimensionality",
+      "paper_url": "https://openreview.net/forum?id=BJgYl205tQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/quality-evaluation-of-gans-using-cross-local/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "BJgYl205tQ",
       "presentation_type": "Reject",
       "proceeding": "ICLR 2019 Reject"
     },
@@ -5168,17 +5055,6 @@
       "proceeding": "ICLR 2019 Reject"
     },
     {
-      "title": "RelWalk -- A Latent Variable Model Approach to Knowledge Graph Embedding",
-      "paper_url": "https://openreview.net/forum?id=SkxbDsR9Ym",
-      "code_links": [
-        "https://www.catalyzex.com/paper/relwalk-a-latent-variable-model-approach-to/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "SkxbDsR9Ym",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
       "title": "Remember and Forget for Experience Replay",
       "paper_url": "https://openreview.net/forum?id=Bye9LiR9YX",
       "code_links": [
@@ -5199,17 +5075,6 @@
       ],
       "evidence": "community_implementations",
       "openreview_id": "B14rPj0qY7",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "Revisiting Reweighted Wake-Sleep",
-      "paper_url": "https://openreview.net/forum?id=BJzuKiC9KX",
-      "code_links": [
-        "https://www.catalyzex.com/paper/revisiting-reweighted-wake-sleep/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "BJzuKiC9KX",
       "presentation_type": "Reject",
       "proceeding": "ICLR 2019 Reject"
     },
@@ -5342,6 +5207,18 @@
       "proceeding": "ICLR 2019 Reject"
     },
     {
+      "title": "SOLAR: Deep Structured Representations for Model-Based Reinforcement Learning",
+      "paper_url": "https://openreview.net/forum?id=Bke96sC5tm",
+      "code_links": [
+        "https://github.com/sharadmv/parasol",
+        "https://www.catalyzex.com/paper/solar-deep-structured-representations-for/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "Bke96sC5tm",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
       "title": "Sorting out Lipschitz function approximation",
       "paper_url": "https://openreview.net/forum?id=ryxY73AcK7",
       "code_links": [
@@ -5361,6 +5238,72 @@
       ],
       "evidence": "code",
       "openreview_id": "Hye-LiR5Y7",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
+      "title": "Sparse Binary Compression: Towards Distributed Deep Learning with minimal Communication",
+      "paper_url": "https://openreview.net/forum?id=B1edvs05Y7",
+      "code_links": [
+        "https://www.catalyzex.com/paper/sparse-binary-compression-towards-distributed/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "B1edvs05Y7",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
+      "title": "Spread Divergences",
+      "paper_url": "https://openreview.net/forum?id=HJg3rjA5tQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/spread-divergences/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "HJg3rjA5tQ",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
+      "title": "Stackelberg GAN: Towards Provable Minimax Equilibrium via Multi-Generator Architectures",
+      "paper_url": "https://openreview.net/forum?id=SJxCsj0qYX",
+      "code_links": [
+        "https://www.catalyzex.com/paper/stackelberg-gan-towards-provable-minimax/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "SJxCsj0qYX",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
+      "title": "SupportNet: solving catastrophic forgetting in class incremental learning with support data",
+      "paper_url": "https://openreview.net/forum?id=BkxSHsC5FQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/supportnet-solving-catastrophic-forgetting-in/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "BkxSHsC5FQ",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
+      "title": "Surprising Negative Results for Generative  Adversarial Tree Search",
+      "paper_url": "https://openreview.net/forum?id=BJl4f2A5tQ",
+      "code_links": [
+        "https://paperswithcode.com/paper/?openreview=BJl4f2A5tQ"
+      ],
+      "evidence": "code",
+      "openreview_id": "BJl4f2A5tQ",
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
+      "title": "Targeted Adversarial Examples for Black Box Audio Systems",
+      "paper_url": "https://openreview.net/forum?id=HyGySsAct7",
+      "code_links": [
+        "https://www.catalyzex.com/paper/targeted-adversarial-examples-for-black-box/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "HyGySsAct7",
       "presentation_type": "Reject",
       "proceeding": "ICLR 2019 Reject"
     },
@@ -5445,28 +5388,6 @@
       "proceeding": "ICLR 2019 Reject"
     },
     {
-      "title": "Towards Language Agnostic Universal Representations",
-      "paper_url": "https://openreview.net/forum?id=r1l9Nj09YQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/towards-language-agnostic-universal/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "r1l9Nj09YQ",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "Towards the Latent Transcriptome",
-      "paper_url": "https://openreview.net/forum?id=B1eKk2CcKm",
-      "code_links": [
-        "https://www.catalyzex.com/paper/towards-the-latent-transcriptome/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "B1eKk2CcKm",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
       "title": "Traditional and Heavy Tailed Self Regularization in Neural Network Models",
       "paper_url": "https://openreview.net/forum?id=SJeFNoRcFQ",
       "code_links": [
@@ -5478,1129 +5399,6 @@
       "proceeding": "ICLR 2019 Reject"
     },
     {
-      "title": "Transfer Learning for Related Reinforcement Learning Tasks via Image-to-Image Translation",
-      "paper_url": "https://openreview.net/forum?id=rkxjnjA5KQ",
-      "code_links": [
-        "https://github.com/ShaniGam/RL-GAN",
-        "https://paperswithcode.com/paper/?openreview=rkxjnjA5KQ",
-        "https://www.catalyzex.com/paper/transfer-learning-for-related-reinforcement/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "rkxjnjA5KQ",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "Understanding the Effectiveness of Lipschitz-Continuity in Generative Adversarial Nets",
-      "paper_url": "https://openreview.net/forum?id=r1zOg309tX",
-      "code_links": [
-        "https://www.catalyzex.com/paper/understanding-the-effectiveness-of-lipschitz/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "r1zOg309tX",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "Zero-Resource Multilingual Model Transfer: Learning What to Share",
-      "paper_url": "https://openreview.net/forum?id=SyxHKjAcYX",
-      "code_links": [
-        "https://www.catalyzex.com/paper/zero-resource-multilingual-model-transfer/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "SyxHKjAcYX",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "Zero-shot Dual Machine Translation",
-      "paper_url": "https://openreview.net/forum?id=ByecAoAqK7",
-      "code_links": [
-        "https://www.catalyzex.com/paper/zero-shot-dual-machine-translation/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "ByecAoAqK7",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "Zero-training Sentence Embedding via Orthogonal Basis",
-      "paper_url": "https://openreview.net/forum?id=rJedbn0ctQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/zero-training-sentence-embedding-via/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "rJedbn0ctQ",
-      "presentation_type": "Reject",
-      "proceeding": "ICLR 2019 Reject"
-    },
-    {
-      "title": "3D-RelNet: Joint Object and Relational Network for 3D Prediction",
-      "paper_url": "https://openreview.net/forum?id=rygk9oA9Ym",
-      "code_links": [
-        "https://www.catalyzex.com/paper/3d-relnet-joint-object-and-relational-network/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "rygk9oA9Ym",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "A Biologically Inspired Visual Working Memory for Deep Networks",
-      "paper_url": "https://openreview.net/forum?id=B1fbosCcYm",
-      "code_links": [
-        "https://github.com/ethanwharris/STAWM",
-        "https://paperswithcode.com/paper/?openreview=B1fbosCcYm",
-        "https://www.catalyzex.com/paper/a-biologically-inspired-visual-working-memory/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "B1fbosCcYm",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Actor-Attention-Critic for Multi-Agent Reinforcement Learning",
-      "paper_url": "https://openreview.net/forum?id=HJx7l309Fm",
-      "code_links": [
-        "https://github.com/shariqiqbal2810/MAAC",
-        "https://paperswithcode.com/paper/?openreview=HJx7l309Fm",
-        "https://www.catalyzex.com/paper/arxiv:1810.02912/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "HJx7l309Fm",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "ACTRCE: Augmenting Experience via Teacher’s Advice",
-      "paper_url": "https://openreview.net/forum?id=HyM8V2A9Km",
-      "code_links": [
-        "https://www.catalyzex.com/paper/actrce-augmenting-experience-via-teacher-s/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "HyM8V2A9Km",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Adapting Auxiliary Losses Using Gradient Similarity",
-      "paper_url": "https://openreview.net/forum?id=r1gl7hC5Km",
-      "code_links": [
-        "https://www.catalyzex.com/paper/adapting-auxiliary-losses-using-gradient/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "r1gl7hC5Km",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Adaptive Convolutional Neural Networks",
-      "paper_url": "https://openreview.net/forum?id=ByeWdiR5Ym",
-      "code_links": [
-        "https://github.com/adapconv/adaptive-cnn"
-      ],
-      "evidence": "code",
-      "openreview_id": "ByeWdiR5Ym",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "ADAPTIVE NETWORK SPARSIFICATION VIA DEPENDENT VARIATIONAL BETA-BERNOULLI DROPOUT",
-      "paper_url": "https://openreview.net/forum?id=SylU3jC5Y7",
-      "code_links": [
-        "https://www.catalyzex.com/paper/adaptive-network-sparsification-via-dependent/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "SylU3jC5Y7",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Adaptive Neural Trees",
-      "paper_url": "https://openreview.net/forum?id=ByN7Yo05YX",
-      "code_links": [
-        "https://github.com/rtanno21609/AdaptiveNeuralTrees",
-        "https://www.catalyzex.com/paper/adaptive-neural-trees/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "ByN7Yo05YX",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Adaptive Pruning of Neural Language Models for Mobile Devices",
-      "paper_url": "https://openreview.net/forum?id=S1GcHsAqtm",
-      "code_links": [
-        "https://www.catalyzex.com/paper/adaptive-pruning-of-neural-language-models/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "S1GcHsAqtm",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Adversarial Attacks on Node Embeddings",
-      "paper_url": "https://openreview.net/forum?id=Sye7qoC5FQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/adversarial-attacks-on-node-embeddings/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "Sye7qoC5FQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Assessing Generalization in Deep Reinforcement Learning",
-      "paper_url": "https://openreview.net/forum?id=rylKB3A9Fm",
-      "code_links": [
-        "https://github.com/sunblaze-ucb/rl-generalization",
-        "https://www.catalyzex.com/paper/assessing-generalization-in-deep/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "rylKB3A9Fm",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Augment your batch: better training with larger batches",
-      "paper_url": "https://openreview.net/forum?id=H1V4QhAqYQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/augment-your-batch-better-training-with/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "H1V4QhAqYQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Backdrop: Stochastic Backpropagation",
-      "paper_url": "https://openreview.net/forum?id=B1l8iiA9tQ",
-      "code_links": [
-        "https://github.com/dexgen/backdrop",
-        "https://www.catalyzex.com/paper/backdrop-stochastic-backpropagation/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "B1l8iiA9tQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Backplay: 'Man muss immer umkehren'",
-      "paper_url": "https://openreview.net/forum?id=H1xk8jAqKQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/backplay-man-muss-immer-umkehren/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "H1xk8jAqKQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Backprop with Approximate Activations for Memory-efficient Network Training",
-      "paper_url": "https://openreview.net/forum?id=rJgfjjC9Ym",
-      "code_links": [
-        "https://www.catalyzex.com/paper/backprop-with-approximate-activations-for/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "rJgfjjC9Ym",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "BNN+: Improved Binary Network Training",
-      "paper_url": "https://openreview.net/forum?id=SJfHg2A5tQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/bnn-improved-binary-network-training/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "SJfHg2A5tQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Boosting Trust Region Policy Optimization by Normalizing flows Policy",
-      "paper_url": "https://openreview.net/forum?id=SJNRHiAcYX",
-      "code_links": [
-        "https://www.catalyzex.com/paper/boosting-trust-region-policy-optimization-by/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "SJNRHiAcYX",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "CAML: Fast Context Adaptation via Meta-Learning",
-      "paper_url": "https://openreview.net/forum?id=BylBfnRqFm",
-      "code_links": [
-        "https://www.catalyzex.com/paper/caml-fast-context-adaptation-via-meta/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "BylBfnRqFm",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Can I trust you more? Model-Agnostic Hierarchical Explanations",
-      "paper_url": "https://openreview.net/forum?id=rkMD73A5FX",
-      "code_links": [
-        "https://www.catalyzex.com/paper/can-i-trust-you-more-model-agnostic/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "rkMD73A5FX",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Causal Reasoning from Meta-reinforcement learning",
-      "paper_url": "https://openreview.net/forum?id=H1ltQ3R9KQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/causal-reasoning-from-meta-reinforcement/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "H1ltQ3R9KQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "ChainGAN: A sequential approach to GANs",
-      "paper_url": "https://openreview.net/forum?id=r1gVqsA9tQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/chaingan-a-sequential-approach-to-gans/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "r1gVqsA9tQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "CHEMICAL NAMES STANDARDIZATION USING NEURAL SEQUENCE TO SEQUENCE MODEL",
-      "paper_url": "https://openreview.net/forum?id=rJg_NjCqtX",
-      "code_links": [
-        "https://github.com/zhanjunlang/Neural_Chemical_Name_Standardization",
-        "https://www.catalyzex.com/paper/chemical-names-standardization-using-neural/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "rJg_NjCqtX",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "ChoiceNet: Robust Learning by  Revealing Output Correlations",
-      "paper_url": "https://openreview.net/forum?id=S1MQ6jCcK7",
-      "code_links": [
-        "https://www.catalyzex.com/paper/choicenet-robust-learning-by-revealing-output/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "S1MQ6jCcK7",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Complementary-label learning for arbitrary losses and models",
-      "paper_url": "https://openreview.net/forum?id=SJMnG2C9YX",
-      "code_links": [
-        "https://www.catalyzex.com/paper/complementary-label-learning-for-arbitrary/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "SJMnG2C9YX",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Conditional Inference in Pre-trained Variational Autoencoders via Cross-coding",
-      "paper_url": "https://openreview.net/forum?id=ByxLl309Ym",
-      "code_links": [
-        "https://github.com/wuga214/XCoder_VAE_Conditional_Inference",
-        "https://www.catalyzex.com/paper/conditional-inference-in-pre-trained/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "ByxLl309Ym",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Connecting the Dots Between MLE and RL for Sequence Generation",
-      "paper_url": "https://openreview.net/forum?id=r1MxciCcKm",
-      "code_links": [
-        "https://www.catalyzex.com/paper/connecting-the-dots-between-mle-and-rl-for/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "r1MxciCcKm",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning",
-      "paper_url": "https://openreview.net/forum?id=HyGh4sR9YQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/deep-neuroevolution-genetic-algorithms-are-a/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "HyGh4sR9YQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Deep processing of structured data",
-      "paper_url": "https://openreview.net/forum?id=Hke8Do0cF7",
-      "code_links": [
-        "https://www.catalyzex.com/paper/deep-processing-of-structured-data/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "Hke8Do0cF7",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Deep Recurrent Gaussian Process with Variational Sparse Spectrum Approximation",
-      "paper_url": "https://openreview.net/forum?id=BkgosiRcKm",
-      "code_links": [
-        "https://www.catalyzex.com/paper/deep-recurrent-gaussian-process-with/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "BkgosiRcKm",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Dense Morphological Network: An Universal Function Approximator",
-      "paper_url": "https://openreview.net/forum?id=SyxknjC9KQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/dense-morphological-network-an-universal/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "SyxknjC9KQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Detecting Adversarial Examples Via Neural Fingerprinting",
-      "paper_url": "https://openreview.net/forum?id=SJekyhCctQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/detecting-adversarial-examples-via-neural/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "SJekyhCctQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Differentially Private Federated Learning: A Client Level Perspective",
-      "paper_url": "https://openreview.net/forum?id=SkVRTj0cYQ",
-      "code_links": [
-        "https://github.com/cyrusgeyer/DiffPrivate_FedLearning",
-        "https://paperswithcode.com/paper/?openreview=SkVRTj0cYQ",
-        "https://www.catalyzex.com/paper/differentially-private-federated-learning-a/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "SkVRTj0cYQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Direct Optimization through $\\arg \\max$  for  Discrete Variational Auto-Encoder",
-      "paper_url": "https://openreview.net/forum?id=S1ey2sRcYQ",
-      "code_links": [
-        "https://github.com/GuyLor/direct_vae",
-        "https://paperswithcode.com/paper/?openreview=S1ey2sRcYQ",
-        "https://www.catalyzex.com/paper/direct-optimization-through-arg-max-for/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "S1ey2sRcYQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Dirichlet Variational Autoencoder",
-      "paper_url": "https://openreview.net/forum?id=rkgsvoA9K7",
-      "code_links": [
-        "https://www.catalyzex.com/paper/dirichlet-variational-autoencoder/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "rkgsvoA9K7",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Discovering General-Purpose Active Learning Strategies",
-      "paper_url": "https://openreview.net/forum?id=HJxfm2CqKm",
-      "code_links": [
-        "https://github.com/ksenia-konyushkova/LAL-RL",
-        "https://www.catalyzex.com/paper/discovering-general-purpose-active-learning/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "HJxfm2CqKm",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "DVOLVER: Efficient Pareto-Optimal Neural Network Architecture Search",
-      "paper_url": "https://openreview.net/forum?id=Bkf1tjR9KQ",
-      "code_links": [
-        "https://github.com/guillaume-michel/dvolver",
-        "https://www.catalyzex.com/paper/dvolver-efficient-pareto-optimal-neural/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "Bkf1tjR9KQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Excitation Dropout: Encouraging Plasticity in Deep Neural Networks",
-      "paper_url": "https://openreview.net/forum?id=H1xQSjCqFQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/excitation-dropout-encouraging-plasticity-in/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "H1xQSjCqFQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Finding Mixed Nash Equilibria of Generative Adversarial Networks",
-      "paper_url": "https://openreview.net/forum?id=ryMQ5sRqYX",
-      "code_links": [
-        "https://www.catalyzex.com/paper/finding-mixed-nash-equilibria-of-generative/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "ryMQ5sRqYX",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Flow++: Improving Flow-Based Generative Models  with  Variational Dequantization and Architecture Design",
-      "paper_url": "https://openreview.net/forum?id=Hyg74h05tX",
-      "code_links": [
-        "https://github.com/aravind0706/flowpp",
-        "https://paperswithcode.com/paper/?openreview=Hyg74h05tX",
-        "https://www.catalyzex.com/paper/flow-improving-flow-based-generative-models/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "Hyg74h05tX",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Formal Limitations on the Measurement of Mutual Information",
-      "paper_url": "https://openreview.net/forum?id=BkedwoC5t7",
-      "code_links": [
-        "https://github.com/karlstratos/doe",
-        "https://paperswithcode.com/paper/?openreview=BkedwoC5t7",
-        "https://www.catalyzex.com/paper/formal-limitations-on-the-measurement-of/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "BkedwoC5t7",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Fortified Networks: Improving the Robustness of Deep Networks by Modeling the Manifold of Hidden Representations",
-      "paper_url": "https://openreview.net/forum?id=SkgVRiC9Km",
-      "code_links": [
-        "https://www.catalyzex.com/paper/fortified-networks-improving-the-robustness/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "SkgVRiC9Km",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Generalization and Regularization in DQN",
-      "paper_url": "https://openreview.net/forum?id=HkGmDsR9YQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/generalization-and-regularization-in-dqn/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "HkGmDsR9YQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Generalized Capsule Networks with Trainable Routing Procedure",
-      "paper_url": "https://openreview.net/forum?id=HylKJhCcKm",
-      "code_links": [
-        "https://github.com/chenzhenhua986/CAFFE-CapsNet",
-        "https://www.catalyzex.com/paper/generalized-capsule-networks-with-trainable/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "HylKJhCcKm",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Generative adversarial interpolative autoencoding: adversarial training on latent space interpolations encourages convex latent distributions",
-      "paper_url": "https://openreview.net/forum?id=HJl2Ns0qKX",
-      "code_links": [
-        "https://www.catalyzex.com/paper/generative-adversarial-interpolative/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "HJl2Ns0qKX",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Generative Adversarial Network Training is a Continual Learning Problem",
-      "paper_url": "https://openreview.net/forum?id=SJzuHiA9tQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/generative-adversarial-network-training-is-a/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "SJzuHiA9tQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Generative Adversarial Networks for Extreme Learned Image Compression",
-      "paper_url": "https://openreview.net/forum?id=HygtHnR5tQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/generative-adversarial-networks-for-extreme/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "HygtHnR5tQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Graph Learning Network: A Structure Learning Algorithm",
-      "paper_url": "https://openreview.net/forum?id=HylRk2A5FQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/graph-learning-network-a-structure-learning/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "HylRk2A5FQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Graph Matching Networks for Learning the Similarity of Graph Structured Objects",
-      "paper_url": "https://openreview.net/forum?id=S1xiOjC9F7",
-      "code_links": [
-        "https://paperswithcode.com/paper/?openreview=S1xiOjC9F7",
-        "https://www.catalyzex.com/paper/graph-matching-networks-for-learning-the/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "S1xiOjC9F7",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Graph Neural Networks with Generated Parameters for Relation Extraction",
-      "paper_url": "https://openreview.net/forum?id=SkgzYiRqtX",
-      "code_links": [
-        "https://www.catalyzex.com/paper/graph-neural-networks-with-generated/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "SkgzYiRqtX",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Graph Spectral Regularization For Neural Network Interpretability",
-      "paper_url": "https://openreview.net/forum?id=B1lnjo05Km",
-      "code_links": [
-        "https://www.catalyzex.com/paper/graph-spectral-regularization-for-neural/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "B1lnjo05Km",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Graph2Seq: Graph to Sequence Learning with Attention-Based Neural Networks",
-      "paper_url": "https://openreview.net/forum?id=SkeXehR9t7",
-      "code_links": [
-        "https://github.com/IBM/Graph2Seq",
-        "https://paperswithcode.com/paper/?openreview=SkeXehR9t7",
-        "https://www.catalyzex.com/paper/graph2seq-graph-to-sequence-learning-with/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "SkeXehR9t7",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Language Model Pre-training for Hierarchical Document Representations",
-      "paper_url": "https://openreview.net/forum?id=rygnfn0qF7",
-      "code_links": [
-        "https://www.catalyzex.com/paper/language-model-pre-training-for-hierarchical/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "rygnfn0qF7",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Laplacian Smoothing Gradient Descent",
-      "paper_url": "https://openreview.net/forum?id=By41BjA9YQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/laplacian-smoothing-gradient-descent/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "By41BjA9YQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "LARGE BATCH SIZE TRAINING OF NEURAL NETWORKS WITH ADVERSARIAL TRAINING AND SECOND-ORDER INFORMATION",
-      "paper_url": "https://openreview.net/forum?id=H1lnJ2Rqt7",
-      "code_links": [
-        "https://github.com/amirgholami/hessianflow",
-        "https://www.catalyzex.com/paper/large-batch-size-training-of-neural-networks/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "H1lnJ2Rqt7",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Large-Scale Visual Speech Recognition",
-      "paper_url": "https://openreview.net/forum?id=HJxpDiC5tX",
-      "code_links": [
-        "https://www.catalyzex.com/paper/large-scale-visual-speech-recognition/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "HJxpDiC5tX",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Learning a Neural-network-based Representation for Open Set Recognition",
-      "paper_url": "https://openreview.net/forum?id=r1elIi09K7",
-      "code_links": [
-        "https://www.catalyzex.com/paper/learning-a-neural-network-based/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "r1elIi09K7",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Learning Cross-Lingual Sentence Representations via a Multi-task Dual-Encoder Model",
-      "paper_url": "https://openreview.net/forum?id=BJgGhiR5KX",
-      "code_links": [
-        "https://www.catalyzex.com/paper/learning-cross-lingual-sentence/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "BJgGhiR5KX",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Learning Disentangled Representations with Reference-Based Variational Autoencoders",
-      "paper_url": "https://openreview.net/forum?id=rkxraoRcF7",
-      "code_links": [
-        "https://www.catalyzex.com/paper/learning-disentangled-representations-with/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "rkxraoRcF7",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Low Latency Privacy Preserving Inference",
-      "paper_url": "https://openreview.net/forum?id=rJl8viCqKQ",
-      "code_links": [
-        "https://github.com/microsoft/CryptoNets",
-        "https://www.catalyzex.com/paper/low-latency-privacy-preserving-inference/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "rJl8viCqKQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Making Convolutional Networks Shift-Invariant Again",
-      "paper_url": "https://openreview.net/forum?id=SklVEnR5K7",
-      "code_links": [
-        "https://www.catalyzex.com/paper/making-convolutional-networks-shift-invariant/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "SklVEnR5K7",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Manifold Mixup: Learning Better Representations by Interpolating Hidden States",
-      "paper_url": "https://openreview.net/forum?id=rJlRKjActQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/manifold-mixup-learning-better/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "rJlRKjActQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Manifold regularization with GANs for semi-supervised learning",
-      "paper_url": "https://openreview.net/forum?id=Syf9Q209YQ",
-      "code_links": [
-        "https://github.com/bruno-31/gan-manifold-reg",
-        "https://www.catalyzex.com/paper/manifold-regularization-with-gans-for-semi/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "Syf9Q209YQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Massively Parallel Hyperparameter Tuning",
-      "paper_url": "https://openreview.net/forum?id=S1MAriC5F7",
-      "code_links": [
-        "https://www.catalyzex.com/paper/massively-parallel-hyperparameter-tuning/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "S1MAriC5F7",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Meta-Learning Neural Bloom Filters",
-      "paper_url": "https://openreview.net/forum?id=HkekMnR5Ym",
-      "code_links": [
-        "https://www.catalyzex.com/paper/meta-learning-neural-bloom-filters/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "HkekMnR5Ym",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Neural Graph Evolution: Towards Efficient Automatic Robot Design",
-      "paper_url": "https://openreview.net/forum?id=BkgWHnR5tm",
-      "code_links": [
-        "https://www.catalyzex.com/paper/neural-graph-evolution-towards-efficient/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "BkgWHnR5tm",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "PAIRWISE AUGMENTED GANS WITH ADVERSARIAL RECONSTRUCTION LOSS",
-      "paper_url": "https://openreview.net/forum?id=BJGfCjA5FX",
-      "code_links": [
-        "https://www.catalyzex.com/paper/pairwise-augmented-gans-with-adversarial/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "BJGfCjA5FX",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Perfect Match: A Simple Method for Learning Representations For Counterfactual Inference With Neural Networks",
-      "paper_url": "https://openreview.net/forum?id=rkxt8oC9FQ",
-      "code_links": [
-        "https://github.com/d909b/perfect_match",
-        "https://www.catalyzex.com/paper/perfect-match-a-simple-method-for-learning/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "rkxt8oC9FQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Phase-Aware Speech Enhancement with Deep Complex U-Net",
-      "paper_url": "https://openreview.net/forum?id=SkeRTsAcYm",
-      "code_links": [
-        "https://paperswithcode.com/paper/?openreview=SkeRTsAcYm",
-        "https://www.catalyzex.com/paper/phase-aware-speech-enhancement-with-deep/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "SkeRTsAcYm",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Phrase-Based Attentions",
-      "paper_url": "https://openreview.net/forum?id=r1xN5oA5tm",
-      "code_links": [
-        "https://www.catalyzex.com/paper/phrase-based-attentions/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "r1xN5oA5tm",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Point Cloud GAN",
-      "paper_url": "https://openreview.net/forum?id=ByxAcjCqt7",
-      "code_links": [
-        "https://www.catalyzex.com/paper/point-cloud-gan/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "ByxAcjCqt7",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "PPD: Permutation Phase Defense Against Adversarial Examples in Deep Learning",
-      "paper_url": "https://openreview.net/forum?id=HkElFj0qYQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/ppd-permutation-phase-defense-against/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "HkElFj0qYQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "PPO-CMA: Proximal Policy Optimization with Covariance Matrix Adaptation",
-      "paper_url": "https://openreview.net/forum?id=B1VWtsA5tQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/arxiv:1810.02541/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "B1VWtsA5tQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Probabilistic Binary Neural Networks",
-      "paper_url": "https://openreview.net/forum?id=B1fysiAqK7",
-      "code_links": [
-        "https://www.catalyzex.com/paper/probabilistic-binary-neural-networks/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "B1fysiAqK7",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Pumpout: A Meta Approach for Robustly Training Deep Neural Networks with Noisy Labels",
-      "paper_url": "https://openreview.net/forum?id=HyG1_j0cYQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/pumpout-a-meta-approach-for-robustly-training/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "HyG1_j0cYQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Pushing the bounds of dropout",
-      "paper_url": "https://openreview.net/forum?id=rklwwo05Ym",
-      "code_links": [
-        "https://www.catalyzex.com/paper/pushing-the-bounds-of-dropout/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "rklwwo05Ym",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Q-map: a Convolutional Approach for Goal-Oriented Reinforcement Learning",
-      "paper_url": "https://openreview.net/forum?id=rye7XnRqFm",
-      "code_links": [
-        "https://paperswithcode.com/paper/?openreview=rye7XnRqFm"
-      ],
-      "evidence": "code",
-      "openreview_id": "rye7XnRqFm",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "q-Neurons: Neuron Activations based on Stochastic Jackson's Derivative Operators",
-      "paper_url": "https://openreview.net/forum?id=r1xkIjA9tX",
-      "code_links": [
-        "https://www.catalyzex.com/paper/q-neurons-neuron-activations-based-on/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "r1xkIjA9tX",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Quality Evaluation of GANs Using Cross Local Intrinsic Dimensionality",
-      "paper_url": "https://openreview.net/forum?id=BJgYl205tQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/quality-evaluation-of-gans-using-cross-local/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "BJgYl205tQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "RANDOM MASK: Towards Robust Convolutional Neural Networks",
-      "paper_url": "https://openreview.net/forum?id=SkgkJn05YX",
-      "code_links": [
-        "https://github.com/tiangeluo/DefectiveCNN"
-      ],
-      "evidence": "code",
-      "openreview_id": "SkgkJn05YX",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Real-time Neural-based Input Method",
-      "paper_url": "https://openreview.net/forum?id=Ske6wiAcKQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/real-time-neural-based-input-method/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "Ske6wiAcKQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "SOLAR: Deep Structured Representations for Model-Based Reinforcement Learning",
-      "paper_url": "https://openreview.net/forum?id=Bke96sC5tm",
-      "code_links": [
-        "https://github.com/sharadmv/parasol",
-        "https://www.catalyzex.com/paper/solar-deep-structured-representations-for/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "Bke96sC5tm",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Sparse Binary Compression: Towards Distributed Deep Learning with minimal Communication",
-      "paper_url": "https://openreview.net/forum?id=B1edvs05Y7",
-      "code_links": [
-        "https://www.catalyzex.com/paper/sparse-binary-compression-towards-distributed/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "B1edvs05Y7",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Spread Divergences",
-      "paper_url": "https://openreview.net/forum?id=HJg3rjA5tQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/spread-divergences/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "HJg3rjA5tQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Stackelberg GAN: Towards Provable Minimax Equilibrium via Multi-Generator Architectures",
-      "paper_url": "https://openreview.net/forum?id=SJxCsj0qYX",
-      "code_links": [
-        "https://www.catalyzex.com/paper/stackelberg-gan-towards-provable-minimax/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "SJxCsj0qYX",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Stochastic Adversarial Video Prediction",
-      "paper_url": "https://openreview.net/forum?id=HyEl3o05Fm",
-      "code_links": [
-        "https://github.com/alexlee-gk/video_prediction",
-        "https://paperswithcode.com/paper/?openreview=HyEl3o05Fm",
-        "https://www.catalyzex.com/paper/stochastic-adversarial-video-prediction/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "HyEl3o05Fm",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Stochastic Gradient Push for Distributed Deep Learning",
-      "paper_url": "https://openreview.net/forum?id=HkgSk2A9Y7",
-      "code_links": [
-        "https://paperswithcode.com/paper/?openreview=HkgSk2A9Y7",
-        "https://www.catalyzex.com/paper/stochastic-gradient-push-for-distributed-deep/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "HkgSk2A9Y7",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Successor Uncertainties: exploration and uncertainty in temporal difference learning",
-      "paper_url": "https://openreview.net/forum?id=BklACjAqFm",
-      "code_links": [
-        "https://www.catalyzex.com/paper/successor-uncertainties-exploration-and/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "BklACjAqFm",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Super-Resolution via Conditional Implicit Maximum Likelihood Estimation",
-      "paper_url": "https://openreview.net/forum?id=HklyMhCqYQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/super-resolution-via-conditional-implicit/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "HklyMhCqYQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "SupportNet: solving catastrophic forgetting in class incremental learning with support data",
-      "paper_url": "https://openreview.net/forum?id=BkxSHsC5FQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/supportnet-solving-catastrophic-forgetting-in/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "BkxSHsC5FQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Surprising Negative Results for Generative  Adversarial Tree Search",
-      "paper_url": "https://openreview.net/forum?id=BJl4f2A5tQ",
-      "code_links": [
-        "https://paperswithcode.com/paper/?openreview=BJl4f2A5tQ"
-      ],
-      "evidence": "code",
-      "openreview_id": "BJl4f2A5tQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Switching Linear Dynamics for Variational Bayes Filtering",
-      "paper_url": "https://openreview.net/forum?id=B1MbDj0ctQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/switching-linear-dynamics-for-variational/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "B1MbDj0ctQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "SynonymNet: Multi-context Bilateral Matching for Entity Synonyms",
-      "paper_url": "https://openreview.net/forum?id=H1f7S3C9YQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/synonymnet-multi-context-bilateral-matching/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "H1f7S3C9YQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Targeted Adversarial Examples for Black Box Audio Systems",
-      "paper_url": "https://openreview.net/forum?id=HyGySsAct7",
-      "code_links": [
-        "https://www.catalyzex.com/paper/targeted-adversarial-examples-for-black-box/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "HyGySsAct7",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "TarMAC: Targeted Multi-Agent Communication",
-      "paper_url": "https://openreview.net/forum?id=H1e572A5tQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/tarmac-targeted-multi-agent-communication/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "H1e572A5tQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
       "title": "Unsupervised Image to Sequence Translation with Canvas-Drawer Networks",
       "paper_url": "https://openreview.net/forum?id=ByeLBj0qFQ",
       "code_links": [
@@ -6608,19 +5406,8 @@
       ],
       "evidence": "community_implementations",
       "openreview_id": "ByeLBj0qFQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Unsupervised Meta-Learning for Reinforcement Learning",
-      "paper_url": "https://openreview.net/forum?id=H1eRBoC9FX",
-      "code_links": [
-        "https://www.catalyzex.com/paper/unsupervised-meta-learning-for-reinforcement/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "H1eRBoC9FX",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
     },
     {
       "title": "Unsupervised Multi-Target Domain Adaptation: An Information Theoretic Approach",
@@ -6630,19 +5417,8 @@
       ],
       "evidence": "community_implementations",
       "openreview_id": "BJxLH2AcYX",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Unsupervised Neural Multi-Document Abstractive Summarization of Reviews",
-      "paper_url": "https://openreview.net/forum?id=rylhToC5YQ",
-      "code_links": [
-        "https://www.catalyzex.com/paper/unsupervised-neural-multi-document/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "rylhToC5YQ",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
     },
     {
       "title": "Unsupervised Video-to-Video Translation",
@@ -6652,42 +5428,8 @@
       ],
       "evidence": "community_implementations",
       "openreview_id": "SkgKzh0cY7",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Unsupervised Word Discovery with Segmental Neural Language Models",
-      "paper_url": "https://openreview.net/forum?id=r1NDBsAqY7",
-      "code_links": [
-        "https://www.catalyzex.com/paper/unsupervised-word-discovery-with-segmental/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "r1NDBsAqY7",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "Variation Network: Learning High-level Attributes for Controlled Input Manipulation",
-      "paper_url": "https://openreview.net/forum?id=ryfaViR9YX",
-      "code_links": [
-        "https://github.com/Ghadjeres/VarNet",
-        "https://www.catalyzex.com/paper/variation-network-learning-high-level/code"
-      ],
-      "evidence": "code",
-      "openreview_id": "ryfaViR9YX",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
-    },
-    {
-      "title": "When Will Gradient Methods Converge to Max-margin Classifier under ReLU Models?",
-      "paper_url": "https://openreview.net/forum?id=Hygv0sC5F7",
-      "code_links": [
-        "https://www.catalyzex.com/paper/when-will-gradient-methods-converge-to-max/code"
-      ],
-      "evidence": "community_implementations",
-      "openreview_id": "Hygv0sC5F7",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
     },
     {
       "title": "Why do deep convolutional networks generalize so poorly to small image transformations?",
@@ -6699,14 +5441,1272 @@
       ],
       "evidence": "code",
       "openreview_id": "HJxYwiC5tm",
-      "presentation_type": "Unknown",
-      "proceeding": "ICLR 2019 Unknown"
+      "presentation_type": "Reject",
+      "proceeding": "ICLR 2019 Reject"
+    },
+    {
+      "title": "3D-RelNet: Joint Object and Relational Network for 3D Prediction",
+      "paper_url": "https://openreview.net/forum?id=rygk9oA9Ym",
+      "code_links": [
+        "https://www.catalyzex.com/paper/3d-relnet-joint-object-and-relational-network/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "rygk9oA9Ym",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "A Biologically Inspired Visual Working Memory for Deep Networks",
+      "paper_url": "https://openreview.net/forum?id=B1fbosCcYm",
+      "code_links": [
+        "https://github.com/ethanwharris/STAWM",
+        "https://paperswithcode.com/paper/?openreview=B1fbosCcYm",
+        "https://www.catalyzex.com/paper/a-biologically-inspired-visual-working-memory/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "B1fbosCcYm",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "A Case for Object Compositionality in Deep Generative Models of Images",
+      "paper_url": "https://openreview.net/forum?id=BJgEjiRqYX",
+      "code_links": [
+        "https://www.catalyzex.com/paper/a-case-for-object-compositionality-in-deep/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "BJgEjiRqYX",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "A fast quasi-Newton-type method for large-scale stochastic optimisation",
+      "paper_url": "https://openreview.net/forum?id=Hkg1csA5Y7",
+      "code_links": [
+        "https://www.catalyzex.com/paper/a-fast-quasi-newton-type-method-for-large/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "Hkg1csA5Y7",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "A Frank-Wolfe Framework for Efficient and Effective Adversarial Attacks",
+      "paper_url": "https://openreview.net/forum?id=Hyewf3AqYX",
+      "code_links": [
+        "https://github.com/uclaml/Frank-Wolfe-AdvML",
+        "https://paperswithcode.com/paper/?openreview=Hyewf3AqYX",
+        "https://www.catalyzex.com/paper/a-frank-wolfe-framework-for-efficient-and/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "Hyewf3AqYX",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "A More Globally Accurate Dimensionality Reduction Method Using Triplets",
+      "paper_url": "https://openreview.net/forum?id=BkgVx3A9Km",
+      "code_links": [
+        "https://www.catalyzex.com/paper/a-more-globally-accurate-dimensionality/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "BkgVx3A9Km",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "A Rotation and a Translation Suffice: Fooling CNNs with Simple Transformations",
+      "paper_url": "https://openreview.net/forum?id=BJfvknCqFQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/a-rotation-and-a-translation-suffice-fooling/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "BJfvknCqFQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "A unified theory of adaptive stochastic gradient descent as Bayesian filtering",
+      "paper_url": "https://openreview.net/forum?id=BygREjC9YQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/a-unified-theory-of-adaptive-stochastic/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "BygREjC9YQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "ACIQ: Analytical Clipping for Integer Quantization of neural networks",
+      "paper_url": "https://openreview.net/forum?id=B1x33sC9KQ",
+      "code_links": [
+        "https://github.com/submission2019/AnalyticalScaleForIntegerQuantization",
+        "https://www.catalyzex.com/paper/aciq-analytical-clipping-for-integer/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "B1x33sC9KQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Actor-Attention-Critic for Multi-Agent Reinforcement Learning",
+      "paper_url": "https://openreview.net/forum?id=HJx7l309Fm",
+      "code_links": [
+        "https://github.com/shariqiqbal2810/MAAC",
+        "https://paperswithcode.com/paper/?openreview=HJx7l309Fm",
+        "https://www.catalyzex.com/paper/arxiv:1810.02912/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "HJx7l309Fm",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "ACTRCE: Augmenting Experience via Teacher’s Advice",
+      "paper_url": "https://openreview.net/forum?id=HyM8V2A9Km",
+      "code_links": [
+        "https://www.catalyzex.com/paper/actrce-augmenting-experience-via-teacher-s/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "HyM8V2A9Km",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Adapting Auxiliary Losses Using Gradient Similarity",
+      "paper_url": "https://openreview.net/forum?id=r1gl7hC5Km",
+      "code_links": [
+        "https://www.catalyzex.com/paper/adapting-auxiliary-losses-using-gradient/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "r1gl7hC5Km",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Adaptive Convolutional Neural Networks",
+      "paper_url": "https://openreview.net/forum?id=ByeWdiR5Ym",
+      "code_links": [
+        "https://github.com/adapconv/adaptive-cnn"
+      ],
+      "evidence": "code",
+      "openreview_id": "ByeWdiR5Ym",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Adversarial Examples Are a Natural Consequence of Test Error in Noise",
+      "paper_url": "https://openreview.net/forum?id=S1xoy3CcYX",
+      "code_links": [
+        "https://www.catalyzex.com/paper/adversarial-examples-are-a-natural/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "S1xoy3CcYX",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Are Generative Classifiers More Robust to Adversarial Attacks?",
+      "paper_url": "https://openreview.net/forum?id=HygUOoC5KX",
+      "code_links": [
+        "https://www.catalyzex.com/paper/are-generative-classifiers-more-robust-to/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "HygUOoC5KX",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Area Attention",
+      "paper_url": "https://openreview.net/forum?id=rygp3iRcF7",
+      "code_links": [
+        "https://www.catalyzex.com/paper/area-attention/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "rygp3iRcF7",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Assessing Generalization in Deep Reinforcement Learning",
+      "paper_url": "https://openreview.net/forum?id=rylKB3A9Fm",
+      "code_links": [
+        "https://github.com/sunblaze-ucb/rl-generalization",
+        "https://www.catalyzex.com/paper/assessing-generalization-in-deep/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "rylKB3A9Fm",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Augment your batch: better training with larger batches",
+      "paper_url": "https://openreview.net/forum?id=H1V4QhAqYQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/augment-your-batch-better-training-with/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "H1V4QhAqYQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Backprop with Approximate Activations for Memory-efficient Network Training",
+      "paper_url": "https://openreview.net/forum?id=rJgfjjC9Ym",
+      "code_links": [
+        "https://www.catalyzex.com/paper/backprop-with-approximate-activations-for/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "rJgfjjC9Ym",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Causal Reasoning from Meta-reinforcement learning",
+      "paper_url": "https://openreview.net/forum?id=H1ltQ3R9KQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/causal-reasoning-from-meta-reinforcement/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "H1ltQ3R9KQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "ChainGAN: A sequential approach to GANs",
+      "paper_url": "https://openreview.net/forum?id=r1gVqsA9tQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/chaingan-a-sequential-approach-to-gans/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "r1gVqsA9tQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Classification from Positive, Unlabeled and Biased Negative Data",
+      "paper_url": "https://openreview.net/forum?id=H1ldNoC9tX",
+      "code_links": [
+        "https://www.catalyzex.com/paper/classification-from-positive-unlabeled-and/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "H1ldNoC9tX",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Collapse of deep and narrow neural nets",
+      "paper_url": "https://openreview.net/forum?id=r1MSBjA9Ym",
+      "code_links": [
+        "https://www.catalyzex.com/paper/collapse-of-deep-and-narrow-neural-nets/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "r1MSBjA9Ym",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Consistency-based anomaly detection with adaptive multiple-hypotheses predictions",
+      "paper_url": "https://openreview.net/forum?id=r1ledo0ctX",
+      "code_links": [
+        "https://paperswithcode.com/paper/?openreview=r1ledo0ctX",
+        "https://www.catalyzex.com/paper/consistency-based-anomaly-detection-with/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "r1ledo0ctX",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Consistent Jumpy Predictions for Videos and Scenes",
+      "paper_url": "https://openreview.net/forum?id=S1gQ5sRcFm",
+      "code_links": [
+        "https://www.catalyzex.com/paper/consistent-jumpy-predictions-for-videos-and/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "S1gQ5sRcFm",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Count-Based Exploration with the Successor Representation",
+      "paper_url": "https://openreview.net/forum?id=S1giVsRcYm",
+      "code_links": [
+        "https://github.com/mcmachado/count_based_exploration_sr",
+        "https://paperswithcode.com/paper/?openreview=S1giVsRcYm",
+        "https://www.catalyzex.com/paper/count-based-exploration-with-the-successor/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "S1giVsRcYm",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Cramer-Wold AutoEncoder",
+      "paper_url": "https://openreview.net/forum?id=rkgwuiA9F7",
+      "code_links": [
+        "https://github.com/gmum/cwae",
+        "https://paperswithcode.com/paper/?openreview=rkgwuiA9F7",
+        "https://www.catalyzex.com/paper/cramer-wold-autoencoder/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "rkgwuiA9F7",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Cutting Down Training Memory by Re-fowarding",
+      "paper_url": "https://openreview.net/forum?id=BJMvBjC5YQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/cutting-down-training-memory-by-re-fowarding/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "BJMvBjC5YQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Discovering Low-Precision Networks Close to Full-Precision Networks for Efficient Embedded Inference",
+      "paper_url": "https://openreview.net/forum?id=BJx1SsAcYQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/discovering-low-precision-networks-close-to/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "BJx1SsAcYQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Discriminative Active Learning",
+      "paper_url": "https://openreview.net/forum?id=rJl-HsR9KX",
+      "code_links": [
+        "https://github.com/dsgissin/DiscriminativeActiveLearning",
+        "https://paperswithcode.com/paper/?openreview=rJl-HsR9KX",
+        "https://www.catalyzex.com/paper/discriminative-active-learning/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "rJl-HsR9KX",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Dynamic Graph Representation Learning via Self-Attention Networks",
+      "paper_url": "https://openreview.net/forum?id=HylsgnCcFQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/dynamic-graph-representation-learning-via/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "HylsgnCcFQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "EDDI: Efficient Dynamic Discovery of High-Value Information with Partial VAE",
+      "paper_url": "https://openreview.net/forum?id=HJl0jiRqtX",
+      "code_links": [
+        "https://github.com/microsoft/EDDI",
+        "https://www.catalyzex.com/paper/eddi-efficient-dynamic-discovery-of-high/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "HJl0jiRqtX",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "EFFICIENT SEQUENCE LABELING WITH ACTOR-CRITIC TRAINING",
+      "paper_url": "https://openreview.net/forum?id=H1e6ij0cKQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/efficient-sequence-labeling-with-actor-critic/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "H1e6ij0cKQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "EMI: Exploration with Mutual Information Maximizing State and Action Embeddings",
+      "paper_url": "https://openreview.net/forum?id=Hylyui09tm",
+      "code_links": [
+        "https://www.catalyzex.com/paper/emi-exploration-with-mutual-information/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "Hylyui09tm",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Entropic GANs meet VAEs: A Statistical Approach to Compute Sample Likelihoods in GANs",
+      "paper_url": "https://openreview.net/forum?id=BygMAiRqK7",
+      "code_links": [
+        "https://github.com/yogeshbalaji/EntropicGANs_meet_VAEs",
+        "https://www.catalyzex.com/paper/entropic-gans-meet-vaes-a-statistical/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "BygMAiRqK7",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Ergodic Measure Preserving Flows",
+      "paper_url": "https://openreview.net/forum?id=HJx4KjRqYQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/ergodic-measure-preserving-flows/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "HJx4KjRqYQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Evaluating GANs via Duality",
+      "paper_url": "https://openreview.net/forum?id=Syeben09FQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/evaluating-gans-via-duality/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "Syeben09FQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Fortified Networks: Improving the Robustness of Deep Networks by Modeling the Manifold of Hidden Representations",
+      "paper_url": "https://openreview.net/forum?id=SkgVRiC9Km",
+      "code_links": [
+        "https://www.catalyzex.com/paper/fortified-networks-improving-the-robustness/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "SkgVRiC9Km",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Generalization and Regularization in DQN",
+      "paper_url": "https://openreview.net/forum?id=HkGmDsR9YQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/generalization-and-regularization-in-dqn/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "HkGmDsR9YQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Generalized Capsule Networks with Trainable Routing Procedure",
+      "paper_url": "https://openreview.net/forum?id=HylKJhCcKm",
+      "code_links": [
+        "https://github.com/chenzhenhua986/CAFFE-CapsNet",
+        "https://www.catalyzex.com/paper/generalized-capsule-networks-with-trainable/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "HylKJhCcKm",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Generative adversarial interpolative autoencoding: adversarial training on latent space interpolations encourages convex latent distributions",
+      "paper_url": "https://openreview.net/forum?id=HJl2Ns0qKX",
+      "code_links": [
+        "https://www.catalyzex.com/paper/generative-adversarial-interpolative/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "HJl2Ns0qKX",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Generative Adversarial Network Training is a Continual Learning Problem",
+      "paper_url": "https://openreview.net/forum?id=SJzuHiA9tQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/generative-adversarial-network-training-is-a/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "SJzuHiA9tQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Generative Adversarial Networks for Extreme Learned Image Compression",
+      "paper_url": "https://openreview.net/forum?id=HygtHnR5tQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/generative-adversarial-networks-for-extreme/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "HygtHnR5tQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Generative Ensembles for Robust Anomaly Detection",
+      "paper_url": "https://openreview.net/forum?id=B1e8CsRctX",
+      "code_links": [
+        "https://www.catalyzex.com/paper/generative-ensembles-for-robust-anomaly/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "B1e8CsRctX",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Graph Generation via Scattering",
+      "paper_url": "https://openreview.net/forum?id=HyxSBh09t7",
+      "code_links": [
+        "https://www.catalyzex.com/paper/graph-generation-via-scattering/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "HyxSBh09t7",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Graph Learning Network: A Structure Learning Algorithm",
+      "paper_url": "https://openreview.net/forum?id=HylRk2A5FQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/graph-learning-network-a-structure-learning/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "HylRk2A5FQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Graph Matching Networks for Learning the Similarity of Graph Structured Objects",
+      "paper_url": "https://openreview.net/forum?id=S1xiOjC9F7",
+      "code_links": [
+        "https://paperswithcode.com/paper/?openreview=S1xiOjC9F7",
+        "https://www.catalyzex.com/paper/graph-matching-networks-for-learning-the/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "S1xiOjC9F7",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Graph Neural Networks with Generated Parameters for Relation Extraction",
+      "paper_url": "https://openreview.net/forum?id=SkgzYiRqtX",
+      "code_links": [
+        "https://www.catalyzex.com/paper/graph-neural-networks-with-generated/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "SkgzYiRqtX",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Graph Spectral Regularization For Neural Network Interpretability",
+      "paper_url": "https://openreview.net/forum?id=B1lnjo05Km",
+      "code_links": [
+        "https://www.catalyzex.com/paper/graph-spectral-regularization-for-neural/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "B1lnjo05Km",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Graph2Seq: Graph to Sequence Learning with Attention-Based Neural Networks",
+      "paper_url": "https://openreview.net/forum?id=SkeXehR9t7",
+      "code_links": [
+        "https://github.com/IBM/Graph2Seq",
+        "https://paperswithcode.com/paper/?openreview=SkeXehR9t7",
+        "https://www.catalyzex.com/paper/graph2seq-graph-to-sequence-learning-with/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "SkeXehR9t7",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Guided Evolutionary Strategies: Escaping the curse of dimensionality in random search",
+      "paper_url": "https://openreview.net/forum?id=B1xFxh0cKX",
+      "code_links": [
+        "https://www.catalyzex.com/paper/guided-evolutionary-strategies-escaping-the/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "B1xFxh0cKX",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "I Know the Feeling: Learning to Converse with Empathy",
+      "paper_url": "https://openreview.net/forum?id=HyesW2C9YQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/i-know-the-feeling-learning-to-converse-with/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "HyesW2C9YQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Identifying Generalization Properties in Neural Networks",
+      "paper_url": "https://openreview.net/forum?id=BJxOHs0cKm",
+      "code_links": [
+        "https://www.catalyzex.com/paper/identifying-generalization-properties-in/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "BJxOHs0cKm",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Language Model Pre-training for Hierarchical Document Representations",
+      "paper_url": "https://openreview.net/forum?id=rygnfn0qF7",
+      "code_links": [
+        "https://www.catalyzex.com/paper/language-model-pre-training-for-hierarchical/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "rygnfn0qF7",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Laplacian Smoothing Gradient Descent",
+      "paper_url": "https://openreview.net/forum?id=By41BjA9YQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/laplacian-smoothing-gradient-descent/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "By41BjA9YQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "LARGE BATCH SIZE TRAINING OF NEURAL NETWORKS WITH ADVERSARIAL TRAINING AND SECOND-ORDER INFORMATION",
+      "paper_url": "https://openreview.net/forum?id=H1lnJ2Rqt7",
+      "code_links": [
+        "https://github.com/amirgholami/hessianflow",
+        "https://www.catalyzex.com/paper/large-batch-size-training-of-neural-networks/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "H1lnJ2Rqt7",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Large-Scale Visual Speech Recognition",
+      "paper_url": "https://openreview.net/forum?id=HJxpDiC5tX",
+      "code_links": [
+        "https://www.catalyzex.com/paper/large-scale-visual-speech-recognition/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "HJxpDiC5tX",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Learning a Neural-network-based Representation for Open Set Recognition",
+      "paper_url": "https://openreview.net/forum?id=r1elIi09K7",
+      "code_links": [
+        "https://www.catalyzex.com/paper/learning-a-neural-network-based/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "r1elIi09K7",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Learning Cross-Lingual Sentence Representations via a Multi-task Dual-Encoder Model",
+      "paper_url": "https://openreview.net/forum?id=BJgGhiR5KX",
+      "code_links": [
+        "https://www.catalyzex.com/paper/learning-cross-lingual-sentence/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "BJgGhiR5KX",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Learning Disentangled Representations with Reference-Based Variational Autoencoders",
+      "paper_url": "https://openreview.net/forum?id=rkxraoRcF7",
+      "code_links": [
+        "https://www.catalyzex.com/paper/learning-disentangled-representations-with/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "rkxraoRcF7",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Learning to Progressively Plan",
+      "paper_url": "https://openreview.net/forum?id=BJgQB20qFQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/learning-to-progressively-plan/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "BJgQB20qFQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Learning to Separate Domains in Generalized Zero-Shot and Open Set Learning: a probabilistic perspective",
+      "paper_url": "https://openreview.net/forum?id=H1GaLiAcY7",
+      "code_links": [
+        "https://www.catalyzex.com/paper/learning-to-separate-domains-in-generalized/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "H1GaLiAcY7",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Like What You Like: Knowledge Distill via Neuron Selectivity Transfer",
+      "paper_url": "https://openreview.net/forum?id=rJf0BjAqYX",
+      "code_links": [
+        "https://www.catalyzex.com/paper/like-what-you-like-knowledge-distill-via/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "rJf0BjAqYX",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Local Image-to-Image Translation via Pixel-wise Highway Adaptive Instance Normalization",
+      "paper_url": "https://openreview.net/forum?id=HJgTHnActQ",
+      "code_links": [
+        "https://github.com/AnonymousIclrAuthor/Highway-Adaptive-Instance-Normalization"
+      ],
+      "evidence": "code",
+      "openreview_id": "HJgTHnActQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Low Latency Privacy Preserving Inference",
+      "paper_url": "https://openreview.net/forum?id=rJl8viCqKQ",
+      "code_links": [
+        "https://github.com/microsoft/CryptoNets",
+        "https://www.catalyzex.com/paper/low-latency-privacy-preserving-inference/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "rJl8viCqKQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Making Convolutional Networks Shift-Invariant Again",
+      "paper_url": "https://openreview.net/forum?id=SklVEnR5K7",
+      "code_links": [
+        "https://www.catalyzex.com/paper/making-convolutional-networks-shift-invariant/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "SklVEnR5K7",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Manifold Mixup: Learning Better Representations by Interpolating Hidden States",
+      "paper_url": "https://openreview.net/forum?id=rJlRKjActQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/manifold-mixup-learning-better/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "rJlRKjActQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Manifold regularization with GANs for semi-supervised learning",
+      "paper_url": "https://openreview.net/forum?id=Syf9Q209YQ",
+      "code_links": [
+        "https://github.com/bruno-31/gan-manifold-reg",
+        "https://www.catalyzex.com/paper/manifold-regularization-with-gans-for-semi/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "Syf9Q209YQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Meta-Learning Neural Bloom Filters",
+      "paper_url": "https://openreview.net/forum?id=HkekMnR5Ym",
+      "code_links": [
+        "https://www.catalyzex.com/paper/meta-learning-neural-bloom-filters/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "HkekMnR5Ym",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Metropolis-Hastings view on variational inference and adversarial training",
+      "paper_url": "https://openreview.net/forum?id=Hkg313AcFX",
+      "code_links": [
+        "https://www.catalyzex.com/paper/metropolis-hastings-view-on-variational/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "Hkg313AcFX",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Model Compression with Generative Adversarial Networks",
+      "paper_url": "https://openreview.net/forum?id=Byxz4n09tQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/model-compression-with-generative-adversarial/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "Byxz4n09tQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Mol-CycleGAN - a generative model for molecular optimization",
+      "paper_url": "https://openreview.net/forum?id=BklKFo09YX",
+      "code_links": [
+        "https://github.com/ardigen/mol-cycle-gan",
+        "https://www.catalyzex.com/paper/mol-cyclegan-a-generative-model-for-molecular/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "BklKFo09YX",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Multi-turn Dialogue Response Generation in an Adversarial Learning Framework",
+      "paper_url": "https://openreview.net/forum?id=SJxzPsAqFQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/multi-turn-dialogue-response-generation-in-an/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "SJxzPsAqFQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "NECST: Neural Joint Source-Channel Coding",
+      "paper_url": "https://openreview.net/forum?id=BJgbzhC5Ym",
+      "code_links": [
+        "https://www.catalyzex.com/paper/necst-neural-joint-source-channel-coding/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "BJgbzhC5Ym",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "NETWORK COMPRESSION USING CORRELATION ANALYSIS OF LAYER RESPONSES",
+      "paper_url": "https://openreview.net/forum?id=rkl42iA5t7",
+      "code_links": [
+        "https://www.catalyzex.com/paper/network-compression-using-correlation/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "rkl42iA5t7",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Neural Graph Evolution: Towards Efficient Automatic Robot Design",
+      "paper_url": "https://openreview.net/forum?id=BkgWHnR5tm",
+      "code_links": [
+        "https://www.catalyzex.com/paper/neural-graph-evolution-towards-efficient/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "BkgWHnR5tm",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Neural Message Passing for Multi-Label Classification",
+      "paper_url": "https://openreview.net/forum?id=r1xYr3C5t7",
+      "code_links": [
+        "https://github.com/QData/LaMP",
+        "https://www.catalyzex.com/paper/neural-message-passing-for-multi-label/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "r1xYr3C5t7",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Neural Networks with Structural Resistance to Adversarial Attacks",
+      "paper_url": "https://openreview.net/forum?id=BJgolhR9Km",
+      "code_links": [
+        "https://www.catalyzex.com/paper/neural-networks-with-structural-resistance-to/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "BJgolhR9Km",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Neural separation of observed and unobserved distributions",
+      "paper_url": "https://openreview.net/forum?id=SkelJnRqt7",
+      "code_links": [
+        "https://www.catalyzex.com/paper/neural-separation-of-observed-and-unobserved/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "SkelJnRqt7",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "NICE: noise injection and clamping estimation for neural network quantization",
+      "paper_url": "https://openreview.net/forum?id=HyfyN30qt7",
+      "code_links": [
+        "https://github.com/Lancer555/NICE",
+        "https://www.catalyzex.com/paper/nice-noise-injection-and-clamping-estimation/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "HyfyN30qt7",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "NLProlog: Reasoning with Weak Unification for Natural Language Question Answering",
+      "paper_url": "https://openreview.net/forum?id=ByfXe2C5tm",
+      "code_links": [
+        "https://www.catalyzex.com/paper/nlprolog-reasoning-with-weak-unification-for/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "ByfXe2C5tm",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "On Generalization Bounds of a Family of Recurrent Neural Networks",
+      "paper_url": "https://openreview.net/forum?id=Skf-oo0qt7",
+      "code_links": [
+        "https://www.catalyzex.com/paper/on-generalization-bounds-of-a-family-of/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "Skf-oo0qt7",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "On the Spectral Bias of Neural Networks",
+      "paper_url": "https://openreview.net/forum?id=r1gR2sC9FX",
+      "code_links": [
+        "https://github.com/nasimrahaman/SpectralBias",
+        "https://paperswithcode.com/paper/?openreview=r1gR2sC9FX",
+        "https://www.catalyzex.com/paper/on-the-spectral-bias-of-neural-networks/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "r1gR2sC9FX",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Open Vocabulary Learning on Source Code with a Graph-Structured Cache",
+      "paper_url": "https://openreview.net/forum?id=SkNSehA9FQ",
+      "code_links": [
+        "https://github.com/mwcvitkovic/Deep_Learning_On_Code_With_A_Graph_Vocabulary--Code_Preprocessor",
+        "https://paperswithcode.com/paper/?openreview=SkNSehA9FQ",
+        "https://www.catalyzex.com/paper/open-vocabulary-learning-on-source-code-with/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "SkNSehA9FQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Optimizing for Generalization in Machine Learning with Cross-Validation Gradients",
+      "paper_url": "https://openreview.net/forum?id=rJlMBjAcYX",
+      "code_links": [
+        "https://www.catalyzex.com/paper/optimizing-for-generalization-in-machine/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "rJlMBjAcYX",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "PAIRWISE AUGMENTED GANS WITH ADVERSARIAL RECONSTRUCTION LOSS",
+      "paper_url": "https://openreview.net/forum?id=BJGfCjA5FX",
+      "code_links": [
+        "https://www.catalyzex.com/paper/pairwise-augmented-gans-with-adversarial/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "BJGfCjA5FX",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "PPO-CMA: Proximal Policy Optimization with Covariance Matrix Adaptation",
+      "paper_url": "https://openreview.net/forum?id=B1VWtsA5tQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/arxiv:1810.02541/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "B1VWtsA5tQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Probabilistic Binary Neural Networks",
+      "paper_url": "https://openreview.net/forum?id=B1fysiAqK7",
+      "code_links": [
+        "https://www.catalyzex.com/paper/probabilistic-binary-neural-networks/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "B1fysiAqK7",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "RANDOM MASK: Towards Robust Convolutional Neural Networks",
+      "paper_url": "https://openreview.net/forum?id=SkgkJn05YX",
+      "code_links": [
+        "https://github.com/tiangeluo/DefectiveCNN"
+      ],
+      "evidence": "code",
+      "openreview_id": "SkgkJn05YX",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Real-time Neural-based Input Method",
+      "paper_url": "https://openreview.net/forum?id=Ske6wiAcKQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/real-time-neural-based-input-method/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "Ske6wiAcKQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "RelWalk -- A Latent Variable Model Approach to Knowledge Graph Embedding",
+      "paper_url": "https://openreview.net/forum?id=SkxbDsR9Ym",
+      "code_links": [
+        "https://www.catalyzex.com/paper/relwalk-a-latent-variable-model-approach-to/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "SkxbDsR9Ym",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Revisiting Reweighted Wake-Sleep",
+      "paper_url": "https://openreview.net/forum?id=BJzuKiC9KX",
+      "code_links": [
+        "https://www.catalyzex.com/paper/revisiting-reweighted-wake-sleep/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "BJzuKiC9KX",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Stochastic Adversarial Video Prediction",
+      "paper_url": "https://openreview.net/forum?id=HyEl3o05Fm",
+      "code_links": [
+        "https://github.com/alexlee-gk/video_prediction",
+        "https://paperswithcode.com/paper/?openreview=HyEl3o05Fm",
+        "https://www.catalyzex.com/paper/stochastic-adversarial-video-prediction/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "HyEl3o05Fm",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Stochastic Gradient Push for Distributed Deep Learning",
+      "paper_url": "https://openreview.net/forum?id=HkgSk2A9Y7",
+      "code_links": [
+        "https://paperswithcode.com/paper/?openreview=HkgSk2A9Y7",
+        "https://www.catalyzex.com/paper/stochastic-gradient-push-for-distributed-deep/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "HkgSk2A9Y7",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Successor Uncertainties: exploration and uncertainty in temporal difference learning",
+      "paper_url": "https://openreview.net/forum?id=BklACjAqFm",
+      "code_links": [
+        "https://www.catalyzex.com/paper/successor-uncertainties-exploration-and/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "BklACjAqFm",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Super-Resolution via Conditional Implicit Maximum Likelihood Estimation",
+      "paper_url": "https://openreview.net/forum?id=HklyMhCqYQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/super-resolution-via-conditional-implicit/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "HklyMhCqYQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Switching Linear Dynamics for Variational Bayes Filtering",
+      "paper_url": "https://openreview.net/forum?id=B1MbDj0ctQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/switching-linear-dynamics-for-variational/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "B1MbDj0ctQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "SynonymNet: Multi-context Bilateral Matching for Entity Synonyms",
+      "paper_url": "https://openreview.net/forum?id=H1f7S3C9YQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/synonymnet-multi-context-bilateral-matching/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "H1f7S3C9YQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "TarMAC: Targeted Multi-Agent Communication",
+      "paper_url": "https://openreview.net/forum?id=H1e572A5tQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/tarmac-targeted-multi-agent-communication/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "H1e572A5tQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Towards Language Agnostic Universal Representations",
+      "paper_url": "https://openreview.net/forum?id=r1l9Nj09YQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/towards-language-agnostic-universal/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "r1l9Nj09YQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Towards the Latent Transcriptome",
+      "paper_url": "https://openreview.net/forum?id=B1eKk2CcKm",
+      "code_links": [
+        "https://www.catalyzex.com/paper/towards-the-latent-transcriptome/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "B1eKk2CcKm",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Transfer Learning for Related Reinforcement Learning Tasks via Image-to-Image Translation",
+      "paper_url": "https://openreview.net/forum?id=rkxjnjA5KQ",
+      "code_links": [
+        "https://github.com/ShaniGam/RL-GAN",
+        "https://paperswithcode.com/paper/?openreview=rkxjnjA5KQ",
+        "https://www.catalyzex.com/paper/transfer-learning-for-related-reinforcement/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "rkxjnjA5KQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Understanding the Effectiveness of Lipschitz-Continuity in Generative Adversarial Nets",
+      "paper_url": "https://openreview.net/forum?id=r1zOg309tX",
+      "code_links": [
+        "https://www.catalyzex.com/paper/understanding-the-effectiveness-of-lipschitz/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "r1zOg309tX",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Unsupervised Meta-Learning for Reinforcement Learning",
+      "paper_url": "https://openreview.net/forum?id=H1eRBoC9FX",
+      "code_links": [
+        "https://www.catalyzex.com/paper/unsupervised-meta-learning-for-reinforcement/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "H1eRBoC9FX",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Unsupervised Neural Multi-Document Abstractive Summarization of Reviews",
+      "paper_url": "https://openreview.net/forum?id=rylhToC5YQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/unsupervised-neural-multi-document/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "rylhToC5YQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Unsupervised Word Discovery with Segmental Neural Language Models",
+      "paper_url": "https://openreview.net/forum?id=r1NDBsAqY7",
+      "code_links": [
+        "https://www.catalyzex.com/paper/unsupervised-word-discovery-with-segmental/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "r1NDBsAqY7",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Variation Network: Learning High-level Attributes for Controlled Input Manipulation",
+      "paper_url": "https://openreview.net/forum?id=ryfaViR9YX",
+      "code_links": [
+        "https://github.com/Ghadjeres/VarNet",
+        "https://www.catalyzex.com/paper/variation-network-learning-high-level/code"
+      ],
+      "evidence": "code",
+      "openreview_id": "ryfaViR9YX",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "When Will Gradient Methods Converge to Max-margin Classifier under ReLU Models?",
+      "paper_url": "https://openreview.net/forum?id=Hygv0sC5F7",
+      "code_links": [
+        "https://www.catalyzex.com/paper/when-will-gradient-methods-converge-to-max/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "Hygv0sC5F7",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Zero-Resource Multilingual Model Transfer: Learning What to Share",
+      "paper_url": "https://openreview.net/forum?id=SyxHKjAcYX",
+      "code_links": [
+        "https://www.catalyzex.com/paper/zero-resource-multilingual-model-transfer/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "SyxHKjAcYX",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Zero-shot Dual Machine Translation",
+      "paper_url": "https://openreview.net/forum?id=ByecAoAqK7",
+      "code_links": [
+        "https://www.catalyzex.com/paper/zero-shot-dual-machine-translation/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "ByecAoAqK7",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
+    },
+    {
+      "title": "Zero-training Sentence Embedding via Orthogonal Basis",
+      "paper_url": "https://openreview.net/forum?id=rJedbn0ctQ",
+      "code_links": [
+        "https://www.catalyzex.com/paper/zero-training-sentence-embedding-via/code"
+      ],
+      "evidence": "community_implementations",
+      "openreview_id": "rJedbn0ctQ",
+      "presentation_type": "Non-Accepted",
+      "proceeding": "ICLR 2019 Non-Accepted"
     }
   ],
   "presentation_type_counts": {
-    "Oral": 17,
+    "Oral": 18,
     "Poster": 300,
-    "Unknown": 103,
-    "Reject": 154
+    "Reject": 145,
+    "Non-Accepted": 111
   }
 }
