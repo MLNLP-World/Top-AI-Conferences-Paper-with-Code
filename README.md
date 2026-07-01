@@ -34,9 +34,6 @@ This repository is a collection of AI top conferences papers (e.g. ACL, EMNLP, N
 As we all know, it is very difficult for a paper to describe every implement detail within a limited number of pages. A work with open resource code offers us more information and makes it easier for us to reproduce and follow. We organized these papers for easy reference.
 
 ## <img src="https://cdn.jsdelivr.net/gh/LightChen233/blog-img/notes.png" width="25" /> Updates
-- **2026.7.1** update [ACL2025](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ACL/2025/ACL2025.md), [EMNLP2025](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/EMNLP/2025/EMNLP2025.md), [NAACL2025](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/NAACL/2025/NAACL2025.md)
-- **2026.7.1** update [ACL2024](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ACL/2024/ACL2024.md), [EMNLP2024](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/EMNLP/2024/EMNLP2024.md), [NAACL2024](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/NAACL/2024/NAACL2024.md)
-- **2026.7.1** update [ACL2023](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ACL/2023/ACL2023.md), [EMNLP2023](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/EMNLP/2023/EMNLP2023.md), [EMNLP2022](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/EMNLP/2022/EMNLP2022.md)
 - **2022.10.13** update [COLING2022](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/COLING/2022/COLING2022.md)
 - **2022.9.14** update [NAACL2022](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/NAACL/2022/NAACL2022.md)
 - **2022.7.9** update [ACL2022](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ACL/2022/ACL2022.md)
