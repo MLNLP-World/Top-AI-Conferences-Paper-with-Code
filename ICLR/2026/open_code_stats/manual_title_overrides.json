@@ -1,0 +1,12 @@
+[
+  {
+    "title": "MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent",
+    "paper_url": "https://openreview.net/forum?id=k5nIOvYGCL",
+    "code_links": [
+      "https://github.com/BytedTsinghua-SIA/MemAgent"
+    ],
+    "proceeding": "ICLR 2026 Poster",
+    "evidence": "official-title-plus-github-exact-title-search",
+    "note": "Missing from the Papers with Code ICLR 2026 conference index; recovered from the official ICLR 2026 papers page and the repository/project page."
+  }
+]
