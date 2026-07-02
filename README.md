@@ -29,28 +29,21 @@
 
 ## <img src="https://cdn.jsdelivr.net/gh/LightChen233/blog-img/motivation.png" width="25" /> Motivation
 
-This repository is a collection of AI top conferences papers (e.g. ACL, EMNLP, NAACL, COLING, AAAI, IJCAI, ICLR, NeurIPS, and ICML) with **open resource code**.
+本仓库收集了 AI 顶会论文及其 **开源代码资源**，包括 ACL、EMNLP、NAACL、COLING、AAAI、IJCAI、ICLR、NeurIPS 和 ICML 等会议。
 
-As we all know, it is very difficult for a paper to describe every implement detail within a limited number of pages. A work with open resource code offers us more information and makes it easier for us to reproduce and follow. We organized these papers for easy reference.
+众所周知，论文篇幅有限，通常很难覆盖全部实现细节。配套开源代码能提供更多可复现信息，也更方便后续跟进与复现。我们将这些论文整理出来，便于检索与参考。
 
-## <img src="https://cdn.jsdelivr.net/gh/LightChen233/blog-img/notes.png" width="25" /> Updates
-- **2022.10.13** update [COLING2022](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/COLING/2022/COLING2022.md)
-- **2022.9.14** update [NAACL2022](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/NAACL/2022/NAACL2022.md)
-- **2022.7.9** update [ACL2022](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ACL/2022/ACL2022.md)
-- **2022.6.1** update [COLING2018](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/COLING/2018/COLING2018.md)
-- **2022.5.8** update [ICML2020](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ICML/2020/ICML2020.md)
-- **2022.4.28** update [EMNLP2021](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/EMNLP/2021/EMNLP2021.md)
-- **2022.4.19** update [ICML2019](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ICML/2019/ICML2019.md)
-- **2022.1.9** update [COLING2020](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/COLING/2020/COLING2020.md)
-- **2022.1.4** update [ACL2021](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ACL/2021/ACL2021.md)
-- **2021.12.27** update [IJCAI2021](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/IJCAI/2021/IJCAI2021.md)
+## <img src="https://cdn.jsdelivr.net/gh/LightChen233/blog-img/notes.png" width="25" /> 更新记录
+- **2026.7.2** 整理并更新 README，补充 `2026` 年份入口与中文说明。
+- **2026.7.1** 更新 ICLR 论文与代码整理，新增 [ICLR2025](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ICLR/2025/ICLR2025.md) 与 [ICLR2026](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ICLR/2026/ICLR2026.md)。
 
-## <img src="https://cdn.jsdelivr.net/gh/LightChen233/blog-img/intro.png" width="25" /> Call for Contributions
 
-Contributions are strongly welcomed and you are encouraged to submit issues and Pull Requests.
+## <img src="https://cdn.jsdelivr.net/gh/LightChen233/blog-img/intro.png" width="25" /> 贡献说明
 
-## <img src="https://cdn.jsdelivr.net/gh/LightChen233/blog-img/folders.png" width="25" /> Supported Conferences 
-| conferences | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 |
+欢迎贡献内容，也欢迎通过 issue 或 Pull Request 提交补充与修正。
+
+## <img src="https://cdn.jsdelivr.net/gh/LightChen233/blog-img/folders.png" width="25" /> 已支持会议
+| 会议 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 |
 | ---------- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | ACL        | [2019](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ACL/2019/ACL2019.md) | [2020](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ACL/2020/ACL2020.md) | [2021](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ACL/2021/ACL2021.md) | [2022](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ACL/2022/ACL2022.md) | [2023](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ACL/2023/ACL2023.md) | [2024](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ACL/2024/ACL2024.md) | [2025](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ACL/2025/ACL2025.md) | - |
 | EMNLP      | [2019](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/EMNLP/2019/EMNLP2019.md) | [2020](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/EMNLP/2020/EMNLP2020.md) | [2021](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/EMNLP/2021/EMNLP2021.md) | [2022](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/EMNLP/2022/EMNLP2022.md) | [2023](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/EMNLP/2023/EMNLP2023.md) | [2024](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/EMNLP/2024/EMNLP2024.md) | [2025](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/EMNLP/2025/EMNLP2025.md) | - |
@@ -62,12 +55,12 @@ Contributions are strongly welcomed and you are encouraged to submit issues and 
 | NeurIPS    | [2019](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/NeurIPS/2019/NeurIPS2019.md) | [2020](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/NeurIPS/2020/NeurIPS2020.md) | [2021](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/NeurIPS/2021/NeurIPS2021.md) | 2022 | 2023 | 2024 | 2025 | - |
 | ICML       | [2019](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ICML/2019/ICML2019.md) | [2020](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code/blob/master/ICML/2020/ICML2020.md) | 2021 | 2022 | 2023 | 2024 | 2025 | - |
 
-## <img src="https://cdn.jsdelivr.net/gh/LightChen233/blog-img/disclaimer2.png" width="25" /> Disclaimer
+## <img src="https://cdn.jsdelivr.net/gh/LightChen233/blog-img/disclaimer2.png" width="25" /> 免责声明
 
-Some results come from [DBLP](https://dblp.org/), [ACL](https://aclanthology.org/), [NIPS](https://papers.nips.cc/), [OpenReview](https://openreview.net/),  [paperwithcode](https://paperswithcode.com/), if this violates your copyright, you can contact us at any time, we will delete it as soon as possible, thank you:)
+部分结果来源于 [DBLP](https://dblp.org/)、[ACL](https://aclanthology.org/)、[NIPS](https://papers.nips.cc/)、[OpenReview](https://openreview.net/) 和 [paperwithcode](https://paperswithcode.com/)。如有版权问题，请随时联系我们，我们会尽快删除相关内容，谢谢。
 
-## <img src="https://cdn.jsdelivr.net/gh/LightChen233/blog-img/organizer.png" width="25" /> Contributor
-Thanks to the contributors:
+## <img src="https://cdn.jsdelivr.net/gh/LightChen233/blog-img/organizer.png" width="25" /> 贡献者
+感谢以下贡献者：
 
 <a href="https://github.com/yizhen20133868"> <img src="pics/profile/LiboQin.png"  width="80" >  </a> <a href="https://github.com/awake020"> <img src="pics/profile/FuxuanWei.png"  width="80" >  </a> <a href="https://github.com/Timothyxxx"> <img src="pics/profile/TianbaoXie.png"  width="80" >  </a> <a href="https://github.com/liucongg"> <img src="pics/profile/CongLiu.png"  width="80" >  </a> <a href="https://github.com/yqy2001"> <img src="pics/profile/QiyingYu.png"  width="80" >  </a> <a href="https://github.com/Aleafy"> <img src="pics/profile/YeFang.png"  width="80" >  </a> <a href="https://github.com/ClarifiedfishLee"> <img src="pics/profile/JieyuLi.png"  width="80" >  </a> <a href="https://github.com/Atream"> <img src="pics/profile/BoxinZhang.png"  width="80" >  </a> <a href="https://github.com/EcolesYee"> <img src="pics/profile/RuishenYi.png"  width="80" >  </a> <a href="https://github.com/having-salt"> <img src="pics/profile/ZihanQin.png"  width="80" >  </a> <a href="https://github.com/huybery"> <img src="pics/profile/BinyuanHui.png"  width="80" >  </a> <a href="https://github.com/fghccv"> <img src="pics/profile/ShiqiZhou.png"  width="80" >  </a> <a href=""> <img src="pics/profile/ChenyangDing.png"  width="80" >  </a> <a href="https://github.com/benmagnifico"> <img src="pics/profile/JingguangLi.png"  width="80" >  </a> <a href="https://github.com/kokolerk"> <img src="pics/profile/JiaqiWang.png"  width="80" >  </a> <a href="https://github.com/cs-wangfeng"> <img src="pics/profile/FengWang.png"  width="80" >  </a> <a href="https://github.com/LightChen233"> <img src="pics/profile/QiguangChen.png"  width="80" >  </a><a href="https://github.com/s1530129650"> <img src="pics/profile/EnshengShi.png"  width="80" >  </a> <a href="https://github.com/chase6666"> <img src="pics/profile/KuoTian.png"  width="80" >  </a><a href="https://github.com/JoeYing1019"> <img src="pics/profile/ShijueHuang.jpg"  width="80" >  </a> <a href="https://github.com/Jiaran-Ye"> <img src="pics/profile/JiaranYe.png"  width="80" >  </a> <a href="https://github.com/chenyuanTKCY"> <img src="pics/profile/chenyuanTKCY1.png"  width="80" >  </a> <a href="https://github.com/quqxui"> <img src="pics/profile/quqxui.png"  width="80">  </a>
 
