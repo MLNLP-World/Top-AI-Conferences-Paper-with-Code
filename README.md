@@ -27,7 +27,7 @@
     <br />
 </p>
 
-## <img src="https://cdn.jsdelivr.net/gh/LightChen233/blog-img/motivation.png" width="25" /> Motivation
+## <img src="https://cdn.jsdelivr.net/gh/LightChen233/blog-img/motivation.png" width="25" /> 动机
 
 本仓库收集了 AI 顶会论文及其 **开源代码资源**，包括 ACL、EMNLP、NAACL、COLING、AAAI、IJCAI、ICLR、NeurIPS 和 ICML 等会议。
 
