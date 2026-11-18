@@ -1833,3 +1833,637 @@
 
 + 代码链接：[https://github.com/OnlpLab/RUN](https://github.com/OnlpLab/RUN)
 
+
+## PaperVault 补充
+
+<!-- Source: https://github.com/youngfish42/PaperVault -->
+
+#### Attending to Future Tokens for Bidirectional Sequence Generation
+
+- 论文链接：[https://aclanthology.org/D19-1001/](https://aclanthology.org/D19-1001/)
+- 代码链接：[https://github.com/carolinlawrence/BiSon](https://github.com/carolinlawrence/BiSon)
+
+#### Knowledge Enhanced Contextual Word Representations
+
+- 论文链接：[https://aclanthology.org/D19-1005/](https://aclanthology.org/D19-1005/)
+- 代码链接：[https://github.com/allenai/kb](https://github.com/allenai/kb)
+
+#### Entity-Consistent End-to-end Task-Oriented Dialogue System with KB Retriever
+
+- 论文链接：[https://aclanthology.org/D19-1013/](https://aclanthology.org/D19-1013/)
+- 代码链接：[https://github.com/yizhen20133868/Retriever-Dialogue](https://github.com/yizhen20133868/Retriever-Dialogue)
+
+#### Look-up and Adapt: A One-shot Semantic Parser
+
+- 论文链接：[https://aclanthology.org/D19-1104/](https://aclanthology.org/D19-1104/)
+- 代码链接：[https://github.com/zhichul/lookup-and-adapt-parser-data](https://github.com/zhichul/lookup-and-adapt-parser-data)
+
+#### Rewarding Coreference Resolvers for Being Consistent with World Knowledge
+
+- 论文链接：[https://aclanthology.org/D19-1118/](https://aclanthology.org/D19-1118/)
+- 代码链接：[https://github.com/rahular/coref-rl](https://github.com/rahular/coref-rl)
+
+#### An Empirical Study of Incorporating Pseudo Data into Grammatical Error Correction
+
+- 论文链接：[https://aclanthology.org/D19-1119/](https://aclanthology.org/D19-1119/)
+- 代码链接：[https://github.com/butsugiri/gec-pseudodata](https://github.com/butsugiri/gec-pseudodata)
+
+#### An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction
+
+- 论文链接：[https://aclanthology.org/D19-1131/](https://aclanthology.org/D19-1131/)
+- 代码链接：[https://github.com/clinc/oos-eval](https://github.com/clinc/oos-eval)
+
+#### Handling Syntactic Divergence in Low-resource Machine Translation
+
+- 论文链接：[https://aclanthology.org/D19-1143/](https://aclanthology.org/D19-1143/)
+- 代码链接：[https://github.com/violet-zct/pytorch-reorder-nmt](https://github.com/violet-zct/pytorch-reorder-nmt)
+
+#### Improving Generative Visual Dialog by Answering Diverse Questions
+
+- 论文链接：[https://aclanthology.org/D19-1152/](https://aclanthology.org/D19-1152/)
+- 代码链接：[https://github.com/vmurahari3/visdial-diversity](https://github.com/vmurahari3/visdial-diversity)
+
+#### Neural Duplicate Question Detection without Labeled Training Data
+
+- 论文链接：[https://aclanthology.org/D19-1171/](https://aclanthology.org/D19-1171/)
+- 代码链接：[https://github.com/UKPLab/emnlp2019-duplicate_question_detection](https://github.com/UKPLab/emnlp2019-duplicate_question_detection)
+
+#### Learning Invariant Representations of Social Media Users
+
+- 论文链接：[https://aclanthology.org/D19-1178/](https://aclanthology.org/D19-1178/)
+- 代码链接：[https://github.com/noa/iur](https://github.com/noa/iur)
+
+#### Deep Ordinal Regression for Pledge Specificity Prediction
+
+- 论文链接：[https://aclanthology.org/D19-1182/](https://aclanthology.org/D19-1182/)
+- 代码链接：[https://github.com/shivashankarrs/Pledge-Specificity](https://github.com/shivashankarrs/Pledge-Specificity)
+
+#### Adaptive Parameterization for Neural Dialogue Generation
+
+- 论文链接：[https://aclanthology.org/D19-1188/](https://aclanthology.org/D19-1188/)
+- 代码链接：[https://github.com/hengyicai/AdaND](https://github.com/hengyicai/AdaND)
+
+#### Dually Interactive Matching Network for Personalized Response Selection in Retrieval-Based Chatbots
+
+- 论文链接：[https://aclanthology.org/D19-1193/](https://aclanthology.org/D19-1193/)
+- 代码链接：[https://github.com/JasonForJoy/DIM](https://github.com/JasonForJoy/DIM)
+
+#### Recommendation as a Communication Game: Self-Supervised Bot-Play for Goal-oriented Dialogue
+
+- 论文链接：[https://aclanthology.org/D19-1203/](https://aclanthology.org/D19-1203/)
+- 代码链接：[https://github.com/facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI)
+
+#### CoSQL: A Conversational Text-to-SQL Challenge Towards Cross-Domain Natural Language Interfaces to Databases
+
+- 论文链接：[https://aclanthology.org/D19-1204/](https://aclanthology.org/D19-1204/)
+- 代码链接：[https://github.com/ryanzhumich/editsql](https://github.com/ryanzhumich/editsql)
+
+#### Unsupervised Discovery of Multimodal Links in Multi-image, Multi-sentence Documents
+
+- 论文链接：[https://aclanthology.org/D19-1210/](https://aclanthology.org/D19-1210/)
+- 代码链接：[https://github.com/jmhessel/multi-retrieval](https://github.com/jmhessel/multi-retrieval)
+
+#### Fusion of Detected Objects in Text for Visual Question Answering
+
+- 论文链接：[https://aclanthology.org/D19-1219/](https://aclanthology.org/D19-1219/)
+- 代码链接：[https://github.com/google-research/language](https://github.com/google-research/language)
+
+#### Representation Learning with Ordered Relation Paths for Knowledge Graph Completion
+
+- 论文链接：[https://aclanthology.org/D19-1268/](https://aclanthology.org/D19-1268/)
+- 代码链接：[https://github.com/Peter7Yao/OPTransE](https://github.com/Peter7Yao/OPTransE)
+
+#### Keep Calm and Switch On! Preserving Sentiment and Fluency in Semantic Text Exchange
+
+- 论文链接：[https://aclanthology.org/D19-1272/](https://aclanthology.org/D19-1272/)
+- 代码链接：[https://github.com/styfeng/SMERTI](https://github.com/styfeng/SMERTI)
+
+#### Specializing Word Embeddings (for Parsing) by Information Bottleneck
+
+- 论文链接：[https://aclanthology.org/D19-1276/](https://aclanthology.org/D19-1276/)
+- 代码链接：[https://github.com/XiangLi1999/syntactic-VIB](https://github.com/XiangLi1999/syntactic-VIB)
+
+#### Investigating BERT’s Knowledge of Language: Five Analysis Methods with NPIs
+
+- 论文链接：[https://aclanthology.org/D19-1286/](https://aclanthology.org/D19-1286/)
+- 代码链接：[https://github.com/alexwarstadt/data_generation](https://github.com/alexwarstadt/data_generation)
+
+#### AMPERSAND: Argument Mining for PERSuAsive oNline Discussions
+
+- 论文链接：[https://aclanthology.org/D19-1291/](https://aclanthology.org/D19-1291/)
+- 代码链接：[https://github.com/tuhinjubcse/AMPERSAND-EMNLP2019](https://github.com/tuhinjubcse/AMPERSAND-EMNLP2019)
+
+#### Reading Like HER: Human Reading Inspired Extractive Summarization
+
+- 论文链接：[https://aclanthology.org/D19-1300/](https://aclanthology.org/D19-1300/)
+- 代码链接：[https://github.com/LLluoling/HER](https://github.com/LLluoling/HER)
+
+#### Clickbait? Sensational Headline Generation with Auto-tuned Reinforcement Learning
+
+- 论文链接：[https://aclanthology.org/D19-1303/](https://aclanthology.org/D19-1303/)
+- 代码链接：[https://github.com/HLTCHKUST/sensational_headline](https://github.com/HLTCHKUST/sensational_headline)
+
+#### Answers Unite! Unsupervised Metrics for Reinforced Summarization Models
+
+- 论文链接：[https://aclanthology.org/D19-1320/](https://aclanthology.org/D19-1320/)
+- 代码链接：[https://github.com/recitalAI/summa-qa](https://github.com/recitalAI/summa-qa)
+
+#### The Woman Worked as a Babysitter: On Biases in Language Generation
+
+- 论文链接：[https://aclanthology.org/D19-1339/](https://aclanthology.org/D19-1339/)
+- 代码链接：[https://github.com/ewsheng/nlg-bias](https://github.com/ewsheng/nlg-bias)
+
+#### Text Level Graph Neural Network for Text Classification
+
+- 论文链接：[https://aclanthology.org/D19-1345/](https://aclanthology.org/D19-1345/)
+- 代码链接：[https://github.com/mojave-pku/TextLevelGCN](https://github.com/mojave-pku/TextLevelGCN)
+
+#### Semantic Relatedness Based Re-ranker for Text Spotting
+
+- 论文链接：[https://aclanthology.org/D19-1346/](https://aclanthology.org/D19-1346/)
+- 代码链接：[https://github.com/ahmedssabir/Semantic-Relatedness-Based-Reranker-for-Text-Spotting](https://github.com/ahmedssabir/Semantic-Relatedness-Based-Reranker-for-Text-Spotting)
+
+#### Evaluating Topic Quality with Posterior Variability
+
+- 论文链接：[https://aclanthology.org/D19-1349/](https://aclanthology.org/D19-1349/)
+- 代码链接：[https://github.com/lxing532/topic_variability](https://github.com/lxing532/topic_variability)
+
+#### GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge
+
+- 论文链接：[https://aclanthology.org/D19-1355/](https://aclanthology.org/D19-1355/)
+- 代码链接：[https://github.com/HSLCY/GlossBERT](https://github.com/HSLCY/GlossBERT)
+
+#### Don’t Just Scratch the Surface: Enhancing Word Representations for Korean with Hanja
+
+- 论文链接：[https://aclanthology.org/D19-1358/](https://aclanthology.org/D19-1358/)
+- 代码链接：[https://github.com/kaniblu/hanja-sisg](https://github.com/kaniblu/hanja-sisg)
+
+#### Feature-Dependent Confusion Matrices for Low-Resource NER Labeling with Noisy Labels
+
+- 论文链接：[https://aclanthology.org/D19-1362/](https://aclanthology.org/D19-1362/)
+- 代码链接：[https://github.com/uds-lsv/noise-matrix-ner](https://github.com/uds-lsv/noise-matrix-ner)
+
+#### Improved Differentiable Architecture Search for Language Modeling and Named Entity Recognition
+
+- 论文链接：[https://aclanthology.org/D19-1367/](https://aclanthology.org/D19-1367/)
+- 代码链接：[https://github.com/jiangyingjunn/i-darts](https://github.com/jiangyingjunn/i-darts)
+
+#### Humor Detection: A Transformer Gets the Last Laugh
+
+- 论文链接：[https://aclanthology.org/D19-1372/](https://aclanthology.org/D19-1372/)
+- 代码链接：[https://github.com/orionw/RedditHumorDetection](https://github.com/orionw/RedditHumorDetection)
+
+#### Data Augmentation with Atomic Templates for Spoken Language Understanding
+
+- 论文链接：[https://aclanthology.org/D19-1375/](https://aclanthology.org/D19-1375/)
+- 代码链接：[https://github.com/sz128/DAAT_SLU](https://github.com/sz128/DAAT_SLU)
+
+#### Efficient Sentence Embedding using Discrete Cosine Transform
+
+- 论文链接：[https://aclanthology.org/D19-1380/](https://aclanthology.org/D19-1380/)
+- 代码链接：[https://github.com/N-Almarwani/DCT_Sentence_Embedding](https://github.com/N-Almarwani/DCT_Sentence_Embedding)
+
+#### Emergent Linguistic Phenomena in Multi-Agent Communication Games
+
+- 论文链接：[https://aclanthology.org/D19-1384/](https://aclanthology.org/D19-1384/)
+- 代码链接：[https://github.com/lgraesser/MultimodalGame](https://github.com/lgraesser/MultimodalGame)
+
+#### TalkDown: A Corpus for Condescension Detection in Context
+
+- 论文链接：[https://aclanthology.org/D19-1385/](https://aclanthology.org/D19-1385/)
+- 代码链接：[https://github.com/zijwang/talkdown](https://github.com/zijwang/talkdown)
+
+#### How to Write Summaries with Patterns? Learning towards Abstractive Summarization through Prototype Editing
+
+- 论文链接：[https://aclanthology.org/D19-1388/](https://aclanthology.org/D19-1388/)
+- 代码链接：[https://github.com/gsh199449/proto-summ](https://github.com/gsh199449/proto-summ)
+
+#### Dependency-Guided LSTM-CRF for Named Entity Recognition
+
+- 论文链接：[https://aclanthology.org/D19-1399/](https://aclanthology.org/D19-1399/)
+- 代码链接：[https://github.com/allanj/ner_with_dependency](https://github.com/allanj/ner_with_dependency)
+
+#### Benchmarking Zero-shot Text Classification: Datasets, Evaluation and Entailment Approach
+
+- 论文链接：[https://aclanthology.org/D19-1404/](https://aclanthology.org/D19-1404/)
+- 代码链接：[https://github.com/yinwenpeng/BenchmarkingZeroShot](https://github.com/yinwenpeng/BenchmarkingZeroShot)
+
+#### Style Transfer for Texts: Retrain, Report Errors, Compare with Rewrites
+
+- 论文链接：[https://aclanthology.org/D19-1406/](https://aclanthology.org/D19-1406/)
+- 代码链接：[https://github.com/VAShibaev/text_style_transfer](https://github.com/VAShibaev/text_style_transfer)
+
+#### Don’t Take the Easy Way Out: Ensemble Based Methods for Avoiding Known Dataset Biases
+
+- 论文链接：[https://aclanthology.org/D19-1418/](https://aclanthology.org/D19-1418/)
+- 代码链接：[https://github.com/chrisc36/debias](https://github.com/chrisc36/debias)
+
+#### Achieving Verified Robustness to Symbol Substitutions via Interval Bound Propagation
+
+- 论文链接：[https://aclanthology.org/D19-1419/](https://aclanthology.org/D19-1419/)
+- 代码链接：[https://github.com/deepmind/interval-bound-propagation](https://github.com/deepmind/interval-bound-propagation)
+
+#### Unsupervised Domain Adaptation of Contextualized Embeddings for Sequence Labeling
+
+- 论文链接：[https://aclanthology.org/D19-1433/](https://aclanthology.org/D19-1433/)
+- 代码链接：[https://github.com/xhan77/AdaptaBERT](https://github.com/xhan77/AdaptaBERT)
+
+#### FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow
+
+- 论文链接：[https://aclanthology.org/D19-1437/](https://aclanthology.org/D19-1437/)
+- 代码链接：[https://github.com/XuezheMax/flowseq](https://github.com/XuezheMax/flowseq)
+
+#### Identifying and Explaining Discriminative Attributes
+
+- 论文链接：[https://aclanthology.org/D19-1440/](https://aclanthology.org/D19-1440/)
+- 代码链接：[https://github.com/ab-10/Hawk](https://github.com/ab-10/Hawk)
+
+#### Aligning Cross-Lingual Entities with Multi-Aspect Information
+
+- 论文链接：[https://aclanthology.org/D19-1451/](https://aclanthology.org/D19-1451/)
+- 代码链接：[https://github.com/h324yang/HMAN](https://github.com/h324yang/HMAN)
+
+#### CLUTRR: A Diagnostic Benchmark for Inductive Reasoning from Text
+
+- 论文链接：[https://aclanthology.org/D19-1458/](https://aclanthology.org/D19-1458/)
+- 代码链接：[https://github.com/facebookresearch/clutrr](https://github.com/facebookresearch/clutrr)
+
+#### Leveraging Just a Few Keywords for Fine-Grained Aspect Detection Through Weakly Supervised Co-Training
+
+- 论文链接：[https://aclanthology.org/D19-1468/](https://aclanthology.org/D19-1468/)
+- 代码链接：[https://github.com/gkaramanolakis/ISWD](https://github.com/gkaramanolakis/ISWD)
+
+#### Integrating Text and Image: Determining Multimodal Document Intent in Instagram Posts
+
+- 论文链接：[https://aclanthology.org/D19-1469/](https://aclanthology.org/D19-1469/)
+- 代码链接：[https://github.com/karansikka1/documentIntent_emnlp19](https://github.com/karansikka1/documentIntent_emnlp19)
+
+#### A Benchmark Dataset for Learning to Intervene in Online Hate Speech
+
+- 论文链接：[https://aclanthology.org/D19-1482/](https://aclanthology.org/D19-1482/)
+- 代码链接：[https://github.com/jing-qian/A-Benchmark-Dataset-for-Learning-to-Intervene-in-Online-Hate-Speech](https://github.com/jing-qian/A-Benchmark-Dataset-for-Learning-to-Intervene-in-Online-Hate-Speech)
+
+#### Learning to Discriminate Perturbations for Blocking Adversarial Attacks in Text Classification
+
+- 论文链接：[https://aclanthology.org/D19-1496/](https://aclanthology.org/D19-1496/)
+- 代码链接：[https://github.com/joey1993/bert-defender](https://github.com/joey1993/bert-defender)
+
+#### Question Answering for Privacy Policies: Combining Computational and Legal Perspectives
+
+- 论文链接：[https://aclanthology.org/D19-1500/](https://aclanthology.org/D19-1500/)
+- 代码链接：[https://github.com/AbhilashaRavichander/PrivacyQA_EMNLP](https://github.com/AbhilashaRavichander/PrivacyQA_EMNLP)
+
+#### Counterfactual Story Reasoning and Generation
+
+- 论文链接：[https://aclanthology.org/D19-1509/](https://aclanthology.org/D19-1509/)
+- 代码链接：[https://github.com/qkaren/Counterfactual-StoryRW](https://github.com/qkaren/Counterfactual-StoryRW)
+
+#### Encode, Tag, Realize: High-Precision Text Editing
+
+- 论文链接：[https://aclanthology.org/D19-1510/](https://aclanthology.org/D19-1510/)
+- 代码链接：[https://github.com/google-research/lasertagger](https://github.com/google-research/lasertagger)
+
+#### Phrase Grounding by Soft-Label Chain Conditional Random Field
+
+- 论文链接：[https://aclanthology.org/D19-1515/](https://aclanthology.org/D19-1515/)
+- 代码链接：[https://github.com/liujch1998/SoftLabelCCRF](https://github.com/liujch1998/SoftLabelCCRF)
+
+#### YouMakeup: A Large-Scale Domain-Specific Multimodal Dataset for Fine-Grained Semantic Comprehension
+
+- 论文链接：[https://aclanthology.org/D19-1517/](https://aclanthology.org/D19-1517/)
+- 代码链接：[https://github.com/AIM3-RUC/YouMakeup](https://github.com/AIM3-RUC/YouMakeup)
+
+#### Human-grounded Evaluations of Explanation Methods for Text Classification
+
+- 论文链接：[https://aclanthology.org/D19-1523/](https://aclanthology.org/D19-1523/)
+- 代码链接：[https://github.com/plkumjorn/CNNAnalysis](https://github.com/plkumjorn/CNNAnalysis)
+
+#### Adversarial Reprogramming of Text Classification Neural Networks
+
+- 论文链接：[https://aclanthology.org/D19-1525/](https://aclanthology.org/D19-1525/)
+- 代码链接：[https://github.com/paarthneekhara/rnn_adversarial_reprogramming](https://github.com/paarthneekhara/rnn_adversarial_reprogramming)
+
+#### Improved Word Sense Disambiguation Using Pre-Trained Contextualized Word Representations
+
+- 论文链接：[https://aclanthology.org/D19-1533/](https://aclanthology.org/D19-1533/)
+- 代码链接：[https://github.com/nusnlp/contextemb-wsd](https://github.com/nusnlp/contextemb-wsd)
+
+#### A Syntax-aware Multi-task Learning Framework for Chinese Semantic Role Labeling
+
+- 论文链接：[https://aclanthology.org/D19-1541/](https://aclanthology.org/D19-1541/)
+- 代码链接：[https://github.com/KiroSummer/A_Syntax-aware_MTL_Framework_for_Chinese_SRL](https://github.com/KiroSummer/A_Syntax-aware_MTL_Framework_for_Chinese_SRL)
+
+#### Transfer Fine-Tuning: A BERT Case Study
+
+- 论文链接：[https://aclanthology.org/D19-1542/](https://aclanthology.org/D19-1542/)
+- 代码链接：[https://github.com/yukiar/TransferFT](https://github.com/yukiar/TransferFT)
+
+#### JuICe: A Large Scale Distantly Supervised Dataset for Open Domain Context-based Code Generation
+
+- 论文链接：[https://aclanthology.org/D19-1546/](https://aclanthology.org/D19-1546/)
+- 代码链接：[https://github.com/rajasagashe/juice](https://github.com/rajasagashe/juice)
+
+#### Working Hard or Hardly Working: Challenges of Integrating Typology into Neural Dependency Parsers
+
+- 论文链接：[https://aclanthology.org/D19-1574/](https://aclanthology.org/D19-1574/)
+- 代码链接：[https://github.com/ajfisch/TypologyParser](https://github.com/ajfisch/TypologyParser)
+
+#### A Gated Self-attention Memory Network for Answer Selection
+
+- 论文链接：[https://aclanthology.org/D19-1610/](https://aclanthology.org/D19-1610/)
+- 代码链接：[https://github.com/laituan245/StackExchangeQA](https://github.com/laituan245/StackExchangeQA)
+
+#### Learning Rhyming Constraints using Structured Adversaries
+
+- 论文链接：[https://aclanthology.org/D19-1621/](https://aclanthology.org/D19-1621/)
+- 代码链接：[https://github.com/harsh19/Structured-Adversary](https://github.com/harsh19/Structured-Adversary)
+
+#### In Plain Sight: Media Bias Through the Lens of Factual Reporting
+
+- 论文链接：[https://aclanthology.org/D19-1664/](https://aclanthology.org/D19-1664/)
+- 代码链接：[https://github.com/marshallwhiteorg/emnlp19-media-bias](https://github.com/marshallwhiteorg/emnlp19-media-bias)
+
+#### ALTER: Auxiliary Text Rewriting Tool for Natural Language Generation
+
+- 论文链接：[https://aclanthology.org/D19-3003/](https://aclanthology.org/D19-3003/)
+- 代码链接：[https://github.com/xuqiongkai/ALTER](https://github.com/xuqiongkai/ALTER)
+
+#### EASSE: Easier Automatic Sentence Simplification Evaluation
+
+- 论文链接：[https://aclanthology.org/D19-3009/](https://aclanthology.org/D19-3009/)
+- 代码链接：[https://github.com/feralvam/easse](https://github.com/feralvam/easse)
+
+#### HARE: a Flexible Highlighting Annotator for Ranking and Exploration
+
+- 论文链接：[https://aclanthology.org/D19-3015/](https://aclanthology.org/D19-3015/)
+- 代码链接：[https://github.com/OSU-slatelab/HARE](https://github.com/OSU-slatelab/HARE)
+
+#### Honkling: In-Browser Personalization for Ubiquitous Keyword Spotting
+
+- 论文链接：[https://aclanthology.org/D19-3016/](https://aclanthology.org/D19-3016/)
+- 代码链接：[https://github.com/castorini/honkling](https://github.com/castorini/honkling)
+
+#### Joey NMT: A Minimalist NMT Toolkit for Novices
+
+- 论文链接：[https://aclanthology.org/D19-3019/](https://aclanthology.org/D19-3019/)
+- 代码链接：[https://github.com/joeynmt/joeynmt](https://github.com/joeynmt/joeynmt)
+
+#### LIDA: Lightweight Interactive Dialogue Annotator
+
+- 论文链接：[https://aclanthology.org/D19-3021/](https://aclanthology.org/D19-3021/)
+- 代码链接：[https://github.com/Wluper/lida](https://github.com/Wluper/lida)
+
+#### LINSPECTOR WEB: A Multilingual Probing Suite for Word Representations
+
+- 论文链接：[https://aclanthology.org/D19-3022/](https://aclanthology.org/D19-3022/)
+- 代码链接：[https://github.com/UKPLab/linspector-web](https://github.com/UKPLab/linspector-web)
+
+#### NeuronBlocks: Building Your NLP DNN Models Like Playing Lego
+
+- 论文链接：[https://aclanthology.org/D19-3028/](https://aclanthology.org/D19-3028/)
+- 代码链接：[https://github.com/Microsoft/NeuronBlocks](https://github.com/Microsoft/NeuronBlocks)
+
+#### OpenNRE: An Open and Extensible Toolkit for Neural Relation Extraction
+
+- 论文链接：[https://aclanthology.org/D19-3029/](https://aclanthology.org/D19-3029/)
+- 代码链接：[http://github.com/thunlp/OpenNRE](http://github.com/thunlp/OpenNRE)
+
+#### TEASPN: Framework and Protocol for Integrated Writing Assistance Environments
+
+- 论文链接：[https://aclanthology.org/D19-3039/](https://aclanthology.org/D19-3039/)
+- 代码链接：[https://github.com/teaspn/teaspn-sdk](https://github.com/teaspn/teaspn-sdk)
+
+#### UER: An Open-Source Toolkit for Pre-training Models
+
+- 论文链接：[https://aclanthology.org/D19-3041/](https://aclanthology.org/D19-3041/)
+- 代码链接：[https://github.com/dbiir/UER-py](https://github.com/dbiir/UER-py)
+
+#### Visualizing Trends of Key Roles in News Articles
+
+- 论文链接：[https://aclanthology.org/D19-3042/](https://aclanthology.org/D19-3042/)
+- 代码链接：[https://github.com/kasinxc/Visualizing-Trend-of-Key-Roles-in-News-Articles](https://github.com/kasinxc/Visualizing-Trend-of-Key-Roles-in-News-Articles)
+
+#### VizSeq: a visual analysis toolkit for text generation tasks
+
+- 论文链接：[https://aclanthology.org/D19-3043/](https://aclanthology.org/D19-3043/)
+- 代码链接：[https://github.com/facebookresearch/vizseq](https://github.com/facebookresearch/vizseq)
+
+#### Identifying Nuances in Fake News vs. Satire: Using Semantic and Linguistic Cues
+
+- 论文链接：[https://aclanthology.org/D19-5004/](https://aclanthology.org/D19-5004/)
+- 代码链接：[https://github.com/adverifai/Satire_vs_Fake](https://github.com/adverifai/Satire_vs_Fake)
+
+#### Mapping (Dis-)Information Flow about the MH17 Plane Crash
+
+- 论文链接：[https://aclanthology.org/D19-5006/](https://aclanthology.org/D19-5006/)
+- 代码链接：[https://github.com/coastalcph/mh17](https://github.com/coastalcph/mh17)
+
+#### Designing the Business Conversation Corpus
+
+- 论文链接：[https://aclanthology.org/D19-5204/](https://aclanthology.org/D19-5204/)
+- 代码链接：[https://github.com/tsuruoka-lab/BSD](https://github.com/tsuruoka-lab/BSD)
+
+#### Neural Arabic Text Diacritization: State of the Art Results and a Novel Approach for Machine Translation
+
+- 论文链接：[https://aclanthology.org/D19-5229/](https://aclanthology.org/D19-5229/)
+- 代码链接：[https://github.com/AliOsm/shakkelha](https://github.com/AliOsm/shakkelha)
+
+#### Layerwise Relevance Visualization in Convolutional Text Graph Classifiers
+
+- 论文链接：[https://aclanthology.org/D19-5308/](https://aclanthology.org/D19-5308/)
+- 代码链接：[https://github.com/DFKI-NLP/lrv](https://github.com/DFKI-NLP/lrv)
+
+#### Red Dragon AI at TextGraphs 2019 Shared Task: Language Model Assisted Explanation Generation
+
+- 论文链接：[https://aclanthology.org/D19-5311/](https://aclanthology.org/D19-5311/)
+- 代码链接：[https://github.com/mdda/worldtree_corpus](https://github.com/mdda/worldtree_corpus)
+
+#### Do Sentence Interactions Matter? Leveraging Sentence Level Representations for Fake News Classification
+
+- 论文链接：[https://aclanthology.org/D19-5316/](https://aclanthology.org/D19-5316/)
+- 代码链接：[https://github.com/MysteryVaibhav/fake_news_semantics](https://github.com/MysteryVaibhav/fake_news_semantics)
+
+#### BillSum: A Corpus for Automatic Summarization of US Legislation
+
+- 论文链接：[https://aclanthology.org/D19-5406/](https://aclanthology.org/D19-5406/)
+- 代码链接：[https://github.com/FiscalNote/BillSum](https://github.com/FiscalNote/BillSum)
+
+#### Exploiting BERT for End-to-End Aspect-based Sentiment Analysis
+
+- 论文链接：[https://aclanthology.org/D19-5505/](https://aclanthology.org/D19-5505/)
+- 代码链接：[https://github.com/lixin4ever/BERT-E2E-ABSA](https://github.com/lixin4ever/BERT-E2E-ABSA)
+
+#### Dialect Text Normalization to Normative Standard Finnish
+
+- 论文链接：[https://aclanthology.org/D19-5519/](https://aclanthology.org/D19-5519/)
+- 代码链接：[https://github.com/mikahama/murre](https://github.com/mikahama/murre)
+
+#### Exploring Multilingual Syntactic Sentence Representations
+
+- 论文链接：[https://aclanthology.org/D19-5521/](https://aclanthology.org/D19-5521/)
+- 代码链接：[https://github.com/ccliu2/syn-emb](https://github.com/ccliu2/syn-emb)
+
+#### FASPell: A Fast, Adaptable, Simple, Powerful Chinese Spell Checker Based On DAE-Decoder Paradigm
+
+- 论文链接：[https://aclanthology.org/D19-5522/](https://aclanthology.org/D19-5522/)
+- 代码链接：[https://github.com/iqiyi/FASPell](https://github.com/iqiyi/FASPell)
+
+#### SmokEng: Towards Fine-grained Classification of Tobacco-related Social Media Text
+
+- 论文链接：[https://aclanthology.org/D19-5524/](https://aclanthology.org/D19-5524/)
+- 代码链接：[https://github.com/kartikeypant/smokeng-tobacco-classification](https://github.com/kartikeypant/smokeng-tobacco-classification)
+
+#### Improving Neural Machine Translation Robustness via Data Augmentation: Beyond Back-Translation
+
+- 论文链接：[https://aclanthology.org/D19-5543/](https://aclanthology.org/D19-5543/)
+- 代码链接：[https://github.com/Nickeilf/InformalMT](https://github.com/Nickeilf/InformalMT)
+
+#### Grammatical Error Correction in Low-Resource Scenarios
+
+- 论文链接：[https://aclanthology.org/D19-5545/](https://aclanthology.org/D19-5545/)
+- 代码链接：[https://github.com/ufal/low-resource-gec-wnut2019](https://github.com/ufal/low-resource-gec-wnut2019)
+
+#### Y’all should read this! Identifying Plurality in Second-Person Personal Pronouns in English Texts
+
+- 论文链接：[https://aclanthology.org/D19-5549/](https://aclanthology.org/D19-5549/)
+- 代码链接：[https://github.com/gabrielStanovsky/yall](https://github.com/gabrielStanovsky/yall)
+
+#### Domain Differential Adaptation for Neural Machine Translation
+
+- 论文链接：[https://aclanthology.org/D19-5606/](https://aclanthology.org/D19-5606/)
+- 代码链接：[https://github.com/zdou0830/DDA](https://github.com/zdou0830/DDA)
+
+#### On the Importance of the Kullback-Leibler Divergence Term in Variational Autoencoders for Text Generation
+
+- 论文链接：[https://aclanthology.org/D19-5612/](https://aclanthology.org/D19-5612/)
+- 代码链接：[https://github.com/VictorProkhorov/KL_Text_VAE](https://github.com/VictorProkhorov/KL_Text_VAE)
+
+#### On the Importance of Word Boundaries in Character-level Neural Machine Translation
+
+- 论文链接：[https://aclanthology.org/D19-5619/](https://aclanthology.org/D19-5619/)
+- 代码链接：[https://github.com/d-ataman/Char-NMT](https://github.com/d-ataman/Char-NMT)
+
+#### Interrogating the Explanatory Power of Attention in Neural Machine Translation
+
+- 论文链接：[https://aclanthology.org/D19-5624/](https://aclanthology.org/D19-5624/)
+- 代码链接：[https://github.com/sfu-natlang/attention_explanation](https://github.com/sfu-natlang/attention_explanation)
+
+#### Auto-Sizing the Transformer Network: Improving Speed, Efficiency, and Performance for Low-Resource Machine Translation
+
+- 论文链接：[https://aclanthology.org/D19-5625/](https://aclanthology.org/D19-5625/)
+- 代码链接：[https://github.com/KentonMurray/ProxGradPytorch](https://github.com/KentonMurray/ProxGradPytorch)
+
+#### University of Edinburgh’s submission to the Document-level Generation and Translation Shared Task
+
+- 论文链接：[https://aclanthology.org/D19-5630/](https://aclanthology.org/D19-5630/)
+- 代码链接：[https://github.com/ratishsp/data2text-table-plan-py](https://github.com/ratishsp/data2text-table-plan-py)
+
+#### Biomedical Named Entity Recognition with Multilingual BERT
+
+- 论文链接：[https://aclanthology.org/D19-5709/](https://aclanthology.org/D19-5709/)
+- 代码链接：[https://github.com/chaanim/pharmaconer](https://github.com/chaanim/pharmaconer)
+
+#### An Overview of the Active Gene Annotation Corpus and the BioNLP OST 2019 AGAC Track Tasks
+
+- 论文链接：[https://aclanthology.org/D19-5710/](https://aclanthology.org/D19-5710/)
+- 代码链接：[https://github.com/YaoXinZhi/BERT-CRF-for-BioNLP-OST2019-AGAC-Task1](https://github.com/YaoXinZhi/BERT-CRF-for-BioNLP-OST2019-AGAC-Task1)
+
+#### Linguistically Informed Relation Extraction and Neural Architectures for Nested Named Entity Recognition in BioNLP-OST 2019
+
+- 论文链接：[https://aclanthology.org/D19-5720/](https://aclanthology.org/D19-5720/)
+- 代码链接：[https://github.com/uyaseen/bionlp-ost-2019](https://github.com/uyaseen/bionlp-ost-2019)
+
+#### An ensemble CNN method for biomedical entity normalization
+
+- 论文链接：[https://aclanthology.org/D19-5721/](https://aclanthology.org/D19-5721/)
+- 代码链接：[https://github.com/OXPHOS/BioNLP](https://github.com/OXPHOS/BioNLP)
+
+#### BioNLP-OST 2019 RDoC Tasks: Multi-grain Neural Relevance Ranking Using Topics and Attention Based Query-Document-Sentence Interactions
+
+- 论文链接：[https://aclanthology.org/D19-5730/](https://aclanthology.org/D19-5730/)
+- 代码链接：[https://github.com/YatinChaudhary/RDoC_Task](https://github.com/YatinChaudhary/RDoC_Task)
+
+#### MRQA 2019 Shared Task: Evaluating Generalization in Reading Comprehension
+
+- 论文链接：[https://aclanthology.org/D19-5801/](https://aclanthology.org/D19-5801/)
+- 代码链接：[https://github.com/mrqa/MRQA-Shared-Task-2019](https://github.com/mrqa/MRQA-Shared-Task-2019)
+
+#### Improving Question Answering with External Knowledge
+
+- 论文链接：[https://aclanthology.org/D19-5804/](https://aclanthology.org/D19-5804/)
+- 代码链接：[https://github.com/nlpdata/external](https://github.com/nlpdata/external)
+
+#### FlowDelta: Modeling Flow Information Gain in Reasoning for Conversational Machine Comprehension
+
+- 论文链接：[https://aclanthology.org/D19-5812/](https://aclanthology.org/D19-5812/)
+- 代码链接：[https://github.com/MiuLab/FlowDelta](https://github.com/MiuLab/FlowDelta)
+
+#### Do Multi-hop Readers Dream of Reasoning Chains?
+
+- 论文链接：[https://aclanthology.org/D19-5813/](https://aclanthology.org/D19-5813/)
+- 代码链接：[https://github.com/helloeve/bert-co-matching](https://github.com/helloeve/bert-co-matching)
+
+#### ReQA: An Evaluation for End-to-End Answer Retrieval Models
+
+- 论文链接：[https://aclanthology.org/D19-5819/](https://aclanthology.org/D19-5819/)
+- 代码链接：[https://github.com/google/retrieval-qa-eval](https://github.com/google/retrieval-qa-eval)
+
+#### Domain-agnostic Question-Answering with Adversarial Training
+
+- 论文链接：[https://aclanthology.org/D19-5826/](https://aclanthology.org/D19-5826/)
+- 代码链接：[https://github.com/seanie12/mrqa](https://github.com/seanie12/mrqa)
+
+#### A Hybrid Neural Network Model for Commonsense Reasoning
+
+- 论文链接：[https://aclanthology.org/D19-6002/](https://aclanthology.org/D19-6002/)
+- 代码链接：[https://github.com/namisan/mt-dnn](https://github.com/namisan/mt-dnn)
+
+#### A logical-based corpus for cross-lingual evaluation
+
+- 论文链接：[https://aclanthology.org/D19-6103/](https://aclanthology.org/D19-6103/)
+- 代码链接：[https://github.com/felipessalvatore/CLCD](https://github.com/felipessalvatore/CLCD)
+
+#### BERT is Not an Interlingua and the Bias of Tokenization
+
+- 论文链接：[https://aclanthology.org/D19-6106/](https://aclanthology.org/D19-6106/)
+- 代码链接：[https://github.com/salesforce/xnli_extension](https://github.com/salesforce/xnli_extension)
+
+#### Unlearn Dataset Bias in Natural Language Inference by Fitting the Residual
+
+- 论文链接：[https://aclanthology.org/D19-6115/](https://aclanthology.org/D19-6115/)
+- 代码链接：[https://github.com/hhexiy/debiased](https://github.com/hhexiy/debiased)
+
+#### Metric Learning for Dynamic Text Classification
+
+- 论文链接：[https://aclanthology.org/D19-6116/](https://aclanthology.org/D19-6116/)
+- 代码链接：[https://github.com/asappresearch/dynamic-classification](https://github.com/asappresearch/dynamic-classification)
+
+#### Cross-lingual Parsing with Polyglot Training and Multi-treebank Learning: A Faroese Case Study
+
+- 论文链接：[https://aclanthology.org/D19-6118/](https://aclanthology.org/D19-6118/)
+- 代码链接：[https://github.com/Jbar-ry/multilingual-parsing](https://github.com/Jbar-ry/multilingual-parsing)
+
+#### Natural Language Generation for Effective Knowledge Distillation
+
+- 论文链接：[https://aclanthology.org/D19-6122/](https://aclanthology.org/D19-6122/)
+- 代码链接：[https://github.com/castorini/d-bert](https://github.com/castorini/d-bert)
+
+#### Towards Zero-resource Cross-lingual Entity Linking
+
+- 论文链接：[https://aclanthology.org/D19-6127/](https://aclanthology.org/D19-6127/)
+- 代码链接：[https://github.com/shuyanzhou/burn_xel](https://github.com/shuyanzhou/burn_xel)
+
+#### X-WikiRE: A Large, Multilingual Resource for Relation Extraction as Machine Comprehension
+
+- 论文链接：[https://aclanthology.org/D19-6130/](https://aclanthology.org/D19-6130/)
+- 代码链接：[https://github.com/mhany90/Multi-WikiRE](https://github.com/mhany90/Multi-WikiRE)
+
+#### Towards Understanding of Medical Randomized Controlled Trials by Conclusion Generation
+
+- 论文链接：[https://aclanthology.org/D19-6214/](https://aclanthology.org/D19-6214/)
+- 代码链接：[https://github.com/MiuLab/RCT-Gen](https://github.com/MiuLab/RCT-Gen)
+
+#### When and Why is Document-level Context Useful in Neural Machine Translation?
+
+- 论文链接：[https://aclanthology.org/D19-6503/](https://aclanthology.org/D19-6503/)
+- 代码链接：[https://github.com/ducthanhtran/sockeye_document_context](https://github.com/ducthanhtran/sockeye_document_context)

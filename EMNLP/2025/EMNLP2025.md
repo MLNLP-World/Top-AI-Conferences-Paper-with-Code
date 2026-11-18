@@ -2352,3 +2352,1422 @@
 
 - 论文链接：[https://aclanthology.org/2025.findings-emnlp.1405/](https://aclanthology.org/2025.findings-emnlp.1405/)
 - 代码链接：[https://github.com/yajingyang/kahan](https://github.com/yajingyang/kahan)
+
+## PaperVault 补充
+
+<!-- Source: https://github.com/youngfish42/PaperVault -->
+
+#### AIPOM: Agent-aware Interactive Planning for Multi-Agent Systems
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-demos.7/](https://aclanthology.org/2025.emnlp-demos.7/)
+- 代码链接：[https://github.com/megagonlabs/aipom](https://github.com/megagonlabs/aipom)
+
+#### LAD: LoRA-Adapted Diffusion
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-demos.8/](https://aclanthology.org/2025.emnlp-demos.8/)
+- 代码链接：[https://github.com/RuurdKuiper/lad-code](https://github.com/RuurdKuiper/lad-code)
+
+#### AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-demos.12/](https://aclanthology.org/2025.emnlp-demos.12/)
+- 代码链接：[https://github.com/OpenBMB/AgentCPM-GUI](https://github.com/OpenBMB/AgentCPM-GUI)
+
+#### BioGraphia: A LLM-Assisted Biological Pathway Graph Annotation Platform
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-demos.34/](https://aclanthology.org/2025.emnlp-demos.34/)
+- 代码链接：[https://github.com/LeiLiLab/BioGraphia](https://github.com/LeiLiLab/BioGraphia)
+
+#### EasyEdit2: An Easy-to-use Steering Framework for Editing Large Language Models
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-demos.38/](https://aclanthology.org/2025.emnlp-demos.38/)
+- 代码链接：[https://github.com/zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit)
+
+#### EvoAgentX: An Automated Framework for Evolving Agentic Workflows
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-demos.47/](https://aclanthology.org/2025.emnlp-demos.47/)
+- 代码链接：[https://github.com/EvoAgentX/EvoAgentX](https://github.com/EvoAgentX/EvoAgentX)
+
+#### OpenRLHF: A Ray-based Easy-to-use, Scalable and High-performance RLHF Framework
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-demos.48/](https://aclanthology.org/2025.emnlp-demos.48/)
+- 代码链接：[https://github.com/OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)
+
+#### TokenSmith: Streamlining Data Editing, Search, and Inspection for Large-Scale Language Model Training and Interpretability
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-demos.50/](https://aclanthology.org/2025.emnlp-demos.50/)
+- 代码链接：[https://github.com/aflah02/TokenSmith](https://github.com/aflah02/TokenSmith)
+
+#### LLM×MapReduce-V3: Enabling Interactive In-Depth Survey Generation through a MCP-Driven Hierarchically Modular Agent System
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-demos.51/](https://aclanthology.org/2025.emnlp-demos.51/)
+- 代码链接：[https://github.com/thunlp/LLMxMapReduce](https://github.com/thunlp/LLMxMapReduce)
+
+#### The Dangers of Indirect Prompt Injection Attacks on LLM-based Autonomous Web Navigation Agents: A Demonstration
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-demos.55/](https://aclanthology.org/2025.emnlp-demos.55/)
+- 代码链接：[https://github.com/sej2020/manipulating-web-agents](https://github.com/sej2020/manipulating-web-agents)
+
+#### PresentAgent: Multimodal Agent for Presentation Video Generation
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-demos.58/](https://aclanthology.org/2025.emnlp-demos.58/)
+- 代码链接：[https://github.com/AIGeeksGroup/PresentAgent](https://github.com/AIGeeksGroup/PresentAgent)
+
+#### EasyDistill: A Comprehensive Toolkit for Effective Knowledge Distillation of Large Language Models
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-demos.60/](https://aclanthology.org/2025.emnlp-demos.60/)
+- 代码链接：[https://github.com/modelscope/easydistill](https://github.com/modelscope/easydistill)
+
+#### MathBuddy: A Multimodal System for Affective Math Tutoring
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-demos.63/](https://aclanthology.org/2025.emnlp-demos.63/)
+- 代码链接：[https://github.com/ITU-NLP/MathBuddy](https://github.com/ITU-NLP/MathBuddy)
+
+#### PDFMathTranslate: Scientific Document Translation Preserving Layouts
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-demos.71/](https://aclanthology.org/2025.emnlp-demos.71/)
+- 代码链接：[https://github.com/byaidu/pdfmathtranslate](https://github.com/byaidu/pdfmathtranslate)
+
+#### CrowdAgent: Multi-Agent Managed Multi-Source Annotation System
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-demos.72/](https://aclanthology.org/2025.emnlp-demos.72/)
+- 代码链接：[https://github.com/QMMMS/CrowdAgent](https://github.com/QMMMS/CrowdAgent)
+
+#### Easy Dataset: A Unified and Extensible Framework for Synthesizing LLM Fine-Tuning Data from Unstructured Documents
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-demos.75/](https://aclanthology.org/2025.emnlp-demos.75/)
+- 代码链接：[https://github.com/ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset)
+
+#### ECom-Bench: Can LLM Agent Resolve Real-World E-commerce Customer Support Issues?
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-industry.19/](https://aclanthology.org/2025.emnlp-industry.19/)
+- 代码链接：[https://github.com/XiaoduoAILab/ECom-Bench](https://github.com/XiaoduoAILab/ECom-Bench)
+
+#### AutoCVSS: Assessing the Performance of LLMs for Automated Software Vulnerability Scoring
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-industry.38/](https://aclanthology.org/2025.emnlp-industry.38/)
+- 代码链接：[https://github.com/nec-research/AutoCVSS](https://github.com/nec-research/AutoCVSS)
+
+#### Graph of Attacks with Pruning: Optimizing Stealthy Jailbreak Prompt Generation for Enhanced LLM Content Moderation
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-industry.46/](https://aclanthology.org/2025.emnlp-industry.46/)
+- 代码链接：[https://github.com/dsbuddy/gap-llm-safety](https://github.com/dsbuddy/gap-llm-safety)
+
+#### Memory-Efficient Backpropagation for Fine-Tuning LLMs on Resource-Constrained Mobile Devices
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-industry.52/](https://aclanthology.org/2025.emnlp-industry.52/)
+- 代码链接：[https://github.com/apple/ml-mebp](https://github.com/apple/ml-mebp)
+
+#### Benchmarking LLM Faithfulness in RAG with Evolving Leaderboards
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-industry.54/](https://aclanthology.org/2025.emnlp-industry.54/)
+- 代码链接：[https://github.com/vectara/FaithJudge](https://github.com/vectara/FaithJudge)
+
+#### Truth, Trust, and Trouble: Medical AI on the Edge
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-industry.69/](https://aclanthology.org/2025.emnlp-industry.69/)
+- 代码链接：[https://github.com/AnasAzeez/TTT](https://github.com/AnasAzeez/TTT)
+
+#### LLMs on a Budget? Say HOLA
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-industry.71/](https://aclanthology.org/2025.emnlp-industry.71/)
+- 代码链接：[https://github.com/zohaibhasan066/HOLA_Codebase](https://github.com/zohaibhasan066/HOLA_Codebase)
+
+#### DecEx-RAG: Boosting Agentic Retrieval-Augmented Generation with Decision and Execution Optimization via Process Supervision
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-industry.99/](https://aclanthology.org/2025.emnlp-industry.99/)
+- 代码链接：[https://github.com/sdsxdxl/DecEx-RAG](https://github.com/sdsxdxl/DecEx-RAG)
+
+#### FLOW-BENCH: Towards Conversational Generation of Enterprise Workflows
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-industry.100/](https://aclanthology.org/2025.emnlp-industry.100/)
+- 代码链接：[https://github.com/ibm/flow-bench](https://github.com/ibm/flow-bench)
+
+#### Think-Search-Patch: A Retrieval-Augmented Reasoning Framework for Repository-Level Code Repair
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-industry.109/](https://aclanthology.org/2025.emnlp-industry.109/)
+- 代码链接：[https://github.com/Gengar0215/TSP-framework](https://github.com/Gengar0215/TSP-framework)
+
+#### Building Data-Driven Occupation Taxonomies: A Bottom-Up Multi-Stage Approach via Semantic Clustering and Multi-Agent Collaboration
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-industry.113/](https://aclanthology.org/2025.emnlp-industry.113/)
+- 代码链接：[https://github.com/aida-ugent/CLIMB](https://github.com/aida-ugent/CLIMB)
+
+#### LLMInit: A Free Lunch from Large Language Models for Selective Initialization of Recommendation
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-industry.141/](https://aclanthology.org/2025.emnlp-industry.141/)
+- 代码链接：[https://github.com/DavidZWZ/LLMInit](https://github.com/DavidZWZ/LLMInit)
+
+#### Finding Diamonds in Conversation Haystacks: A Benchmark for Conversational Data Retrieval
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-industry.162/](https://aclanthology.org/2025.emnlp-industry.162/)
+- 代码链接：[https://github.com/l-yohai/CDR-Benchmark](https://github.com/l-yohai/CDR-Benchmark)
+
+#### JaCorpTrack: Corporate History Event Extraction for Tracking Organizational Changes
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-industry.177/](https://aclanthology.org/2025.emnlp-industry.177/)
+- 代码链接：[https://github.com/naist-nlp/JaCorpTrack](https://github.com/naist-nlp/JaCorpTrack)
+
+#### Z1: Efficient Test-time Scaling with Code
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-industry.182/](https://aclanthology.org/2025.emnlp-industry.182/)
+- 代码链接：[https://github.com/efficientscaling/z1](https://github.com/efficientscaling/z1)
+
+#### Efficiency-Effectiveness Reranking FLOPs for LLM-based Rerankers
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-industry.186/](https://aclanthology.org/2025.emnlp-industry.186/)
+- 代码链接：[https://github.com/zhiyuanpeng/eer-flops](https://github.com/zhiyuanpeng/eer-flops)
+
+#### Large Language Models as Realistic Microservice Trace Generators
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.4/](https://aclanthology.org/2025.emnlp-main.4/)
+- 代码链接：[https://github.com/ldos-project/tracellm](https://github.com/ldos-project/tracellm)
+
+#### Is the Top Still Spinning? Evaluating Subjectivity in Narrative Understanding
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.10/](https://aclanthology.org/2025.emnlp-main.10/)
+- 代码链接：[https://github.com/melaniesubbiah/storysumm](https://github.com/melaniesubbiah/storysumm)
+
+#### From Problem-Solving to Teaching Problem-Solving: Aligning LLMs with Pedagogy using Reinforcement Learning
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.15/](https://aclanthology.org/2025.emnlp-main.15/)
+- 代码链接：[https://github.com/eth-lre/pedagogicalrl](https://github.com/eth-lre/pedagogicalrl)
+
+#### OmniThink: Expanding Knowledge Boundaries in Machine Writing through Thinking
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.50/](https://aclanthology.org/2025.emnlp-main.50/)
+- 代码链接：[https://github.com/zjunlp/omnithink](https://github.com/zjunlp/omnithink)
+
+#### Enhancing Efficiency and Exploration in Reinforcement Learning for LLMs
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.75/](https://aclanthology.org/2025.emnlp-main.75/)
+- 代码链接：[https://github.com/liaomengqi/e3-rl4llms](https://github.com/liaomengqi/e3-rl4llms)
+
+#### CiteBART: Learning to Generate Citations for Local Citation Recommendation
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.89/](https://aclanthology.org/2025.emnlp-main.89/)
+- 代码链接：[https://github.com/eyclk/citationrecommendation](https://github.com/eyclk/citationrecommendation)
+
+#### Language Models as Causal Effect Generators
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.107/](https://aclanthology.org/2025.emnlp-main.107/)
+- 代码链接：[https://github.com/lbynum/sequence-driven-scms](https://github.com/lbynum/sequence-driven-scms)
+
+#### Constructions are Revealed in Word Distributions
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.108/](https://aclanthology.org/2025.emnlp-main.108/)
+- 代码链接：[https://github.com/jsrozner/cxs_are_revealed](https://github.com/jsrozner/cxs_are_revealed)
+
+#### Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.121/](https://aclanthology.org/2025.emnlp-main.121/)
+- 代码链接：[https://github.com/taco-group/re-align](https://github.com/taco-group/re-align)
+
+#### REARANK: Reasoning Re-ranking Agent via Reinforcement Learning
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.125/](https://aclanthology.org/2025.emnlp-main.125/)
+- 代码链接：[https://github.com/lezhang7/rearank](https://github.com/lezhang7/rearank)
+
+#### M-ABSA: A Multilingual Dataset for Aspect-Based Sentiment Analysis
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.128/](https://aclanthology.org/2025.emnlp-main.128/)
+- 代码链接：[https://github.com/swaggy66/M-ABSA](https://github.com/swaggy66/M-ABSA)
+
+#### Code to Think, Think to Code: A Survey on Code-Enhanced Reasoning and Reasoning-Driven Code Intelligence in LLMs
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.130/](https://aclanthology.org/2025.emnlp-main.130/)
+- 代码链接：[https://github.com/dayuyang1999/awesome-code-reasoning](https://github.com/dayuyang1999/awesome-code-reasoning)
+
+#### From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.138/](https://aclanthology.org/2025.emnlp-main.138/)
+- 代码链接：[https://github.com/llm-as-a-judge/awesome-llm-as-a-judge](https://github.com/llm-as-a-judge/awesome-llm-as-a-judge)
+
+#### TokenSkip: Controllable Chain-of-Thought Compression in LLMs
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.165/](https://aclanthology.org/2025.emnlp-main.165/)
+- 代码链接：[https://github.com/hemingkx/tokenskip](https://github.com/hemingkx/tokenskip)
+
+#### AROMA: Autonomous Rank-one Matrix Adaptation
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.170/](https://aclanthology.org/2025.emnlp-main.170/)
+- 代码链接：[https://github.com/shudun23/aroma](https://github.com/shudun23/aroma)
+
+#### RiTTA: Modeling Event Relations in Text-to-Audio Generation
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.173/](https://aclanthology.org/2025.emnlp-main.173/)
+- 代码链接：[https://github.com/yuhanghe01/ritta](https://github.com/yuhanghe01/ritta)
+
+#### FinMTEB: Finance Massive Text Embedding Benchmark
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.179/](https://aclanthology.org/2025.emnlp-main.179/)
+- 代码链接：[https://github.com/yixuantt/finmteb](https://github.com/yixuantt/finmteb)
+
+#### AdaptThink: Reasoning Models Can Learn When to Think
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.184/](https://aclanthology.org/2025.emnlp-main.184/)
+- 代码链接：[https://github.com/thu-keg/adaptthink](https://github.com/thu-keg/adaptthink)
+
+#### CIE: Controlling Language Model Text Generations Using Continuous Signals
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.189/](https://aclanthology.org/2025.emnlp-main.189/)
+- 代码链接：[https://github.com/vsamuel2003/cie](https://github.com/vsamuel2003/cie)
+
+#### RAG-Instruct: Boosting LLMs with Diverse Retrieval-Augmented Instructions
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.192/](https://aclanthology.org/2025.emnlp-main.192/)
+- 代码链接：[https://github.com/freedomintelligence/rag-instruct](https://github.com/freedomintelligence/rag-instruct)
+
+#### Matter-of-Fact: A Benchmark for Verifying the Feasibility of Literature-Supported Claims in Materials Science
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.203/](https://aclanthology.org/2025.emnlp-main.203/)
+- 代码链接：[https://github.com/cognitiveailab/matter-of-fact](https://github.com/cognitiveailab/matter-of-fact)
+
+#### ReMedy: Learning Machine Translation Evaluation from Human Preferences with Reward Modeling
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.217/](https://aclanthology.org/2025.emnlp-main.217/)
+- 代码链接：[https://github.com/Smu-Tan/Remedy](https://github.com/Smu-Tan/Remedy)
+
+#### CoLA: Compute-Efficient Pre-Training of LLMs via Low-Rank Activation
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.230/](https://aclanthology.org/2025.emnlp-main.230/)
+- 代码链接：[https://github.com/alvin-zyl/cola](https://github.com/alvin-zyl/cola)
+
+#### MIO: A Foundation Model on Multimodal Tokens
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.255/](https://aclanthology.org/2025.emnlp-main.255/)
+- 代码链接：[https://github.com/mio-team/mio](https://github.com/mio-team/mio)
+
+#### Think in Safety: Unveiling and Mitigating Safety Alignment Collapse in Multimodal Large Reasoning Model
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.261/](https://aclanthology.org/2025.emnlp-main.261/)
+- 代码链接：[https://github.com/xinyuelou/think-in-safety](https://github.com/xinyuelou/think-in-safety)
+
+#### Cost-Optimal Grouped-Query Attention for Long-Context Modeling
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.272/](https://aclanthology.org/2025.emnlp-main.272/)
+- 代码链接：[https://github.com/thunlp/cost-optimal-gqa](https://github.com/thunlp/cost-optimal-gqa)
+
+#### ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.273/](https://aclanthology.org/2025.emnlp-main.273/)
+- 代码链接：[https://github.com/tutujingyugang1/ChatVLA_public](https://github.com/tutujingyugang1/ChatVLA_public)
+
+#### JOLT-SQL: Joint Loss Tuning of Text-to-SQL with Confusion-aware Noisy Schema Sampling
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.308/](https://aclanthology.org/2025.emnlp-main.308/)
+- 代码链接：[https://github.com/songjw133/joint-loss-tuning-of-text-to-sql](https://github.com/songjw133/joint-loss-tuning-of-text-to-sql)
+
+#### SciRIFF: A Resource to Enhance Language Model Instruction-Following over Scientific Literature
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.310/](https://aclanthology.org/2025.emnlp-main.310/)
+- 代码链接：[https://github.com/allenai/sciriff](https://github.com/allenai/sciriff)
+
+#### LMR-BENCH: Evaluating LLM Agent’s Ability on Reproducing Language Modeling Research
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.314/](https://aclanthology.org/2025.emnlp-main.314/)
+- 代码链接：[https://github.com/du-nlp-lab/lmr-bench](https://github.com/du-nlp-lab/lmr-bench)
+
+#### Glider: Global and Local Instruction-Driven Expert Router
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.319/](https://aclanthology.org/2025.emnlp-main.319/)
+- 代码链接：[https://github.com/unites-lab/glider](https://github.com/unites-lab/glider)
+
+#### Legal Fact Prediction: The Missing Piece in Legal Judgment Prediction
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.322/](https://aclanthology.org/2025.emnlp-main.322/)
+- 代码链接：[https://github.com/hprcest/lfpbench](https://github.com/hprcest/lfpbench)
+
+#### MOSAIC: Modeling Social AI for Content Dissemination and Regulation in Multi-Agent Simulations
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.325/](https://aclanthology.org/2025.emnlp-main.325/)
+- 代码链接：[https://github.com/anonymouspaperrepo/mosaic-submission](https://github.com/anonymouspaperrepo/mosaic-submission)
+
+#### TurboRAG: Accelerating Retrieval-Augmented Generation with Precomputed KV Caches for Chunked Text
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.334/](https://aclanthology.org/2025.emnlp-main.334/)
+- 代码链接：[https://github.com/MooreThreads/TurboRAG](https://github.com/MooreThreads/TurboRAG)
+
+#### ZoomEye: Enhancing Multimodal LLMs with Human-Like Zooming Capabilities through Tree-Based Image Exploration
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.335/](https://aclanthology.org/2025.emnlp-main.335/)
+- 代码链接：[https://github.com/om-ai-lab/ZoomEye](https://github.com/om-ai-lab/ZoomEye)
+
+#### VersaTune: An Efficient Data Composition Framework for Training Multi-Capability LLMs
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.337/](https://aclanthology.org/2025.emnlp-main.337/)
+- 代码链接：[https://github.com/8023looker/versatune](https://github.com/8023looker/versatune)
+
+#### FlightGPT: Towards Generalizable and Interpretable UAV Vision-and-Language Navigation with Vision-Language Models
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.338/](https://aclanthology.org/2025.emnlp-main.338/)
+- 代码链接：[https://github.com/pendulumclock/flightgpt](https://github.com/pendulumclock/flightgpt)
+
+#### LoSiA: Efficient High-Rank Fine-Tuning via Subnet Localization and Optimization
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.340/](https://aclanthology.org/2025.emnlp-main.340/)
+- 代码链接：[https://github.com/KlozeWang/LoSiA](https://github.com/KlozeWang/LoSiA)
+
+#### Invisible Entropy: Towards Safe and Efficient Low-Entropy LLM Watermarking
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.341/](https://aclanthology.org/2025.emnlp-main.341/)
+- 代码链接：[https://github.com/carol-gutianle/ie](https://github.com/carol-gutianle/ie)
+
+#### Keep Security! Benchmarking Security Policy Preservation in Large Language Model Contexts Against Indirect Attacks in Question Answering
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.345/](https://aclanthology.org/2025.emnlp-main.345/)
+- 代码链接：[https://github.com/hwanchang00/CoPriva](https://github.com/hwanchang00/CoPriva)
+
+#### GATEAU: Selecting Influential Samples for Long Context Alignment
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.375/](https://aclanthology.org/2025.emnlp-main.375/)
+- 代码链接：[https://github.com/s1s-z/gateau](https://github.com/s1s-z/gateau)
+
+#### NOVER: Incentive Training for Language Models via Verifier-Free Reinforcement Learning
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.378/](https://aclanthology.org/2025.emnlp-main.378/)
+- 代码链接：[https://github.com/thinkwee/nover](https://github.com/thinkwee/nover)
+
+#### WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.401/](https://aclanthology.org/2025.emnlp-main.401/)
+- 代码链接：[https://github.com/weizhepei/webagent-r1](https://github.com/weizhepei/webagent-r1)
+
+#### PAKTON: A Multi-Agent Framework for Question Answering in Long Legal Agreements
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.403/](https://aclanthology.org/2025.emnlp-main.403/)
+- 代码链接：[https://github.com/petrosrapto/pakton](https://github.com/petrosrapto/pakton)
+
+#### AnchorAttention: Difference-Aware Sparse Attention with Stripe Granularity
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.430/](https://aclanthology.org/2025.emnlp-main.430/)
+- 代码链接：[https://github.com/yuzhouzhang9/anchor-attention](https://github.com/yuzhouzhang9/anchor-attention)
+
+#### Judging Quality Across Languages: A Multilingual Approach to Pretraining Data Filtering with Language Models
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.449/](https://aclanthology.org/2025.emnlp-main.449/)
+- 代码链接：[https://github.com/jql-ai/jql-annotation-pipeline](https://github.com/jql-ai/jql-annotation-pipeline)
+
+#### ViDoRAG: Visual Document Retrieval-Augmented Generation via Dynamic Iterative Reasoning Agents
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.464/](https://aclanthology.org/2025.emnlp-main.464/)
+- 代码链接：[https://github.com/Alibaba-NLP/ViDoRAG](https://github.com/Alibaba-NLP/ViDoRAG)
+
+#### FB-Bench: A Fine-Grained Multi-Task Benchmark for Evaluating LLMs’ Responsiveness to Human Feedback
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.471/](https://aclanthology.org/2025.emnlp-main.471/)
+- 代码链接：[https://github.com/pku-baichuan-mlsystemlab/fb-bench](https://github.com/pku-baichuan-mlsystemlab/fb-bench)
+
+#### Does quantization affect models’ performance on long-context tasks?
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.479/](https://aclanthology.org/2025.emnlp-main.479/)
+- 代码链接：[https://github.com/molereddy/long-context-quantization](https://github.com/molereddy/long-context-quantization)
+
+#### Stop Looking for “Important Tokens” in Multimodal Language Models: Duplication Matters More
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.505/](https://aclanthology.org/2025.emnlp-main.505/)
+- 代码链接：[https://github.com/zichenwen1/dart](https://github.com/zichenwen1/dart)
+
+#### RecGPT: A Foundation Model for Sequential Recommendation
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.513/](https://aclanthology.org/2025.emnlp-main.513/)
+- 代码链接：[https://github.com/hkuds/recgpt](https://github.com/hkuds/recgpt)
+
+#### Towards Holistic Evaluation of Large Audio-Language Models: A Comprehensive Survey
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.514/](https://aclanthology.org/2025.emnlp-main.514/)
+- 代码链接：[https://github.com/b08202033/lalm-evaluation-survey](https://github.com/b08202033/lalm-evaluation-survey)
+
+#### SAEs Are Good for Steering – If You Select the Right Features
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.519/](https://aclanthology.org/2025.emnlp-main.519/)
+- 代码链接：[https://github.com/technion-cs-nlp/saes-are-good-for-steering](https://github.com/technion-cs-nlp/saes-are-good-for-steering)
+
+#### SPaRC: A Spatial Pathfinding Reasoning Challenge
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.526/](https://aclanthology.org/2025.emnlp-main.526/)
+- 代码链接：[https://github.com/lkaesberg/sparc](https://github.com/lkaesberg/sparc)
+
+#### Towards Faithful Natural Language Explanations: A Study Using Activation Patching in Large Language Models
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.529/](https://aclanthology.org/2025.emnlp-main.529/)
+- 代码链接：[https://github.com/wj210/causal-faithfulness](https://github.com/wj210/causal-faithfulness)
+
+#### Knowledge Editing through Chain-of-Thought
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.540/](https://aclanthology.org/2025.emnlp-main.540/)
+- 代码链接：[https://github.com/bebr2/editcot](https://github.com/bebr2/editcot)
+
+#### AdamS: Momentum Itself Can Be A Normalizer for LLM Pretraining and Post-training
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.543/](https://aclanthology.org/2025.emnlp-main.543/)
+- 代码链接：[https://github.com/pku-huzhang/AdamS](https://github.com/pku-huzhang/AdamS)
+
+#### Can LLMs be Good Graph Judge for Knowledge Graph Construction?
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.554/](https://aclanthology.org/2025.emnlp-main.554/)
+- 代码链接：[https://github.com/hhy-huang/graphjudge](https://github.com/hhy-huang/graphjudge)
+
+#### Towards Infinite-Long Prefix in Transformer
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.563/](https://aclanthology.org/2025.emnlp-main.563/)
+- 代码链接：[https://github.com/christianyang37/chiwun](https://github.com/christianyang37/chiwun)
+
+#### CaKE: Circuit-aware Editing Enables Generalizable Knowledge Learners
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.572/](https://aclanthology.org/2025.emnlp-main.572/)
+- 代码链接：[https://github.com/zjunlp/cake](https://github.com/zjunlp/cake)
+
+#### Toward Multi-Session Personalized Conversation: A Large-Scale Dataset and Hierarchical Tree Framework for Implicit Reasoning
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.580/](https://aclanthology.org/2025.emnlp-main.580/)
+- 代码链接：[https://github.com/Kaylee0501/ImplexConv](https://github.com/Kaylee0501/ImplexConv)
+
+#### EmoAgent: Assessing and Safeguarding Human-AI Interaction for Mental Health Safety
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.594/](https://aclanthology.org/2025.emnlp-main.594/)
+- 代码链接：[https://github.com/1akaman/emoagent](https://github.com/1akaman/emoagent)
+
+#### Should I Share this Translation? Evaluating Quality Feedback for User Reliance on Machine Translation
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.606/](https://aclanthology.org/2025.emnlp-main.606/)
+- 代码链接：[https://github.com/dayeonki/mt_quality_feedback](https://github.com/dayeonki/mt_quality_feedback)
+
+#### LogiCoL: Logically-Informed Contrastive Learning for Set-based Dense Retrieval
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.608/](https://aclanthology.org/2025.emnlp-main.608/)
+- 代码链接：[https://github.com/yanzhen4/logicol](https://github.com/yanzhen4/logicol)
+
+#### Understanding the Information Propagation Effects of Communication Topologies in LLM-based Multi-Agent Systems
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.623/](https://aclanthology.org/2025.emnlp-main.623/)
+- 代码链接：[https://github.com/se7esx/eib](https://github.com/se7esx/eib)
+
+#### From Tens of Hours to Tens of Thousands: Scaling Back-Translation for Speech Recognition
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.629/](https://aclanthology.org/2025.emnlp-main.629/)
+- 代码链接：[https://github.com/tianduowang/speech-bt](https://github.com/tianduowang/speech-bt)
+
+#### Mitigating Hallucinations in Vision-Language Models through Image-Guided Head Suppression
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.631/](https://aclanthology.org/2025.emnlp-main.631/)
+- 代码链接：[https://github.com/yueche77/spin](https://github.com/yueche77/spin)
+
+#### Following the Autoregressive Nature of LLM Embeddings via Compression and Alignment
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.639/](https://aclanthology.org/2025.emnlp-main.639/)
+- 代码链接：[https://github.com/trustedllm/autoregembed](https://github.com/trustedllm/autoregembed)
+
+#### How Is LLM Reasoning Distracted by Irrelevant Context? An Analysis Using a Controlled Benchmark
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.674/](https://aclanthology.org/2025.emnlp-main.674/)
+- 代码链接：[https://github.com/mlyann/gsm-dc](https://github.com/mlyann/gsm-dc)
+
+#### R-PRM: Reasoning-Driven Process Reward Modeling
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.679/](https://aclanthology.org/2025.emnlp-main.679/)
+- 代码链接：[https://github.com/njunlp/r-prm](https://github.com/njunlp/r-prm)
+
+#### MAVL: A Multilingual Audio-Video Lyrics Dataset for Animated Song Translation
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.689/](https://aclanthology.org/2025.emnlp-main.689/)
+- 代码链接：[https://github.com/k1064190/MAVL](https://github.com/k1064190/MAVL)
+
+#### Textual Aesthetics in Large Language Models
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.696/](https://aclanthology.org/2025.emnlp-main.696/)
+- 代码链接：[https://github.com/JackLingjie/Textual-Aesthetics](https://github.com/JackLingjie/Textual-Aesthetics)
+
+#### TableRAG: A Retrieval Augmented Generation Framework for Heterogeneous Document Reasoning
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.710/](https://aclanthology.org/2025.emnlp-main.710/)
+- 代码链接：[https://github.com/yxh-y/tablerag](https://github.com/yxh-y/tablerag)
+
+#### Warm Up Before You Train: Unlocking General Reasoning in Resource-Constrained Settings
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.727/](https://aclanthology.org/2025.emnlp-main.727/)
+- 代码链接：[https://github.com/safal312/warmup-before-you-train](https://github.com/safal312/warmup-before-you-train)
+
+#### PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.728/](https://aclanthology.org/2025.emnlp-main.728/)
+- 代码链接：[https://github.com/icip-cas/pptagent](https://github.com/icip-cas/pptagent)
+
+#### Logits-Based Finetuning
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.745/](https://aclanthology.org/2025.emnlp-main.745/)
+- 代码链接：[https://github.com/dvlab-research/logits-based-finetuning](https://github.com/dvlab-research/logits-based-finetuning)
+
+#### DCIS: Efficient Length Extrapolation of LLMs via Divide-and-Conquer Scaling Factor Search
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.767/](https://aclanthology.org/2025.emnlp-main.767/)
+- 代码链接：[https://github.com/YL-9/dcis](https://github.com/YL-9/dcis)
+
+#### The Hidden Strength of Disagreement: Unraveling the Consensus-Diversity Tradeoff in Adaptive Multi-Agent Systems
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.772/](https://aclanthology.org/2025.emnlp-main.772/)
+- 代码链接：[https://github.com/wuzengqing001225/consensusdiversitytradeoffmas](https://github.com/wuzengqing001225/consensusdiversitytradeoffmas)
+
+#### DyePack: Provably Flagging Test Set Contamination in LLMs Using Backdoors
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.776/](https://aclanthology.org/2025.emnlp-main.776/)
+- 代码链接：[https://github.com/chengez/DyePack](https://github.com/chengez/DyePack)
+
+#### VisEscape: A Benchmark for Evaluating Exploration-driven Decision-making in Virtual Escape Rooms
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.810/](https://aclanthology.org/2025.emnlp-main.810/)
+- 代码链接：[https://github.com/pull-ups/VisEscape](https://github.com/pull-ups/VisEscape)
+
+#### Promote, Suppress, Iterate: How Language Models Answer One-to-Many Factual Queries
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.815/](https://aclanthology.org/2025.emnlp-main.815/)
+- 代码链接：[https://github.com/lorenayannnnn/how-lms-answer-one-to-many-factual-queries](https://github.com/lorenayannnnn/how-lms-answer-one-to-many-factual-queries)
+
+#### Not-Just-Scaling Laws: Towards a Better Understanding of the Downstream Impact of Language Model Design Decisions
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.830/](https://aclanthology.org/2025.emnlp-main.830/)
+- 代码链接：[https://github.com/nightingal3/llm-pretraining-behaviours](https://github.com/nightingal3/llm-pretraining-behaviours)
+
+#### Do Large Language Models excel in Complex Logical Reasoning with Formal Language?
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.855/](https://aclanthology.org/2025.emnlp-main.855/)
+- 代码链接：[https://github.com/jiangjin1999/formaleval](https://github.com/jiangjin1999/formaleval)
+
+#### ThinkEdit: Interpretable Weight Editing to Mitigate Overly Short Thinking in Reasoning Models
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.861/](https://aclanthology.org/2025.emnlp-main.861/)
+- 代码链接：[https://github.com/trustworthy-ml-lab/thinkedit](https://github.com/trustworthy-ml-lab/thinkedit)
+
+#### Why Stop at One Error? Benchmarking LLMs as Data Science Code Debuggers for Multi-Hop and Multi-Bug Errors
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.878/](https://aclanthology.org/2025.emnlp-main.878/)
+- 代码链接：[https://github.com/kevincl16/dsdbench](https://github.com/kevincl16/dsdbench)
+
+#### Generator-Assistant Stepwise Rollback Framework for Large Language Model Agent
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.892/](https://aclanthology.org/2025.emnlp-main.892/)
+- 代码链接：[https://github.com/wisper12933/ga-rollback](https://github.com/wisper12933/ga-rollback)
+
+#### From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.895/](https://aclanthology.org/2025.emnlp-main.895/)
+- 代码链接：[https://github.com/hkust-knowcomp/awesome-llm-scientific-discovery](https://github.com/hkust-knowcomp/awesome-llm-scientific-discovery)
+
+#### Unsupervised Word-level Quality Estimation for Machine Translation Through the Lens of Annotators (Dis)agreement
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.924/](https://aclanthology.org/2025.emnlp-main.924/)
+- 代码链接：[https://github.com/gsarti/labl](https://github.com/gsarti/labl)
+
+#### UltraIF: Advancing Instruction Following from the Wild
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.945/](https://aclanthology.org/2025.emnlp-main.945/)
+- 代码链接：[https://github.com/kkk-an/ultraif](https://github.com/kkk-an/ultraif)
+
+#### Debatable Intelligence: Benchmarking LLM Judges via Debate Speech Evaluation
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.953/](https://aclanthology.org/2025.emnlp-main.953/)
+- 代码链接：[https://github.com/noy-sternlicht/debatable-intelligence](https://github.com/noy-sternlicht/debatable-intelligence)
+
+#### METok: Multi-Stage Event-based Token Compression for Efficient Long Video Understanding
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.954/](https://aclanthology.org/2025.emnlp-main.954/)
+- 代码链接：[https://github.com/mnyuew/metok](https://github.com/mnyuew/metok)
+
+#### MA-GTS: A Multi-Agent Framework for Solving Complex Graph Problems in Real-World Applications
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.973/](https://aclanthology.org/2025.emnlp-main.973/)
+- 代码链接：[https://github.com/zikeyuan/ma-gts](https://github.com/zikeyuan/ma-gts)
+
+#### Child-Directed Language Does Not Consistently Boost Syntax Learning in Language Models
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.999/](https://aclanthology.org/2025.emnlp-main.999/)
+- 代码链接：[https://github.com/fpadovani/childes_vs_wiki](https://github.com/fpadovani/childes_vs_wiki)
+
+#### RaDeR: Reasoning-aware Dense Retrieval Models
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1011/](https://aclanthology.org/2025.emnlp-main.1011/)
+- 代码链接：[https://github.com/Debrup-61/RaDeR](https://github.com/Debrup-61/RaDeR)
+
+#### Fann or Flop: A Multigenre, Multiera Benchmark for Arabic Poetry Understanding in LLMs
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1023/](https://aclanthology.org/2025.emnlp-main.1023/)
+- 代码链接：[https://github.com/mbzuai-oryx/fannorflop](https://github.com/mbzuai-oryx/fannorflop)
+
+#### CoMAT: Chain of Mathematically Annotated Thought Improves Mathematical Reasoning
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1024/](https://aclanthology.org/2025.emnlp-main.1024/)
+- 代码链接：[https://github.com/joshuaongg21/comat](https://github.com/joshuaongg21/comat)
+
+#### Reading Between the Prompts: How Stereotypes Shape LLM’s Implicit Personalization
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1029/](https://aclanthology.org/2025.emnlp-main.1029/)
+- 代码链接：[https://github.com/veranep/implicit-personalization-stereotypes](https://github.com/veranep/implicit-personalization-stereotypes)
+
+#### An Empirical Study on Strong-Weak Model Collaboration for Repo-level Code Generation
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1043/](https://aclanthology.org/2025.emnlp-main.1043/)
+- 代码链接：[https://github.com/shubhamrgandhi/codegen-strong-weak-collab](https://github.com/shubhamrgandhi/codegen-strong-weak-collab)
+
+#### EIFBENCH: Extremely Complex Instruction Following Benchmark for Large Language Models
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1059/](https://aclanthology.org/2025.emnlp-main.1059/)
+- 代码链接：[https://github.com/hope-rita/eifbench](https://github.com/hope-rita/eifbench)
+
+#### ActionStudio: A Lightweight Framework for Data and Training of Large Action Models
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1090/](https://aclanthology.org/2025.emnlp-main.1090/)
+- 代码链接：[https://github.com/SalesforceAIResearch/xLAM](https://github.com/SalesforceAIResearch/xLAM)
+
+#### s3: You Don’t Need That Much Data to Train a Search Agent via RL
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1095/](https://aclanthology.org/2025.emnlp-main.1095/)
+- 代码链接：[https://github.com/pat-jj/s3](https://github.com/pat-jj/s3)
+
+#### FuseChat: Knowledge Fusion of Chat Models
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1096/](https://aclanthology.org/2025.emnlp-main.1096/)
+- 代码链接：[https://github.com/fanqiwan/fuseai](https://github.com/fanqiwan/fuseai)
+
+#### Puzzled by Puzzles: When Vision-Language Models Can’t Take a Hint
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1101/](https://aclanthology.org/2025.emnlp-main.1101/)
+- 代码链接：[https://github.com/kyunnilee/visual_puzzles](https://github.com/kyunnilee/visual_puzzles)
+
+#### Dyve: Thinking Fast and Slow for Dynamic Process Verification
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1136/](https://aclanthology.org/2025.emnlp-main.1136/)
+- 代码链接：[https://github.com/staymylove/Dyve](https://github.com/staymylove/Dyve)
+
+#### Internal Chain-of-Thought: Empirical Evidence for Layer‐wise Subtask Scheduling in LLMs
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1147/](https://aclanthology.org/2025.emnlp-main.1147/)
+- 代码链接：[https://github.com/yzp11/internal-chain-of-thought](https://github.com/yzp11/internal-chain-of-thought)
+
+#### DCR: Quantifying Data Contamination in LLMs Evaluation
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1173/](https://aclanthology.org/2025.emnlp-main.1173/)
+- 代码链接：[https://github.com/chengxuphd/dcr](https://github.com/chengxuphd/dcr)
+
+#### Can Large Language Models be Effective Online Opinion Miners?
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1178/](https://aclanthology.org/2025.emnlp-main.1178/)
+- 代码链接：[https://github.com/ryang1119/Online-Opinion-Mining](https://github.com/ryang1119/Online-Opinion-Mining)
+
+#### ClimateViz: A Benchmark for Statistical Reasoning and Fact Verification on Scientific Charts
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1196/](https://aclanthology.org/2025.emnlp-main.1196/)
+- 代码链接：[https://github.com/albasu120491/climateviz](https://github.com/albasu120491/climateviz)
+
+#### TAPS: Tool-Augmented Personalisation via Structured Tagging
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1200/](https://aclanthology.org/2025.emnlp-main.1200/)
+- 代码链接：[https://github.com/grill-lab/taps](https://github.com/grill-lab/taps)
+
+#### Agent-as-Judge for Factual Summarization of Long Narratives
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1204/](https://aclanthology.org/2025.emnlp-main.1204/)
+- 代码链接：[https://github.com/yeonseokjeong/narrativefactscore](https://github.com/yeonseokjeong/narrativefactscore)
+
+#### RAcQUEt: Unveiling the Dangers of Overlooked Referential Ambiguity in Visual LLMs
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1206/](https://aclanthology.org/2025.emnlp-main.1206/)
+- 代码链接：[https://github.com/albertotestoni/racquet](https://github.com/albertotestoni/racquet)
+
+#### Rethinking Text-based Protein Understanding: Retrieval or LLM?
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1211/](https://aclanthology.org/2025.emnlp-main.1211/)
+- 代码链接：[https://github.com/IDEA-XL/RAPM](https://github.com/IDEA-XL/RAPM)
+
+#### Query-Focused Retrieval Heads Improve Long-Context Reasoning and Re-ranking
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1214/](https://aclanthology.org/2025.emnlp-main.1214/)
+- 代码链接：[https://github.com/princeton-pli/qrhead](https://github.com/princeton-pli/qrhead)
+
+#### Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1236/](https://aclanthology.org/2025.emnlp-main.1236/)
+- 代码链接：[https://github.com/simonaytes/sot](https://github.com/simonaytes/sot)
+
+#### Hallucination Detection in LLMs Using Spectral Features of Attention Maps
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1239/](https://aclanthology.org/2025.emnlp-main.1239/)
+- 代码链接：[https://github.com/graphml-lab-pwr/lapeig](https://github.com/graphml-lab-pwr/lapeig)
+
+#### Large Language Models Meet Knowledge Graphs for Question Answering: Synthesis and Opportunities
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1249/](https://aclanthology.org/2025.emnlp-main.1249/)
+- 代码链接：[https://github.com/machuangtao/llm-kg4qa](https://github.com/machuangtao/llm-kg4qa)
+
+#### Beyond Outlining: Heterogeneous Recursive Planning for Adaptive Long-form Writing with Language Models
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1254/](https://aclanthology.org/2025.emnlp-main.1254/)
+- 代码链接：[https://github.com/principia-ai/WriteHERE](https://github.com/principia-ai/WriteHERE)
+
+#### Code Execution as Grounded Supervision for LLM Reasoning
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1260/](https://aclanthology.org/2025.emnlp-main.1260/)
+- 代码链接：[https://github.com/luka-group/execution-grounded-reasoning](https://github.com/luka-group/execution-grounded-reasoning)
+
+#### Balcony: A Lightweight Approach to Dynamic Inference of Generative Language Models
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1263/](https://aclanthology.org/2025.emnlp-main.1263/)
+- 代码链接：[https://github.com/benyaminjami/Balcony-LLaMA](https://github.com/benyaminjami/Balcony-LLaMA)
+
+#### How Far Can LLMs Improve from Experience? Measuring Test-Time Learning Ability in LLMs with Human Comparison
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1304/](https://aclanthology.org/2025.emnlp-main.1304/)
+- 代码链接：[https://github.com/alice1998/test-time-leaning](https://github.com/alice1998/test-time-leaning)
+
+#### OWL: Probing Cross-Lingual Recall of Memorized Texts via World Literature
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1314/](https://aclanthology.org/2025.emnlp-main.1314/)
+- 代码链接：[https://github.com/emirkaan5/owl](https://github.com/emirkaan5/owl)
+
+#### ConvSearch-R1: Enhancing Query Reformulation for Conversational Search with Reasoning via Reinforcement Learning
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1349/](https://aclanthology.org/2025.emnlp-main.1349/)
+- 代码链接：[https://github.com/BeastyZ/ConvSearch-R1](https://github.com/BeastyZ/ConvSearch-R1)
+
+#### iVISPAR — An Interactive Visual-Spatial Reasoning Benchmark for VLMs
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1359/](https://aclanthology.org/2025.emnlp-main.1359/)
+- 代码链接：[https://github.com/SharkyBamboozle/iVISPAR](https://github.com/SharkyBamboozle/iVISPAR)
+
+#### TrojanStego: Your Language Model Can Secretly Be A Steganographic Privacy Leaking Agent
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1386/](https://aclanthology.org/2025.emnlp-main.1386/)
+- 代码链接：[https://github.com/worta/trojansteno](https://github.com/worta/trojansteno)
+
+#### Assay2Mol: Large Language Model-based Drug Design Using BioAssay Context
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1390/](https://aclanthology.org/2025.emnlp-main.1390/)
+- 代码链接：[https://github.com/gitter-lab/Assay2Mol](https://github.com/gitter-lab/Assay2Mol)
+
+#### AFRIDOC-MT: Document-level MT Corpus for African Languages
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1413/](https://aclanthology.org/2025.emnlp-main.1413/)
+- 代码链接：[https://github.com/masakhane-io/afridoc-mt](https://github.com/masakhane-io/afridoc-mt)
+
+#### Synth-SBDH: A Synthetic Dataset of Social and Behavioral Determinants of Health for Clinical Text
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1418/](https://aclanthology.org/2025.emnlp-main.1418/)
+- 代码链接：[https://github.com/avipartho/synth-sbdh](https://github.com/avipartho/synth-sbdh)
+
+#### Improving Large Language Model Safety with Contrastive Representation Learning
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1430/](https://aclanthology.org/2025.emnlp-main.1430/)
+- 代码链接：[https://github.com/samuelsimko/crl-llm-defense](https://github.com/samuelsimko/crl-llm-defense)
+
+#### The Strawberry Problem: Emergence of Character-level Understanding in Tokenized Language Models
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1434/](https://aclanthology.org/2025.emnlp-main.1434/)
+- 代码链接：[https://github.com/cosmaadrian/strawberry-problem](https://github.com/cosmaadrian/strawberry-problem)
+
+#### A Survey of Link Prediction in N-ary Knowledge Graphs
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1451/](https://aclanthology.org/2025.emnlp-main.1451/)
+- 代码链接：[https://github.com/jiyaowei/lp_nkgs](https://github.com/jiyaowei/lp_nkgs)
+
+#### Compound AI Systems Optimization: A Survey of Methods, Challenges, and Future Directions
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1463/](https://aclanthology.org/2025.emnlp-main.1463/)
+- 代码链接：[https://github.com/miulab/aisysopt-survey](https://github.com/miulab/aisysopt-survey)
+
+#### How to Protect Yourself from 5G Radiation? Investigating LLM Responses to Implicit Misinformation
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1468/](https://aclanthology.org/2025.emnlp-main.1468/)
+- 代码链接：[https://github.com/octaviaguo/EchoMist](https://github.com/octaviaguo/EchoMist)
+
+#### AmpleHate: Amplifying the Attention for Versatile Implicit Hate Detection
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1469/](https://aclanthology.org/2025.emnlp-main.1469/)
+- 代码链接：[https://github.com/leeyejin1231/amplehate](https://github.com/leeyejin1231/amplehate)
+
+#### Reasoning-to-Defend: Safety-Aware Reasoning Can Defend Large Language Models from Jailbreaking
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1493/](https://aclanthology.org/2025.emnlp-main.1493/)
+- 代码链接：[https://github.com/chuhac/Reasoning-to-Defend](https://github.com/chuhac/Reasoning-to-Defend)
+
+#### The Validation Gap: A Mechanistic Analysis of How Language Models Compute Arithmetic but Fail to Validate It
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1495/](https://aclanthology.org/2025.emnlp-main.1495/)
+- 代码链接：[https://github.com/mainlp/validation-gap](https://github.com/mainlp/validation-gap)
+
+#### MetaFaith: Faithful Natural Language Uncertainty Expression in LLMs
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1505/](https://aclanthology.org/2025.emnlp-main.1505/)
+- 代码链接：[https://github.com/yale-nlp/metafaith](https://github.com/yale-nlp/metafaith)
+
+#### Machine-generated text detection prevents language model collapse
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1506/](https://aclanthology.org/2025.emnlp-main.1506/)
+- 代码链接：[https://github.com/georgedrayson/model_collapse](https://github.com/georgedrayson/model_collapse)
+
+#### Sparse Autoencoder Features for Classifications and Transferability
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1521/](https://aclanthology.org/2025.emnlp-main.1521/)
+- 代码链接：[https://github.com/shan23chen/mosaic](https://github.com/shan23chen/mosaic)
+
+#### VerIF: Verification Engineering for Reinforcement Learning in Instruction Following
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1542/](https://aclanthology.org/2025.emnlp-main.1542/)
+- 代码链接：[https://github.com/thu-keg/verif](https://github.com/thu-keg/verif)
+
+#### A Position Paper on the Automatic Generation of Machine Learning Leaderboards
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1566/](https://aclanthology.org/2025.emnlp-main.1566/)
+- 代码链接：[https://github.com/roeltim/ml-leaderboard-position-paper](https://github.com/roeltim/ml-leaderboard-position-paper)
+
+#### SimMark: A Robust Sentence-Level Similarity-Based Watermarking Algorithm for Large Language Models
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1567/](https://aclanthology.org/2025.emnlp-main.1567/)
+- 代码链接：[https://github.com/DabiriAghdam/SimMark](https://github.com/DabiriAghdam/SimMark)
+
+#### Demystifying Domain-adaptive Post-training for Financial LLMs
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1579/](https://aclanthology.org/2025.emnlp-main.1579/)
+- 代码链接：[https://github.com/salesforceairesearch/findap](https://github.com/salesforceairesearch/findap)
+
+#### A Multilingual, Culture-First Approach to Addressing Misgendering in LLM Applications
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1587/](https://aclanthology.org/2025.emnlp-main.1587/)
+- 代码链接：[https://github.com/microsoft/Multilingual-Culture-First-Misgendering-Guardrails](https://github.com/microsoft/Multilingual-Culture-First-Misgendering-Guardrails)
+
+#### Explicit Learning and the LLM in Machine Translation
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1599/](https://aclanthology.org/2025.emnlp-main.1599/)
+- 代码链接：[https://github.com/mmarmonier/SWELLS](https://github.com/mmarmonier/SWELLS)
+
+#### AIR: Complex Instruction Generation via Automatic Iterative Refinement
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1628/](https://aclanthology.org/2025.emnlp-main.1628/)
+- 代码链接：[https://github.com/weiliuah/air-automatic-iterative-refinement](https://github.com/weiliuah/air-automatic-iterative-refinement)
+
+#### MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for Reasoning
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1660/](https://aclanthology.org/2025.emnlp-main.1660/)
+- 代码链接：[https://github.com/dinobby/magicore](https://github.com/dinobby/magicore)
+
+#### Threading the Needle: Reweaving Chain-of-Thought Reasoning to Explain Human Label Variation
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1682/](https://aclanthology.org/2025.emnlp-main.1682/)
+- 代码链接：[https://github.com/mainlp/cot2el](https://github.com/mainlp/cot2el)
+
+#### ImpliRet: Benchmarking the Implicit Fact Retrieval Challenge
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1685/](https://aclanthology.org/2025.emnlp-main.1685/)
+- 代码链接：[https://github.com/zeinabtaghavi/impliret](https://github.com/zeinabtaghavi/impliret)
+
+#### Revealing and Mitigating the Challenge of Detecting Character Knowledge Errors in LLM Role-Playing
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1689/](https://aclanthology.org/2025.emnlp-main.1689/)
+- 代码链接：[https://github.com/wyripple/rp_kw_errors](https://github.com/wyripple/rp_kw_errors)
+
+#### Can Large Language Models Unlock Novel Scientific Research Ideas?
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1704/](https://aclanthology.org/2025.emnlp-main.1704/)
+- 代码链接：[https://github.com/sandeep82945/future-idea-generation](https://github.com/sandeep82945/future-idea-generation)
+
+#### LiTEx: A Linguistic Taxonomy of Explanations for Understanding Within-Label Variation in Natural Language Inference
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1728/](https://aclanthology.org/2025.emnlp-main.1728/)
+- 代码链接：[https://github.com/mainlp/litex](https://github.com/mainlp/litex)
+
+#### Turning Logic Against Itself: Probing Model Defenses Through Contrastive Questions
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1762/](https://aclanthology.org/2025.emnlp-main.1762/)
+- 代码链接：[https://github.com/ukplab/poate-attack](https://github.com/ukplab/poate-attack)
+
+#### FoREST: Frame of Reference Evaluation in Spatial Reasoning Tasks
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1772/](https://aclanthology.org/2025.emnlp-main.1772/)
+- 代码链接：[https://github.com/HLR/FoREST](https://github.com/HLR/FoREST)
+
+#### Constrained Non-negative Matrix Factorization for Guided Topic Modeling of Minority Topics
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1802/](https://aclanthology.org/2025.emnlp-main.1802/)
+- 代码链接：[https://github.com/anonymous-researcher-573/contrained_non-negative-matrix-factorization](https://github.com/anonymous-researcher-573/contrained_non-negative-matrix-factorization)
+
+#### A Head to Predict and a Head to Question: Pre-trained Uncertainty Quantification Heads for Hallucination Detection in LLM Outputs
+
+- 论文链接：[https://aclanthology.org/2025.emnlp-main.1809/](https://aclanthology.org/2025.emnlp-main.1809/)
+- 代码链接：[https://github.com/iinemo/llm-uncertainty-head](https://github.com/iinemo/llm-uncertainty-head)
+
+#### Toward Optimal LLM Alignments Using Two-Player Games
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.6/](https://aclanthology.org/2025.findings-emnlp.6/)
+- 代码链接：[https://github.com/ruizheng20/gpo](https://github.com/ruizheng20/gpo)
+
+#### InsBank: Evolving Instruction Subset for Ongoing Alignment
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.14/](https://aclanthology.org/2025.findings-emnlp.14/)
+- 代码链接：[https://github.com/jiayinlp/insbank](https://github.com/jiayinlp/insbank)
+
+#### DAC: Decomposed Automation Correction for Text-to-SQL
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.22/](https://aclanthology.org/2025.findings-emnlp.22/)
+- 代码链接：[https://github.com/zirui-HIT/DAC](https://github.com/zirui-HIT/DAC)
+
+#### Exploring Model Kinship for Merging Large Language Models
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.32/](https://aclanthology.org/2025.findings-emnlp.32/)
+- 代码链接：[https://github.com/zjunlp/ModelKinship](https://github.com/zjunlp/ModelKinship)
+
+#### MULTITAT: Benchmarking Multilingual Table-and-Text Question Answering
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.33/](https://aclanthology.org/2025.findings-emnlp.33/)
+- 代码链接：[https://github.com/zhxlia/multitat](https://github.com/zhxlia/multitat)
+
+#### Don’t Take the Premise for Granted: Evaluating the Premise Critique Ability of Large Language Models
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.44/](https://aclanthology.org/2025.findings-emnlp.44/)
+- 代码链接：[https://github.com/mlgroupjlu/premise_critique](https://github.com/mlgroupjlu/premise_critique)
+
+#### Grounded-VideoLLM: Sharpening Fine-grained Temporal Grounding in Video Large Language Models
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.50/](https://aclanthology.org/2025.findings-emnlp.50/)
+- 代码链接：[https://github.com/whb139426/grounded-video-llm](https://github.com/whb139426/grounded-video-llm)
+
+#### DongbaMIE: A Multimodal Information Extraction Dataset for Evaluating Semantic Understanding of Dongba Pictograms
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.51/](https://aclanthology.org/2025.findings-emnlp.51/)
+- 代码链接：[https://github.com/thinklis/dongbamie](https://github.com/thinklis/dongbamie)
+
+#### Minimal Ranks, Maximum Confidence: Parameter-efficient Uncertainty Quantification for LoRA
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.66/](https://aclanthology.org/2025.findings-emnlp.66/)
+- 代码链接：[https://github.com/gmum/b-lora-xs](https://github.com/gmum/b-lora-xs)
+
+#### Large Language Model Evaluation via Matrix Nuclear-Norm
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.68/](https://aclanthology.org/2025.findings-emnlp.68/)
+- 代码链接：[https://github.com/mlgroupjlu/matrixnuclearnorm](https://github.com/mlgroupjlu/matrixnuclearnorm)
+
+#### From Grounding to Manipulation: Case Studies of Foundation Model Integration in Embodied Robotic Systems
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.69/](https://aclanthology.org/2025.findings-emnlp.69/)
+- 代码链接：[https://github.com/hritdy/claw_machine](https://github.com/hritdy/claw_machine)
+
+#### NLoRA: Nyström-Initiated Low-Rank Adaptation for Large Language Models
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.72/](https://aclanthology.org/2025.findings-emnlp.72/)
+- 代码链接：[https://github.com/TracyGuo2001/NLoRA](https://github.com/TracyGuo2001/NLoRA)
+
+#### ModelingAgent: Bridging LLMs and Mathematical Modeling for Real-World Challenges
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.85/](https://aclanthology.org/2025.findings-emnlp.85/)
+- 代码链接：[https://github.com/qiancheng0/ModelingAgent](https://github.com/qiancheng0/ModelingAgent)
+
+#### Hardware-Aware Parallel Prompt Decoding for Memory-Efficient Acceleration of LLM Inference
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.120/](https://aclanthology.org/2025.findings-emnlp.120/)
+- 代码链接：[https://github.com/hmarkc/parallel-prompt-decoding](https://github.com/hmarkc/parallel-prompt-decoding)
+
+#### Measuring Sycophancy of Language Models in Multi-turn Dialogues
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.121/](https://aclanthology.org/2025.findings-emnlp.121/)
+- 代码链接：[https://github.com/jiseunghong/sycon-bench](https://github.com/jiseunghong/sycon-bench)
+
+#### “What’s Up, Doc?”: Analyzing How Users Seek Health Information in Large-Scale Conversational AI Datasets
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.125/](https://aclanthology.org/2025.findings-emnlp.125/)
+- 代码链接：[https://github.com/yahskapar/healthchat](https://github.com/yahskapar/healthchat)
+
+#### Self-Correcting Code Generation Using Small Language Models
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.127/](https://aclanthology.org/2025.findings-emnlp.127/)
+- 代码链接：[https://github.com/jeonghun3572/CoCoS](https://github.com/jeonghun3572/CoCoS)
+
+#### Table-Text Alignment: Explaining Claim Verification Against Tables in Scientific Papers
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.135/](https://aclanthology.org/2025.findings-emnlp.135/)
+- 代码链接：[https://github.com/alab-nii/scitabalign](https://github.com/alab-nii/scitabalign)
+
+#### DCRM: A Heuristic to Measure Response Pair Quality in Preference Optimization
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.136/](https://aclanthology.org/2025.findings-emnlp.136/)
+- 代码链接：[https://github.com/hcy123902/dcrm](https://github.com/hcy123902/dcrm)
+
+#### Distill Visual Chart Reasoning Ability from LLMs to MLLMs
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.172/](https://aclanthology.org/2025.findings-emnlp.172/)
+- 代码链接：[https://github.com/hewei2001/reachqa](https://github.com/hewei2001/reachqa)
+
+#### RouterEval: A Comprehensive Benchmark for Routing LLMs to Explore Model-level Scaling Up in LLMs
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.208/](https://aclanthology.org/2025.findings-emnlp.208/)
+- 代码链接：[https://github.com/milkthink-lab/routereval](https://github.com/milkthink-lab/routereval)
+
+#### MPO: Boosting LLM Agents with Meta Plan Optimization
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.210/](https://aclanthology.org/2025.findings-emnlp.210/)
+- 代码链接：[https://github.com/weiminxiong/mpo](https://github.com/weiminxiong/mpo)
+
+#### MetaLadder: Ascending Mathematical Solution Quality via Analogical-Problem Reasoning Transfer
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.232/](https://aclanthology.org/2025.findings-emnlp.232/)
+- 代码链接：[https://github.com/lhl3341/metaladder](https://github.com/lhl3341/metaladder)
+
+#### FusionDTI: Fine-grained Binding Discovery with Token-level Fusion for Drug-Target Interaction
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.237/](https://aclanthology.org/2025.findings-emnlp.237/)
+- 代码链接：[https://github.com/zhaohanm/fusiondti](https://github.com/zhaohanm/fusiondti)
+
+#### Enhancing Speech-to-Speech Dialogue Modeling with End-to-End Retrieval-Augmented Generation
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.241/](https://aclanthology.org/2025.findings-emnlp.241/)
+- 代码链接：[https://github.com/the-bird-F/GLM-Voice-RAG](https://github.com/the-bird-F/GLM-Voice-RAG)
+
+#### Prejudge-Before-Think: Enhancing Large Language Models at Test-Time by Process Prejudge Reasoning
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.250/](https://aclanthology.org/2025.findings-emnlp.250/)
+- 代码链接：[https://github.com/wjn1996/prejudge-before-think](https://github.com/wjn1996/prejudge-before-think)
+
+#### LLMEval-Med: A Real-world Clinical Benchmark for Medical LLMs with Physician Validation
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.263/](https://aclanthology.org/2025.findings-emnlp.263/)
+- 代码链接：[https://github.com/llmeval/llmeval-med](https://github.com/llmeval/llmeval-med)
+
+#### EcoLANG: Efficient and Effective Agent Communication Language Induction for Social Simulation
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.284/](https://aclanthology.org/2025.findings-emnlp.284/)
+- 代码链接：[https://github.com/xymou/EcoLANG](https://github.com/xymou/EcoLANG)
+
+#### Retrieval-Augmented Machine Translation with Unstructured Knowledge
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.313/](https://aclanthology.org/2025.findings-emnlp.313/)
+- 代码链接：[https://github.com/krystalan/RAGtrans](https://github.com/krystalan/RAGtrans)
+
+#### MCiteBench: A Multimodal Benchmark for Generating Text with Citations
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.318/](https://aclanthology.org/2025.findings-emnlp.318/)
+- 代码链接：[https://github.com/caiyuhu/MCiteBench](https://github.com/caiyuhu/MCiteBench)
+
+#### Retrieval-Augmented Generation with Hierarchical Knowledge
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.321/](https://aclanthology.org/2025.findings-emnlp.321/)
+- 代码链接：[https://github.com/hhy-huang/HiRAG](https://github.com/hhy-huang/HiRAG)
+
+#### VideoLLM Knows When to Speak: Enhancing Time-Sensitive Video Comprehension with Video-Text Duet Interaction Format
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.336/](https://aclanthology.org/2025.findings-emnlp.336/)
+- 代码链接：[https://github.com/yellow-binary-tree/mmduet](https://github.com/yellow-binary-tree/mmduet)
+
+#### Understanding Refusal in Language Models with Sparse Autoencoders
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.338/](https://aclanthology.org/2025.findings-emnlp.338/)
+- 代码链接：[https://github.com/wj210/refusal_sae](https://github.com/wj210/refusal_sae)
+
+#### SIFT: Grounding LLM Reasoning in Contexts via Stickers
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.345/](https://aclanthology.org/2025.findings-emnlp.345/)
+- 代码链接：[https://github.com/zhijie-group/sift](https://github.com/zhijie-group/sift)
+
+#### Bridging the Dynamic Perception Gap: Training-Free Draft Chain-of-Thought for Dynamic Multimodal Spatial Reasoning
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.349/](https://aclanthology.org/2025.findings-emnlp.349/)
+- 代码链接：[https://github.com/cratileo/d2r](https://github.com/cratileo/d2r)
+
+#### Is Safety Standard Same for Everyone? User-Specific Safety Evaluation of Large Language Models
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.353/](https://aclanthology.org/2025.findings-emnlp.353/)
+- 代码链接：[https://github.com/yeonjun-in/u-safebench](https://github.com/yeonjun-in/u-safebench)
+
+#### ReMamba: Equip Mamba with Effective Long-Sequence Modeling
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.361/](https://aclanthology.org/2025.findings-emnlp.361/)
+- 代码链接：[https://github.com/lblankl/remamba](https://github.com/lblankl/remamba)
+
+#### From Token to Action: State Machine Reasoning to Mitigate Overthinking in Information Retrieval
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.371/](https://aclanthology.org/2025.findings-emnlp.371/)
+- 代码链接：[https://github.com/ldilab/smr](https://github.com/ldilab/smr)
+
+#### FM2DS: Few-Shot Multimodal Multihop Data Synthesis with Knowledge Distillation for Question Answering
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.383/](https://aclanthology.org/2025.findings-emnlp.383/)
+- 代码链接：[https://github.com/servicenow/fm2ds](https://github.com/servicenow/fm2ds)
+
+#### Enriching Patent Claim Generation with European Patent Dataset
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.408/](https://aclanthology.org/2025.findings-emnlp.408/)
+- 代码链接：[https://github.com/scylj1/EPD](https://github.com/scylj1/EPD)
+
+#### cAST: Enhancing Code Retrieval-Augmented Generation with Structural Chunking via Abstract Syntax Tree
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.430/](https://aclanthology.org/2025.findings-emnlp.430/)
+- 代码链接：[https://github.com/yilinjz/astchunk](https://github.com/yilinjz/astchunk)
+
+#### DLPO: Towards a Robust, Efficient, and Generalizable Prompt Optimization Framework from a Deep-Learning Perspective
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.441/](https://aclanthology.org/2025.findings-emnlp.441/)
+- 代码链接：[https://github.com/sfasfaffa/dlpo](https://github.com/sfasfaffa/dlpo)
+
+#### PersLLM: A Personified Training Approach for Large Language Models
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.457/](https://aclanthology.org/2025.findings-emnlp.457/)
+- 代码链接：[https://github.com/ellenzzn/persllm](https://github.com/ellenzzn/persllm)
+
+#### Chain of Ideas: Revolutionizing Research Via Novel Idea Development with LLM Agents
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.477/](https://aclanthology.org/2025.findings-emnlp.477/)
+- 代码链接：[https://github.com/damo-nlp-sg/coi-agent](https://github.com/damo-nlp-sg/coi-agent)
+
+#### Self-Supervised Prompt Optimization
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.479/](https://aclanthology.org/2025.findings-emnlp.479/)
+- 代码链接：[https://github.com/geekan/metagpt](https://github.com/geekan/metagpt)
+
+#### VeriFastScore: Speeding up long-form factuality evaluation
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.491/](https://aclanthology.org/2025.findings-emnlp.491/)
+- 代码链接：[https://github.com/rishanthrajendhran/verifastscore](https://github.com/rishanthrajendhran/verifastscore)
+
+#### Soteria: Language-Specific Functional Parameter Steering for Multilingual Safety Alignment
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.497/](https://aclanthology.org/2025.findings-emnlp.497/)
+- 代码链接：[https://github.com/neuralsentinel/soteria](https://github.com/neuralsentinel/soteria)
+
+#### Assistant-Guided Mitigation of Teacher Preference Bias in LLM-as-a-Judge
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.510/](https://aclanthology.org/2025.findings-emnlp.510/)
+- 代码链接：[https://github.com/liuz233/agde-judge](https://github.com/liuz233/agde-judge)
+
+#### DeCoRe: Decoding by Contrasting Retrieval Heads to Mitigate Hallucinations
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.531/](https://aclanthology.org/2025.findings-emnlp.531/)
+- 代码链接：[https://github.com/aryopg/decore](https://github.com/aryopg/decore)
+
+#### R3-RAG: Learning Step-by-Step Reasoning and Retrieval for LLMs via Reinforcement Learning
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.554/](https://aclanthology.org/2025.findings-emnlp.554/)
+- 代码链接：[https://github.com/yuan-li-fnlp/r3-rag](https://github.com/yuan-li-fnlp/r3-rag)
+
+#### 3D-Aware Vision-Language Models Fine-Tuning with Geometric Distillation
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.562/](https://aclanthology.org/2025.findings-emnlp.562/)
+- 代码链接：[https://github.com/kaist-cvml/3d-vlm-gd](https://github.com/kaist-cvml/3d-vlm-gd)
+
+#### LightRAG: Simple and Fast Retrieval-Augmented Generation
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.568/](https://aclanthology.org/2025.findings-emnlp.568/)
+- 代码链接：[https://github.com/hkuds/lightrag](https://github.com/hkuds/lightrag)
+
+#### On the Perception Bottleneck of VLMs for Chart Understanding
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.573/](https://aclanthology.org/2025.findings-emnlp.573/)
+- 代码链接：[https://github.com/hkust-nlp/vision4chart](https://github.com/hkust-nlp/vision4chart)
+
+#### Auto-SLURP: A Benchmark Dataset for Evaluating Multi-Agent Frameworks in Smart Personal Assistant
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.596/](https://aclanthology.org/2025.findings-emnlp.596/)
+- 代码链接：[https://github.com/lorashen/auto-slurp](https://github.com/lorashen/auto-slurp)
+
+#### MMATH: A Multilingual Benchmark for Mathematical Reasoning
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.598/](https://aclanthology.org/2025.findings-emnlp.598/)
+- 代码链接：[https://github.com/rucaibox/mmath](https://github.com/rucaibox/mmath)
+
+#### Time to Talk: LLM Agents for Asynchronous Group Communication in Mafia Games
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.608/](https://aclanthology.org/2025.findings-emnlp.608/)
+- 代码链接：[https://github.com/niveck/LLMafia](https://github.com/niveck/LLMafia)
+
+#### Unraveling Misinformation Propagation in LLM Reasoning
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.627/](https://aclanthology.org/2025.findings-emnlp.627/)
+- 代码链接：[https://github.com/wind-2375-like/misinfo-prop](https://github.com/wind-2375-like/misinfo-prop)
+
+#### MOLE: Metadata Extraction and Validation in Scientific Papers Using LLMs
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.655/](https://aclanthology.org/2025.findings-emnlp.655/)
+- 代码链接：[https://github.com/ivul-kaust/mole](https://github.com/ivul-kaust/mole)
+
+#### Dialectal Toxicity Detection: Evaluating LLM-as-a-Judge Consistency Across Language Varieties
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.664/](https://aclanthology.org/2025.findings-emnlp.664/)
+- 代码链接：[https://github.com/ffaisal93/dialect_toxicity_llm_judge](https://github.com/ffaisal93/dialect_toxicity_llm_judge)
+
+#### MCTS-RAG: Enhancing Retrieval-Augmented Generation with Monte Carlo Tree Search
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.672/](https://aclanthology.org/2025.findings-emnlp.672/)
+- 代码链接：[https://github.com/yale-nlp/mcts-rag](https://github.com/yale-nlp/mcts-rag)
+
+#### Graph-Reward-SQL: Execution-Free Reinforcement Learning for Text-to-SQL via Graph Matching and Stepwise Reward
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.694/](https://aclanthology.org/2025.findings-emnlp.694/)
+- 代码链接：[https://github.com/taoyds/test-suite-sql-eval](https://github.com/taoyds/test-suite-sql-eval)
+
+#### MultiConIR: Towards Multi-Condition Information Retrieval
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.726/](https://aclanthology.org/2025.findings-emnlp.726/)
+- 代码链接：[https://github.com/eit-nlp/multiconir](https://github.com/eit-nlp/multiconir)
+
+#### Do Influence Functions Work on Large Language Models?
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.775/](https://aclanthology.org/2025.findings-emnlp.775/)
+- 代码链接：[https://github.com/plumprc/failures-of-influence-functions-in-llms](https://github.com/plumprc/failures-of-influence-functions-in-llms)
+
+#### Social Bias Evaluation for Large Language Models Requires Prompt Variations
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.783/](https://aclanthology.org/2025.findings-emnlp.783/)
+- 代码链接：[https://github.com/rem-h4/llm_socialbias_prompts](https://github.com/rem-h4/llm_socialbias_prompts)
+
+#### The Price of Format: Diversity Collapse in LLMs
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.836/](https://aclanthology.org/2025.findings-emnlp.836/)
+- 代码链接：[https://github.com/longfeiyun17/diversitycollapse](https://github.com/longfeiyun17/diversitycollapse)
+
+#### Large Language Models for Multilingual Previously Fact-Checked Claim Detection
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.852/](https://aclanthology.org/2025.findings-emnlp.852/)
+- 代码链接：[https://github.com/kinit-sk/llms-claim-matching](https://github.com/kinit-sk/llms-claim-matching)
+
+#### Familiarity-Aware Evidence Compression for Retrieval-Augmented Generation
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.878/](https://aclanthology.org/2025.findings-emnlp.878/)
+- 代码链接：[https://github.com/luka-group/FaviComp](https://github.com/luka-group/FaviComp)
+
+#### BenchMAX: A Comprehensive Multilingual Evaluation Suite for Large Language Models
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.909/](https://aclanthology.org/2025.findings-emnlp.909/)
+- 代码链接：[https://github.com/cone-mt/benchmax](https://github.com/cone-mt/benchmax)
+
+#### MONAQ: Multi-Objective Neural Architecture Querying for Time-Series Analysis on Resource-Constrained Devices
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.918/](https://aclanthology.org/2025.findings-emnlp.918/)
+- 代码链接：[https://github.com/kaist-dmlab/monaq](https://github.com/kaist-dmlab/monaq)
+
+#### Reasoning-Augmented Conversation for Multi-Turn Jailbreak Attacks on Large Language Models
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.929/](https://aclanthology.org/2025.findings-emnlp.929/)
+- 代码链接：[https://github.com/ny1024/race](https://github.com/ny1024/race)
+
+#### Treble Counterfactual VLMs: A Causal Approach to Hallucination
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.1000/](https://aclanthology.org/2025.findings-emnlp.1000/)
+- 代码链接：[https://github.com/tree985/treble-counterfactual-vlms](https://github.com/tree985/treble-counterfactual-vlms)
+
+#### Sparsity May Be All You Need: Sparse Random Parameter Adaptation
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.1013/](https://aclanthology.org/2025.findings-emnlp.1013/)
+- 代码链接：[https://github.com/IBM/SpaRTA](https://github.com/IBM/SpaRTA)
+
+#### TrapDoc: Deceiving LLM Users by Injecting Imperceptible Phantom Tokens into Documents
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.1027/](https://aclanthology.org/2025.findings-emnlp.1027/)
+- 代码链接：[https://github.com/jindong22/trapdoc](https://github.com/jindong22/trapdoc)
+
+#### MUG-Eval: A Proxy Evaluation Framework for Multilingual Generation Capabilities in Any Language
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.1061/](https://aclanthology.org/2025.findings-emnlp.1061/)
+- 代码链接：[https://github.com/seyoungsong/mugeval](https://github.com/seyoungsong/mugeval)
+
+#### DeepNote: Note-Centric Deep Retrieval-Augmented Generation
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.1073/](https://aclanthology.org/2025.findings-emnlp.1073/)
+- 代码链接：[https://github.com/thunlp/DeepNote](https://github.com/thunlp/DeepNote)
+
+#### Augment before You Try: Knowledge-Enhanced Table Question Answering via Table Expansion
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.1131/](https://aclanthology.org/2025.findings-emnlp.1131/)
+- 代码链接：[https://github.com/ucsb-nlp-chang/augment_tableqa](https://github.com/ucsb-nlp-chang/augment_tableqa)
+
+#### Watermark under Fire: A Robustness Evaluation of LLM Watermarking
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.1148/](https://aclanthology.org/2025.findings-emnlp.1148/)
+- 代码链接：[https://github.com/JACKPURCELL/sok-llm-watermark](https://github.com/JACKPURCELL/sok-llm-watermark)
+
+#### LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via a Hybrid Architecture
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.1168/](https://aclanthology.org/2025.findings-emnlp.1168/)
+- 代码链接：[https://github.com/freedomintelligence/longllava](https://github.com/freedomintelligence/longllava)
+
+#### CLAIMCHECK: How Grounded are LLM Critiques of Scientific Papers?
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.1185/](https://aclanthology.org/2025.findings-emnlp.1185/)
+- 代码链接：[https://github.com/JHU-CLSP/CLAIMCHECK](https://github.com/JHU-CLSP/CLAIMCHECK)
+
+#### Temporal Consistency for LLM Reasoning Process Error Identification
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.1205/](https://aclanthology.org/2025.findings-emnlp.1205/)
+- 代码链接：[https://github.com/jcguo123/temporal-consistency](https://github.com/jcguo123/temporal-consistency)
+
+#### Presumed Cultural Identity: How Names Shape LLM Responses
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.1207/](https://aclanthology.org/2025.findings-emnlp.1207/)
+- 代码链接：[https://github.com/copenlu/cultural-name-bias](https://github.com/copenlu/cultural-name-bias)
+
+#### Lifelong Knowledge Editing requires Better Regularization
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.1234/](https://aclanthology.org/2025.findings-emnlp.1234/)
+- 代码链接：[https://github.com/scalable-model-editing/knowledge-editing-regularization](https://github.com/scalable-model-editing/knowledge-editing-regularization)
+
+#### Beyond Contrastive Learning: Synthetic Data Enables List-wise Training with Multiple Levels of Relevance
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.1245/](https://aclanthology.org/2025.findings-emnlp.1245/)
+- 代码链接：[https://github.com/batsresearch/sycl](https://github.com/batsresearch/sycl)
+
+#### Evaluating Fairness in Large Vision-Language Models Across Diverse Demographic Attributes and Prompts
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.1251/](https://aclanthology.org/2025.findings-emnlp.1251/)
+- 代码链接：[https://github.com/elviswxy/LVLM_fairness](https://github.com/elviswxy/LVLM_fairness)
+
+#### MAKIEval: A Multilingual Automatic WiKidata-based Framework for Cultural Awareness Evaluation for LLMs
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.1256/](https://aclanthology.org/2025.findings-emnlp.1256/)
+- 代码链接：[https://github.com/mainlp/makieval](https://github.com/mainlp/makieval)
+
+#### Improving LLM-as-a-Judge Inference with the Judgment Distribution
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.1259/](https://aclanthology.org/2025.findings-emnlp.1259/)
+- 代码链接：[https://github.com/dubai03nsr/distributional-judge](https://github.com/dubai03nsr/distributional-judge)
+
+#### Source-primed Multi-turn Conversation Helps Large Language Models Translate Documents
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.1289/](https://aclanthology.org/2025.findings-emnlp.1289/)
+- 代码链接：[https://github.com/ZurichNLP/multiturn-llm-docmt](https://github.com/ZurichNLP/multiturn-llm-docmt)
+
+#### Runaway is Ashamed, But Helpful: On the Early-Exit Behavior of Large Language Model-based Agents in Embodied Environments
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.1304/](https://aclanthology.org/2025.findings-emnlp.1304/)
+- 代码链接：[https://github.com/coldmist-lu/agentexit](https://github.com/coldmist-lu/agentexit)
+
+#### ExeSQL: Self-Taught Text-to-SQL Models with Execution-Driven Bootstrapping for SQL Dialects
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.1320/](https://aclanthology.org/2025.findings-emnlp.1320/)
+- 代码链接：[https://github.com/2003pro/exesql](https://github.com/2003pro/exesql)
+
+#### ToolHaystack: Stress-Testing Tool-Augmented Language Models in Realistic Long-Term Interactions
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.1344/](https://aclanthology.org/2025.findings-emnlp.1344/)
+- 代码链接：[https://github.com/bwookwak/toolhaystack](https://github.com/bwookwak/toolhaystack)
+
+#### GraphCheck: Multipath Fact-Checking with Entity-Relationship Graphs
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.1345/](https://aclanthology.org/2025.findings-emnlp.1345/)
+- 代码链接：[https://github.com/windowh1/graphcheck](https://github.com/windowh1/graphcheck)
+
+#### RAC: Efficient LLM Factuality Correction with Retrieval Augmentation
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.1370/](https://aclanthology.org/2025.findings-emnlp.1370/)
+- 代码链接：[https://github.com/jlab-nlp/retrieval-augmented-correction](https://github.com/jlab-nlp/retrieval-augmented-correction)
+
+#### ControlText: Unlocking Controllable Fonts in Multilingual Text Rendering without Font Annotations
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.1385/](https://aclanthology.org/2025.findings-emnlp.1385/)
+- 代码链接：[https://github.com/bowen-upenn/controltext](https://github.com/bowen-upenn/controltext)
+
+#### Can Language Models Follow Multiple Turns of Entangled Instructions?
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.1387/](https://aclanthology.org/2025.findings-emnlp.1387/)
+- 代码链接：[https://github.com/Glaciohound/Multi-Turn-Instruct](https://github.com/Glaciohound/Multi-Turn-Instruct)
+
+#### DM-Codec: Distilling Multimodal Representations for Speech Tokenization
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.1394/](https://aclanthology.org/2025.findings-emnlp.1394/)
+- 代码链接：[https://github.com/mubtasimahasan/dm-codec](https://github.com/mubtasimahasan/dm-codec)
+
+#### Can We Edit LLMs for Long-Tail Biomedical Knowledge?
+
+- 论文链接：[https://aclanthology.org/2025.findings-emnlp.1399/](https://aclanthology.org/2025.findings-emnlp.1399/)
+- 代码链接：[https://github.com/xinhaoyi/edit_bio_long_tail](https://github.com/xinhaoyi/edit_bio_long_tail)
