@@ -7923,3 +7923,1187 @@
 - 论文链接：[https://openreview.net/forum?id=4-bV1bi74M](https://openreview.net/forum?id=4-bV1bi74M)
 - 代码链接：[https://github.com/allenai/procthor-rl](https://github.com/allenai/procthor-rl)
 
+
+## PaperVault 补充
+
+<!-- Source: https://github.com/youngfish42/PaperVault -->
+
+#### COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics
+
+- 论文链接：[https://openreview.net/pdf/9c54508974e20ea442c908b0eda903b50a89c9e8.pdf](https://openreview.net/pdf/9c54508974e20ea442c908b0eda903b50a89c9e8.pdf)
+- 代码链接：[https://github.com/qkaren/cold_decoding](https://github.com/qkaren/cold_decoding)
+
+#### On Reinforcement Learning and Distribution Matching for Fine-Tuning Language Models with no Catastrophic Forgetting
+
+- 论文链接：[https://openreview.net/pdf/6017ab6ca213d917755b1e280b8d97c5306bbc03.pdf](https://openreview.net/pdf/6017ab6ca213d917755b1e280b8d97c5306bbc03.pdf)
+- 代码链接：[https://github.com/naver/gdc](https://github.com/naver/gdc)
+
+#### LAMP: Extracting Text from Gradients with Language Model Priors
+
+- 论文链接：[https://openreview.net/pdf/cc852fc56e67bb70d399a4b24d1d156171d754e6.pdf](https://openreview.net/pdf/cc852fc56e67bb70d399a4b24d1d156171d754e6.pdf)
+- 代码链接：[https://github.com/eth-sri/lamp](https://github.com/eth-sri/lamp)
+
+#### Learning the Structure of Large Networked Systems Obeying Conservation Laws
+
+- 论文链接：[https://openreview.net/pdf/42fed3f6fd5d6f1c1d556fd96b3b26bc843d2e6a.pdf](https://openreview.net/pdf/42fed3f6fd5d6f1c1d556fd96b3b26bc843d2e6a.pdf)
+- 代码链接：[https://github.com/anirudhrayas/slnscl](https://github.com/anirudhrayas/slnscl)
+
+#### A Closer Look at Learned Optimization: Stability, Robustness, and Inductive Biases
+
+- 论文链接：[https://openreview.net/pdf/8d1352aec7afe8071c09d55c5e6540bc5f3cf622.pdf](https://openreview.net/pdf/8d1352aec7afe8071c09d55c5e6540bc5f3cf622.pdf)
+- 代码链接：[https://github.com/google/learned_optimization](https://github.com/google/learned_optimization)
+
+#### Uni[MASK]: Unified Inference in Sequential Decision Problems
+
+- 论文链接：[https://openreview.net/pdf/ff79cfa464ac44ff9b5531ff3d2d17dd1d8e84fa.pdf](https://openreview.net/pdf/ff79cfa464ac44ff9b5531ff3d2d17dd1d8e84fa.pdf)
+- 代码链接：[https://github.com/micahcarroll/unimask](https://github.com/micahcarroll/unimask)
+
+#### ReCo: Retrieve and Co-segment for Zero-shot Transfer
+
+- 论文链接：[https://openreview.net/pdf/f7ed5ffd4ec3b83a7c77e76719ed23f28480f818.pdf](https://openreview.net/pdf/f7ed5ffd4ec3b83a7c77e76719ed23f28480f818.pdf)
+- 代码链接：[https://github.com/NoelShin/reco](https://github.com/NoelShin/reco)
+
+#### On-Demand Sampling: Learning Optimally from Multiple Distributions
+
+- 论文链接：[https://openreview.net/pdf/0050b5fc00a4de3ae5bcdbb6944a7324816e90ff.pdf](https://openreview.net/pdf/0050b5fc00a4de3ae5bcdbb6944a7324816e90ff.pdf)
+- 代码链接：[https://github.com/ericzhao28/multidistributionlearning](https://github.com/ericzhao28/multidistributionlearning)
+
+#### Multi-Game Decision Transformers
+
+- 论文链接：[https://openreview.net/pdf/23b0139604f93be03b34a01a80fc33d1884a9d60.pdf](https://openreview.net/pdf/23b0139604f93be03b34a01a80fc33d1884a9d60.pdf)
+- 代码链接：[https://github.com/google-research/google-research/tree/master/multi_game_dt](https://github.com/google-research/google-research/tree/master/multi_game_dt)
+
+#### Maximizing and Satisficing in Multi-armed Bandits with Graph Information
+
+- 论文链接：[https://openreview.net/pdf/0acb6790490933df8115b039e4581da1fae083f2.pdf](https://openreview.net/pdf/0acb6790490933df8115b039e4581da1fae083f2.pdf)
+- 代码链接：[https://github.com/parththaker/Bandits-GRUB](https://github.com/parththaker/Bandits-GRUB)
+
+#### Analyzing Data-Centric Properties for Graph Contrastive Learning
+
+- 论文链接：[https://openreview.net/pdf/0f074bed7945f45c2b63a86ac69c21f6b19bcf26.pdf](https://openreview.net/pdf/0f074bed7945f45c2b63a86ac69c21f6b19bcf26.pdf)
+- 代码链接：[https://github.com/pujacomputes/datapropsgraphssl](https://github.com/pujacomputes/datapropsgraphssl)
+
+#### WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents
+
+- 论文链接：[https://openreview.net/pdf/81d57860be295e5e69c57a21b65f46037e001d02.pdf](https://openreview.net/pdf/81d57860be295e5e69c57a21b65f46037e001d02.pdf)
+- 代码链接：[https://github.com/princeton-nlp/WebShop](https://github.com/princeton-nlp/WebShop)
+
+#### Semantic Probabilistic Layers for Neuro-Symbolic Learning
+
+- 论文链接：[https://openreview.net/pdf/f1f11ee3a66c7fa57d1a85dfba695b716daf5186.pdf](https://openreview.net/pdf/f1f11ee3a66c7fa57d1a85dfba695b716daf5186.pdf)
+- 代码链接：[https://github.com/KareemYousrii/SPL](https://github.com/KareemYousrii/SPL)
+
+#### A Unified Framework for Alternating Offline Model Training and Policy Learning
+
+- 论文链接：[https://openreview.net/pdf/bbc08f1e45902ed455e82be81ac3de81cd66c8fe.pdf](https://openreview.net/pdf/bbc08f1e45902ed455e82be81ac3de81cd66c8fe.pdf)
+- 代码链接：[https://github.com/shentao-yang/ampl_neurips2022](https://github.com/shentao-yang/ampl_neurips2022)
+
+#### OOD Link Prediction Generalization Capabilities of Message-Passing GNNs in Larger Test Graphs
+
+- 论文链接：[https://openreview.net/pdf/39d4aa4a99dbcd8cb71d0f6085f853fa9164afbd.pdf](https://openreview.net/pdf/39d4aa4a99dbcd8cb71d0f6085f853fa9164afbd.pdf)
+- 代码链接：[https://github.com/yangzez/ood-link-prediction-generalization-mpnn](https://github.com/yangzez/ood-link-prediction-generalization-mpnn)
+
+#### Expected Frequency Matrices of Elections: Computation, Geometry, and Preference Learning
+
+- 论文链接：[https://openreview.net/pdf/bf106e690f455e5182f66b600dcc8c55d89b5e31.pdf](https://openreview.net/pdf/bf106e690f455e5182f66b600dcc8c55d89b5e31.pdf)
+- 代码链接：[https://github.com/project-pragma/expected-frequency-matrices-neurips-2022](https://github.com/project-pragma/expected-frequency-matrices-neurips-2022)
+
+#### Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models
+
+- 论文链接：[https://openreview.net/pdf/f5f278281b4ebc0e3abb9a7bbd44061dc91071af.pdf](https://openreview.net/pdf/f5f278281b4ebc0e3abb9a7bbd44061dc91071af.pdf)
+- 代码链接：[https://github.com/azshue/TPT](https://github.com/azshue/TPT)
+
+#### CARD: Classification and Regression Diffusion Models
+
+- 论文链接：[https://openreview.net/pdf/d50bc3b13a75797f66a42f14d2d354bb647d3a09.pdf](https://openreview.net/pdf/d50bc3b13a75797f66a42f14d2d354bb647d3a09.pdf)
+- 代码链接：[https://github.com/xzwhan/card](https://github.com/xzwhan/card)
+
+#### Learning Modular Simulations for Homogeneous Systems
+
+- 论文链接：[https://openreview.net/pdf/f06b4d385a4d208609b30fb9d04010bee4f9258e.pdf](https://openreview.net/pdf/f06b4d385a4d208609b30fb9d04010bee4f9258e.pdf)
+- 代码链接：[https://github.com/microsoft/mpnode.jl](https://github.com/microsoft/mpnode.jl)
+
+#### Generating Training Data with Language Models: Towards Zero-Shot Language Understanding
+
+- 论文链接：[https://openreview.net/pdf/2a3ab582836c9fb38c6813da22eb508a01d64e08.pdf](https://openreview.net/pdf/2a3ab582836c9fb38c6813da22eb508a01d64e08.pdf)
+- 代码链接：[https://github.com/yumeng5/supergen](https://github.com/yumeng5/supergen)
+
+#### Online Bipartite Matching with Advice: Tight Robustness-Consistency Tradeoffs for the Two-Stage Model
+
+- 论文链接：[https://openreview.net/pdf/29efebce293b28454ae1b834e81714a506539612.pdf](https://openreview.net/pdf/29efebce293b28454ae1b834e81714a506539612.pdf)
+- 代码链接：[https://github.com/mapleox/matching_predictions](https://github.com/mapleox/matching_predictions)
+
+#### Zonotope Domains for Lagrangian Neural Network Verification
+
+- 论文链接：[https://openreview.net/pdf/da0f1787bfc53fec26ae84d9c8fe67a6c762fa19.pdf](https://openreview.net/pdf/da0f1787bfc53fec26ae84d9c8fe67a6c762fa19.pdf)
+- 代码链接：[https://github.com/revbucket/dual-verification](https://github.com/revbucket/dual-verification)
+
+#### Algorithms with Prediction Portfolios
+
+- 论文链接：[https://openreview.net/pdf/197816b20e3abb3c428b0a9834b837626f07a007.pdf](https://openreview.net/pdf/197816b20e3abb3c428b0a9834b837626f07a007.pdf)
+- 代码链接：[https://github.com/tlavastida/predictionportfolios](https://github.com/tlavastida/predictionportfolios)
+
+#### QUARK: Controllable Text Generation with Reinforced Unlearning
+
+- 论文链接：[https://openreview.net/pdf/abbef1fd0f9e41e410739347778ed4078b8a1974.pdf](https://openreview.net/pdf/abbef1fd0f9e41e410739347778ed4078b8a1974.pdf)
+- 代码链接：[https://github.com/gximinglu/quark](https://github.com/gximinglu/quark)
+
+#### Beyond neural scaling laws: beating power law scaling via data pruning
+
+- 论文链接：[https://openreview.net/pdf/4fbba9537abc226309d53805a8b534b57da30022.pdf](https://openreview.net/pdf/4fbba9537abc226309d53805a8b534b57da30022.pdf)
+- 代码链接：[https://github.com/rgeirhos/dataset-pruning-metrics](https://github.com/rgeirhos/dataset-pruning-metrics)
+
+#### Unsupervised Learning for Combinatorial Optimization with Principled Objective Relaxation
+
+- 论文链接：[https://openreview.net/pdf/3ff5c51b996393d3793e77ca5a3630c372c06ae8.pdf](https://openreview.net/pdf/3ff5c51b996393d3793e77ca5a3630c372c06ae8.pdf)
+- 代码链接：[https://github.com/graph-com/co_proxydesign](https://github.com/graph-com/co_proxydesign)
+
+#### ProtoVAE: A Trustworthy Self-Explainable Prototypical Variational Model
+
+- 论文链接：[https://openreview.net/pdf/e8a65e18f2823085e867f8180252df2f6b8630d4.pdf](https://openreview.net/pdf/e8a65e18f2823085e867f8180252df2f6b8630d4.pdf)
+- 代码链接：[https://github.com/srishtigautam/protovae](https://github.com/srishtigautam/protovae)
+
+#### Lottery Tickets on a Data Diet: Finding Initializations with Sparse Trainable Networks
+
+- 论文链接：[https://openreview.net/pdf/e1a2c1c8b77a8ef2b517648bbbae0b07d4c707df.pdf](https://openreview.net/pdf/e1a2c1c8b77a8ef2b517648bbbae0b07d4c707df.pdf)
+- 代码链接：[https://github.com/mansheej/lth_diet](https://github.com/mansheej/lth_diet)
+
+#### MoCoDA: Model-based Counterfactual Data Augmentation
+
+- 论文链接：[https://openreview.net/pdf/3069ca4480438b5e285666bc69b00baa3c4b033b.pdf](https://openreview.net/pdf/3069ca4480438b5e285666bc69b00baa3c4b033b.pdf)
+- 代码链接：[https://github.com/spitis/mocoda](https://github.com/spitis/mocoda)
+
+#### Learning Optimal Flows for Non-Equilibrium Importance Sampling
+
+- 论文链接：[https://openreview.net/pdf/85ca45f39de3b4739ac33d716473261f379b57fc.pdf](https://openreview.net/pdf/85ca45f39de3b4739ac33d716473261f379b57fc.pdf)
+- 代码链接：[https://github.com/yucaoyc/neis](https://github.com/yucaoyc/neis)
+
+#### FP8 Quantization: The Power of the Exponent
+
+- 论文链接：[https://openreview.net/pdf/2fd43ef8d1425f2c9de1965ea97a5a8cb6af3bce.pdf](https://openreview.net/pdf/2fd43ef8d1425f2c9de1965ea97a5a8cb6af3bce.pdf)
+- 代码链接：[https://github.com/qualcomm-ai-research/fp8-quantization](https://github.com/qualcomm-ai-research/fp8-quantization)
+
+#### Nonparametric Uncertainty Quantification for Single Deterministic Neural Network
+
+- 论文链接：[https://openreview.net/pdf/5c93ccd6730124b28f9677cf0763389ace3f439c.pdf](https://openreview.net/pdf/5c93ccd6730124b28f9677cf0763389ace3f439c.pdf)
+- 代码链接：[https://github.com/stat-ml/nuq](https://github.com/stat-ml/nuq)
+
+#### Improved Differential Privacy for SGD via Optimal Private Linear Operators on Adaptive Streams
+
+- 论文链接：[https://openreview.net/pdf/abd9ee478001f95fa406947b0bd6513ee64aa79e.pdf](https://openreview.net/pdf/abd9ee478001f95fa406947b0bd6513ee64aa79e.pdf)
+- 代码链接：[https://github.com/google-research/federated](https://github.com/google-research/federated)
+
+#### Mesoscopic modeling of hidden spiking neurons
+
+- 论文链接：[https://openreview.net/pdf/16c903d98713aa4488cad5b31a11b64b87408fad.pdf](https://openreview.net/pdf/16c903d98713aa4488cad5b31a11b64b87408fad.pdf)
+- 代码链接：[https://github.com/epfl-lcn/neulvm](https://github.com/epfl-lcn/neulvm)
+
+#### Asymptotics of $\ell_2$ Regularized Network Embeddings
+
+- 论文链接：[https://openreview.net/pdf/c2a127022bdff2ca49c0883b3567e88fee417c23.pdf](https://openreview.net/pdf/c2a127022bdff2ca49c0883b3567e88fee417c23.pdf)
+- 代码链接：[https://github.com/aday651/embed-reg](https://github.com/aday651/embed-reg)
+
+#### Continual Learning In Environments With Polynomial Mixing Times
+
+- 论文链接：[https://openreview.net/pdf/2d914ef87fa238ef6815dd907587d9967fbf6973.pdf](https://openreview.net/pdf/2d914ef87fa238ef6815dd907587d9967fbf6973.pdf)
+- 代码链接：[https://github.com/sharathraparthy/polynomial-mixing-times](https://github.com/sharathraparthy/polynomial-mixing-times)
+
+#### Learning to Reconstruct Missing Data from Spatiotemporal Graphs with Sparse Observations
+
+- 论文链接：[https://openreview.net/pdf/11338b026b160b8870915343648e45ad24bf831e.pdf](https://openreview.net/pdf/11338b026b160b8870915343648e45ad24bf831e.pdf)
+- 代码链接：[https://github.com/Graph-Machine-Learning-Group/spin](https://github.com/Graph-Machine-Learning-Group/spin)
+
+#### SoteriaFL: A Unified Framework for Private Federated Learning with Communication Compression
+
+- 论文链接：[https://openreview.net/pdf/c5d4cf51da2b52cbfd3824d9d543df55e66af83e.pdf](https://openreview.net/pdf/c5d4cf51da2b52cbfd3824d9d543df55e66af83e.pdf)
+- 代码链接：[https://github.com/haoyuzhao123/soteriafl](https://github.com/haoyuzhao123/soteriafl)
+
+#### A Theoretical Study on Solving Continual Learning
+
+- 论文链接：[https://openreview.net/pdf/63a71d76929557223f769de22cfc6e9ae4d4fbdc.pdf](https://openreview.net/pdf/63a71d76929557223f769de22cfc6e9ae4d4fbdc.pdf)
+- 代码链接：[https://github.com/k-gyuhak/wptp](https://github.com/k-gyuhak/wptp)
+
+#### Privacy Induces Robustness: Information-Computation Gaps and Sparse Mean Estimation
+
+- 论文链接：[https://openreview.net/pdf/3343867d44a3bf83d20edd6d861c0d0dec405bee.pdf](https://openreview.net/pdf/3343867d44a3bf83d20edd6d861c0d0dec405bee.pdf)
+- 代码链接：[https://github.com/kristian-georgiev/privacy-induces-robustness](https://github.com/kristian-georgiev/privacy-induces-robustness)
+
+#### Assaying Out-Of-Distribution Generalization in Transfer Learning
+
+- 论文链接：[https://openreview.net/pdf/68edf707760b7c5b8a7dcb537abfa66a8936b3f0.pdf](https://openreview.net/pdf/68edf707760b7c5b8a7dcb537abfa66a8936b3f0.pdf)
+- 代码链接：[https://github.com/amazon-research/assaying-ood](https://github.com/amazon-research/assaying-ood)
+
+#### Efficient and Stable Fully Dynamic Facility Location
+
+- 论文链接：[https://openreview.net/pdf/a663a84cc0671fda506056b960aa49df5cdbc9d6.pdf](https://openreview.net/pdf/a663a84cc0671fda506056b960aa49df5cdbc9d6.pdf)
+- 代码链接：[https://github.com/google-research/google-research](https://github.com/google-research/google-research)
+
+#### An Adaptive Kernel Approach to Federated Learning of Heterogeneous Causal Effects
+
+- 论文链接：[https://openreview.net/pdf/ce5495d07ae7d4dd8431eb3cb7a60acbd641db82.pdf](https://openreview.net/pdf/ce5495d07ae7d4dd8431eb3cb7a60acbd641db82.pdf)
+- 代码链接：[https://github.com/vothanhvinh/causalrff](https://github.com/vothanhvinh/causalrff)
+
+#### Better SGD using Second-order Momentum
+
+- 论文链接：[https://openreview.net/pdf/ef1a7262a452e349196fdf46cfa0c0be8578fa1e.pdf](https://openreview.net/pdf/ef1a7262a452e349196fdf46cfa0c0be8578fa1e.pdf)
+- 代码链接：[https://github.com/tranhp98/Hessian](https://github.com/tranhp98/Hessian)
+
+#### The least-control principle for local learning at equilibrium
+
+- 论文链接：[https://openreview.net/pdf/233efa753eb35b56dac825c41a514f8d24eab56b.pdf](https://openreview.net/pdf/233efa753eb35b56dac825c41a514f8d24eab56b.pdf)
+- 代码链接：[https://github.com/seijin-kobayashi/least-control](https://github.com/seijin-kobayashi/least-control)
+
+#### In Defense of the Unitary Scalarization for Deep Multi-Task Learning
+
+- 论文链接：[https://openreview.net/pdf/fdad97d26572f7a98b4ad233bfc7949bf4bd4258.pdf](https://openreview.net/pdf/fdad97d26572f7a98b4ad233bfc7949bf4bd4258.pdf)
+- 代码链接：[https://github.com/yobibyte/unitary-scalarization-dmtl](https://github.com/yobibyte/unitary-scalarization-dmtl)
+
+#### Learning Dynamical Systems via Koopman Operator Regression in Reproducing Kernel Hilbert Spaces
+
+- 论文链接：[https://openreview.net/pdf/64cc5984a58cc544c4eb82a2ca1d1fc90dc216f2.pdf](https://openreview.net/pdf/64cc5984a58cc544c4eb82a2ca1d1fc90dc216f2.pdf)
+- 代码链接：[https://github.com/Machine-Learning-Dynamical-Systems/kooplearn](https://github.com/Machine-Learning-Dynamical-Systems/kooplearn)
+
+#### Semantic uncertainty intervals for disentangled latent spaces
+
+- 论文链接：[https://openreview.net/pdf/0f5aeebbb3fcfc7e20f23f6b2b19a44249f60140.pdf](https://openreview.net/pdf/0f5aeebbb3fcfc7e20f23f6b2b19a44249f60140.pdf)
+- 代码链接：[https://github.com/swamiviv/CLASP](https://github.com/swamiviv/CLASP)
+
+#### Look where you look! Saliency-guided Q-networks for generalization in visual Reinforcement Learning
+
+- 论文链接：[https://openreview.net/pdf/64f0328ef5923c4c56e4069f6d16347687fc842d.pdf](https://openreview.net/pdf/64f0328ef5923c4c56e4069f6d16347687fc842d.pdf)
+- 代码链接：[https://github.com/sureli/sgqn](https://github.com/sureli/sgqn)
+
+#### Learning Distributed and Fair Policies for Network Load Balancing as Markov Potential Game
+
+- 论文链接：[https://openreview.net/pdf/ef252b249117d287878c01d16ffb12ea3264a2d6.pdf](https://openreview.net/pdf/ef252b249117d287878c01d16ffb12ea3264a2d6.pdf)
+- 代码链接：[https://github.com/zhiyuanyaoj/marllb](https://github.com/zhiyuanyaoj/marllb)
+
+#### Rate-Distortion Theoretic Bounds on Generalization Error for Distributed Learning
+
+- 论文链接：[https://openreview.net/pdf/1a07fd72da848fe786392b90e31c5d18b013730a.pdf](https://openreview.net/pdf/1a07fd72da848fe786392b90e31c5d18b013730a.pdf)
+- 代码链接：[https://github.com/romainchor/datascience](https://github.com/romainchor/datascience)
+
+#### Local Metric Learning for Off-Policy Evaluation in Contextual Bandits with Continuous Actions
+
+- 论文链接：[https://openreview.net/pdf/aafba5f08b6717cbb8959360bed63aab3d6bb2a3.pdf](https://openreview.net/pdf/aafba5f08b6717cbb8959360bed63aab3d6bb2a3.pdf)
+- 代码链接：[https://github.com/haanvid/kmis](https://github.com/haanvid/kmis)
+
+#### ESCADA: Efficient Safety and Context Aware Dose Allocation for Precision Medicine
+
+- 论文链接：[https://openreview.net/pdf/708e60e2627554a0df4eb828ce567cf5cd144e55.pdf](https://openreview.net/pdf/708e60e2627554a0df4eb828ce567cf5cd144e55.pdf)
+- 代码链接：[https://github.com/bilkent-cyborg/escada](https://github.com/bilkent-cyborg/escada)
+
+#### Learning Articulated Rigid Body Dynamics with Lagrangian Graph Neural Network
+
+- 论文链接：[https://openreview.net/pdf/6b20d726a4508b5a4be4652d54caf22ffb1e2614.pdf](https://openreview.net/pdf/6b20d726a4508b5a4be4652d54caf22ffb1e2614.pdf)
+- 代码链接：[https://github.com/m3rg-iitd/rigid_body_dynamics_graph](https://github.com/m3rg-iitd/rigid_body_dynamics_graph)
+
+#### Sustainable Online Reinforcement Learning for Auto-bidding
+
+- 论文链接：[https://openreview.net/pdf/b8ed08026c368c94117fa18796fe1c8dcc6eeebd.pdf](https://openreview.net/pdf/b8ed08026c368c94117fa18796fe1c8dcc6eeebd.pdf)
+- 代码链接：[https://github.com/nobodymx/sorl-for-auto-bidding](https://github.com/nobodymx/sorl-for-auto-bidding)
+
+#### Subquadratic Kronecker Regression with Applications to Tensor Decomposition
+
+- 论文链接：[https://openreview.net/pdf/044a7b1080a4beb0d20e3222f0ccc9266d241cdd.pdf](https://openreview.net/pdf/044a7b1080a4beb0d20e3222f0ccc9266d241cdd.pdf)
+- 代码链接：[https://github.com/fahrbach/subquadratic-kronecker-regression](https://github.com/fahrbach/subquadratic-kronecker-regression)
+
+#### The computational and learning benefits of Daleian neural networks
+
+- 论文链接：[https://openreview.net/pdf/bc032c02e336b656c2951ae5b21fc8db21a095da.pdf](https://openreview.net/pdf/bc032c02e336b656c2951ae5b21fc8db21a095da.pdf)
+- 代码链接：[https://github.com/adamhaber/daleian_networks](https://github.com/adamhaber/daleian_networks)
+
+#### Disentangling Causal Effects from Sets of Interventions in the Presence of Unobserved Confounders
+
+- 论文链接：[https://openreview.net/pdf/7ddbdcbc2b9eedbdd3c8a66aeb2e9ca2298b4bb5.pdf](https://openreview.net/pdf/7ddbdcbc2b9eedbdd3c8a66aeb2e9ca2298b4bb5.pdf)
+- 代码链接：[https://github.com/olivierjeunen/disentangling-neurips-2022](https://github.com/olivierjeunen/disentangling-neurips-2022)
+
+#### Batch Bayesian Optimization on Permutations using the Acquisition Weighted Kernel
+
+- 论文链接：[https://openreview.net/pdf/4c227a9a2647314ee82e8bacac485d86e29a9c6d.pdf](https://openreview.net/pdf/4c227a9a2647314ee82e8bacac485d86e29a9c6d.pdf)
+- 代码链接：[https://github.com/changyong-oh/law2order](https://github.com/changyong-oh/law2order)
+
+#### BadPrompt: Backdoor Attacks on Continuous Prompts
+
+- 论文链接：[https://openreview.net/pdf/5c4cf5b33c7da305a496573c8b6b363f56143e32.pdf](https://openreview.net/pdf/5c4cf5b33c7da305a496573c8b6b363f56143e32.pdf)
+- 代码链接：[https://github.com/paperspapers/badprompt](https://github.com/paperspapers/badprompt)
+
+#### On the Robustness of Graph Neural Diffusion to Topology Perturbations
+
+- 论文链接：[https://openreview.net/pdf/a5162e1cd8218cda464272a2978957d7530b1b03.pdf](https://openreview.net/pdf/a5162e1cd8218cda464272a2978957d7530b1b03.pdf)
+- 代码链接：[https://github.com/zknus/robustness-of-graph-neural-diffusion](https://github.com/zknus/robustness-of-graph-neural-diffusion)
+
+#### On Analyzing Generative and Denoising Capabilities of Diffusion-based Deep Generative Models
+
+- 论文链接：[https://openreview.net/pdf/41439fc3da4cc5b96b2a00ac631a96cd3fc6351a.pdf](https://openreview.net/pdf/41439fc3da4cc5b96b2a00ac631a96cd3fc6351a.pdf)
+- 代码链接：[https://github.com/kamildeja/analysing_ddgm](https://github.com/kamildeja/analysing_ddgm)
+
+#### Optimal Brain Compression: A Framework for Accurate Post-Training Quantization and Pruning
+
+- 论文链接：[https://openreview.net/pdf/6a444b731c43950476df95f70b3d24d8f90a5261.pdf](https://openreview.net/pdf/6a444b731c43950476df95f70b3d24d8f90a5261.pdf)
+- 代码链接：[https://github.com/ist-daslab/obc](https://github.com/ist-daslab/obc)
+
+#### Hyper-Representations as Generative Models: Sampling Unseen Neural Network Weights
+
+- 论文链接：[https://openreview.net/pdf/27bd68286eb4b737e7cb4cdcad85e37395246103.pdf](https://openreview.net/pdf/27bd68286eb4b737e7cb4cdcad85e37395246103.pdf)
+- 代码链接：[https://github.com/hsg-aiml/neurips_2022-generative_hyper_representations](https://github.com/hsg-aiml/neurips_2022-generative_hyper_representations)
+
+#### On the relationship between variational inference and auto-associative memory
+
+- 论文链接：[https://openreview.net/pdf/8fb461aff42fdc1f9592924cd4eed560eb39c103.pdf](https://openreview.net/pdf/8fb461aff42fdc1f9592924cd4eed560eb39c103.pdf)
+- 代码链接：[https://github.com/sino7/predictive_coding_associative_memories](https://github.com/sino7/predictive_coding_associative_memories)
+
+#### S2P: State-conditioned Image Synthesis for Data Augmentation in Offline Reinforcement Learning
+
+- 论文链接：[https://openreview.net/pdf/e754ead66d3abc9dac7e70e77ff492de280354da.pdf](https://openreview.net/pdf/e754ead66d3abc9dac7e70e77ff492de280354da.pdf)
+- 代码链接：[https://github.com/dsshim0125/s2p](https://github.com/dsshim0125/s2p)
+
+#### Where do Models go Wrong? Parameter-Space Saliency Maps for Explainability
+
+- 论文链接：[https://openreview.net/pdf/b4df07be426787d4bd2c53a3727eddb352538b7b.pdf](https://openreview.net/pdf/b4df07be426787d4bd2c53a3727eddb352538b7b.pdf)
+- 代码链接：[https://github.com/LevinRoman/parameter-space-saliency](https://github.com/LevinRoman/parameter-space-saliency)
+
+#### Revisiting Neural Scaling Laws in Language and Vision
+
+- 论文链接：[https://openreview.net/pdf/47969b02cfe300a5e2c15c605816d64e69b8c302.pdf](https://openreview.net/pdf/47969b02cfe300a5e2c15c605816d64e69b8c302.pdf)
+- 代码链接：[https://github.com/google-research/google-research](https://github.com/google-research/google-research)
+
+#### A Reduction to Binary Approach for Debiasing Multiclass Datasets
+
+- 论文链接：[https://openreview.net/pdf/8e23dab6a9ba102d2006cfef7d008555eabd846e.pdf](https://openreview.net/pdf/8e23dab6a9ba102d2006cfef7d008555eabd846e.pdf)
+- 代码链接：[https://github.com/google-research/google-research/tree/master/ml_debiaser](https://github.com/google-research/google-research/tree/master/ml_debiaser)
+
+#### Flexible Diffusion Modeling of Long Videos
+
+- 论文链接：[https://openreview.net/pdf/e5789d92c8812ce9489fee51e783d405318d3071.pdf](https://openreview.net/pdf/e5789d92c8812ce9489fee51e783d405318d3071.pdf)
+- 代码链接：[https://github.com/plai-group/flexible-video-diffusion-modeling](https://github.com/plai-group/flexible-video-diffusion-modeling)
+
+#### Redundant representations help generalization in wide neural networks
+
+- 论文链接：[https://openreview.net/pdf/dd4f8f43299ba2f8ffaeec46d123336f05b230fb.pdf](https://openreview.net/pdf/dd4f8f43299ba2f8ffaeec46d123336f05b230fb.pdf)
+- 代码链接：[https://github.com/diegodoimo/redundant_representation](https://github.com/diegodoimo/redundant_representation)
+
+#### MEMO: Test Time Robustness via Adaptation and Augmentation
+
+- 论文链接：[https://openreview.net/pdf/f4b3bb3d201bb32e3fd8e4351c31814184df1460.pdf](https://openreview.net/pdf/f4b3bb3d201bb32e3fd8e4351c31814184df1460.pdf)
+- 代码链接：[https://github.com/zhangmarvin/memo](https://github.com/zhangmarvin/memo)
+
+#### How Powerful are K-hop Message Passing Graph Neural Networks
+
+- 论文链接：[https://openreview.net/pdf/6e2c62aa0039c60abc1dc1340879949f40ca3e85.pdf](https://openreview.net/pdf/6e2c62aa0039c60abc1dc1340879949f40ca3e85.pdf)
+- 代码链接：[https://github.com/JiaruiFeng/KP-GNN](https://github.com/JiaruiFeng/KP-GNN)
+
+#### Personalized Online Federated Learning with Multiple Kernels
+
+- 论文链接：[https://openreview.net/pdf/f7f91a9036378472eb13fcb71ae9617869af0179.pdf](https://openreview.net/pdf/f7f91a9036378472eb13fcb71ae9617869af0179.pdf)
+- 代码链接：[https://github.com/pouyamghari/pof-mkl](https://github.com/pouyamghari/pof-mkl)
+
+#### Patching open-vocabulary models by interpolating weights
+
+- 论文链接：[https://openreview.net/pdf/a3837a4cb967c43a9e61c4659b59a742c419962f.pdf](https://openreview.net/pdf/a3837a4cb967c43a9e61c4659b59a742c419962f.pdf)
+- 代码链接：[https://github.com/mlfoundations/patching](https://github.com/mlfoundations/patching)
+
+#### Mind Reader: Reconstructing complex images from brain activities
+
+- 论文链接：[https://openreview.net/pdf/fc68ed9fb4b4a219bb4d760574a7b1509f310313.pdf](https://openreview.net/pdf/fc68ed9fb4b4a219bb4d760574a7b1509f310313.pdf)
+- 代码链接：[https://github.com/sklin93/mind-reader](https://github.com/sklin93/mind-reader)
+
+#### What Can Transformers Learn In-Context? A Case Study of Simple Function Classes
+
+- 论文链接：[https://openreview.net/pdf/919b3b03c239e8c0811cb8c86b6c72ad5d4a0a05.pdf](https://openreview.net/pdf/919b3b03c239e8c0811cb8c86b6c72ad5d4a0a05.pdf)
+- 代码链接：[https://github.com/dtsip/in-context-learning](https://github.com/dtsip/in-context-learning)
+
+#### Learning with little mixing
+
+- 论文链接：[https://openreview.net/pdf/0b9ab19c9bf32afa65327f271e06e9e515fb705a.pdf](https://openreview.net/pdf/0b9ab19c9bf32afa65327f271e06e9e515fb705a.pdf)
+- 代码链接：[https://github.com/google-research/google-research](https://github.com/google-research/google-research)
+
+#### Explaining Graph Neural Networks with Structure-Aware Cooperative Games
+
+- 论文链接：[https://openreview.net/pdf/52fab7a3a91fcf84f41757d6cce5723874f02f5c.pdf](https://openreview.net/pdf/52fab7a3a91fcf84f41757d6cce5723874f02f5c.pdf)
+- 代码链接：[https://github.com/ShichangZh/GStarX](https://github.com/ShichangZh/GStarX)
+
+#### Active Learning Helps Pretrained Models Learn the Intended Task
+
+- 论文链接：[https://openreview.net/pdf/07ac22ec1a65356f25021d00581ae58e72d6c23d.pdf](https://openreview.net/pdf/07ac22ec1a65356f25021d00581ae58e72d6c23d.pdf)
+- 代码链接：[https://github.com/alextamkin/active-learning-pretrained-models](https://github.com/alextamkin/active-learning-pretrained-models)
+
+#### DiSC: Differential Spectral Clustering of Features
+
+- 论文链接：[https://openreview.net/pdf/9dba1c93d06f8f2fe893f498f5f5ecdc6b3cf0ef.pdf](https://openreview.net/pdf/9dba1c93d06f8f2fe893f498f5f5ecdc6b3cf0ef.pdf)
+- 代码链接：[https://github.com/Mishne-Lab/DiSC](https://github.com/Mishne-Lab/DiSC)
+
+#### Sample Constrained Treatment Effect Estimation
+
+- 论文链接：[https://openreview.net/pdf/baa6a29562c6ded0fe90828b61f371ef67365b39.pdf](https://openreview.net/pdf/baa6a29562c6ded0fe90828b61f371ef67365b39.pdf)
+- 代码链接：[https://github.com/raddanki/sample-constrained-treatment-effect-estimation](https://github.com/raddanki/sample-constrained-treatment-effect-estimation)
+
+#### Rethinking and Scaling Up Graph Contrastive Learning: An Extremely Efficient Approach with Group Discrimination
+
+- 论文链接：[https://openreview.net/pdf/82b5092c3b4cd90fb7002b6b9b683ee69f63e008.pdf](https://openreview.net/pdf/82b5092c3b4cd90fb7002b6b9b683ee69f63e008.pdf)
+- 代码链接：[https://github.com/zyzisastudyreallyhardguy/graph-group-discrimination](https://github.com/zyzisastudyreallyhardguy/graph-group-discrimination)
+
+#### Extreme Compression for Pre-trained Transformers Made Simple and Efficient
+
+- 论文链接：[https://openreview.net/pdf/04993b528915e7a4bd5441929972258724fd4be3.pdf](https://openreview.net/pdf/04993b528915e7a4bd5441929972258724fd4be3.pdf)
+- 代码链接：[https://github.com/microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)
+
+#### Masked Autoencoding for Scalable and Generalizable Decision Making
+
+- 论文链接：[https://openreview.net/pdf/ef09b0352eacceb7e1007d36887d76b8868bac54.pdf](https://openreview.net/pdf/ef09b0352eacceb7e1007d36887d76b8868bac54.pdf)
+- 代码链接：[https://github.com/fangchenliu/maskdp_public](https://github.com/fangchenliu/maskdp_public)
+
+#### Learning Symmetric Rules with SATNet
+
+- 论文链接：[https://openreview.net/pdf/bfc5a27d58decfd148cc9596eb1905be61800eaf.pdf](https://openreview.net/pdf/bfc5a27d58decfd148cc9596eb1905be61800eaf.pdf)
+- 代码链接：[https://github.com/Lim-Sangho/SymSATNet](https://github.com/Lim-Sangho/SymSATNet)
+
+#### A simple but strong baseline for online continual learning: Repeated Augmented Rehearsal
+
+- 论文链接：[https://openreview.net/pdf/0ebd7d325d9f370e186d4aa9b5eaff600504c031.pdf](https://openreview.net/pdf/0ebd7d325d9f370e186d4aa9b5eaff600504c031.pdf)
+- 代码链接：[https://github.com/yaqianzhang/repeatedaugmentedrehearsal](https://github.com/yaqianzhang/repeatedaugmentedrehearsal)
+
+#### SoftPatch: Unsupervised Anomaly Detection with Noisy Data
+
+- 论文链接：[https://openreview.net/pdf/0c9cc0cb6e8791f206408a84a22433d883890dee.pdf](https://openreview.net/pdf/0c9cc0cb6e8791f206408a84a22433d883890dee.pdf)
+- 代码链接：[https://github.com/TencentYoutuResearch/AnomalyDetection-SoftPatch](https://github.com/TencentYoutuResearch/AnomalyDetection-SoftPatch)
+
+#### SemMAE: Semantic-Guided Masking for Learning Masked Autoencoders
+
+- 论文链接：[https://openreview.net/pdf/dbacc582dff0d6c6d8bbd638d407752eb337bf56.pdf](https://openreview.net/pdf/dbacc582dff0d6c6d8bbd638d407752eb337bf56.pdf)
+- 代码链接：[https://github.com/ucasligang/semmae](https://github.com/ucasligang/semmae)
+
+#### Segmenting Moving Objects via an Object-Centric Layered Representation
+
+- 论文链接：[https://openreview.net/pdf/285686c5ad20bf4a90ecea33853ace39cf96c2f3.pdf](https://openreview.net/pdf/285686c5ad20bf4a90ecea33853ace39cf96c2f3.pdf)
+- 代码链接：[https://github.com/Jyxarthur/OCLR_model](https://github.com/Jyxarthur/OCLR_model)
+
+#### Merging Models with Fisher-Weighted Averaging
+
+- 论文链接：[https://openreview.net/pdf/241f5cd6725186abf3a40e4c17c546ce66b952d8.pdf](https://openreview.net/pdf/241f5cd6725186abf3a40e4c17c546ce66b952d8.pdf)
+- 代码链接：[https://github.com/mmatena/model_merging](https://github.com/mmatena/model_merging)
+
+#### Agreement-on-the-line: Predicting the Performance of Neural Networks under Distribution Shift
+
+- 论文链接：[https://openreview.net/pdf/5e4afb7f9b6aa62c3085359a3400fbece678094e.pdf](https://openreview.net/pdf/5e4afb7f9b6aa62c3085359a3400fbece678094e.pdf)
+- 代码链接：[https://github.com/kebaek/agreement-on-the-line](https://github.com/kebaek/agreement-on-the-line)
+
+#### Rethinking Value Function Learning for Generalization in Reinforcement Learning
+
+- 论文链接：[https://openreview.net/pdf/66ee36ff331cd26d25b6945f714d093b839d0678.pdf](https://openreview.net/pdf/66ee36ff331cd26d25b6945f714d093b839d0678.pdf)
+- 代码链接：[https://github.com/snu-mllab/dcpg](https://github.com/snu-mllab/dcpg)
+
+#### Task-Agnostic Graph Explanations
+
+- 论文链接：[https://openreview.net/pdf/0e05cb2d39535d258ca8943366bc7f3418084f22.pdf](https://openreview.net/pdf/0e05cb2d39535d258ca8943366bc7f3418084f22.pdf)
+- 代码链接：[https://github.com/divelab/DIG](https://github.com/divelab/DIG)
+
+#### A Non-Asymptotic Moreau Envelope Theory for High-Dimensional Generalized Linear Models
+
+- 论文链接：[https://openreview.net/pdf/88bf8d873452d775dc71f3214f41920ee6c16dc8.pdf](https://openreview.net/pdf/88bf8d873452d775dc71f3214f41920ee6c16dc8.pdf)
+- 代码链接：[https://github.com/zhoulijia/moreau-envelope](https://github.com/zhoulijia/moreau-envelope)
+
+#### Decision-based Black-box Attack Against Vision Transformers via Patch-wise Adversarial Removal
+
+- 论文链接：[https://openreview.net/pdf/89c2342a50ca0873643e74491699e482f8ccaa79.pdf](https://openreview.net/pdf/89c2342a50ca0873643e74491699e482f8ccaa79.pdf)
+- 代码链接：[https://github.com/shiyuchengtju/par](https://github.com/shiyuchengtju/par)
+
+#### Generalizing Goal-Conditioned Reinforcement Learning with Variational Causal Reasoning
+
+- 论文链接：[https://openreview.net/pdf/b32c2c1be9965fb7671decca66705dd84861e306.pdf](https://openreview.net/pdf/b32c2c1be9965fb7671decca66705dd84861e306.pdf)
+- 代码链接：[https://github.com/gilgameshd/grader](https://github.com/gilgameshd/grader)
+
+#### C2FAR: Coarse-to-Fine Autoregressive Networks for Precise Probabilistic Forecasting
+
+- 论文链接：[https://openreview.net/pdf/743e2c6cca8fba86d5eda4bcf17aa381d912635f.pdf](https://openreview.net/pdf/743e2c6cca8fba86d5eda4bcf17aa381d912635f.pdf)
+- 代码链接：[https://github.com/huaweicloud/c2far_forecasting](https://github.com/huaweicloud/c2far_forecasting)
+
+#### Chain of Thought Imitation with Procedure Cloning
+
+- 论文链接：[https://openreview.net/pdf/eab774542869eeea6f01b63240778cfb2de193b2.pdf](https://openreview.net/pdf/eab774542869eeea6f01b63240778cfb2de193b2.pdf)
+- 代码链接：[https://github.com/google-research/google-research](https://github.com/google-research/google-research)
+
+#### Falconn++: A Locality-sensitive Filtering Approach for Approximate Nearest Neighbor Search
+
+- 论文链接：[https://openreview.net/pdf/9530448f829da9d707db9deda3e22a9be4484424.pdf](https://openreview.net/pdf/9530448f829da9d707db9deda3e22a9be4484424.pdf)
+- 代码链接：[https://github.com/ninhpham/falconnlsf](https://github.com/ninhpham/falconnlsf)
+
+#### NaturalProver: Grounded Mathematical Proof Generation with Language Models
+
+- 论文链接：[https://openreview.net/pdf/d56b6d5b14270085f00f9428aff3c6e508e5b233.pdf](https://openreview.net/pdf/d56b6d5b14270085f00f9428aff3c6e508e5b233.pdf)
+- 代码链接：[https://github.com/wellecks/naturalprover](https://github.com/wellecks/naturalprover)
+
+#### Predictive Querying for Autoregressive Neural Sequence Models
+
+- 论文链接：[https://openreview.net/pdf/8eea79ffe3f11544d56bd2f68bb94659d8adf460.pdf](https://openreview.net/pdf/8eea79ffe3f11544d56bd2f68bb94659d8adf460.pdf)
+- 代码链接：[https://github.com/ajboyd2/prob_seq_queries](https://github.com/ajboyd2/prob_seq_queries)
+
+#### Minimax Optimal Online Imitation Learning via Replay Estimation
+
+- 论文链接：[https://openreview.net/pdf/30b1997cc53fb108598a7d61ea4d9efecc79c404.pdf](https://openreview.net/pdf/30b1997cc53fb108598a7d61ea4d9efecc79c404.pdf)
+- 代码链接：[https://github.com/gkswamy98/replay_est](https://github.com/gkswamy98/replay_est)
+
+#### Variational Model Perturbation for Source-Free Domain Adaptation
+
+- 论文链接：[https://openreview.net/pdf/7857fc011ecaa79c613d3719c5b7839886470a81.pdf](https://openreview.net/pdf/7857fc011ecaa79c613d3719c5b7839886470a81.pdf)
+- 代码链接：[https://github.com/mmjing/variational_model_perturbation](https://github.com/mmjing/variational_model_perturbation)
+
+#### Deep Ensembles Work, But Are They Necessary?
+
+- 论文链接：[https://openreview.net/pdf/5666bae107413d3a97f883babb0bcfbfced80ae0.pdf](https://openreview.net/pdf/5666bae107413d3a97f883babb0bcfbfced80ae0.pdf)
+- 代码链接：[https://github.com/cellistigs/interp_ensembles](https://github.com/cellistigs/interp_ensembles)
+
+#### Recursive Reasoning in Minimax Games: A Level $k$ Gradient Play Method
+
+- 论文链接：[https://openreview.net/pdf/2e9dec1005da12527353d94e265b998b8c95b025.pdf](https://openreview.net/pdf/2e9dec1005da12527353d94e265b998b8c95b025.pdf)
+- 代码链接：[https://github.com/zichuliu/submission](https://github.com/zichuliu/submission)
+
+#### What You See is What You Get: Principled Deep Learning via Distributional Generalization
+
+- 论文链接：[https://openreview.net/pdf/387b0a73c4e81e2e7b0cad34546f88c313191708.pdf](https://openreview.net/pdf/387b0a73c4e81e2e7b0cad34546f88c313191708.pdf)
+- 代码链接：[https://github.com/yangarbiter/dp-dg](https://github.com/yangarbiter/dp-dg)
+
+#### Coordinate Linear Variance Reduction for Generalized Linear Programming
+
+- 论文链接：[https://openreview.net/pdf/13b6900079493e1a2ab9e9642a4b835d95348313.pdf](https://openreview.net/pdf/13b6900079493e1a2ab9e9642a4b835d95348313.pdf)
+- 代码链接：[https://github.com/ericlincc/efficient-glp](https://github.com/ericlincc/efficient-glp)
+
+#### Model-based Lifelong Reinforcement Learning with Bayesian Exploration
+
+- 论文链接：[https://openreview.net/pdf/9a8e6b002820d5c4a73cc1bcf5aa0a06c949246c.pdf](https://openreview.net/pdf/9a8e6b002820d5c4a73cc1bcf5aa0a06c949246c.pdf)
+- 代码链接：[https://github.com/minusadd/vblrl](https://github.com/minusadd/vblrl)
+
+#### Denoising Diffusion Restoration Models
+
+- 论文链接：[https://openreview.net/pdf/d5d2e8046bc91d6eba6c0ab08f41f53e6946dc81.pdf](https://openreview.net/pdf/d5d2e8046bc91d6eba6c0ab08f41f53e6946dc81.pdf)
+- 代码链接：[https://github.com/bahjat-kawar/ddrm](https://github.com/bahjat-kawar/ddrm)
+
+#### On Image Segmentation With Noisy Labels: Characterization and Volume Properties of the Optimal Solutions to Accuracy and Dice
+
+- 论文链接：[https://openreview.net/pdf/e59d7191516a244192ea6dcb0fb04561e77195b1.pdf](https://openreview.net/pdf/e59d7191516a244192ea6dcb0fb04561e77195b1.pdf)
+- 代码链接：[https://github.com/marcus-nordstrom/optimal-solutions-to-accuracy-and-dice](https://github.com/marcus-nordstrom/optimal-solutions-to-accuracy-and-dice)
+
+#### Fairness Transferability Subject to Bounded Distribution Shift
+
+- 论文链接：[https://openreview.net/pdf/17e826840080dc299a84094a75b6318e86dd1199.pdf](https://openreview.net/pdf/17e826840080dc299a84094a75b6318e86dd1199.pdf)
+- 代码链接：[https://github.com/ucsc-real/fairness_transferability](https://github.com/ucsc-real/fairness_transferability)
+
+#### Rare Gems: Finding Lottery Tickets at Initialization
+
+- 论文链接：[https://openreview.net/pdf/9a51206830d18f6a9c4b561469304116b6ca2c5d.pdf](https://openreview.net/pdf/9a51206830d18f6a9c4b561469304116b6ca2c5d.pdf)
+- 代码链接：[https://github.com/ksreenivasan/pruning_is_enough](https://github.com/ksreenivasan/pruning_is_enough)
+
+#### Global Linear and Local Superlinear Convergence of IRLS for Non-Smooth Robust Regression
+
+- 论文链接：[https://openreview.net/pdf/f76b11172195eb83e36ec6cd5c0b93e3f00edd2d.pdf](https://openreview.net/pdf/f76b11172195eb83e36ec6cd5c0b93e3f00edd2d.pdf)
+- 代码链接：[https://github.com/liangzu/irls-neurips2022](https://github.com/liangzu/irls-neurips2022)
+
+#### Listen to Interpret: Post-hoc Interpretability for Audio Networks with NMF
+
+- 论文链接：[https://openreview.net/pdf/75288c819663228a9beb1b3abe5c3673372bd117.pdf](https://openreview.net/pdf/75288c819663228a9beb1b3abe5c3673372bd117.pdf)
+- 代码链接：[https://github.com/jayneelparekh/l2i-code](https://github.com/jayneelparekh/l2i-code)
+
+#### STaR: Bootstrapping Reasoning With Reasoning
+
+- 论文链接：[https://openreview.net/pdf/2895bf5163189fb124b209c778d945ffddccd49d.pdf](https://openreview.net/pdf/2895bf5163189fb124b209c778d945ffddccd49d.pdf)
+- 代码链接：[https://github.com/ezelikman/STaR](https://github.com/ezelikman/STaR)
+
+#### Weakly Supervised Representation Learning with Sparse Perturbations
+
+- 论文链接：[https://openreview.net/pdf/5c5dd8d7d4bb496ef160948c28948365440e44bb.pdf](https://openreview.net/pdf/5c5dd8d7d4bb496ef160948c28948365440e44bb.pdf)
+- 代码链接：[https://github.com/ahujak/wsrl](https://github.com/ahujak/wsrl)
+
+#### Off-Policy Evaluation for Action-Dependent Non-stationary Environments
+
+- 论文链接：[https://openreview.net/pdf/1a6960c873526b1eb023dced23d0518a69cc5a9f.pdf](https://openreview.net/pdf/1a6960c873526b1eb023dced23d0518a69cc5a9f.pdf)
+- 代码链接：[https://github.com/yashchandak/activens](https://github.com/yashchandak/activens)
+
+#### Emergent Communication: Generalization and Overfitting in Lewis Games
+
+- 论文链接：[https://openreview.net/pdf/f7bcbfde376d3726b4d85857486ed540e1098c28.pdf](https://openreview.net/pdf/f7bcbfde376d3726b4d85857486ed540e1098c28.pdf)
+- 代码链接：[https://github.com/mathieurita/population](https://github.com/mathieurita/population)
+
+#### Spatial Mixture-of-Experts
+
+- 论文链接：[https://openreview.net/pdf/33382c06a05efd3bf973c13cc663b01dad7b9a69.pdf](https://openreview.net/pdf/33382c06a05efd3bf973c13cc663b01dad7b9a69.pdf)
+- 代码链接：[https://github.com/spcl/smoe](https://github.com/spcl/smoe)
+
+#### Gradient flow dynamics of shallow ReLU networks for square loss and orthogonal inputs
+
+- 论文链接：[https://openreview.net/pdf/8bad66392e4321c8f6054326ffeb278c3589d604.pdf](https://openreview.net/pdf/8bad66392e4321c8f6054326ffeb278c3589d604.pdf)
+- 代码链接：[https://github.com/eboursier/gfdynamics](https://github.com/eboursier/gfdynamics)
+
+#### Early Stage Convergence and Global Convergence of Training Mildly Parameterized Neural Networks
+
+- 论文链接：[https://openreview.net/pdf/30e59d126c299365bf5e36f807728d05980e45fa.pdf](https://openreview.net/pdf/30e59d126c299365bf5e36f807728d05980e45fa.pdf)
+- 代码链接：[https://github.com/wmz9/early_stage_convergence_neurips2022](https://github.com/wmz9/early_stage_convergence_neurips2022)
+
+#### Robust Binary Models by Pruning Randomly-initialized Networks
+
+- 论文链接：[https://openreview.net/pdf/b7bed232852fd2d08712df913574d3e7935ea7ef.pdf](https://openreview.net/pdf/b7bed232852fd2d08712df913574d3e7935ea7ef.pdf)
+- 代码链接：[https://github.com/IVRL/RobustBinarySubNet](https://github.com/IVRL/RobustBinarySubNet)
+
+#### Debiasing Graph Neural Networks via Learning Disentangled Causal Substructure
+
+- 论文链接：[https://openreview.net/pdf/e23ca1b56f43588d8e925e42bc4d2493b6061b9d.pdf](https://openreview.net/pdf/e23ca1b56f43588d8e925e42bc4d2493b6061b9d.pdf)
+- 代码链接：[https://github.com/googlebaba/disc](https://github.com/googlebaba/disc)
+
+#### Towards Disentangling Information Paths with Coded ResNeXt
+
+- 论文链接：[https://openreview.net/pdf/8363eacefe350838d7206e08914c139bfa1929ac.pdf](https://openreview.net/pdf/8363eacefe350838d7206e08914c139bfa1929ac.pdf)
+- 代码链接：[https://github.com/avranasa/coded-resnext](https://github.com/avranasa/coded-resnext)
+
+#### Near-Optimal Collaborative Learning in Bandits
+
+- 论文链接：[https://openreview.net/pdf/564a6201c7f63db25ad926be2e1f7737847d1064.pdf](https://openreview.net/pdf/564a6201c7f63db25ad926be2e1f7737847d1064.pdf)
+- 代码链接：[https://github.com/clreda/near-optimal-federated](https://github.com/clreda/near-optimal-federated)
+
+#### Diverse Weight Averaging for Out-of-Distribution Generalization
+
+- 论文链接：[https://openreview.net/pdf/753e2e327ddbca8afb5825358dc45881fbab4a84.pdf](https://openreview.net/pdf/753e2e327ddbca8afb5825358dc45881fbab4a84.pdf)
+- 代码链接：[https://github.com/alexrame/diwa](https://github.com/alexrame/diwa)
+
+#### Causal Discovery in Heterogeneous Environments Under the Sparse Mechanism Shift Hypothesis
+
+- 论文链接：[https://openreview.net/pdf/80f946d66104b64a7fd48331c5cfa98914a974e4.pdf](https://openreview.net/pdf/80f946d66104b64a7fd48331c5cfa98914a974e4.pdf)
+- 代码链接：[https://github.com/rflperry/sparse_shift](https://github.com/rflperry/sparse_shift)
+
+#### ViewFool: Evaluating the Robustness of Visual Recognition to Adversarial Viewpoints
+
+- 论文链接：[https://openreview.net/pdf/24cebb6e74e797fab591cd6f87ab49349dfc9b05.pdf](https://openreview.net/pdf/24cebb6e74e797fab591cd6f87ab49349dfc9b05.pdf)
+- 代码链接：[https://github.com/heathcliff-saku/viewfool_](https://github.com/heathcliff-saku/viewfool_)
+
+#### VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts
+
+- 论文链接：[https://openreview.net/pdf/f07ed81a7594dc015dd857af7b47df574ddfeea2.pdf](https://openreview.net/pdf/f07ed81a7594dc015dd857af7b47df574ddfeea2.pdf)
+- 代码链接：[https://github.com/microsoft/unilm/tree/master/vlmo](https://github.com/microsoft/unilm/tree/master/vlmo)
+
+#### Stability Analysis and Generalization Bounds of Adversarial Training
+
+- 论文链接：[https://openreview.net/pdf/13973f57c47ea6bc94b0abe9ba715e3b4f8f0099.pdf](https://openreview.net/pdf/13973f57c47ea6bc94b0abe9ba715e3b4f8f0099.pdf)
+- 代码链接：[https://github.com/JiancongXiao/Stability-of-Adversarial-Training](https://github.com/JiancongXiao/Stability-of-Adversarial-Training)
+
+#### Towards Out-of-Distribution Sequential Event Prediction: A Causal Treatment
+
+- 论文链接：[https://openreview.net/pdf/fd9139b8cac30476e7a74ba957cef3627fcfdace.pdf](https://openreview.net/pdf/fd9139b8cac30476e7a74ba957cef3627fcfdace.pdf)
+- 代码链接：[https://github.com/chr26195/caseq](https://github.com/chr26195/caseq)
+
+#### Robust Graph Structure Learning over Images via Multiple Statistical Tests
+
+- 论文链接：[https://openreview.net/pdf/63b81cbb7b6b45a5ec6d350984cc550b4b9c2455.pdf](https://openreview.net/pdf/63b81cbb7b6b45a5ec6d350984cc550b4b9c2455.pdf)
+- 代码链接：[https://github.com/Thomas-wyh/B-Attention](https://github.com/Thomas-wyh/B-Attention)
+
+#### Federated Submodel Optimization for Hot and Cold Data Features
+
+- 论文链接：[https://openreview.net/pdf/f723885824d34534621d48386c5936aaf46b0bae.pdf](https://openreview.net/pdf/f723885824d34534621d48386c5936aaf46b0bae.pdf)
+- 代码链接：[https://github.com/sjtu-yc/federated-submodel-averaging](https://github.com/sjtu-yc/federated-submodel-averaging)
+
+#### Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs
+
+- 论文链接：[https://openreview.net/pdf/592d698e37de7db79095dbf0cfd826e9699a6ea2.pdf](https://openreview.net/pdf/592d698e37de7db79095dbf0cfd826e9699a6ea2.pdf)
+- 代码链接：[https://github.com/twitter-research/neural-sheaf-diffusion](https://github.com/twitter-research/neural-sheaf-diffusion)
+
+#### Characterization of Excess Risk for Locally Strongly Convex Population Risk
+
+- 论文链接：[https://openreview.net/pdf/a818a6d77348fb548ae741249679f9042b16e7e9.pdf](https://openreview.net/pdf/a818a6d77348fb548ae741249679f9042b16e7e9.pdf)
+- 代码链接：[https://github.com/kuangliu/pytorch-cifar](https://github.com/kuangliu/pytorch-cifar)
+
+#### Revisiting Graph Contrastive Learning from the Perspective of Graph Spectrum
+
+- 论文链接：[https://openreview.net/pdf/44e873147109f65cf7c0201c8393abc66a36cfb6.pdf](https://openreview.net/pdf/44e873147109f65cf7c0201c8393abc66a36cfb6.pdf)
+- 代码链接：[https://github.com/liun-online/spco](https://github.com/liun-online/spco)
+
+#### AgraSSt: Approximate Graph Stein Statistics for Interpretable Assessment of Implicit Graph Generators
+
+- 论文链接：[https://openreview.net/pdf/07d037b24d83e81b3feebc7be0af68884201dd70.pdf](https://openreview.net/pdf/07d037b24d83e81b3feebc7be0af68884201dd70.pdf)
+- 代码链接：[https://github.com/wenkaixl/agrasst](https://github.com/wenkaixl/agrasst)
+
+#### Learning to Share in Multi-Agent Reinforcement Learning
+
+- 论文链接：[https://openreview.net/pdf/9c45eaf9d46cb90960a303cb936ad909ec477c7f.pdf](https://openreview.net/pdf/9c45eaf9d46cb90960a303cb936ad909ec477c7f.pdf)
+- 代码链接：[https://github.com/pku-ai-edge/roadnetsz](https://github.com/pku-ai-edge/roadnetsz)
+
+#### Semantic Field of Words Represented as Non-Linear Functions
+
+- 论文链接：[https://openreview.net/pdf/2cb94ef53aac0eb643b03fb1f9db8fd2fbf1819e.pdf](https://openreview.net/pdf/2cb94ef53aac0eb643b03fb1f9db8fd2fbf1819e.pdf)
+- 代码链接：[https://github.com/kduxin/firelang](https://github.com/kduxin/firelang)
+
+#### Fast Instrument Learning with Faster Rates
+
+- 论文链接：[https://openreview.net/pdf/ea76b0cfdeeb01ccba2ca06f2ff1be87dff7b817.pdf](https://openreview.net/pdf/ea76b0cfdeeb01ccba2ca06f2ff1be87dff7b817.pdf)
+- 代码链接：[https://github.com/meta-inf/fil](https://github.com/meta-inf/fil)
+
+#### Self-explaining deep models with logic rule reasoning
+
+- 论文链接：[https://openreview.net/pdf/077c4eed88fb6dfad38fa4ba37f8e138baea7b0e.pdf](https://openreview.net/pdf/077c4eed88fb6dfad38fa4ba37f8e138baea7b0e.pdf)
+- 代码链接：[https://github.com/archon159/selor](https://github.com/archon159/selor)
+
+#### OGC: Unsupervised 3D Object Segmentation from Rigid Dynamics of Point Clouds
+
+- 论文链接：[https://openreview.net/pdf/e29e930413423102c5cdc6dda0902ae4c2f69130.pdf](https://openreview.net/pdf/e29e930413423102c5cdc6dda0902ae4c2f69130.pdf)
+- 代码链接：[https://github.com/vlar-group/ogc](https://github.com/vlar-group/ogc)
+
+#### Factuality Enhanced Language Models for Open-Ended Text Generation
+
+- 论文链接：[https://openreview.net/pdf/e657b2b96221056173aed12efb0a8c25c3238897.pdf](https://openreview.net/pdf/e657b2b96221056173aed12efb0a8c25c3238897.pdf)
+- 代码链接：[https://github.com/nayeon7lee/factualityprompt](https://github.com/nayeon7lee/factualityprompt)
+
+#### FreGAN: Exploiting Frequency Components for Training GANs under Limited Data
+
+- 论文链接：[https://openreview.net/pdf/e927cbe27123ebd2539d873ce6b0548b732c179a.pdf](https://openreview.net/pdf/e927cbe27123ebd2539d873ce6b0548b732c179a.pdf)
+- 代码链接：[https://github.com/kobeshegu/fregan_neurips2022](https://github.com/kobeshegu/fregan_neurips2022)
+
+#### Discovering Design Concepts for CAD Sketches
+
+- 论文链接：[https://openreview.net/pdf/9de41b53ad1d7443cbe53959abf8f602fd345cb7.pdf](https://openreview.net/pdf/9de41b53ad1d7443cbe53959abf8f602fd345cb7.pdf)
+- 代码链接：[https://github.com/yyuezhi/sketchconcept](https://github.com/yyuezhi/sketchconcept)
+
+#### DNA: Proximal Policy Optimization with a Dual Network Architecture
+
+- 论文链接：[https://openreview.net/pdf/489ee5724f8c537e3901075ac81849622056e6e3.pdf](https://openreview.net/pdf/489ee5724f8c537e3901075ac81849622056e6e3.pdf)
+- 代码链接：[https://github.com/maitchison/PPO](https://github.com/maitchison/PPO)
+
+#### DIMES: A Differentiable Meta Solver for Combinatorial Optimization Problems
+
+- 论文链接：[https://openreview.net/pdf/abf9d874c018b81de21daeb2693f76744cabfeb9.pdf](https://openreview.net/pdf/abf9d874c018b81de21daeb2693f76744cabfeb9.pdf)
+- 代码链接：[https://github.com/dimesteam/dimes](https://github.com/dimesteam/dimes)
+
+#### Controllable Text Generation with Neurally-Decomposed Oracle
+
+- 论文链接：[https://openreview.net/pdf/8fb888d153f6a0b3e3631eecb9d54f006df17687.pdf](https://openreview.net/pdf/8fb888d153f6a0b3e3631eecb9d54f006df17687.pdf)
+- 代码链接：[https://github.com/mtsomethree/constrdecoding](https://github.com/mtsomethree/constrdecoding)
+
+#### Zero-Shot 3D Drug Design by Sketching and Generating
+
+- 论文链接：[https://openreview.net/pdf/77632299fec1555bb185e12968cb404cc4735a7d.pdf](https://openreview.net/pdf/77632299fec1555bb185e12968cb404cc4735a7d.pdf)
+- 代码链接：[https://github.com/longlongman/DESERT](https://github.com/longlongman/DESERT)
+
+#### Diagonal State Spaces are as Effective as Structured State Spaces
+
+- 论文链接：[https://openreview.net/pdf/ad53a57938e150b73e46b5303597b7701344b1f2.pdf](https://openreview.net/pdf/ad53a57938e150b73e46b5303597b7701344b1f2.pdf)
+- 代码链接：[https://github.com/ag1988/dss](https://github.com/ag1988/dss)
+
+#### Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering
+
+- 论文链接：[https://openreview.net/pdf/48fe22b975702e5d27656eab02e3ffad6dbce6d7.pdf](https://openreview.net/pdf/48fe22b975702e5d27656eab02e3ffad6dbce6d7.pdf)
+- 代码链接：[https://github.com/lupantech/ScienceQA](https://github.com/lupantech/ScienceQA)
+
+#### Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning
+
+- 论文链接：[https://openreview.net/pdf/519f69f88bfc83ba1c73ca60c919e4f38a5523cf.pdf](https://openreview.net/pdf/519f69f88bfc83ba1c73ca60c919e4f38a5523cf.pdf)
+- 代码链接：[https://github.com/r-three/t-few](https://github.com/r-three/t-few)
+
+#### On Scalable Testing of Samplers
+
+- 论文链接：[https://openreview.net/pdf/42c6f788dc363c9a295e7d75b773dbd7085f6f8a.pdf](https://openreview.net/pdf/42c6f788dc363c9a295e7d75b773dbd7085f6f8a.pdf)
+- 代码链接：[https://github.com/meelgroup/barbarik](https://github.com/meelgroup/barbarik)
+
+#### Data Augmentation MCMC for Bayesian Inference from Privatized Data
+
+- 论文链接：[https://openreview.net/pdf/01f195227f4aba6b6754fb8c4a344faa18a19a62.pdf](https://openreview.net/pdf/01f195227f4aba6b6754fb8c4a344faa18a19a62.pdf)
+- 代码链接：[https://github.com/nianqiaoju/dataaugmentation-mcmc-differentialprivacy](https://github.com/nianqiaoju/dataaugmentation-mcmc-differentialprivacy)
+
+#### Structured Recognition for Generative Models with Explaining Away
+
+- 论文链接：[https://openreview.net/pdf/1201a377f1883b3fba0824b0b68013186d5c00c6.pdf](https://openreview.net/pdf/1201a377f1883b3fba0824b0b68013186d5c00c6.pdf)
+- 代码链接：[https://github.com/changmin-yu/structured-recognition-neurips-2022](https://github.com/changmin-yu/structured-recognition-neurips-2022)
+
+#### u-HuBERT: Unified Mixed-Modal Speech Pretraining And Zero-Shot Transfer to Unlabeled Modality
+
+- 论文链接：[https://openreview.net/pdf/2e30d60388cf291234d4101c998c93858ff28db5.pdf](https://openreview.net/pdf/2e30d60388cf291234d4101c998c93858ff28db5.pdf)
+- 代码链接：[https://github.com/facebookresearch/av_hubert](https://github.com/facebookresearch/av_hubert)
+
+#### Dance of SNN and ANN: Solving binding problem by combining spike timing and reconstructive attention
+
+- 论文链接：[https://openreview.net/pdf/09247fa6a1dd664bf70fd2aa715bd7fe49c1bcc7.pdf](https://openreview.net/pdf/09247fa6a1dd664bf70fd2aa715bd7fe49c1bcc7.pdf)
+- 代码链接：[https://github.com/monstersecond/dasbe](https://github.com/monstersecond/dasbe)
+
+#### ST-Adapter: Parameter-Efficient Image-to-Video Transfer Learning
+
+- 论文链接：[https://openreview.net/pdf/ebbfd58923aae841dd74cadd1040c6981760a3a6.pdf](https://openreview.net/pdf/ebbfd58923aae841dd74cadd1040c6981760a3a6.pdf)
+- 代码链接：[https://github.com/linziyi96/st-adapter](https://github.com/linziyi96/st-adapter)
+
+#### Constrained Predictive Coding as a Biologically Plausible Model of the Cortical Hierarchy
+
+- 论文链接：[https://openreview.net/pdf/50e0499bf4eb4cf8d0bf2137ae266dae0d180c52.pdf](https://openreview.net/pdf/50e0499bf4eb4cf8d0bf2137ae266dae0d180c52.pdf)
+- 代码链接：[https://github.com/ttesileanu/bio-cpca](https://github.com/ttesileanu/bio-cpca)
+
+#### Towards Diverse and Faithful One-shot Adaption of Generative Adversarial Networks
+
+- 论文链接：[https://openreview.net/pdf/b423b85221790aee351b6fab0dd526b75b6a9778.pdf](https://openreview.net/pdf/b423b85221790aee351b6fab0dd526b75b6a9778.pdf)
+- 代码链接：[https://github.com/1170300521/DiFa](https://github.com/1170300521/DiFa)
+
+#### Look Around and Refer: 2D Synthetic Semantics Knowledge Distillation for 3D Visual Grounding
+
+- 论文链接：[https://openreview.net/pdf/1c9d635e7f9846e75225e3b8b2f01246c108ff43.pdf](https://openreview.net/pdf/1c9d635e7f9846e75225e3b8b2f01246c108ff43.pdf)
+- 代码链接：[https://github.com/eslambakr/LAR-Look-Around-and-Refer](https://github.com/eslambakr/LAR-Look-Around-and-Refer)
+
+#### Riemannian Score-Based Generative Modelling
+
+- 论文链接：[https://openreview.net/pdf/ab5f75aca230ffd4afa97c1b3e71217cc2537fbf.pdf](https://openreview.net/pdf/ab5f75aca230ffd4afa97c1b3e71217cc2537fbf.pdf)
+- 代码链接：[https://github.com/oxcsml/riemannian-score-sde](https://github.com/oxcsml/riemannian-score-sde)
+
+#### Improved Utility Analysis of Private CountSketch
+
+- 论文链接：[https://openreview.net/pdf/5d4c83d54905c5b0c9715e177469d9cf4ecbd49d.pdf](https://openreview.net/pdf/5d4c83d54905c5b0c9715e177469d9cf4ecbd49d.pdf)
+- 代码链接：[https://github.com/rasmus-pagh/private-countsketch](https://github.com/rasmus-pagh/private-countsketch)
+
+#### TA-MoE: Topology-Aware Large Scale Mixture-of-Expert Training
+
+- 论文链接：[https://openreview.net/pdf/bc488cfcfd4c3982231969f128b9f4f18df6ca87.pdf](https://openreview.net/pdf/bc488cfcfd4c3982231969f128b9f4f18df6ca87.pdf)
+- 代码链接：[https://github.com/chen-chang/ta-moe](https://github.com/chen-chang/ta-moe)
+
+#### BR-SNIS: Bias Reduced Self-Normalized Importance Sampling
+
+- 论文链接：[https://openreview.net/pdf/3e8a52b6680043e2dbbffced3e2e557f4f49e8cd.pdf](https://openreview.net/pdf/3e8a52b6680043e2dbbffced3e2e557f4f49e8cd.pdf)
+- 代码链接：[https://github.com/gabrielvc/br_snis](https://github.com/gabrielvc/br_snis)
+
+#### A Continuous Time Framework for Discrete Denoising Models
+
+- 论文链接：[https://openreview.net/pdf/c450783aba776d6f82293c8fcda05cd040523a9a.pdf](https://openreview.net/pdf/c450783aba776d6f82293c8fcda05cd040523a9a.pdf)
+- 代码链接：[https://github.com/andrew-cr/tauldr](https://github.com/andrew-cr/tauldr)
+
+#### Learning Causally Invariant Representations for Out-of-Distribution Generalization on Graphs
+
+- 论文链接：[https://openreview.net/pdf/8659bd92ed85c0c6ac62d38ecee928a2813cac41.pdf](https://openreview.net/pdf/8659bd92ed85c0c6ac62d38ecee928a2813cac41.pdf)
+- 代码链接：[https://github.com/lfhase/ciga](https://github.com/lfhase/ciga)
+
+#### Towards Learning Universal Hyperparameter Optimizers with Transformers
+
+- 论文链接：[https://openreview.net/pdf/c1e9d7fb9e33436f44adcc0c3f099178399cff4e.pdf](https://openreview.net/pdf/c1e9d7fb9e33436f44adcc0c3f099178399cff4e.pdf)
+- 代码链接：[https://github.com/google-research/optformer](https://github.com/google-research/optformer)
+
+#### Size and depth of monotone neural networks: interpolation and approximation
+
+- 论文链接：[https://openreview.net/pdf/716467ea51f52fb0010af763914b4f9622001732.pdf](https://openreview.net/pdf/716467ea51f52fb0010af763914b4f9622001732.pdf)
+- 代码链接：[https://github.com/danmiku/monotonenetworks](https://github.com/danmiku/monotonenetworks)
+
+#### Test-Time Training with Masked Autoencoders
+
+- 论文链接：[https://openreview.net/pdf/0e2c64eed0c1be22d12250d184dd22ec4701f91f.pdf](https://openreview.net/pdf/0e2c64eed0c1be22d12250d184dd22ec4701f91f.pdf)
+- 代码链接：[https://github.com/yossigandelsman/test_time_training_mae](https://github.com/yossigandelsman/test_time_training_mae)
+
+#### Visual Prompting via Image Inpainting
+
+- 论文链接：[https://openreview.net/pdf/3209830900161e296ed5752678f779e24e06aa8e.pdf](https://openreview.net/pdf/3209830900161e296ed5752678f779e24e06aa8e.pdf)
+- 代码链接：[https://github.com/amirbar/visual_prompting](https://github.com/amirbar/visual_prompting)
+
+#### SparCL: Sparse Continual Learning on the Edge
+
+- 论文链接：[https://openreview.net/pdf/d6fb045ba38422957526560482f213c5634d5d04.pdf](https://openreview.net/pdf/d6fb045ba38422957526560482f213c5634d5d04.pdf)
+- 代码链接：[https://github.com/neu-spiral/SparCL](https://github.com/neu-spiral/SparCL)
+
+#### MCVD - Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation
+
+- 论文链接：[https://openreview.net/pdf/73869a73283a826676920f1132d4c61e4c706957.pdf](https://openreview.net/pdf/73869a73283a826676920f1132d4c61e4c706957.pdf)
+- 代码链接：[https://github.com/voletiv/mcvd-pytorch](https://github.com/voletiv/mcvd-pytorch)
+
+#### The Unreliability of Explanations in Few-shot Prompting for Textual Reasoning
+
+- 论文链接：[https://openreview.net/pdf/9285de42ffdedbfb6432c2c9831a30657acf7d2a.pdf](https://openreview.net/pdf/9285de42ffdedbfb6432c2c9831a30657acf7d2a.pdf)
+- 代码链接：[https://github.com/xiye17/textualexplincontext](https://github.com/xiye17/textualexplincontext)
+
+#### Training Spiking Neural Networks with Local Tandem Learning
+
+- 论文链接：[https://openreview.net/pdf/ff2de317b0a3d1bb9a71db3a93b69ab01a3ee8be.pdf](https://openreview.net/pdf/ff2de317b0a3d1bb9a71db3a93b69ab01a3ee8be.pdf)
+- 代码链接：[https://github.com/aries231/local_tandem_learning_rule](https://github.com/aries231/local_tandem_learning_rule)
+
+#### ELASTIC: Numerical Reasoning with Adaptive Symbolic Compiler
+
+- 论文链接：[https://openreview.net/pdf/1e620e8490995004c321aef32cc901dedd8e2ed2.pdf](https://openreview.net/pdf/1e620e8490995004c321aef32cc901dedd8e2ed2.pdf)
+- 代码链接：[https://github.com/neurasearch/neurips-2022-submission-3358](https://github.com/neurasearch/neurips-2022-submission-3358)
+
+#### FairVFL: A Fair Vertical Federated Learning Framework with Contrastive Adversarial Learning
+
+- 论文链接：[https://openreview.net/pdf/243fb3541d31c9469c2523d9b4fecf2222785381.pdf](https://openreview.net/pdf/243fb3541d31c9469c2523d9b4fecf2222785381.pdf)
+- 代码链接：[https://github.com/taoqi98/fairvfl](https://github.com/taoqi98/fairvfl)
+
+#### Forecasting Human Trajectory from Scene History
+
+- 论文链接：[https://openreview.net/pdf/01de16eb7506f920ca10263c9ebee9a83e00ecf1.pdf](https://openreview.net/pdf/01de16eb7506f920ca10263c9ebee9a83e00ecf1.pdf)
+- 代码链接：[https://github.com/makaruinah/shenet](https://github.com/makaruinah/shenet)
+
+#### FNeVR: Neural Volume Rendering for Face Animation
+
+- 论文链接：[https://openreview.net/pdf/c431a235ffd938987d8a15ed8b814b70137b3519.pdf](https://openreview.net/pdf/c431a235ffd938987d8a15ed8b814b70137b3519.pdf)
+- 代码链接：[https://github.com/zengbohan0217/FNeVR](https://github.com/zengbohan0217/FNeVR)
+
+#### Green Hierarchical Vision Transformer for Masked Image Modeling
+
+- 论文链接：[https://openreview.net/pdf/e57f6bec1d85a087abced4270b901b6ffa6bab31.pdf](https://openreview.net/pdf/e57f6bec1d85a087abced4270b901b6ffa6bab31.pdf)
+- 代码链接：[https://github.com/layneh/greenmim](https://github.com/layneh/greenmim)
+
+#### Inherently Explainable Reinforcement Learning in Natural Language
+
+- 论文链接：[https://openreview.net/pdf/0e0e6c88380a6094e1c6111e8a498e5a36282991.pdf](https://openreview.net/pdf/0e0e6c88380a6094e1c6111e8a498e5a36282991.pdf)
+- 代码链接：[https://github.com/xiangyu-peng/hex-rl](https://github.com/xiangyu-peng/hex-rl)
+
+#### BagFlip: A Certified Defense Against Data Poisoning
+
+- 论文链接：[https://openreview.net/pdf/e616fe893c770d0d548f556b5b50433c98893578.pdf](https://openreview.net/pdf/e616fe893c770d0d548f556b5b50433c98893578.pdf)
+- 代码链接：[https://github.com/foreverzyh/defend_framework](https://github.com/foreverzyh/defend_framework)
+
+#### NS3: Neuro-symbolic Semantic Code Search
+
+- 论文链接：[https://openreview.net/pdf/8142e255b805c6e5d32c461587a8b5d2f725301d.pdf](https://openreview.net/pdf/8142e255b805c6e5d32c461587a8b5d2f725301d.pdf)
+- 代码链接：[https://github.com/shushanarakelyan/modular_code_search](https://github.com/shushanarakelyan/modular_code_search)
+
+#### GAUDI: A Neural Architect for Immersive 3D Scene Generation
+
+- 论文链接：[https://openreview.net/pdf/85b4aa1e478091411a16bca526a85a029599a54c.pdf](https://openreview.net/pdf/85b4aa1e478091411a16bca526a85a029599a54c.pdf)
+- 代码链接：[https://github.com/apple/ml-gaudi](https://github.com/apple/ml-gaudi)
+
+#### Learning State-Aware Visual Representations from Audible Interactions
+
+- 论文链接：[https://openreview.net/pdf/3c00a294611b2926715d5743b6eb92bea655be53.pdf](https://openreview.net/pdf/3c00a294611b2926715d5743b6eb92bea655be53.pdf)
+- 代码链接：[https://github.com/HimangiM/RepLAI](https://github.com/HimangiM/RepLAI)
+
+#### Optimal Comparator Adaptive Online Learning with Switching Cost
+
+- 论文链接：[https://openreview.net/pdf/9bf8d088a4fd35fa2d70c1c961dde40591ce4349.pdf](https://openreview.net/pdf/9bf8d088a4fd35fa2d70c1c961dde40591ce4349.pdf)
+- 代码链接：[https://github.com/zhiyuzz/neurips2022-adaptive-switching](https://github.com/zhiyuzz/neurips2022-adaptive-switching)
+
+#### When to Update Your Model: Constrained Model-based Reinforcement Learning
+
+- 论文链接：[https://openreview.net/pdf/2bf1a3dad7ed173ed8a73df0281fc905a5f0d4bf.pdf](https://openreview.net/pdf/2bf1a3dad7ed173ed8a73df0281fc905a5f0d4bf.pdf)
+- 代码链接：[https://github.com/jity16/when-to-update-your-model-constrained-model-based-reinforcement-learning](https://github.com/jity16/when-to-update-your-model-constrained-model-based-reinforcement-learning)
+
+#### Unsupervised Cross-Task Generalization via Retrieval Augmentation
+
+- 论文链接：[https://openreview.net/pdf/ec06ce52983a27610a2bdafd91cf779041d3ce59.pdf](https://openreview.net/pdf/ec06ce52983a27610a2bdafd91cf779041d3ce59.pdf)
+- 代码链接：[https://github.com/INK-USC/ReCross](https://github.com/INK-USC/ReCross)
+
+#### Deconfounded Representation Similarity for Comparison of Neural Networks
+
+- 论文链接：[https://openreview.net/pdf/a16fb21acecedc07153334496a3aa760ea34860f.pdf](https://openreview.net/pdf/a16fb21acecedc07153334496a3aa760ea34860f.pdf)
+- 代码链接：[https://github.com/ykumards/simtorch](https://github.com/ykumards/simtorch)
+
+#### EfficientFormer: Vision Transformers at MobileNet Speed
+
+- 论文链接：[https://openreview.net/pdf/9899d01bf7a6fdf1957317bbf45b68bcbdf91eaa.pdf](https://openreview.net/pdf/9899d01bf7a6fdf1957317bbf45b68bcbdf91eaa.pdf)
+- 代码链接：[https://github.com/rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models)
+
+#### Simulation-guided Beam Search for Neural Combinatorial Optimization
+
+- 论文链接：[https://openreview.net/pdf/998ae2d1a5cce31dc44c4db890ac1ad7d4545eed.pdf](https://openreview.net/pdf/998ae2d1a5cce31dc44c4db890ac1ad7d4545eed.pdf)
+- 代码链接：[https://github.com/yd-kwon/sgbs](https://github.com/yd-kwon/sgbs)
+
+#### Can Hybrid Geometric Scattering Networks Help Solve the Maximum Clique Problem?
+
+- 论文链接：[https://openreview.net/pdf/50c74648ad77f9e053fd125926c5fe3744fff520.pdf](https://openreview.net/pdf/50c74648ad77f9e053fd125926c5fe3744fff520.pdf)
+- 代码链接：[https://github.com/yimengmin/geometricscatteringmaximalclique](https://github.com/yimengmin/geometricscatteringmaximalclique)
+
+#### Semi-Parametric Neural Image Synthesis
+
+- 论文链接：[https://openreview.net/pdf/ad4d5f0120a405c615d9f04f54b9d3537111d8e9.pdf](https://openreview.net/pdf/ad4d5f0120a405c615d9f04f54b9d3537111d8e9.pdf)
+- 代码链接：[https://github.com/compvis/latent-diffusion](https://github.com/compvis/latent-diffusion)
+
+#### On Margins and Generalisation for Voting Classifiers
+
+- 论文链接：[https://openreview.net/pdf/3b6c1ea421b22ebc1836eb05ad900e7d72ccb755.pdf](https://openreview.net/pdf/3b6c1ea421b22ebc1836eb05ad900e7d72ccb755.pdf)
+- 代码链接：[https://github.com/vzantedeschi/dirichlet-margin-bound](https://github.com/vzantedeschi/dirichlet-margin-bound)
+
+#### BEVFusion: A Simple and Robust LiDAR-Camera Fusion Framework
+
+- 论文链接：[https://openreview.net/pdf/d6b076f8f3d0a2c9b39a95f047a3ccf062af0ef1.pdf](https://openreview.net/pdf/d6b076f8f3d0a2c9b39a95f047a3ccf062af0ef1.pdf)
+- 代码链接：[https://github.com/adlab-autodrive/bevfusion](https://github.com/adlab-autodrive/bevfusion)
+
+#### Learning to Accelerate Partial Differential Equations via Latent Global Evolution
+
+- 论文链接：[https://openreview.net/pdf/bb6870c284762d1be1d14b2bcef4200b41f230cd.pdf](https://openreview.net/pdf/bb6870c284762d1be1d14b2bcef4200b41f230cd.pdf)
+- 代码链接：[https://github.com/snap-stanford/le_pde](https://github.com/snap-stanford/le_pde)
+
+#### Graph Self-supervised Learning with Accurate Discrepancy Learning
+
+- 论文链接：[https://openreview.net/pdf/586f792bcb21a986b38bb1e9c24801ce1f4df9ed.pdf](https://openreview.net/pdf/586f792bcb21a986b38bb1e9c24801ce1f4df9ed.pdf)
+- 代码链接：[https://github.com/dongkikim95/d-sla](https://github.com/dongkikim95/d-sla)
+
+#### Mutual Information Divergence: A Unified Metric for Multimodal Generative Models
+
+- 论文链接：[https://openreview.net/pdf/366a9ea4cc25ad029656ebef6aa8988a965ee78e.pdf](https://openreview.net/pdf/366a9ea4cc25ad029656ebef6aa8988a965ee78e.pdf)
+- 代码链接：[https://github.com/naver-ai/mid.metric](https://github.com/naver-ai/mid.metric)
+
+#### Neural Surface Reconstruction of Dynamic Scenes with Monocular RGB-D Camera
+
+- 论文链接：[https://openreview.net/pdf/ac710ad72ac6ea375d4016e5172575c3a71eaf4d.pdf](https://openreview.net/pdf/ac710ad72ac6ea375d4016e5172575c3a71eaf4d.pdf)
+- 代码链接：[https://github.com/USTC3DV/NDR-code](https://github.com/USTC3DV/NDR-code)
+
+#### Multi-Granularity Cross-modal Alignment for Generalized Medical Visual Representation Learning
+
+- 论文链接：[https://openreview.net/pdf/bd00288b42b7ffcd93a62299543607e969de102a.pdf](https://openreview.net/pdf/bd00288b42b7ffcd93a62299543607e969de102a.pdf)
+- 代码链接：[https://github.com/fuying-wang/mgca](https://github.com/fuying-wang/mgca)
+
+#### On the Effect of Pre-training for Transformer in Different Modality on Offline Reinforcement Learning
+
+- 论文链接：[https://openreview.net/pdf/12268718574324c5450ae40412888ecf5545ff17.pdf](https://openreview.net/pdf/12268718574324c5450ae40412888ecf5545ff17.pdf)
+- 代码链接：[https://github.com/t46/paper-pre-training-different-modality-offline-rl](https://github.com/t46/paper-pre-training-different-modality-offline-rl)
+
+#### Large-batch Optimization for Dense Visual Predictions
+
+- 论文链接：[https://openreview.net/pdf/88cc65d6c3f1ff5653fa5ff69d4ba2ae3ee741d1.pdf](https://openreview.net/pdf/88cc65d6c3f1ff5653fa5ff69d4ba2ae3ee741d1.pdf)
+- 代码链接：[https://github.com/Sense-X/AGVM](https://github.com/Sense-X/AGVM)
+
+#### A Contrastive Framework for Neural Text Generation
+
+- 论文链接：[https://openreview.net/pdf/a2e487cea90e7de01c058523cdee1c43a79aa953.pdf](https://openreview.net/pdf/a2e487cea90e7de01c058523cdee1c43a79aa953.pdf)
+- 代码链接：[https://github.com/yxuansu/simctg](https://github.com/yxuansu/simctg)
+
+#### A Kernelised Stein Statistic for Assessing Implicit Generative Models
+
+- 论文链接：[https://openreview.net/pdf/0144628873e516da9e2fda02cc7d3f7f70920607.pdf](https://openreview.net/pdf/0144628873e516da9e2fda02cc7d3f7f70920607.pdf)
+- 代码链接：[https://github.com/wenkaixl/npksd](https://github.com/wenkaixl/npksd)
+
+#### Non-Markovian Reward Modelling from Trajectory Labels via Interpretable Multiple Instance Learning
+
+- 论文链接：[https://openreview.net/pdf/63dac30f3ad13ab7d6e1dd5eef7feb74b947ed45.pdf](https://openreview.net/pdf/63dac30f3ad13ab7d6e1dd5eef7feb74b947ed45.pdf)
+- 代码链接：[https://github.com/jaearly/mil-for-non-markovian-reward-modelling](https://github.com/jaearly/mil-for-non-markovian-reward-modelling)
+
+#### TANGO: Text-driven Photorealistic and Robust 3D Stylization via Lighting Decomposition
+
+- 论文链接：[https://openreview.net/pdf/bdf25dcdaec2b420c71a3c5172e293d2f492476e.pdf](https://openreview.net/pdf/bdf25dcdaec2b420c71a3c5172e293d2f492476e.pdf)
+- 代码链接：[https://github.com/Gorilla-Lab-SCUT/tango](https://github.com/Gorilla-Lab-SCUT/tango)
+
+#### InsPro: Propagating Instance Query and Proposal for Online Video Instance Segmentation
+
+- 论文链接：[https://openreview.net/pdf/eca2c338adf344ae5f769a7141236faafa479cc4.pdf](https://openreview.net/pdf/eca2c338adf344ae5f769a7141236faafa479cc4.pdf)
+- 代码链接：[https://github.com/hf1995/InsPro](https://github.com/hf1995/InsPro)
+
+#### LasUIE: Unifying Information Extraction with Latent Adaptive Structure-aware Generative Language Model
+
+- 论文链接：[https://openreview.net/pdf/b351fd6bca07667256deb21119bfe6fa900af33c.pdf](https://openreview.net/pdf/b351fd6bca07667256deb21119bfe6fa900af33c.pdf)
+- 代码链接：[https://github.com/chocowu/lasuie](https://github.com/chocowu/lasuie)
+
+#### CATER: Intellectual Property Protection on Text Generation APIs via Conditional Watermarks
+
+- 论文链接：[https://openreview.net/pdf/dfa9e67a8d8545bcc873a6c60eafd91658f05339.pdf](https://openreview.net/pdf/dfa9e67a8d8545bcc873a6c60eafd91658f05339.pdf)
+- 代码链接：[https://github.com/xlhex/cater_neurips](https://github.com/xlhex/cater_neurips)
+
+#### Giga-scale Kernel Matrix-Vector Multiplication on GPU
+
+- 论文链接：[https://openreview.net/pdf/891675b3f9952bb15545c544485779977d10857b.pdf](https://openreview.net/pdf/891675b3f9952bb15545c544485779977d10857b.pdf)
+- 代码链接：[https://github.com/MrHuff/F3M](https://github.com/MrHuff/F3M)
+
+#### VER: Scaling On-Policy RL Leads to the Emergence of Navigation in Embodied Rearrangement
+
+- 论文链接：[https://openreview.net/pdf/a862f64be908ad0776b9a2ae1e193b44e8502ebb.pdf](https://openreview.net/pdf/a862f64be908ad0776b9a2ae1e193b44e8502ebb.pdf)
+- 代码链接：[https://github.com/facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab)
+
+#### Weak-shot Semantic Segmentation via Dual Similarity Transfer
+
+- 论文链接：[https://openreview.net/pdf/3bdee2b72639b3da123289c207d1c2ccc8760384.pdf](https://openreview.net/pdf/3bdee2b72639b3da123289c207d1c2ccc8760384.pdf)
+- 代码链接：[https://github.com/bcmi/simformer-weak-shot-semantic-segmentation](https://github.com/bcmi/simformer-weak-shot-semantic-segmentation)
+
+#### Back Razor: Memory-Efficient Transfer Learning by Self-Sparsified Backpropogation
+
+- 论文链接：[https://openreview.net/pdf/ec48df1549921c11e9d897eb05414548fa9b9595.pdf](https://openreview.net/pdf/ec48df1549921c11e9d897eb05414548fa9b9595.pdf)
+- 代码链接：[https://github.com/VITA-Group/BackRazor_Neurips22](https://github.com/VITA-Group/BackRazor_Neurips22)
+
+#### DreamShard: Generalizable Embedding Table Placement for Recommender Systems
+
+- 论文链接：[https://openreview.net/pdf/8e35a317909127c09166a4f096607faceb3a4022.pdf](https://openreview.net/pdf/8e35a317909127c09166a4f096607faceb3a4022.pdf)
+- 代码链接：[https://github.com/daochenzha/dreamshard](https://github.com/daochenzha/dreamshard)
+
+#### Does Self-supervised Learning Really Improve Reinforcement Learning from Pixels?
+
+- 论文链接：[https://openreview.net/pdf/3ff0d09118b30b9a6cfbc67ee36d174dc529b1b6.pdf](https://openreview.net/pdf/3ff0d09118b30b9a6cfbc67ee36d174dc529b1b6.pdf)
+- 代码链接：[https://github.com/LostXine/elo-sac](https://github.com/LostXine/elo-sac)
+
+#### MinVIS: A Minimal Video Instance Segmentation Framework without Video-based Training
+
+- 论文链接：[https://openreview.net/pdf/03c38678baa19e3ec553b0547d64285f82527f4b.pdf](https://openreview.net/pdf/03c38678baa19e3ec553b0547d64285f82527f4b.pdf)
+- 代码链接：[https://github.com/nvlabs/minvis](https://github.com/nvlabs/minvis)
+
+#### SegViT: Semantic Segmentation with Plain Vision Transformers
+
+- 论文链接：[https://openreview.net/pdf/a9a0397ee518f27a02ce415360fe2e7c628e30e0.pdf](https://openreview.net/pdf/a9a0397ee518f27a02ce415360fe2e7c628e30e0.pdf)
+- 代码链接：[https://github.com/zbwxp/SegVit](https://github.com/zbwxp/SegVit)
+
+#### VITA: Video Instance Segmentation via Object Token Association
+
+- 论文链接：[https://openreview.net/pdf/7d92464d9b22f3438efbcd790ee5c573465a13f5.pdf](https://openreview.net/pdf/7d92464d9b22f3438efbcd790ee5c573465a13f5.pdf)
+- 代码链接：[https://github.com/sukjunhwang/vita](https://github.com/sukjunhwang/vita)
+
+#### VCT: A Video Compression Transformer
+
+- 论文链接：[https://openreview.net/pdf/70c7cb07f7bd4ab8f9c1d4f06548dd5bbebba6a6.pdf](https://openreview.net/pdf/70c7cb07f7bd4ab8f9c1d4f06548dd5bbebba6a6.pdf)
+- 代码链接：[https://github.com/google-research/google-research/tree/master/vct](https://github.com/google-research/google-research/tree/master/vct)
+
+#### What I Cannot Predict, I Do Not Understand: A Human-Centered Evaluation Framework for Explainability Methods
+
+- 论文链接：[https://openreview.net/pdf/dd7f184a7695b9ca7309c036b6db354df3a8a4d9.pdf](https://openreview.net/pdf/dd7f184a7695b9ca7309c036b6db354df3a8a4d9.pdf)
+- 代码链接：[https://github.com/serre-lab/meta-predictor](https://github.com/serre-lab/meta-predictor)
+
+#### Joint Entropy Search for Multi-Objective Bayesian Optimization
+
+- 论文链接：[https://openreview.net/pdf/a13ce4dce532ce937496a0f5eb36d8fbb0b9802a.pdf](https://openreview.net/pdf/a13ce4dce532ce937496a0f5eb36d8fbb0b9802a.pdf)
+- 代码链接：[https://github.com/benmltu/jes](https://github.com/benmltu/jes)
+
+#### Improved Convergence Rate of Stochastic Gradient Langevin Dynamics with Variance Reduction and its Application to Optimization
+
+- 论文链接：[https://openreview.net/pdf/b034df8f9b8f806b935ce8d1639833cd3a7afb51.pdf](https://openreview.net/pdf/b034df8f9b8f806b935ce8d1639833cd3a7afb51.pdf)
+- 代码链接：[https://github.com/yuri-k111/neurips2022_code](https://github.com/yuri-k111/neurips2022_code)
+
+#### RankFeat: Rank-1 Feature Removal for Out-of-distribution Detection
+
+- 论文链接：[https://openreview.net/pdf/db6c38314fd35de27005bcbd235b315e04f19010.pdf](https://openreview.net/pdf/db6c38314fd35de27005bcbd235b315e04f19010.pdf)
+- 代码链接：[https://github.com/kingjamessong/rankfeat](https://github.com/kingjamessong/rankfeat)
+
+#### Explainable Reinforcement Learning via Model Transforms
+
+- 论文链接：[https://openreview.net/pdf/9d2edb795c06edabb6b5acacf3fc6caf1e5db7b1.pdf](https://openreview.net/pdf/9d2edb795c06edabb6b5acacf3fc6caf1e5db7b1.pdf)
+- 代码链接：[https://github.com/sarah-keren/rlpe](https://github.com/sarah-keren/rlpe)
+
+#### Efficient learning of nonlinear prediction models with time-series privileged information
+
+- 论文链接：[https://openreview.net/pdf/c7ae7e54f07d3acd71a3ac45549f515de45e060a.pdf](https://openreview.net/pdf/c7ae7e54f07d3acd71a3ac45549f515de45e060a.pdf)
+- 代码链接：[https://github.com/healthy-ai/glupts](https://github.com/healthy-ai/glupts)
+
+#### Exploring Example Influence in Continual Learning
+
+- 论文链接：[https://openreview.net/pdf/e9a7f7f68d8d5bff2e4a3abe59f72e36cf0ff5c2.pdf](https://openreview.net/pdf/e9a7f7f68d8d5bff2e4a3abe59f72e36cf0ff5c2.pdf)
+- 代码链接：[https://github.com/sssunqing/example_influence_cl](https://github.com/sssunqing/example_influence_cl)
+
+#### Behavior Transformers: Cloning $k$ modes with one stone
+
+- 论文链接：[https://openreview.net/pdf/c7f61a5ca744963cc3aeb764ce2f3460cbfa11fd.pdf](https://openreview.net/pdf/c7f61a5ca744963cc3aeb764ce2f3460cbfa11fd.pdf)
+- 代码链接：[https://github.com/notmahi/bet](https://github.com/notmahi/bet)
+
+#### Optimistic Curiosity Exploration and Conservative Exploitation with Linear Reward Shaping
+
+- 论文链接：[https://openreview.net/pdf/62e21eea735d007cf707e18137b671d485d26987.pdf](https://openreview.net/pdf/62e21eea735d007cf707e18137b671d485d26987.pdf)
+- 代码链接：[https://github.com/holarissun/rewardshifting](https://github.com/holarissun/rewardshifting)
+
+#### Towards Robust Blind Face Restoration with Codebook Lookup Transformer
+
+- 论文链接：[https://openreview.net/pdf/9a68b0773c54a8a5bb4a6a98be390e73b0dd624e.pdf](https://openreview.net/pdf/9a68b0773c54a8a5bb4a6a98be390e73b0dd624e.pdf)
+- 代码链接：[https://github.com/sczhou/codeformer](https://github.com/sczhou/codeformer)
+
+#### Whitening Convergence Rate of Coupling-based Normalizing Flows
+
+- 论文链接：[https://openreview.net/pdf/f6e37542f761ad5926f38a441972459fac644918.pdf](https://openreview.net/pdf/f6e37542f761ad5926f38a441972459fac644918.pdf)
+- 代码链接：[https://github.com/vislearn/Coupling-Flow-Bound](https://github.com/vislearn/Coupling-Flow-Bound)
+
+#### Towards Efficient 3D Object Detection with Knowledge Distillation
+
+- 论文链接：[https://openreview.net/pdf/e134425a5f4ce736bd9d6b2f77b8e7386d9ea818.pdf](https://openreview.net/pdf/e134425a5f4ce736bd9d6b2f77b8e7386d9ea818.pdf)
+- 代码链接：[https://github.com/cvmi-lab/sparsekd](https://github.com/cvmi-lab/sparsekd)
+
+#### PolarMix: A General Data Augmentation Technique for LiDAR Point Clouds
+
+- 论文链接：[https://openreview.net/pdf/d9258c7c60f266267ae1ebaf6e71c56f836a6593.pdf](https://openreview.net/pdf/d9258c7c60f266267ae1ebaf6e71c56f836a6593.pdf)
+- 代码链接：[https://github.com/xiaoaoran/polarmix](https://github.com/xiaoaoran/polarmix)
+
+#### End-to-End Learning to Index and Search in Large Output Spaces
+
+- 论文链接：[https://openreview.net/pdf/69ca3e30ed3d938dbb241e96b76c717b38a0fdd2.pdf](https://openreview.net/pdf/69ca3e30ed3d938dbb241e96b76c717b38a0fdd2.pdf)
+- 代码链接：[https://github.com/nilesh2797/ELIAS](https://github.com/nilesh2797/ELIAS)
+
+#### Practical Adversarial Attacks on Spatiotemporal Traffic Forecasting Models
+
+- 论文链接：[https://openreview.net/pdf/f037fa061885ee64423b101ea0c5b077810d34dc.pdf](https://openreview.net/pdf/f037fa061885ee64423b101ea0c5b077810d34dc.pdf)
+- 代码链接：[https://github.com/kdd-hkust/adv-st](https://github.com/kdd-hkust/adv-st)
+
+#### Fine-Grained Semantically Aligned Vision-Language Pre-Training
+
+- 论文链接：[https://openreview.net/pdf/40577ef3f32c387a160faa7a1a3e0698d9c6968e.pdf](https://openreview.net/pdf/40577ef3f32c387a160faa7a1a3e0698d9c6968e.pdf)
+- 代码链接：[https://github.com/yyjmjc/loupe](https://github.com/yyjmjc/loupe)

@@ -5273,3 +5273,127 @@
 - 论文链接：[https://paperswithcode.com/paper/zero-resource-knowledge-grounded-dialogue](https://paperswithcode.com/paper/zero-resource-knowledge-grounded-dialogue)
 - 代码链接：[https://github.com/nlpxucan/ZRKGC](https://github.com/nlpxucan/ZRKGC)
 
+
+## PaperVault 补充
+
+<!-- Source: https://github.com/youngfish42/PaperVault -->
+
+#### Belief Propagation Neural Networks
+
+- 论文链接：[https://papers.nips.cc/paper/2020/hash/07217414eb3fbe24d4e5b6cafb91ca18-Abstract.html](https://papers.nips.cc/paper/2020/hash/07217414eb3fbe24d4e5b6cafb91ca18-Abstract.html)
+- 代码链接：[https://github.com/jkuck/bpnn](https://github.com/jkuck/bpnn)
+
+#### Optimizing Neural Networks via Koopman Operator Theory
+
+- 论文链接：[https://papers.nips.cc/paper/2020/hash/169806bb68ccbf5e6f96ddc60c40a044-Abstract.html](https://papers.nips.cc/paper/2020/hash/169806bb68ccbf5e6f96ddc60c40a044-Abstract.html)
+- 代码链接：[https://github.com/william-redman/Koopman-Neural-Network-Training](https://github.com/william-redman/Koopman-Neural-Network-Training)
+
+#### Input-Aware Dynamic Backdoor Attack
+
+- 论文链接：[https://papers.nips.cc/paper/2020/hash/234e691320c0ad5b45ee3c96d0d7b8f8-Abstract.html](https://papers.nips.cc/paper/2020/hash/234e691320c0ad5b45ee3c96d0d7b8f8-Abstract.html)
+- 代码链接：[https://github.com/VinAIResearch/input-aware-backdoor-attack-release](https://github.com/VinAIResearch/input-aware-backdoor-attack-release)
+
+#### Unsupervised Representation Learning by Invariance Propagation
+
+- 论文链接：[https://papers.nips.cc/paper/2020/hash/23af4b45f1e166141a790d1a3126e77a-Abstract.html](https://papers.nips.cc/paper/2020/hash/23af4b45f1e166141a790d1a3126e77a-Abstract.html)
+- 代码链接：[https://github.com/WangFeng18/InvariancePropagation](https://github.com/WangFeng18/InvariancePropagation)
+
+#### CodeCMR: Cross-Modal Retrieval For Function-Level Binary Source Code Matching
+
+- 论文链接：[https://papers.nips.cc/paper/2020/hash/285f89b802bcb2651801455c86d78f2a-Abstract.html](https://papers.nips.cc/paper/2020/hash/285f89b802bcb2651801455c86d78f2a-Abstract.html)
+- 代码链接：[https://github.com/binaryai/CodeCMR](https://github.com/binaryai/CodeCMR)
+
+#### Learning Representations from Audio-Visual Spatial Alignment
+
+- 论文链接：[https://papers.nips.cc/paper/2020/hash/328e5d4c166bb340b314d457a208dc83-Abstract.html](https://papers.nips.cc/paper/2020/hash/328e5d4c166bb340b314d457a208dc83-Abstract.html)
+- 代码链接：[https://github.com/pedro-morgado/AVSpatialAlignment](https://github.com/pedro-morgado/AVSpatialAlignment)
+
+#### Continual Learning of Control Primitives : Skill Discovery via Reset-Games
+
+- 论文链接：[https://papers.nips.cc/paper/2020/hash/3472ab80b6dff70c54758fd6dfc800c2-Abstract.html](https://papers.nips.cc/paper/2020/hash/3472ab80b6dff70c54758fd6dfc800c2-Abstract.html)
+- 代码链接：[https://github.com/siddharthverma314/clcp-neurips-2020](https://github.com/siddharthverma314/clcp-neurips-2020)
+
+#### Certifying Confidence via Randomized Smoothing
+
+- 论文链接：[https://papers.nips.cc/paper/2020/hash/37aa5dfc44dddd0d19d4311e2c7a0240-Abstract.html](https://papers.nips.cc/paper/2020/hash/37aa5dfc44dddd0d19d4311e2c7a0240-Abstract.html)
+- 代码链接：[https://github.com/aounon/cdf-smoothing](https://github.com/aounon/cdf-smoothing)
+
+#### On Testing of Samplers
+
+- 论文链接：[https://papers.nips.cc/paper/2020/hash/3f1656d9668dffcf8119e3ecff873558-Abstract.html](https://papers.nips.cc/paper/2020/hash/3f1656d9668dffcf8119e3ecff873558-Abstract.html)
+- 代码链接：[https://github.com/meelgroup/barbarik](https://github.com/meelgroup/barbarik)
+
+#### Graph Meta Learning via Local Subgraphs
+
+- 论文链接：[https://papers.nips.cc/paper/2020/hash/412604be30f701b1b1e3124c252065e6-Abstract.html](https://papers.nips.cc/paper/2020/hash/412604be30f701b1b1e3124c252065e6-Abstract.html)
+- 代码链接：[https://github.com/mims-harvard/g-meta](https://github.com/mims-harvard/g-meta)
+
+#### RL Unplugged: A Suite of Benchmarks for Offline Reinforcement Learning
+
+- 论文链接：[https://papers.nips.cc/paper/2020/hash/51200d29d1fc15f5a71c1dab4bb54f7c-Abstract.html](https://papers.nips.cc/paper/2020/hash/51200d29d1fc15f5a71c1dab4bb54f7c-Abstract.html)
+- 代码链接：[https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged](https://github.com/deepmind/deepmind-research/tree/master/rl_unplugged)
+
+#### Posterior Re-calibration for Imbalanced Datasets
+
+- 论文链接：[https://papers.nips.cc/paper/2020/hash/5ca359ab1e9e3b9c478459944a2d9ca5-Abstract.html](https://papers.nips.cc/paper/2020/hash/5ca359ab1e9e3b9c478459944a2d9ca5-Abstract.html)
+- 代码链接：[https://github.com/GT-RIPL/UNO-IC.git](https://github.com/GT-RIPL/UNO-IC.git)
+
+#### Residual Distillation: Towards Portable Deep Neural Networks without Shortcuts
+
+- 论文链接：[https://papers.nips.cc/paper/2020/hash/657b96f0592803e25a4f07166fff289a-Abstract.html](https://papers.nips.cc/paper/2020/hash/657b96f0592803e25a4f07166fff289a-Abstract.html)
+- 代码链接：[https://github.com/leoozy/JointRD_Neurips2020](https://github.com/leoozy/JointRD_Neurips2020)
+
+#### SIRI: Spatial Relation Induced Network For Spatial Description Resolution
+
+- 论文链接：[https://papers.nips.cc/paper/2020/hash/778609db5dc7e1a8315717a9cdd8fd6f-Abstract.html](https://papers.nips.cc/paper/2020/hash/778609db5dc7e1a8315717a9cdd8fd6f-Abstract.html)
+- 代码链接：[https://github.com/wong-puiyiu/siri-sdr](https://github.com/wong-puiyiu/siri-sdr)
+
+#### Instance-based Generalization in Reinforcement Learning
+
+- 论文链接：[https://papers.nips.cc/paper/2020/hash/82674fc29bc0d9895cee346548c2cb5c-Abstract.html](https://papers.nips.cc/paper/2020/hash/82674fc29bc0d9895cee346548c2cb5c-Abstract.html)
+- 代码链接：[https://github.com/MartinBertran/InstanceAgnosticPolicyEnsembles](https://github.com/MartinBertran/InstanceAgnosticPolicyEnsembles)
+
+#### Factorized Neural Processes for Neural Processes: K-Shot Prediction of Neural Responses
+
+- 论文链接：[https://papers.nips.cc/paper/2020/hash/82e9e7a12665240d13d0b928be28f230-Abstract.html](https://papers.nips.cc/paper/2020/hash/82e9e7a12665240d13d0b928be28f230-Abstract.html)
+- 代码链接：[https://github.com/peabody124/fnp_neurips2020](https://github.com/peabody124/fnp_neurips2020)
+
+#### Efficient estimation of neural tuning during naturalistic behavior
+
+- 论文链接：[https://papers.nips.cc/paper/2020/hash/94d2a3c6dd19337f2511cdf8b4bf907e-Abstract.html](https://papers.nips.cc/paper/2020/hash/94d2a3c6dd19337f2511cdf8b4bf907e-Abstract.html)
+- 代码链接：[https://github.com/BalzaniEdoardo/PGAM](https://github.com/BalzaniEdoardo/PGAM)
+
+#### f-GAIL: Learning f-Divergence for Generative Adversarial Imitation Learning
+
+- 论文链接：[https://papers.nips.cc/paper/2020/hash/967990de5b3eac7b87d49a13c6834978-Abstract.html](https://papers.nips.cc/paper/2020/hash/967990de5b3eac7b87d49a13c6834978-Abstract.html)
+- 代码链接：[https://github.com/fGAIL3456/fGAIL](https://github.com/fGAIL3456/fGAIL)
+
+#### Hard Example Generation by Texture Synthesis for Cross-domain Shape Similarity Learning
+
+- 论文链接：[https://papers.nips.cc/paper/2020/hash/a87d27f712df362cd22c7a8ef823e987-Abstract.html](https://papers.nips.cc/paper/2020/hash/a87d27f712df362cd22c7a8ef823e987-Abstract.html)
+- 代码链接：[https://github.com/3D-FRONT-FUTURE/IBSR-texture](https://github.com/3D-FRONT-FUTURE/IBSR-texture)
+
+#### Calibrating CNNs for Lifelong Learning
+
+- 论文链接：[https://papers.nips.cc/paper/2020/hash/b3b43aeeacb258365cc69cdaf42a68af-Abstract.html](https://papers.nips.cc/paper/2020/hash/b3b43aeeacb258365cc69cdaf42a68af-Abstract.html)
+- 代码链接：[https://github.com/pravendra-singh/Calibrating-CNNs-for-Lifelong-Learning](https://github.com/pravendra-singh/Calibrating-CNNs-for-Lifelong-Learning)
+
+#### Parametric Instance Classification for Unsupervised Visual Feature learning
+
+- 论文链接：[https://papers.nips.cc/paper/2020/hash/b427426b8acd2c2e53827970f2c2f526-Abstract.html](https://papers.nips.cc/paper/2020/hash/b427426b8acd2c2e53827970f2c2f526-Abstract.html)
+- 代码链接：[https://github.com/bl0/PIC](https://github.com/bl0/PIC)
+
+#### HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis
+
+- 论文链接：[https://papers.nips.cc/paper/2020/hash/c5d736809766d46260d816d8dbc9eb44-Abstract.html](https://papers.nips.cc/paper/2020/hash/c5d736809766d46260d816d8dbc9eb44-Abstract.html)
+- 代码链接：[https://github.com/jik876/hifi-gan](https://github.com/jik876/hifi-gan)
+
+#### Handling Missing Data with Graph Representation Learning
+
+- 论文链接：[https://papers.nips.cc/paper/2020/hash/dc36f18a9a0a776671d4879cae69b551-Abstract.html](https://papers.nips.cc/paper/2020/hash/dc36f18a9a0a776671d4879cae69b551-Abstract.html)
+- 代码链接：[https://github.com/maxiaoba/GRAPE](https://github.com/maxiaoba/GRAPE)
+
+#### Semialgebraic Optimization for Lipschitz Constants of ReLU Networks
+
+- 论文链接：[https://papers.nips.cc/paper/2020/hash/dea9ddb25cbf2352cf4dec30222a02a5-Abstract.html](https://papers.nips.cc/paper/2020/hash/dea9ddb25cbf2352cf4dec30222a02a5-Abstract.html)
+- 代码链接：[https://github.com/TongCHEN779/CertDNN](https://github.com/TongCHEN779/CertDNN)
