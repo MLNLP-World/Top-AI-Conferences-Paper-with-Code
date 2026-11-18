@@ -922,3 +922,167 @@
 - 代码链接：[https://github.com/chongshengzhang/OracleBone](https://github.com/chongshengzhang/OracleBone)
 
 
+
+## PaperVault 补充
+
+<!-- Source: https://github.com/youngfish42/PaperVault -->
+
+#### A 3D Convolutional Approach to Spectral Object Segmentation in Space and Time
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/69](https://doi.org/10.24963/ijcai.2020/69)
+- 代码链接：[https://github.com/bit-ml/sfseg](https://github.com/bit-ml/sfseg)
+
+#### Inductive Link Prediction for Nodes Having Only Attribute Information
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/168](https://doi.org/10.24963/ijcai.2020/168)
+- 代码链接：[https://github.com/working-yuhao/DEAL](https://github.com/working-yuhao/DEAL)
+
+#### Bilinear Graph Neural Network with Neighbor Interactions
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/202](https://doi.org/10.24963/ijcai.2020/202)
+- 代码链接：[https://github.com/zhuhm1996/bgnn](https://github.com/zhuhm1996/bgnn)
+
+#### Enriching Documents with Compact, Representative, Relevant Knowledge Graphs
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/242](https://doi.org/10.24963/ijcai.2020/242)
+- 代码链接：[https://github.com/nju-websoft/CR2](https://github.com/nju-websoft/CR2)
+
+#### Threshold Treewidth and Hypertree Width
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/263](https://doi.org/10.24963/ijcai.2020/263)
+- 代码链接：[https://github.com/aschidler/tw-sv](https://github.com/aschidler/tw-sv)
+
+#### Explainable Inference on Sequential Data via Memory-Tracking
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/278](https://doi.org/10.24963/ijcai.2020/278)
+- 代码链接：[https://github.com/KRLGroup/explainable-inference-on-sequential-data-via-memory-tracking](https://github.com/KRLGroup/explainable-inference-on-sequential-data-via-memory-tracking)
+
+#### Decorrelated Clustering with Data Selection Bias
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/301](https://doi.org/10.24963/ijcai.2020/301)
+- 代码链接：[https://github.com/googlebaba/IJCAI2020-DCKM](https://github.com/googlebaba/IJCAI2020-DCKM)
+
+#### Soft Threshold Ternary Networks
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/318](https://doi.org/10.24963/ijcai.2020/318)
+- 代码链接：[https://github.com/weixiangxu/sttn](https://github.com/weixiangxu/sttn)
+
+#### Clarinet: A One-step Approach Towards Budget-friendly Unsupervised Domain Adaptation
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/350](https://doi.org/10.24963/ijcai.2020/350)
+- 代码链接：[https://github.com/Yiyang98/BFUDA](https://github.com/Yiyang98/BFUDA)
+
+#### Textual Membership Queries
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/369](https://doi.org/10.24963/ijcai.2020/369)
+- 代码链接：[https://github.com/jonzarecki/textual-membership-queries](https://github.com/jonzarecki/textual-membership-queries)
+
+#### MULTIPOLAR: Multi-Source Policy Aggregation for Transfer Reinforcement Learning between Diverse Environmental Dynamics
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/430](https://doi.org/10.24963/ijcai.2020/430)
+- 代码链接：[https://github.com/Mohammadamin-Barekatain/multipolar](https://github.com/Mohammadamin-Barekatain/multipolar)
+
+#### Split to Be Slim: An Overlooked Redundancy in Vanilla Convolution
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/442](https://doi.org/10.24963/ijcai.2020/442)
+- 代码链接：[https://github.com/qiulinzhang/SPConv.pytorch](https://github.com/qiulinzhang/SPConv.pytorch)
+
+#### Closing the Generalization Gap of Adaptive Gradient Methods in Training Deep Neural Networks
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/452](https://doi.org/10.24963/ijcai.2020/452)
+- 代码链接：[https://github.com/kayuksel/pytorch-adamaio](https://github.com/kayuksel/pytorch-adamaio)
+
+#### A Label Attention Model for ICD Coding from Clinical Text
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/461](https://doi.org/10.24963/ijcai.2020/461)
+- 代码链接：[https://github.com/aehrc/LAAT](https://github.com/aehrc/LAAT)
+
+#### LogiQA: A Challenge Dataset for Machine Reading Comprehension with Logical Reasoning
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/501](https://doi.org/10.24963/ijcai.2020/501)
+- 代码链接：[https://github.com/lgw863/LogiQA-dataset](https://github.com/lgw863/LogiQA-dataset)
+
+#### Unsupervised Domain Adaptation of a Pretrained Cross-Lingual Language Model
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/508](https://doi.org/10.24963/ijcai.2020/508)
+- 代码链接：[https://github.com/lijuntaopku/UFD](https://github.com/lijuntaopku/UFD)
+
+#### Retrieve, Program, Repeat: Complex Knowledge Base Question Answering via Alternate Meta-learning
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/509](https://doi.org/10.24963/ijcai.2020/509)
+- 代码链接：[https://github.com/DevinJake/MARL](https://github.com/DevinJake/MARL)
+
+#### Modeling Voting for System Combination in Machine Translation
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/511](https://doi.org/10.24963/ijcai.2020/511)
+- 代码链接：[https://github.com/THUNLP-MT/Voting4SC](https://github.com/THUNLP-MT/Voting4SC)
+
+#### Unsupervised Multilingual Alignment using Wasserstein Barycenter
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/512](https://doi.org/10.24963/ijcai.2020/512)
+- 代码链接：[https://github.com/alixxxin/multi-lang](https://github.com/alixxxin/multi-lang)
+
+#### Neural Machine Translation with Error Correction
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/538](https://doi.org/10.24963/ijcai.2020/538)
+- 代码链接：[https://github.com/StillKeepTry/ECM-NMT](https://github.com/StillKeepTry/ECM-NMT)
+
+#### Gaussian Embedding of Linked Documents from a Pretrained Semantic Space
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/541](https://doi.org/10.24963/ijcai.2020/541)
+- 代码链接：[https://github.com/AntoineGourru/DNEmbedding](https://github.com/AntoineGourru/DNEmbedding)
+
+#### UniTrans : Unifying Model Transfer and Data Transfer for Cross-Lingual Named Entity Recognition with Unlabeled Data
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/543](https://doi.org/10.24963/ijcai.2020/543)
+- 代码链接：[https://github.com/microsoft/vert-papers/tree/master/papers/UniTrans](https://github.com/microsoft/vert-papers/tree/master/papers/UniTrans)
+
+#### ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/553](https://doi.org/10.24963/ijcai.2020/553)
+- 代码链接：[https://github.com/PaddlePaddle/ERNIE/ernie-gen](https://github.com/PaddlePaddle/ERNIE/ernie-gen)
+
+#### TransOMCS: From Linguistic Graphs to Commonsense Knowledge
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/554](https://doi.org/10.24963/ijcai.2020/554)
+- 代码链接：[https://github.com/HKUST-KnowComp/TransOMCS](https://github.com/HKUST-KnowComp/TransOMCS)
+
+#### Generalized Zero-Shot Text Classification for ICD Coding
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/556](https://doi.org/10.24963/ijcai.2020/556)
+- 代码链接：[https://github.com/csong27/gzsl_text](https://github.com/csong27/gzsl_text)
+
+#### A Relation-Specific Attention Network for Joint Entity and Relation Extraction
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/561](https://doi.org/10.24963/ijcai.2020/561)
+- 代码链接：[https://github.com/Anery/RSAN](https://github.com/Anery/RSAN)
+
+#### DualSMC: Tunneling Differentiable Filtering and Planning under Continuous POMDPs
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/579](https://doi.org/10.24963/ijcai.2020/579)
+- 代码链接：[https://github.com/Cranial-XIX/DualSMC](https://github.com/Cranial-XIX/DualSMC)
+
+#### Disentangled Variational Autoencoder based Multi-Label Classification with Covariance-Aware Multivariate Probit Model
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/595](https://doi.org/10.24963/ijcai.2020/595)
+- 代码链接：[https://github.com/JunwenBai/MPVAE](https://github.com/JunwenBai/MPVAE)
+
+#### Deep Learning for Community Detection: Progress, Challenges and Opportunities
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/693](https://doi.org/10.24963/ijcai.2020/693)
+- 代码链接：[https://github.com/FanzhenLiu/Awesome-Deep-Community-Detection](https://github.com/FanzhenLiu/Awesome-Deep-Community-Detection)
+
+#### DeepVentilation: Learning to Predict Physical Effort from Breathing
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/753](https://doi.org/10.24963/ijcai.2020/753)
+- 代码链接：[https://github.com/simula-vias/DeepVentilation](https://github.com/simula-vias/DeepVentilation)
+
+#### Yolo4Apnea: Real-time Detection of Obstructive Sleep Apnea
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/754](https://doi.org/10.24963/ijcai.2020/754)
+- 代码链接：[https://github.com/simula-vias/Yolo4Apnea](https://github.com/simula-vias/Yolo4Apnea)
+
+#### Keep It Real: a Window to Real Reality in Virtual Reality
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2020/766](https://doi.org/10.24963/ijcai.2020/766)
+- 代码链接：[https://github.com/doerlbh/V2R](https://github.com/doerlbh/V2R)

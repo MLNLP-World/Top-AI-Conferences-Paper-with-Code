@@ -174,3 +174,577 @@
 | Measuring the Occupational Impact of AI: Tasks, Cognitive Abilities and AI Benchmarks (Extended Abstract)* | [链接](https://www.ijcai.org/proceedings/2022/809) | [https://github.com/nandomp/AIlabour](https://github.com/nandomp/AIlabour) |
 | Adaptive Artificial Intelligence Scheduling Methods for Large-Scale, Stochastic, Industrial Applications | [链接](https://www.ijcai.org/proceedings/2022/841) | [https://github.com/google/or-tools/issues](https://github.com/google/or-tools/issues) |
 | AutoVideo: An Automated Video Action Recognition System | [链接](https://www.ijcai.org/proceedings/2022/862) | [https://github.com/datamllab/autovideo](https://github.com/datamllab/autovideo) |
+
+## PaperVault 补充
+
+<!-- Source: https://github.com/youngfish42/PaperVault -->
+
+#### Anytime Capacity Expansion in Medical Residency Match by Monte Carlo Tree Search
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/1](https://doi.org/10.24963/ijcai.2022/1)
+- 代码链接：[https://github.com/cyberagentailab/uct_capacity_expansion](https://github.com/cyberagentailab/uct_capacity_expansion)
+
+#### Socially Intelligent Genetic Agents for the Emergence of Explicit Norms
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/2](https://doi.org/10.24963/ijcai.2022/2)
+- 代码链接：[https://github.com/niravajmeri/siga-ijcai2022](https://github.com/niravajmeri/siga-ijcai2022)
+
+#### Envy-Free and Pareto-Optimal Allocations for Agents with Asymmetric Random Valuations
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/8](https://doi.org/10.24963/ijcai.2022/8)
+- 代码链接：[https://github.com/pgoelz/asymmetric](https://github.com/pgoelz/asymmetric)
+
+#### Let’s Agree to Agree: Targeting Consensus for Incomplete Preferences through Majority Dynamics
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/18](https://doi.org/10.24963/ijcai.2022/18)
+- 代码链接：[https://github.com/simon-rey/let-s-agree-to-agree-majority-dynamics-for-incomplete-preferences](https://github.com/simon-rey/let-s-agree-to-agree-majority-dynamics-for-incomplete-preferences)
+
+#### I Will Have Order! Optimizing Orders for Fair Reviewer Assignment
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/63](https://doi.org/10.24963/ijcai.2022/63)
+- 代码链接：[https://github.com/justinpayan/ReviewerAssignmentCode](https://github.com/justinpayan/ReviewerAssignmentCode)
+
+#### Maxmin Participatory Budgeting
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/70](https://doi.org/10.24963/ijcai.2022/70)
+- 代码链接：[https://github.com/participatory-budgeting/maxmin_2022](https://github.com/participatory-budgeting/maxmin_2022)
+
+#### Individual Fairness Guarantees for Neural Networks
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/92](https://doi.org/10.24963/ijcai.2022/92)
+- 代码链接：[https://github.com/eliasbenussi/nn-cert-individual-fairness](https://github.com/eliasbenussi/nn-cert-individual-fairness)
+
+#### Fairness without the Sensitive Attribute via Causal Variational Autoencoder
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/98](https://doi.org/10.24963/ijcai.2022/98)
+- 代码链接：[https://github.com/fairml-research/SRCVAE](https://github.com/fairml-research/SRCVAE)
+
+#### Shielding Federated Learning: Robust Aggregation with Adaptive Client Selection
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/106](https://doi.org/10.24963/ijcai.2022/106)
+- 代码链接：[https://github.com/hustweiwan/mab-rfl](https://github.com/hustweiwan/mab-rfl)
+
+#### D-DPCC: Deep Dynamic Point Cloud Compression via 3D Motion Prediction
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/126](https://doi.org/10.24963/ijcai.2022/126)
+- 代码链接：[https://github.com/ttlzfhy/D-DPCC](https://github.com/ttlzfhy/D-DPCC)
+
+#### Domain Generalization through the Lens of Angular Invariance
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/139](https://doi.org/10.24963/ijcai.2022/139)
+- 代码链接：[https://github.com/jinyujie99/aidgn](https://github.com/jinyujie99/aidgn)
+
+#### What is Right for Me is Not Yet Right for You: A Dataset for Grounding Relative Directions via Multi-Task Learning
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/145](https://doi.org/10.24963/ijcai.2022/145)
+- 代码链接：[https://github.com/knowledgetechnologyuhh/grid-3d](https://github.com/knowledgetechnologyuhh/grid-3d)
+
+#### Multilevel Hierarchical Network with Multiscale Sampling for Video Question Answering
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/178](https://doi.org/10.24963/ijcai.2022/178)
+- 代码链接：[https://github.com/Mvrjustid/MHN-IJCAI22](https://github.com/Mvrjustid/MHN-IJCAI22)
+
+#### Video Frame Interpolation Based on Deformable Kernel Region
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/188](https://doi.org/10.24963/ijcai.2022/188)
+- 代码链接：[https://github.com/luka0714/VFIDKR](https://github.com/luka0714/VFIDKR)
+
+#### Spatiality-guided Transformer for 3D Dense Captioning on Point Clouds
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/194](https://doi.org/10.24963/ijcai.2022/194)
+- 代码链接：[https://github.com/heng-hw/spacap3d](https://github.com/heng-hw/spacap3d)
+
+#### Eliminating Backdoor Triggers for Deep Neural Networks Using Attention Relation Graph Distillation
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/206](https://doi.org/10.24963/ijcai.2022/206)
+- 代码链接：[https://github.com/BililiCode/ARGD](https://github.com/BililiCode/ARGD)
+
+#### Learning Prototype via Placeholder for Zero-shot Recognition
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/217](https://doi.org/10.24963/ijcai.2022/217)
+- 代码链接：[https://github.com/zaiquanyang/lpl](https://github.com/zaiquanyang/lpl)
+
+#### Few-Shot Adaptation of Pre-Trained Networks for Domain Shift
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/232](https://doi.org/10.24963/ijcai.2022/232)
+- 代码链接：[https://github.com/zwenyu/lccs](https://github.com/zwenyu/lccs)
+
+#### Domain Adaptation via Maximizing Surrogate Mutual Information
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/237](https://doi.org/10.24963/ijcai.2022/237)
+- 代码链接：[https://github.com/zhao-ht/sida](https://github.com/zhao-ht/sida)
+
+#### Test-time Fourier Style Calibration for Domain Generalization
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/240](https://doi.org/10.24963/ijcai.2022/240)
+- 代码链接：[https://github.com/RoyalVane/TAF-Cal](https://github.com/RoyalVane/TAF-Cal)
+
+#### Using Constraint Programming and Graph Representation Learning for Generating Interpretable Cloud Security Policies
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/257](https://doi.org/10.24963/ijcai.2022/257)
+- 代码链接：[https://github.com/mikhail247/iamax](https://github.com/mikhail247/iamax)
+
+#### Meta-Learning Based Knowledge Extrapolation for Knowledge Graphs in the Federated Setting
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/273](https://doi.org/10.24963/ijcai.2022/273)
+- 代码链接：[https://github.com/zjukg/maker](https://github.com/zjukg/maker)
+
+#### Constrained Adaptive Projection with Pretrained Features for Anomaly Detection
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/286](https://doi.org/10.24963/ijcai.2022/286)
+- 代码链接：[https://github.com/tabguigui/cap](https://github.com/tabguigui/cap)
+
+#### CGMN: A Contrastive Graph Matching Network for Self-Supervised Graph Similarity Learning
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/292](https://doi.org/10.24963/ijcai.2022/292)
+- 代码链接：[https://github.com/jindi-tju/CGMN](https://github.com/jindi-tju/CGMN)
+
+#### HashNWalk: Hash and Random Walk Based Anomaly Detection in Hyperedge Streams
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/296](https://doi.org/10.24963/ijcai.2022/296)
+- 代码链接：[https://github.com/geonlee0325/hashnwalk](https://github.com/geonlee0325/hashnwalk)
+
+#### Community Question Answering Entity Linking via Leveraging Auxiliary Data
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/298](https://doi.org/10.24963/ijcai.2022/298)
+- 代码链接：[https://github.com/yhleeee/cqa_entitylinking](https://github.com/yhleeee/cqa_entitylinking)
+
+#### Raising the Bar in Graph-level Anomaly Detection
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/305](https://doi.org/10.24963/ijcai.2022/305)
+- 代码链接：[https://github.com/boschresearch/graphlevel-anomalydetection](https://github.com/boschresearch/graphlevel-anomalydetection)
+
+#### Towards Resolving Propensity Contradiction in Offline Recommender Learning
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/307](https://doi.org/10.24963/ijcai.2022/307)
+- 代码链接：[https://github.com/usaito/ijcai2022-adversarial-mf](https://github.com/usaito/ijcai2022-adversarial-mf)
+
+#### Long-term Spatio-Temporal Forecasting via Dynamic Multiple-Graph Attention
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/309](https://doi.org/10.24963/ijcai.2022/309)
+- 代码链接：[https://github.com/swsamleo/mlstgcn](https://github.com/swsamleo/mlstgcn)
+
+#### Beyond Homophily: Structure-aware Path Aggregation Graph Neural Network
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/310](https://doi.org/10.24963/ijcai.2022/310)
+- 代码链接：[https://github.com/zjunet/PathNet](https://github.com/zjunet/PathNet)
+
+#### Anomaly Detection by Leveraging Incomplete Anomalous Knowledge with Anomaly-Aware Bidirectional GANs
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/313](https://doi.org/10.24963/ijcai.2022/313)
+- 代码链接：[https://github.com/tbw162/aa-bigan](https://github.com/tbw162/aa-bigan)
+
+#### Augmenting Knowledge Graphs for Better Link Prediction
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/316](https://doi.org/10.24963/ijcai.2022/316)
+- 代码链接：[https://github.com/otamio/kga](https://github.com/otamio/kga)
+
+#### FAITH: Few-Shot Graph Classification with Hierarchical Task Graphs
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/317](https://doi.org/10.24963/ijcai.2022/317)
+- 代码链接：[https://github.com/songw-sw/faith](https://github.com/songw-sw/faith)
+
+#### Language Models as Knowledge Embeddings
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/318](https://doi.org/10.24963/ijcai.2022/318)
+- 代码链接：[https://github.com/neph0s/lmke](https://github.com/neph0s/lmke)
+
+#### FedCG: Leverage Conditional GAN for Protecting Privacy and Maintaining Competitive Performance in Federated Learning
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/324](https://doi.org/10.24963/ijcai.2022/324)
+- 代码链接：[https://github.com/FederatedAI/research/tree/main/publications/FedCG](https://github.com/FederatedAI/research/tree/main/publications/FedCG)
+
+#### Subgraph Neighboring Relations Infomax for Inductive Link Prediction on Knowledge Graphs
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/325](https://doi.org/10.24963/ijcai.2022/325)
+- 代码链接：[https://github.com/Tebmer/SNRI](https://github.com/Tebmer/SNRI)
+
+#### GOCPT: Generalized Online Canonical Polyadic Tensor Factorization and Completion
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/326](https://doi.org/10.24963/ijcai.2022/326)
+- 代码链接：[https://github.com/ycq091044/gocpt](https://github.com/ycq091044/gocpt)
+
+#### Bridging Differential Privacy and Byzantine-Robustness via Model Aggregation
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/337](https://doi.org/10.24963/ijcai.2022/337)
+- 代码链接：[https://github.com/oyhah/dp-rsa](https://github.com/oyhah/dp-rsa)
+
+#### Spiking Graph Convolutional Networks
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/338](https://doi.org/10.24963/ijcai.2022/338)
+- 代码链接：[https://github.com/zulunzhu/spikinggcn](https://github.com/zulunzhu/spikinggcn)
+
+#### Multi-Level Firing with Spiking DS-ResNet: Enabling Better and Deeper Directly-Trained Spiking Neural Networks
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/343](https://doi.org/10.24963/ijcai.2022/343)
+- 代码链接：[https://github.com/langfengq/mlf-dsresnet](https://github.com/langfengq/mlf-dsresnet)
+
+#### Forming Effective Human-AI Teams: Building Machine Learning Models that Complement the Capabilities of Multiple Experts
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/344](https://doi.org/10.24963/ijcai.2022/344)
+- 代码链接：[https://github.com/ptrckhmmr/human-ai-teams](https://github.com/ptrckhmmr/human-ai-teams)
+
+#### Simple and Effective Relation-based Embedding Propagation for Knowledge Representation Learning
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/382](https://doi.org/10.24963/ijcai.2022/382)
+- 代码链接：[https://github.com/PaddlePaddle/PGL](https://github.com/PaddlePaddle/PGL)
+
+#### Human Parity on CommonsenseQA: Augmenting Self-Attention with External Attention
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/383](https://doi.org/10.24963/ijcai.2022/383)
+- 代码链接：[https://github.com/microsoft/kear](https://github.com/microsoft/kear)
+
+#### Learning Label Initialization for Time-Dependent Harmonic Extension.
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/387](https://doi.org/10.24963/ijcai.2022/387)
+- 代码链接：[https://github.com/agitoz/learning-label-initialization](https://github.com/agitoz/learning-label-initialization)
+
+#### Can We Find Neurons that Cause Unrealistic Images in Deep Generative Networks?
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/400](https://doi.org/10.24963/ijcai.2022/400)
+- 代码链接：[https://github.com/hichoe95/Artifact-Detection-and-Sequential-Ablation](https://github.com/hichoe95/Artifact-Detection-and-Sequential-Ablation)
+
+#### Geometric Transformer for End-to-End Molecule Properties Prediction
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/401](https://doi.org/10.24963/ijcai.2022/401)
+- 代码链接：[https://github.com/yoniLc/GeometricTransformerMolecule](https://github.com/yoniLc/GeometricTransformerMolecule)
+
+#### Multiband VAE: Latent Space Alignment for Knowledge Consolidation in Continual Learning
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/402](https://doi.org/10.24963/ijcai.2022/402)
+- 代码链接：[https://github.com/KamilDeja/multiband_vae](https://github.com/KamilDeja/multiband_vae)
+
+#### Coherent Probabilistic Aggregate Queries on Long-horizon Forecasts
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/404](https://doi.org/10.24963/ijcai.2022/404)
+- 代码链接：[https://github.com/pratham16cse/aggforecaster](https://github.com/pratham16cse/aggforecaster)
+
+#### Comparison Knowledge Translation for Generalizable Image Classification
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/411](https://doi.org/10.24963/ijcai.2022/411)
+- 代码链接：[https://github.com/horrible-dong/CCT-Net](https://github.com/horrible-dong/CCT-Net)
+
+#### DeepExtrema: A Deep Learning Approach for Forecasting Block Maxima in Time Series Data
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/413](https://doi.org/10.24963/ijcai.2022/413)
+- 代码链接：[https://github.com/galib19/deepextrema-ijcai22-](https://github.com/galib19/deepextrema-ijcai22-)
+
+#### To Trust or Not To Trust Prediction Scores for Membership Inference Attacks
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/422](https://doi.org/10.24963/ijcai.2022/422)
+- 代码链接：[https://github.com/ml-research/to-trust-or-not-to-trust-prediction-scores-for-membership-inference-attacks](https://github.com/ml-research/to-trust-or-not-to-trust-prediction-scores-for-membership-inference-attacks)
+
+#### Leveraging Class Abstraction for Commonsense Reinforcement Learning via Residual Policy Gradient Methods
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/423](https://doi.org/10.24963/ijcai.2022/423)
+- 代码链接：[https://github.com/NikeHop/CSRL](https://github.com/NikeHop/CSRL)
+
+#### Type-aware Embeddings for Multi-Hop Reasoning over Knowledge Graphs
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/427](https://doi.org/10.24963/ijcai.2022/427)
+- 代码链接：[https://github.com/zhiweihu1103/qe-temp](https://github.com/zhiweihu1103/qe-temp)
+
+#### Thompson Sampling for Bandit Learning in Matching Markets
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/439](https://doi.org/10.24963/ijcai.2022/439)
+- 代码链接：[https://github.com/fangkongx/tsformatchingmarkets](https://github.com/fangkongx/tsformatchingmarkets)
+
+#### Ridgeless Regression with Random Features
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/445](https://doi.org/10.24963/ijcai.2022/445)
+- 代码链接：[https://github.com/superlj666/ridgeless-regression-with-random-features](https://github.com/superlj666/ridgeless-regression-with-random-features)
+
+#### Declaration-based Prompt Tuning for Visual Question Answering
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/453](https://doi.org/10.24963/ijcai.2022/453)
+- 代码链接：[https://github.com/cciiplab/dpt](https://github.com/cciiplab/dpt)
+
+#### Towards Robust Unsupervised Disentanglement of Sequential Data — A Case Study Using Music Audio
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/458](https://doi.org/10.24963/ijcai.2022/458)
+- 代码链接：[https://github.com/yjlolo/dseq-vae](https://github.com/yjlolo/dseq-vae)
+
+#### Composing Neural Learning and Symbolic Reasoning with an Application to Visual Discrimination
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/466](https://doi.org/10.24963/ijcai.2022/466)
+- 代码链接：[https://github.com/muraliadithya/vdp](https://github.com/muraliadithya/vdp)
+
+#### Markov Abstractions for PAC Reinforcement Learning in Non-Markov Decision Processes
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/473](https://doi.org/10.24963/ijcai.2022/473)
+- 代码链接：[https://github.com/whitemech/markov-abstractions-code-ijcai22](https://github.com/whitemech/markov-abstractions-code-ijcai22)
+
+#### Lexicographic Multi-Objective Reinforcement Learning
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/476](https://doi.org/10.24963/ijcai.2022/476)
+- 代码链接：[https://github.com/lrhammond/lmorl](https://github.com/lrhammond/lmorl)
+
+#### Stochastic Coherence Over Attention Trajectory For Continuous Learning In Video Streams
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/483](https://doi.org/10.24963/ijcai.2022/483)
+- 代码链接：[https://github.com/sailab-code/cl_stochastic_coherence](https://github.com/sailab-code/cl_stochastic_coherence)
+
+#### Unsupervised Misaligned Infrared and Visible Image Fusion via Cross-Modality Image Generation and Registration
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/487](https://doi.org/10.24963/ijcai.2022/487)
+- 代码链接：[https://github.com/wdhudiekou/umf-cmgr](https://github.com/wdhudiekou/umf-cmgr)
+
+#### A Unified Meta-Learning Framework for Dynamic Transfer Learning
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/496](https://doi.org/10.24963/ijcai.2022/496)
+- 代码链接：[https://github.com/jwu4sml/l2e](https://github.com/jwu4sml/l2e)
+
+#### A Simple yet Effective Method for Graph Classification
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/497](https://doi.org/10.24963/ijcai.2022/497)
+- 代码链接：[https://github.com/wu-junran/hierarchicalreporting](https://github.com/wu-junran/hierarchicalreporting)
+
+#### Neuro-Symbolic Verification of Deep Neural Networks
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/503](https://doi.org/10.24963/ijcai.2022/503)
+- 代码链接：[https://github.com/lebronx/neuro-symbolic-verification](https://github.com/lebronx/neuro-symbolic-verification)
+
+#### Robust Weight Perturbation for Adversarial Training
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/512](https://doi.org/10.24963/ijcai.2022/512)
+- 代码链接：[https://github.com/chaojianyu/robust-weight-perturbation](https://github.com/chaojianyu/robust-weight-perturbation)
+
+#### Don’t Touch What Matters: Task-Aware Lipschitz Data Augmentation for Visual Reinforcement Learning
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/514](https://doi.org/10.24963/ijcai.2022/514)
+- 代码链接：[https://github.com/gemcollector/TLDA](https://github.com/gemcollector/TLDA)
+
+#### Model-Based Offline Planning with Trajectory Pruning
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/516](https://doi.org/10.24963/ijcai.2022/516)
+- 代码链接：[https://github.com/zhanzxy5/MOPP](https://github.com/zhanzxy5/MOPP)
+
+#### Unsupervised Voice-Face Representation Learning by Cross-Modal Prototype Contrast
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/526](https://doi.org/10.24963/ijcai.2022/526)
+- 代码链接：[https://github.com/cocoxili/cmpc](https://github.com/cocoxili/cmpc)
+
+#### Membership Inference via Backdooring
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/532](https://doi.org/10.24963/ijcai.2022/532)
+- 代码链接：[https://github.com/hongshenghu/membership-inference-via-backdooring](https://github.com/hongshenghu/membership-inference-via-backdooring)
+
+#### Distilling Governing Laws and Source Input for Dynamical Systems from Videos
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/541](https://doi.org/10.24963/ijcai.2022/541)
+- 代码链接：[https://github.com/leleluan/videodiscovery](https://github.com/leleluan/videodiscovery)
+
+#### Monolith to Microservices: Representing Application Software through Heterogeneous Graph Neural Network
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/542](https://doi.org/10.24963/ijcai.2022/542)
+- 代码链接：[https://github.com/Alex-Mathai-98/Monolith-to-Microservices](https://github.com/Alex-Mathai-98/Monolith-to-Microservices)
+
+#### Communicative Subgraph Representation Learning for Multi-Relational Inductive Drug-Gene Interaction Prediction
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/544](https://doi.org/10.24963/ijcai.2022/544)
+- 代码链接：[https://github.com/biomed-ai/cosmig](https://github.com/biomed-ai/cosmig)
+
+#### Offline Vehicle Routing Problem with Online Bookings: A Novel Problem Formulation with Applications to Paratransit
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/546](https://doi.org/10.24963/ijcai.2022/546)
+- 代码链接：[https://github.com/smarttransit-ai/ijcai22](https://github.com/smarttransit-ai/ijcai22)
+
+#### Global Inference with Explicit Syntactic and Discourse Structures for Dialogue-Level Relation Extraction
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/570](https://doi.org/10.24963/ijcai.2022/570)
+- 代码链接：[https://github.com/scofield7419/DiaRE-D2G](https://github.com/scofield7419/DiaRE-D2G)
+
+#### Inheriting the Wisdom of Predecessors: A Multiplex Cascade Framework for Unified Aspect-based Sentiment Analysis
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/572](https://doi.org/10.24963/ijcai.2022/572)
+- 代码链接：[https://github.com/scofield7419/UABSA-SyMux](https://github.com/scofield7419/UABSA-SyMux)
+
+#### Logically Consistent Adversarial Attacks for Soft Theorem Provers
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/573](https://doi.org/10.24963/ijcai.2022/573)
+- 代码链接：[https://github.com/alexgaskell10/lava](https://github.com/alexgaskell10/lava)
+
+#### FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/577](https://doi.org/10.24963/ijcai.2022/577)
+- 代码链接：[https://github.com/Rongjiehuang/FastDiff](https://github.com/Rongjiehuang/FastDiff)
+
+#### Curriculum-Based Self-Training Makes Better Few-Shot Learners for Data-to-Text Generation
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/580](https://doi.org/10.24963/ijcai.2022/580)
+- 代码链接：[https://github.com/kepei1106/cbst](https://github.com/kepei1106/cbst)
+
+#### Neutral Utterances are Also Causes: Enhancing Conversational Causal Emotion Entailment with Social Commonsense Knowledge
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/584](https://doi.org/10.24963/ijcai.2022/584)
+- 代码链接：[https://github.com/leqsnan/kec](https://github.com/leqsnan/kec)
+
+#### Parameter-Efficient Sparsity for Large Language Models Fine-Tuning
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/586](https://doi.org/10.24963/ijcai.2022/586)
+- 代码链接：[https://github.com/alibaba/AliceMind](https://github.com/alibaba/AliceMind)
+
+#### Generating a Structured Summary of Numerous Academic Papers: Dataset and Method
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/591](https://doi.org/10.24963/ijcai.2022/591)
+- 代码链接：[https://github.com/stevenlau6/bigsurvey](https://github.com/stevenlau6/bigsurvey)
+
+#### Searching for Optimal Subword Tokenization in Cross-domain NER
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/595](https://doi.org/10.24963/ijcai.2022/595)
+- 代码链接：[https://github.com/rtmaww/x-piece](https://github.com/rtmaww/x-piece)
+
+#### Variational Learning for Unsupervised Knowledge Grounded Dialogs
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/597](https://doi.org/10.24963/ijcai.2022/597)
+- 代码链接：[https://github.com/mayank31398/VRAG](https://github.com/mayank31398/VRAG)
+
+#### Control Globally, Understand Locally: A Global-to-Local Hierarchical Graph Network for Emotional Support Conversation
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/600](https://doi.org/10.24963/ijcai.2022/600)
+- 代码链接：[https://github.com/pengwei-iie/glhg](https://github.com/pengwei-iie/glhg)
+
+#### BiFSMN: Binary Neural Network for Keyword Spotting
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/603](https://doi.org/10.24963/ijcai.2022/603)
+- 代码链接：[https://github.com/htqin/bifsmn](https://github.com/htqin/bifsmn)
+
+#### Training Naturalized Semantic Parsers with Very Little Data
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/604](https://doi.org/10.24963/ijcai.2022/604)
+- 代码链接：[https://github.com/amazon-research/resource-constrained-naturalized-semantic-parsing](https://github.com/amazon-research/resource-constrained-naturalized-semantic-parsing)
+
+#### On Tracking Dialogue State by Inheriting Slot Values in Mentioned Slot Pools
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/607](https://doi.org/10.24963/ijcai.2022/607)
+- 代码链接：[https://github.com/zjlab-ammi/msp](https://github.com/zjlab-ammi/msp)
+
+#### Unsupervised Context Aware Sentence Representation Pretraining for Multi-lingual Dense Retrieval
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/612](https://doi.org/10.24963/ijcai.2022/612)
+- 代码链接：[https://github.com/wuning0929/ccp_ijcai22](https://github.com/wuning0929/ccp_ijcai22)
+
+#### Propose-and-Refine: A Two-Stage Set Prediction Network for Nested Named Entity Recognition
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/613](https://doi.org/10.24963/ijcai.2022/613)
+- 代码链接：[https://github.com/XiPotatonium/pnr](https://github.com/XiPotatonium/pnr)
+
+#### UM4: Unified Multilingual Multiple Teacher-Student Model for Zero-Resource Neural Machine Translation
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/618](https://doi.org/10.24963/ijcai.2022/618)
+- 代码链接：[https://github.com/YuweiYin/UM4](https://github.com/YuweiYin/UM4)
+
+#### None Class Ranking Loss for Document-Level Relation Extraction
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/630](https://doi.org/10.24963/ijcai.2022/630)
+- 代码链接：[https://github.com/yangzhou12/ncrl](https://github.com/yangzhou12/ncrl)
+
+#### Online Bin Packing with Predictions
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/635](https://doi.org/10.24963/ijcai.2022/635)
+- 代码链接：[https://github.com/shahink84/BinPackingPredictions](https://github.com/shahink84/BinPackingPredictions)
+
+#### Online Planning in POMDPs with Self-Improving Simulators
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/642](https://doi.org/10.24963/ijcai.2022/642)
+- 代码链接：[https://github.com/INFLUENCEorg/POMCP-SIS](https://github.com/INFLUENCEorg/POMCP-SIS)
+
+#### Offline Time-Independent Multi-Agent Path Planning
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/645](https://doi.org/10.24963/ijcai.2022/645)
+- 代码链接：[https://github.com/Kei18/otimapp](https://github.com/Kei18/otimapp)
+
+#### PG3: Policy-Guided Planning for Generalized Policy Generation
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/650](https://doi.org/10.24963/ijcai.2022/650)
+- 代码链接：[https://github.com/ryangpeixu/pg3](https://github.com/ryangpeixu/pg3)
+
+#### A Closed-Loop Perception, Decision-Making and Reasoning Mechanism for Human-Like Navigation
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/654](https://doi.org/10.24963/ijcai.2022/654)
+- 代码链接：[https://github.com/zwq2018/cl_pdr_nav](https://github.com/zwq2018/cl_pdr_nav)
+
+#### Efficient Algorithms for Monotone Non-Submodular Maximization with Partition Matroid Constraint
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/666](https://doi.org/10.24963/ijcai.2022/666)
+- 代码链接：[https://github.com/lannn2410/maxmp](https://github.com/lannn2410/maxmp)
+
+#### Exchangeability-Aware Sum-Product Networks
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/674](https://doi.org/10.24963/ijcai.2022/674)
+- 代码链接：[https://github.com/stefanluedtke/xspnflow](https://github.com/stefanluedtke/xspnflow)
+
+#### Robustness Guarantees for Credal Bayesian Networks via Constraint Relaxation over Probabilistic Circuits
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/677](https://doi.org/10.24963/ijcai.2022/677)
+- 代码链接：[https://github.com/hjalmarwijk/credal-bound](https://github.com/hjalmarwijk/credal-bound)
+
+#### Sound2Synth: Interpreting Sound via FM Synthesizer Parameters Estimation
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/682](https://doi.org/10.24963/ijcai.2022/682)
+- 代码链接：[https://github.com/Sound2Synth/Sound2Synth](https://github.com/Sound2Synth/Sound2Synth)
+
+#### Art Creation with Multi-Conditional StyleGANs
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/684](https://doi.org/10.24963/ijcai.2022/684)
+- 代码链接：[https://github.com/konstantinjdobler/multi-conditional-stylegan](https://github.com/konstantinjdobler/multi-conditional-stylegan)
+
+#### StyleCLIPDraw: Coupling Content and Style in Text-to-Drawing Translation
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/688](https://doi.org/10.24963/ijcai.2022/688)
+- 代码链接：[https://github.com/pschaldenbrand/styleclipdraw](https://github.com/pschaldenbrand/styleclipdraw)
+
+#### A Reliability-aware Distributed Framework to Schedule Residential Charging of Electric Vehicles
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/710](https://doi.org/10.24963/ijcai.2022/710)
+- 代码链接：[https://github.com/rounak-meyur/revs-admm](https://github.com/rounak-meyur/revs-admm)
+
+#### Gigs with Guarantees: Achieving Fair Wage for Food Delivery Workers
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/711](https://doi.org/10.24963/ijcai.2022/711)
+- 代码链接：[https://github.com/idea-iitd/work4food](https://github.com/idea-iitd/work4food)
+
+#### CounterGeDi: A Controllable Approach to Generate Polite, Detoxified and Emotional Counterspeech
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/716](https://doi.org/10.24963/ijcai.2022/716)
+- 代码链接：[https://github.com/hate-alert/countergedi](https://github.com/hate-alert/countergedi)
+
+#### Dynamic Structure Learning through Graph Neural Network for Forecasting Soil Moisture in Precision Agriculture
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/720](https://doi.org/10.24963/ijcai.2022/720)
+- 代码链接：[https://github.com/anoushkavyas/dglr](https://github.com/anoushkavyas/dglr)
+
+#### Ranked Prioritization of Groups in Combinatorial Bandit Allocation
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/723](https://doi.org/10.24963/ijcai.2022/723)
+- 代码链接：[https://github.com/lily-x/rankedCUCB](https://github.com/lily-x/rankedCUCB)
+
+#### Psychiatric Scale Guided Risky Post Screening for Early Detection of Depression
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/725](https://doi.org/10.24963/ijcai.2022/725)
+- 代码链接：[https://github.com/blmoistawinde/scale_early_depress_detect](https://github.com/blmoistawinde/scale_early_depress_detect)
+
+#### A Unified View of Relational Deep Learning for Drug Pair Scoring
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/777](https://doi.org/10.24963/ijcai.2022/777)
+- 代码链接：[https://github.com/astrazeneca/polypharmacy-ddi-synergy-survey](https://github.com/astrazeneca/polypharmacy-ddi-synergy-survey)
+
+#### Detecting and Understanding Harmful Memes: A Survey
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/781](https://doi.org/10.24963/ijcai.2022/781)
+- 代码链接：[https://github.com/firojalam/harmful-memes-detection-resources](https://github.com/firojalam/harmful-memes-detection-resources)
+
+#### Recent Advances and New Frontiers in Spiking Neural Networks
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/790](https://doi.org/10.24963/ijcai.2022/790)
+- 代码链接：[https://github.com/thomasaimondy/CogSNN](https://github.com/thomasaimondy/CogSNN)
+
+#### CARBEN: Composite Adversarial Robustness Benchmark
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/851](https://doi.org/10.24963/ijcai.2022/851)
+- 代码链接：[https://github.com/IBM/composite-adv](https://github.com/IBM/composite-adv)
+
+#### Sign-to-Speech Model for Sign Language Understanding: A Case Study of Nigerian Sign Language
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2022/855](https://doi.org/10.24963/ijcai.2022/855)
+- 代码链接：[https://github.com/stevekola/sign-to-speech-for-sign-language-understanding](https://github.com/stevekola/sign-to-speech-for-sign-language-understanding)
