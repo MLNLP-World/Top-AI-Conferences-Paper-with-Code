@@ -750,3 +750,177 @@
 + 论文链接：[https://aclanthology.org/C18-1330.pdf](https://aclanthology.org/C18-1330.pdf)
 
 + 代码链接：[https://github.com/lancopku/SGM](https://github.com/lancopku/SGM)
+
+## PaperVault 补充
+
+<!-- Source: https://github.com/youngfish42/PaperVault -->
+
+#### Challenges of language technologies for the indigenous languages of the Americas
+
+- 论文链接：[https://aclanthology.org/C18-1006/](https://aclanthology.org/C18-1006/)
+- 代码链接：[https://github.com/pywirrarika/naki](https://github.com/pywirrarika/naki)
+
+#### RNN Simulations of Grammaticality Judgments on Long-distance Dependencies
+
+- 论文链接：[https://aclanthology.org/C18-1012/](https://aclanthology.org/C18-1012/)
+- 代码链接：[https://github.com/LiCo-TREiL/Computational-Ungrammaticality](https://github.com/LiCo-TREiL/Computational-Ungrammaticality)
+
+#### Deep Enhanced Representation for Implicit Discourse Relation Recognition
+
+- 论文链接：[https://aclanthology.org/C18-1048/](https://aclanthology.org/C18-1048/)
+- 代码链接：[https://github.com/diccooo/Deep_Enhanced_Repr_for_IDRR](https://github.com/diccooo/Deep_Enhanced_Repr_for_IDRR)
+
+#### Design Challenges in Named Entity Transliteration
+
+- 论文链接：[https://aclanthology.org/C18-1053/](https://aclanthology.org/C18-1053/)
+- 代码链接：[https://github.com/steveash/NETransliteration-COLING2018](https://github.com/steveash/NETransliteration-COLING2018)
+
+#### On Adversarial Examples for Character-Level Neural Machine Translation
+
+- 论文链接：[https://aclanthology.org/C18-1055/](https://aclanthology.org/C18-1055/)
+- 代码链接：[https://github.com/jebivid/adversarial-nmt](https://github.com/jebivid/adversarial-nmt)
+
+#### Cross-lingual Argumentation Mining: Machine Translation (and a bit of Projection) is All You Need!
+
+- 论文链接：[https://aclanthology.org/C18-1071/](https://aclanthology.org/C18-1071/)
+- 代码链接：[http://github.com/UKPLab/coling2018-xling_argument_mining](http://github.com/UKPLab/coling2018-xling_argument_mining)
+
+#### A review of Spanish corpora annotated with negation
+
+- 论文链接：[https://aclanthology.org/C18-1078/](https://aclanthology.org/C18-1078/)
+- 代码链接：[https://github.com/sjzafra/spanish_negation_corpora](https://github.com/sjzafra/spanish_negation_corpora)
+
+#### Style Obfuscation by Invariance
+
+- 论文链接：[https://aclanthology.org/C18-1084/](https://aclanthology.org/C18-1084/)
+- 代码链接：[https://github.com/cmry/style-obfuscation](https://github.com/cmry/style-obfuscation)
+
+#### Author Profiling for Abuse Detection
+
+- 论文链接：[https://aclanthology.org/C18-1093/](https://aclanthology.org/C18-1093/)
+- 代码链接：[https://github.com/pushkarmishra/AuthorProfilingAbuseDetection](https://github.com/pushkarmishra/AuthorProfilingAbuseDetection)
+
+#### Cross-lingual Knowledge Projection Using Machine Translation and Target-side Knowledge Base Completion
+
+- 论文链接：[https://aclanthology.org/C18-1128/](https://aclanthology.org/C18-1128/)
+- 代码链接：[https://github.com/notani/CLKP-MTKBC](https://github.com/notani/CLKP-MTKBC)
+
+#### Reproducing and Regularizing the SCRN Model
+
+- 论文链接：[https://aclanthology.org/C18-1145/](https://aclanthology.org/C18-1145/)
+- 代码链接：[https://github.com/zh3nis/scrn](https://github.com/zh3nis/scrn)
+
+#### Measuring the Diversity of Automatic Image Descriptions
+
+- 论文链接：[https://aclanthology.org/C18-1147/](https://aclanthology.org/C18-1147/)
+- 代码链接：[https://github.com/evanmiltenburg/MeasureDiversity](https://github.com/evanmiltenburg/MeasureDiversity)
+
+#### A Retrospective Analysis of the Fake News Challenge Stance-Detection Task
+
+- 论文链接：[https://aclanthology.org/C18-1158/](https://aclanthology.org/C18-1158/)
+- 代码链接：[https://github.com/UKPLab/coling2018_fake-news-challenge](https://github.com/UKPLab/coling2018_fake-news-challenge)
+
+#### Transfer Learning for Entity Recognition of Novel Classes
+
+- 论文链接：[https://aclanthology.org/C18-1168/](https://aclanthology.org/C18-1168/)
+- 代码链接：[https://github.com/ciads-ut/transfer-learning-ner](https://github.com/ciads-ut/transfer-learning-ner)
+
+#### An Interpretable Reasoning Network for Multi-Relation Question Answering
+
+- 论文链接：[https://aclanthology.org/C18-1171/](https://aclanthology.org/C18-1171/)
+- 代码链接：[https://github.com/zmtkeke/IRN](https://github.com/zmtkeke/IRN)
+
+#### Task-oriented Word Embedding for Text Classification
+
+- 论文链接：[https://aclanthology.org/C18-1172/](https://aclanthology.org/C18-1172/)
+- 代码链接：[https://github.com/qianliu0708/ToWE](https://github.com/qianliu0708/ToWE)
+
+#### Farewell Freebase: Migrating the SimpleQuestions Dataset to DBpedia
+
+- 论文链接：[https://aclanthology.org/C18-1178/](https://aclanthology.org/C18-1178/)
+- 代码链接：[https://github.com/castorini/SimpleDBpediaQA](https://github.com/castorini/SimpleDBpediaQA)
+
+#### A Survey on Recent Advances in Named Entity Recognition from Deep Learning models
+
+- 论文链接：[https://aclanthology.org/C18-1182/](https://aclanthology.org/C18-1182/)
+- 代码链接：[https://github.com/vikas95/Pref_Suff_Span_NN](https://github.com/vikas95/Pref_Suff_Span_NN)
+
+#### Automatically Creating a Lexicon of Verbal Polarity Shifters: Mono- and Cross-lingual Methods for German
+
+- 论文链接：[https://aclanthology.org/C18-1213/](https://aclanthology.org/C18-1213/)
+- 代码链接：[https://github.com/uds-lsv/coling2018](https://github.com/uds-lsv/coling2018)
+
+#### Urdu Word Segmentation using Conditional Random Fields (CRFs)
+
+- 论文链接：[https://aclanthology.org/C18-1217/](https://aclanthology.org/C18-1217/)
+- 代码链接：[https://github.com/harisbinzia/Urdu-Word-Segmentation](https://github.com/harisbinzia/Urdu-Word-Segmentation)
+
+#### Evaluation of Unsupervised Compositional Representations
+
+- 论文链接：[https://aclanthology.org/C18-1226/](https://aclanthology.org/C18-1226/)
+- 代码链接：[https://github.com/h-aldarmaki/sentence_eval](https://github.com/h-aldarmaki/sentence_eval)
+
+#### Word Sense Disambiguation Based on Word Similarity Calculation Using Word Vector Representation from a Knowledge-based Graph
+
+- 论文链接：[https://aclanthology.org/C18-1229/](https://aclanthology.org/C18-1229/)
+- 代码链接：[https://github.com/nlpbank/SRP2Vec](https://github.com/nlpbank/SRP2Vec)
+
+#### Adaptive Weighting for Neural Machine Translation
+
+- 论文链接：[https://aclanthology.org/C18-1257/](https://aclanthology.org/C18-1257/)
+- 代码链接：[https://github.com/liyc7711/weighted-nmt](https://github.com/liyc7711/weighted-nmt)
+
+#### Double Path Networks for Sequence to Sequence Learning
+
+- 论文链接：[https://aclanthology.org/C18-1259/](https://aclanthology.org/C18-1259/)
+- 代码链接：[https://github.com/StillKeepTry/Transformer-PyTorch](https://github.com/StillKeepTry/Transformer-PyTorch)
+
+#### Incorporating Argument-Level Interactions for Persuasion Comments Evaluation using Co-attention Model
+
+- 论文链接：[https://aclanthology.org/C18-1314/](https://aclanthology.org/C18-1314/)
+- 代码链接：[https://github.com/lji0126/Persuasion-Comments-Evaluation](https://github.com/lji0126/Persuasion-Comments-Evaluation)
+
+#### Distinguishing affixoid formations from compounds
+
+- 论文链接：[https://aclanthology.org/C18-1325/](https://aclanthology.org/C18-1325/)
+- 代码链接：[https://github.com/josefkr/affixoids](https://github.com/josefkr/affixoids)
+
+#### The INCEpTION Platform: Machine-Assisted and Knowledge-Oriented Interactive Annotation
+
+- 论文链接：[https://aclanthology.org/C18-2002/](https://aclanthology.org/C18-2002/)
+- 代码链接：[https://github.com/inception-project/inception](https://github.com/inception-project/inception)
+
+#### A Korean Knowledge Extraction System for Enriching a KBox
+
+- 论文链接：[https://aclanthology.org/C18-2005/](https://aclanthology.org/C18-2005/)
+- 代码链接：[https://github.com/machinereading/wisekb-demo](https://github.com/machinereading/wisekb-demo)
+
+#### Active DOP: A constituency treebank annotation tool with online learning
+
+- 论文链接：[https://aclanthology.org/C18-2009/](https://aclanthology.org/C18-2009/)
+- 代码链接：[https://github.com/andreasvc/activedop](https://github.com/andreasvc/activedop)
+
+#### Transparent, Efficient, and Robust Word Embedding Access with WOMBAT
+
+- 论文链接：[https://aclanthology.org/C18-2012/](https://aclanthology.org/C18-2012/)
+- 代码链接：[https://github.com/nlpAThits/WOMBAT](https://github.com/nlpAThits/WOMBAT)
+
+#### Graphene: a Context-Preserving Open Information Extraction System
+
+- 论文链接：[https://aclanthology.org/C18-2021/](https://aclanthology.org/C18-2021/)
+- 代码链接：[https://github.com/Lambda-3/Graphene](https://github.com/Lambda-3/Graphene)
+
+#### NLATool: an Application for Enhanced Deep Text Understanding
+
+- 论文链接：[https://aclanthology.org/C18-2026/](https://aclanthology.org/C18-2026/)
+- 代码链接：[https://github.com/interactionlab/nlatool](https://github.com/interactionlab/nlatool)
+
+#### On-Device Neural Language Model Based Word Prediction
+
+- 论文链接：[https://aclanthology.org/C18-2028/](https://aclanthology.org/C18-2028/)
+- 代码链接：[https://github.com/meinwerk/WordPrediction](https://github.com/meinwerk/WordPrediction)
+
+#### WARP-Text: a Web-Based Tool for Annotating Relationships between Pairs of Texts
+
+- 论文链接：[https://aclanthology.org/C18-2029/](https://aclanthology.org/C18-2029/)
+- 代码链接：[https://github.com/venelink/WARP](https://github.com/venelink/WARP)
