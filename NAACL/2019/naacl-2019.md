@@ -968,3 +968,317 @@
 
 - 论文链接：[https://www.aclweb.org/anthology/N19-1420.pdf](https://www.aclweb.org/anthology/N19-1420.pdf)
 - 代码链接：[https://github.com/wabyking/qnn](https://github.com/wabyking/qnn)
+
+## PaperVault 补充
+
+<!-- Source: https://github.com/youngfish42/PaperVault -->
+
+#### Entity Recognition at First Sight: Improving NER with Eye Movement Information
+
+- 论文链接：[https://aclanthology.org/N19-1001/](https://aclanthology.org/N19-1001/)
+- 代码链接：[https://github.com/DS3Lab/ner-at-first-sight](https://github.com/DS3Lab/ner-at-first-sight)
+
+#### Neural language models as psycholinguistic subjects: Representations of syntactic state
+
+- 论文链接：[https://aclanthology.org/N19-1004/](https://aclanthology.org/N19-1004/)
+- 代码链接：[https://github.com/langprocgroup/nn_syntactic_state](https://github.com/langprocgroup/nn_syntactic_state)
+
+#### Evaluating Composition Models for Verb Phrase Elliptical Sentence Embeddings
+
+- 论文链接：[https://aclanthology.org/N19-1023/](https://aclanthology.org/N19-1023/)
+- 代码链接：[https://github.com/gijswijnholds/compdisteval-ellipsis](https://github.com/gijswijnholds/compdisteval-ellipsis)
+
+#### A Study of Incorrect Paraphrases in Crowdsourced User Utterances
+
+- 论文链接：[https://aclanthology.org/N19-1026/](https://aclanthology.org/N19-1026/)
+- 代码链接：[https://github.com/mysilver/ParaQuality](https://github.com/mysilver/ParaQuality)
+
+#### Bi-Directional Differentiable Input Reconstruction for Low-Resource Neural Machine Translation
+
+- 论文链接：[https://aclanthology.org/N19-1043/](https://aclanthology.org/N19-1043/)
+- 代码链接：[https://github.com/xingniu/sockeye](https://github.com/xingniu/sockeye)
+
+#### Code-Switching for Enhancing NMT with Pre-Specified Translation
+
+- 论文链接：[https://aclanthology.org/N19-1044/](https://aclanthology.org/N19-1044/)
+- 代码链接：[https://github.com/batman2013/e-commerce_test_sets](https://github.com/batman2013/e-commerce_test_sets)
+
+#### Attentive Mimicking: Better Word Embeddings by Attending to Informative Contexts
+
+- 论文链接：[https://aclanthology.org/N19-1048/](https://aclanthology.org/N19-1048/)
+- 代码链接：[https://github.com/timoschick/form-context-model](https://github.com/timoschick/form-context-model)
+
+#### Asking the Right Question: Inferring Advice-Seeking Intentions from Personal Narratives
+
+- 论文链接：[https://aclanthology.org/N19-1052/](https://aclanthology.org/N19-1052/)
+- 代码链接：[https://github.com/CornellNLP/ASQ](https://github.com/CornellNLP/ASQ)
+
+#### CLEVR-Dialog: A Diagnostic Dataset for Multi-Round Reasoning in Visual Dialog
+
+- 论文链接：[https://aclanthology.org/N19-1058/](https://aclanthology.org/N19-1058/)
+- 代码链接：[https://github.com/satwikkottur/clevr-dialog](https://github.com/satwikkottur/clevr-dialog)
+
+#### Black is to Criminal as Caucasian is to Police: Detecting and Removing Multiclass Bias in Word Embeddings
+
+- 论文链接：[https://aclanthology.org/N19-1062/](https://aclanthology.org/N19-1062/)
+- 代码链接：[https://github.com/TManzini/DebiasMulticlassWordEmbedding](https://github.com/TManzini/DebiasMulticlassWordEmbedding)
+
+#### Left-to-Right Dependency Parsing with Pointer Networks
+
+- 论文链接：[https://aclanthology.org/N19-1076/](https://aclanthology.org/N19-1076/)
+- 代码链接：[https://github.com/danifg/Left2Right-Pointer-Parser](https://github.com/danifg/Left2Right-Pointer-Parser)
+
+#### GraphIE: A Graph-Based Framework for Information Extraction
+
+- 论文链接：[https://aclanthology.org/N19-1082/](https://aclanthology.org/N19-1082/)
+- 代码链接：[https://github.com/thomas0809/GraphIE](https://github.com/thomas0809/GraphIE)
+
+#### OpenKI: Integrating Open Information Extraction and Knowledge Bases with Relation Inference
+
+- 论文链接：[https://aclanthology.org/N19-1083/](https://aclanthology.org/N19-1083/)
+- 代码链接：[https://github.com/zhangdongxu/relation-inference-naacl19](https://github.com/zhangdongxu/relation-inference-naacl19)
+
+#### Improved Lexically Constrained Decoding for Translation and Monolingual Rewriting
+
+- 论文链接：[https://aclanthology.org/N19-1090/](https://aclanthology.org/N19-1090/)
+- 代码链接：[https://github.com/awslabs/sockeye](https://github.com/awslabs/sockeye)
+
+#### Recovering dropped pronouns in Chinese conversations via modeling their referents
+
+- 论文链接：[https://aclanthology.org/N19-1095/](https://aclanthology.org/N19-1095/)
+- 代码链接：[https://github.com/ningningyang/NDPR](https://github.com/ningningyang/NDPR)
+
+#### Mutual Information Maximization for Simple and Accurate Part-Of-Speech Induction
+
+- 论文链接：[https://aclanthology.org/N19-1113/](https://aclanthology.org/N19-1113/)
+- 代码链接：[https://github.com/karlstratos/mmi-tagger](https://github.com/karlstratos/mmi-tagger)
+
+#### Unsupervised Recurrent Neural Network Grammars
+
+- 论文链接：[https://aclanthology.org/N19-1114/](https://aclanthology.org/N19-1114/)
+- 代码链接：[https://github.com/harvardnlp/urnng](https://github.com/harvardnlp/urnng)
+
+#### Consistency by Agreement in Zero-Shot Neural Machine Translation
+
+- 论文链接：[https://aclanthology.org/N19-1121/](https://aclanthology.org/N19-1121/)
+- 代码链接：[https://github.com/google-research/language/tree/master/language/labs/consistent_zero_shot_nmt](https://github.com/google-research/language/tree/master/language/labs/consistent_zero_shot_nmt)
+
+#### Skeleton-to-Response: Dialogue Generation Guided by Retrieval Memory
+
+- 论文链接：[https://aclanthology.org/N19-1124/](https://aclanthology.org/N19-1124/)
+- 代码链接：[https://github.com/jcyk/skeleton-to-response](https://github.com/jcyk/skeleton-to-response)
+
+#### Disentangling Language and Knowledge in Task-Oriented Dialogs
+
+- 论文链接：[https://aclanthology.org/N19-1126/](https://aclanthology.org/N19-1126/)
+- 代码链接：[https://github.com/dair-iitd/BossNet](https://github.com/dair-iitd/BossNet)
+
+#### Star-Transformer
+
+- 论文链接：[https://aclanthology.org/N19-1133/](https://aclanthology.org/N19-1133/)
+- 代码链接：[https://github.com/dmlc/dgl](https://github.com/dmlc/dgl)
+
+#### From legal to technical concept: Towards an automated classification of German political Twitter postings as criminal offenses
+
+- 论文链接：[https://aclanthology.org/N19-1135/](https://aclanthology.org/N19-1135/)
+- 代码链接：[https://github.com/Horsmann/NAACL-2019-legal](https://github.com/Horsmann/NAACL-2019-legal)
+
+#### White-to-Black: Efficient Distillation of Black-Box Adversarial Attacks
+
+- 论文链接：[https://aclanthology.org/N19-1139/](https://aclanthology.org/N19-1139/)
+- 代码链接：[https://github.com/orgoro/white-2-black](https://github.com/orgoro/white-2-black)
+
+#### Microblog Hashtag Generation via Encoding Conversation Contexts
+
+- 论文链接：[https://aclanthology.org/N19-1164/](https://aclanthology.org/N19-1164/)
+- 代码链接：[https://github.com/yuewang-cuhk/HashtagGeneration](https://github.com/yuewang-cuhk/HashtagGeneration)
+
+#### Improving Natural Language Interaction with Robots Using Advice
+
+- 论文链接：[https://aclanthology.org/N19-1195/](https://aclanthology.org/N19-1195/)
+- 代码链接：[https://github.com/hockeybro12/Improving-NaturalLanguageInteractionWithRobots-Advice](https://github.com/hockeybro12/Improving-NaturalLanguageInteractionWithRobots-Advice)
+
+#### An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models
+
+- 论文链接：[https://aclanthology.org/N19-1213/](https://aclanthology.org/N19-1213/)
+- 代码链接：[https://github.com/alexandra-chron/siatl](https://github.com/alexandra-chron/siatl)
+
+#### A Crowdsourced Frame Disambiguation Corpus with Ambiguity
+
+- 论文链接：[https://aclanthology.org/N19-1224/](https://aclanthology.org/N19-1224/)
+- 代码链接：[https://github.com/CrowdTruth/FrameDisambiguation](https://github.com/CrowdTruth/FrameDisambiguation)
+
+#### Practical, Efficient, and Customizable Active Learning for Named Entity Recognition in the Digital Humanities
+
+- 论文链接：[https://aclanthology.org/N19-1231/](https://aclanthology.org/N19-1231/)
+- 代码链接：[https://github.com/alexerdmann/HER](https://github.com/alexerdmann/HER)
+
+#### Doc2hash: Learning Discrete Latent variables for Documents Retrieval
+
+- 论文链接：[https://aclanthology.org/N19-1232/](https://aclanthology.org/N19-1232/)
+- 代码链接：[https://github.com/yifeiacc/doc2hash](https://github.com/yifeiacc/doc2hash)
+
+#### A Qualitative Comparison of CoQA, SQuAD 2.0 and QuAC
+
+- 论文链接：[https://aclanthology.org/N19-1241/](https://aclanthology.org/N19-1241/)
+- 代码链接：[https://github.com/my89/co-squac](https://github.com/my89/co-squac)
+
+#### Old is Gold: Linguistic Driven Approach for Entity and Relation Linking of Short Text
+
+- 论文链接：[https://aclanthology.org/N19-1243/](https://aclanthology.org/N19-1243/)
+- 代码链接：[https://github.com/AhmadSakor/falcon](https://github.com/AhmadSakor/falcon)
+
+#### Be Consistent! Improving Procedural Text Comprehension using Label Consistency
+
+- 论文链接：[https://aclanthology.org/N19-1244/](https://aclanthology.org/N19-1244/)
+- 代码链接：[https://github.com/allenai/propara](https://github.com/allenai/propara)
+
+#### Learning to Denoise Distantly-Labeled Data for Entity Typing
+
+- 论文链接：[https://aclanthology.org/N19-1250/](https://aclanthology.org/N19-1250/)
+- 代码链接：[https://github.com/yasumasaonoe/DenoiseET](https://github.com/yasumasaonoe/DenoiseET)
+
+#### A Multi-Task Approach for Disentangling Syntax and Semantics in Sentence Representations
+
+- 论文链接：[https://aclanthology.org/N19-1254/](https://aclanthology.org/N19-1254/)
+- 代码链接：[https://github.com/mingdachen/disentangle-semantics-syntax](https://github.com/mingdachen/disentangle-semantics-syntax)
+
+#### Strong and Simple Baselines for Multimodal Utterance Embeddings
+
+- 论文链接：[https://aclanthology.org/N19-1267/](https://aclanthology.org/N19-1267/)
+- 代码链接：[https://github.com/yaochie/multimodal-baselines](https://github.com/yaochie/multimodal-baselines)
+
+#### Scalable Collapsed Inference for High-Dimensional Topic Models
+
+- 论文链接：[https://aclanthology.org/N19-1291/](https://aclanthology.org/N19-1291/)
+- 代码链接：[https://github.com/dr97531/SparseSCVB0](https://github.com/dr97531/SparseSCVB0)
+
+#### Bidirectional Attentive Memory Networks for Question Answering over Knowledge Bases
+
+- 论文链接：[https://aclanthology.org/N19-1299/](https://aclanthology.org/N19-1299/)
+- 代码链接：[https://github.com/hugochan/BAMnet](https://github.com/hugochan/BAMnet)
+
+#### Repurposing Entailment for Multi-Hop Question Answering Tasks
+
+- 论文链接：[https://aclanthology.org/N19-1302/](https://aclanthology.org/N19-1302/)
+- 代码链接：[https://github.com/StonyBrookNLP/multee](https://github.com/StonyBrookNLP/multee)
+
+#### Segmentation-free compositional n-gram embedding
+
+- 论文链接：[https://aclanthology.org/N19-1324/](https://aclanthology.org/N19-1324/)
+- 代码链接：[https://github.com/kdrl/SCNE](https://github.com/kdrl/SCNE)
+
+#### CAN-NER: Convolutional Attention Network for Chinese Named Entity Recognition
+
+- 论文链接：[https://aclanthology.org/N19-1342/](https://aclanthology.org/N19-1342/)
+- 代码链接：[https://github.com/microsoft/vert-papers/tree/master/papers/CAN-NER](https://github.com/microsoft/vert-papers/tree/master/papers/CAN-NER)
+
+#### Multi-Level Memory for Task Oriented Dialogs
+
+- 论文链接：[https://aclanthology.org/N19-1375/](https://aclanthology.org/N19-1375/)
+- 代码链接：[https://github.com/DineshRaghu/multi-level-memory-network](https://github.com/DineshRaghu/multi-level-memory-network)
+
+#### Question Answering as an Automatic Evaluation Metric for News Article Summarization
+
+- 论文链接：[https://aclanthology.org/N19-1395/](https://aclanthology.org/N19-1395/)
+- 代码链接：[https://github.com/mataney/APES](https://github.com/mataney/APES)
+
+#### Using Natural Language Relations between Answer Choices for Machine Comprehension
+
+- 论文链接：[https://aclanthology.org/N19-1403/](https://aclanthology.org/N19-1403/)
+- 代码链接：[https://github.com/pujari-rajkumar/naacl2019](https://github.com/pujari-rajkumar/naacl2019)
+
+#### A large-scale study of the effects of word frequency and predictability in naturalistic reading
+
+- 论文链接：[https://aclanthology.org/N19-1413/](https://aclanthology.org/N19-1413/)
+- 代码链接：[https://github.com/coryshain/dtsr](https://github.com/coryshain/dtsr)
+
+#### CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge
+
+- 论文链接：[https://aclanthology.org/N19-1421/](https://aclanthology.org/N19-1421/)
+- 代码链接：[https://github.com/jonathanherzig/commonsenseqa](https://github.com/jonathanherzig/commonsenseqa)
+
+#### BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+
+- 论文链接：[https://aclanthology.org/N19-1423/](https://aclanthology.org/N19-1423/)
+- 代码链接：[https://github.com/google-research/bert](https://github.com/google-research/bert)
+
+#### Enabling Real-time Neural IME with Incremental Vocabulary Selection
+
+- 论文链接：[https://aclanthology.org/N19-2001/](https://aclanthology.org/N19-2001/)
+- 代码链接：[https://github.com/jiali-ms/JLM](https://github.com/jiali-ms/JLM)
+
+#### Generate, Filter, and Rank: Grammaticality Classification for Production-Ready NLG Systems
+
+- 论文链接：[https://aclanthology.org/N19-2027/](https://aclanthology.org/N19-2027/)
+- 代码链接：[https://github.com/facebookresearch/momi](https://github.com/facebookresearch/momi)
+
+#### Generating Text through Adversarial Training Using Skip-Thought Vectors
+
+- 论文链接：[https://aclanthology.org/N19-3008/](https://aclanthology.org/N19-3008/)
+- 代码链接：[https://github.com/afrozas/skip-thought-gan](https://github.com/afrozas/skip-thought-gan)
+
+#### SEDTWik: Segmentation-based Event Detection from Tweets Using Wikipedia
+
+- 论文链接：[https://aclanthology.org/N19-3011/](https://aclanthology.org/N19-3011/)
+- 代码链接：[https://github.com/kevalmorabia97/SEDTWik-Event-Detection-from-Tweets](https://github.com/kevalmorabia97/SEDTWik-Event-Detection-from-Tweets)
+
+#### Multimodal Machine Translation with Embedding Prediction
+
+- 论文链接：[https://aclanthology.org/N19-3012/](https://aclanthology.org/N19-3012/)
+- 代码链接：[https://github.com/toshohirasawa/nmtpytorch-emb-pred](https://github.com/toshohirasawa/nmtpytorch-emb-pred)
+
+#### Gating Mechanisms for Combining Character and Word-level Word Representations: an Empirical Study
+
+- 论文链接：[https://aclanthology.org/N19-3016/](https://aclanthology.org/N19-3016/)
+- 代码链接：[https://github.com/jabalazs/gating](https://github.com/jabalazs/gating)
+
+#### Train, Sort, Explain: Learning to Diagnose Translation Models
+
+- 论文链接：[https://aclanthology.org/N19-4006/](https://aclanthology.org/N19-4006/)
+- 代码链接：[https://github.com/dfki-nlp/diamat](https://github.com/dfki-nlp/diamat)
+
+#### compare-mt: A Tool for Holistic Comparison of Language Generation Systems
+
+- 论文链接：[https://aclanthology.org/N19-4007/](https://aclanthology.org/N19-4007/)
+- 代码链接：[https://github.com/neulab/compare-mt](https://github.com/neulab/compare-mt)
+
+#### Eidos, INDRA, & Delphi: From Free Text to Executable Causal Models
+
+- 论文链接：[https://aclanthology.org/N19-4008/](https://aclanthology.org/N19-4008/)
+- 代码链接：[https://github.com/ml4ai/delphi](https://github.com/ml4ai/delphi)
+
+#### fairseq: A Fast, Extensible Toolkit for Sequence Modeling
+
+- 论文链接：[https://aclanthology.org/N19-4009/](https://aclanthology.org/N19-4009/)
+- 代码链接：[https://github.com/pytorch/fairseq](https://github.com/pytorch/fairseq)
+
+#### FLAIR: An Easy-to-Use Framework for State-of-the-Art NLP
+
+- 论文链接：[https://aclanthology.org/N19-4010/](https://aclanthology.org/N19-4010/)
+- 代码链接：[https://github.com/zalandoresearch/flair](https://github.com/zalandoresearch/flair)
+
+#### LeafNATS: An Open-Source Toolkit and Live Demo System for Neural Abstractive Text Summarization
+
+- 论文链接：[https://aclanthology.org/N19-4012/](https://aclanthology.org/N19-4012/)
+- 代码链接：[https://github.com/tshi04/LeafNATS](https://github.com/tshi04/LeafNATS)
+
+#### End-to-End Open-Domain Question Answering with BERTserini
+
+- 论文链接：[https://aclanthology.org/N19-4013/](https://aclanthology.org/N19-4013/)
+- 代码链接：[https://github.com/rsvp-ai/bertserini](https://github.com/rsvp-ai/bertserini)
+
+#### iComposer: An Automatic Songwriting System for Chinese Popular Music
+
+- 论文链接：[https://aclanthology.org/N19-4015/](https://aclanthology.org/N19-4015/)
+- 代码链接：[https://github.com/hhpslily/iComposer](https://github.com/hhpslily/iComposer)
+
+#### Plan, Write, and Revise: an Interactive System for Open-Domain Story Generation
+
+- 论文链接：[https://aclanthology.org/N19-4016/](https://aclanthology.org/N19-4016/)
+- 代码链接：[https://github.com/seraphinatarrant/plan-write-revise](https://github.com/seraphinatarrant/plan-write-revise)
+
+#### LT Expertfinder: An Evaluation Framework for Expert Finding Methods
+
+- 论文链接：[https://aclanthology.org/N19-4017/](https://aclanthology.org/N19-4017/)
+- 代码链接：[https://github.com/uhh-lt/lt-expertfinder](https://github.com/uhh-lt/lt-expertfinder)
