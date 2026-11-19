@@ -3263,9 +3263,6 @@
 - 论文链接：[https://aclanthology.org/2024.findings-emnlp.1002/](https://aclanthology.org/2024.findings-emnlp.1002/)
 - 代码链接：[https://github.com/m-Tajari/StocTuning_LLMs](https://github.com/m-Tajari/StocTuning_LLMs)
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### FreeEval: A Modular Framework for Trustworthy and Efficient Evaluation of Large Language Models
 

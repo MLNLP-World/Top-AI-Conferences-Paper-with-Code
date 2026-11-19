@@ -3609,9 +3609,6 @@
 - 代码链接：[https://paperswithcode.com/paper/?acl=2021.findings-emnlp.424](https://paperswithcode.com/paper/?acl=2021.findings-emnlp.424)
 
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### TWEETSUMM - A Dialog Summarization Dataset for Customer Service
 

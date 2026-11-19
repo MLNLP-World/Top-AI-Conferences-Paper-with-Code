@@ -969,9 +969,6 @@
 - 论文链接：[https://www.aclweb.org/anthology/N19-1420.pdf](https://www.aclweb.org/anthology/N19-1420.pdf)
 - 代码链接：[https://github.com/wabyking/qnn](https://github.com/wabyking/qnn)
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### Entity Recognition at First Sight: Improving NER with Eye Movement Information
 

@@ -1298,9 +1298,6 @@
 - 论文链接：[https://aclanthology.org/2022.findings-emnlp.538/](https://aclanthology.org/2022.findings-emnlp.538/)
 - 代码链接：[https://aclanthology.org/attachments/2022.findings-emnlp.538.software.zip](https://aclanthology.org/attachments/2022.findings-emnlp.538.software.zip)
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### Generative Knowledge Graph Construction: A Review
 

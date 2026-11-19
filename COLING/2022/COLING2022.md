@@ -679,9 +679,6 @@
 - 代码链接：[https://paperswithcode.com/paper/?acl=2022.coling-1.621](https://paperswithcode.com/paper/?acl=2022.coling-1.621)
 
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### TAKE: Topic-shift Aware Knowledge sElection for Dialogue Generation
 

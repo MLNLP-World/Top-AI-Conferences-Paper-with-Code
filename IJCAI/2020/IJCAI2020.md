@@ -923,9 +923,6 @@
 
 
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### A 3D Convolutional Approach to Spectral Object Segmentation in Space and Time
 

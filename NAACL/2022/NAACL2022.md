@@ -1399,9 +1399,6 @@
 - 代码链接：[https://paperswithcode.com/paper/?acl=2022.naacl-industry.37](https://paperswithcode.com/paper/?acl=2022.naacl-industry.37)
 
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### PubHealthTab: A Public Health Table-based Dataset for Evidence-based Fact Checking
 

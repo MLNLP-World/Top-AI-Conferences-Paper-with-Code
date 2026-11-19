@@ -175,9 +175,6 @@
 | Adaptive Artificial Intelligence Scheduling Methods for Large-Scale, Stochastic, Industrial Applications | [链接](https://www.ijcai.org/proceedings/2022/841) | [https://github.com/google/or-tools/issues](https://github.com/google/or-tools/issues) |
 | AutoVideo: An Automated Video Action Recognition System | [链接](https://www.ijcai.org/proceedings/2022/862) | [https://github.com/datamllab/autovideo](https://github.com/datamllab/autovideo) |
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### Anytime Capacity Expansion in Medical Residency Match by Monte Carlo Tree Search
 

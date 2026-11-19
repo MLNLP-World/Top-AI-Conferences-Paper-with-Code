@@ -292,9 +292,6 @@
 | OpenFactCheck: Building, Benchmarking Customized Fact-Checking Systems and Evaluating the Factuality of Claims and LLMs | [链接](https://aclanthology.org/2025.coling-main.755/) | [https://github.com/yuxiaw/openfactcheck](https://github.com/yuxiaw/openfactcheck) |
 | A Dataset for Expert Reviewer Recommendation with Large Language Models as Zero-shot Rankers | [链接](https://aclanthology.org/2025.coling-main.756/) | [https://github.com/sodestream/revrec](https://github.com/sodestream/revrec) |
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### Loki: An Open-Source Tool for Fact Verification
 

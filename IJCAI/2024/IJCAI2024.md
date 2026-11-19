@@ -248,9 +248,6 @@
 | RLOP: A Framework for Reinforcement Learning, Optimization and Planning Algorithms | [链接](https://www.ijcai.org/proceedings/2024/1047) | [https://github.com/songzhg/RLOP](https://github.com/songzhg/RLOP) |
 | Oasis: Data Curation and Assessment System for Pretraining of Large Language Models | [链接](https://www.ijcai.org/proceedings/2024/1048) | [https://github.com/tongzhou21/Oasis](https://github.com/tongzhou21/Oasis) |
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### CompetEvo: Towards Morphological Evolution from Competition
 

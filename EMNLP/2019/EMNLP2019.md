@@ -1834,9 +1834,6 @@
 + 代码链接：[https://github.com/OnlpLab/RUN](https://github.com/OnlpLab/RUN)
 
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### Attending to Future Tokens for Bidirectional Sequence Generation
 

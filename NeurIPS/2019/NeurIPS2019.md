@@ -4934,9 +4934,6 @@
 - 代码链接：[https://github.com/KaidiXu/ZO-AdaMM](https://github.com/KaidiXu/ZO-AdaMM)
 
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### Bayesian Optimization under Heavy-tailed Payoffs
 

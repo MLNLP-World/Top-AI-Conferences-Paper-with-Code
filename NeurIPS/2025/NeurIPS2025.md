@@ -15179,9 +15179,6 @@
 - 代码链接：[https://github.com/xsy27/Mospa-Acoustic-driven-Motion-Generation](https://github.com/xsy27/Mospa-Acoustic-driven-Motion-Generation)
 
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### Spectral Estimation with Free Decompression
 

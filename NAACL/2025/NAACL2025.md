@@ -618,9 +618,6 @@
 - 论文链接：[https://aclanthology.org/2025.findings-naacl.464/](https://aclanthology.org/2025.findings-naacl.464/)
 - 代码链接：[https://github.com/thulx18/PRDetect](https://github.com/thulx18/PRDetect)
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### Dataverse: Open-Source ETL (Extract, Transform, Load) Pipeline for Large Language Models
 

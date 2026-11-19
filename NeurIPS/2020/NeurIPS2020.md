@@ -5274,9 +5274,6 @@
 - 代码链接：[https://github.com/nlpxucan/ZRKGC](https://github.com/nlpxucan/ZRKGC)
 
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### Belief Propagation Neural Networks
 

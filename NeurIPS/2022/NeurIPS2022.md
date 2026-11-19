@@ -7924,9 +7924,6 @@
 - 代码链接：[https://github.com/allenai/procthor-rl](https://github.com/allenai/procthor-rl)
 
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics
 

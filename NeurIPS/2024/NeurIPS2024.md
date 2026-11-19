@@ -12004,9 +12004,6 @@
 - 代码链接：[https://github.com/PJLab-ADG/ZOPP](https://github.com/PJLab-ADG/ZOPP)
 
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### GITA: Graph to Visual and Textual Integration for Vision-Language Graph Reasoning
 
