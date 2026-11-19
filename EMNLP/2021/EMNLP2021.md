@@ -3608,3 +3608,207 @@
 - 论文链接：[https://aclanthology.org/2021.findings-emnlp.424/](https://aclanthology.org/2021.findings-emnlp.424/)
 - 代码链接：[https://paperswithcode.com/paper/?acl=2021.findings-emnlp.424](https://paperswithcode.com/paper/?acl=2021.findings-emnlp.424)
 
+
+## PaperVault 补充
+
+<!-- Source: https://github.com/youngfish42/PaperVault -->
+
+#### TWEETSUMM - A Dialog Summarization Dataset for Customer Service
+
+- 论文链接：[https://aclanthology.org/2021.findings-emnlp.24/](https://aclanthology.org/2021.findings-emnlp.24/)
+- 代码链接：[https://github.com/nlpyang/PreSumm](https://github.com/nlpyang/PreSumm)
+
+#### A Model of Cross-Lingual Knowledge-Grounded Response Generation for Open-Domain Dialogue Systems
+
+- 论文链接：[https://aclanthology.org/2021.findings-emnlp.33/](https://aclanthology.org/2021.findings-emnlp.33/)
+- 代码链接：[https://github.com/airc-keti/ke-t5](https://github.com/airc-keti/ke-t5)
+
+#### WHOSe Heritage: Classification of UNESCO World Heritage Statements of "Outstanding Universal Value” with Soft Labels
+
+- 论文链接：[https://aclanthology.org/2021.findings-emnlp.34/](https://aclanthology.org/2021.findings-emnlp.34/)
+- 代码链接：[https://github.com/zzbn12345/WHOSe_Heritage](https://github.com/zzbn12345/WHOSe_Heritage)
+
+#### Recommend for a Reason: Unlocking the Power of Unsupervised Aspect-Sentiment Co-Extraction
+
+- 论文链接：[https://aclanthology.org/2021.findings-emnlp.66/](https://aclanthology.org/2021.findings-emnlp.66/)
+- 代码链接：[https://github.com/zyli93/aspe-apre](https://github.com/zyli93/aspe-apre)
+
+#### An Uncertainty-Aware Encoder for Aspect Detection
+
+- 论文链接：[https://aclanthology.org/2021.findings-emnlp.69/](https://aclanthology.org/2021.findings-emnlp.69/)
+- 代码链接：[https://github.com/nhungnt7/UCE](https://github.com/nhungnt7/UCE)
+
+#### KERS: A Knowledge-Enhanced Framework for Recommendation Dialog Systems with Multiple Subgoals
+
+- 论文链接：[https://aclanthology.org/2021.findings-emnlp.94/](https://aclanthology.org/2021.findings-emnlp.94/)
+- 代码链接：[https://github.com/z562/kers](https://github.com/z562/kers)
+
+#### Effectiveness of Pre-training for Few-shot Intent Classification
+
+- 论文链接：[https://aclanthology.org/2021.findings-emnlp.96/](https://aclanthology.org/2021.findings-emnlp.96/)
+- 代码链接：[https://github.com/hdzhang-code/IntentBERT](https://github.com/hdzhang-code/IntentBERT)
+
+#### Generate & Rank: A Multi-task Framework for Math Word Problems
+
+- 论文链接：[https://aclanthology.org/2021.findings-emnlp.195/](https://aclanthology.org/2021.findings-emnlp.195/)
+- 代码链接：[https://github.com/huawei-noah/noah-research](https://github.com/huawei-noah/noah-research)
+
+#### A Neural Graph-based Local Coherence Model
+
+- 论文链接：[https://aclanthology.org/2021.findings-emnlp.199/](https://aclanthology.org/2021.findings-emnlp.199/)
+- 代码链接：[https://github.com/ukplab/emnlp2021-neural-graph-based-coherence-model](https://github.com/ukplab/emnlp2021-neural-graph-based-coherence-model)
+
+#### Improving Multilingual Neural Machine Translation with Auxiliary Source Languages
+
+- 论文链接：[https://aclanthology.org/2021.findings-emnlp.260/](https://aclanthology.org/2021.findings-emnlp.260/)
+- 代码链接：[https://github.com/YuweiYin/MNMT_Aux_Src_Lang](https://github.com/YuweiYin/MNMT_Aux_Src_Lang)
+
+#### SentNoB: A Dataset for Analysing Sentiment on Noisy Bangla Texts
+
+- 论文链接：[https://aclanthology.org/2021.findings-emnlp.278/](https://aclanthology.org/2021.findings-emnlp.278/)
+- 代码链接：[https://github.com/KhondokerIslam/SentNoB](https://github.com/KhondokerIslam/SentNoB)
+
+#### Unsupervised Chunking as Syntactic Structure Induction with a Knowledge-Transfer Approach
+
+- 论文链接：[https://aclanthology.org/2021.findings-emnlp.307/](https://aclanthology.org/2021.findings-emnlp.307/)
+- 代码链接：[https://github.com/anup-deshmukh/unsupervised-chunking](https://github.com/anup-deshmukh/unsupervised-chunking)
+
+#### Leveraging Pretrained Models for Automatic Summarization of Doctor-Patient Conversations
+
+- 论文链接：[https://aclanthology.org/2021.findings-emnlp.313/](https://aclanthology.org/2021.findings-emnlp.313/)
+- 代码链接：[https://github.com/negrinho/medical_conversation_summarization](https://github.com/negrinho/medical_conversation_summarization)
+
+#### FastCorrect 2: Fast Error Correction on Multiple Candidates for Automatic Speech Recognition
+
+- 论文链接：[https://aclanthology.org/2021.findings-emnlp.367/](https://aclanthology.org/2021.findings-emnlp.367/)
+- 代码链接：[https://github.com/microsoft/NeuralSpeech](https://github.com/microsoft/NeuralSpeech)
+
+#### Block-wise Word Embedding Compression Revisited: Better Weighting and Structuring
+
+- 论文链接：[https://aclanthology.org/2021.findings-emnlp.372/](https://aclanthology.org/2021.findings-emnlp.372/)
+- 代码链接：[https://github.com/etri-edgeai/nn-comp-discblock](https://github.com/etri-edgeai/nn-comp-discblock)
+
+#### Perceived and Intended Sarcasm Detection with Graph Attention Networks
+
+- 论文链接：[https://aclanthology.org/2021.findings-emnlp.408/](https://aclanthology.org/2021.findings-emnlp.408/)
+- 代码链接：[https://github.com/caisa-lab/sarcasm_detection](https://github.com/caisa-lab/sarcasm_detection)
+
+#### Efficient Multi-Task Auxiliary Learning: Selecting Auxiliary Data by Feature Similarity
+
+- 论文链接：[https://aclanthology.org/2021.emnlp-main.34/](https://aclanthology.org/2021.emnlp-main.34/)
+- 代码链接：[https://github.com/miulab/fastmtl](https://github.com/miulab/fastmtl)
+
+#### Conditional Poisson Stochastic Beam Search
+
+- 论文链接：[https://aclanthology.org/2021.emnlp-main.52/](https://aclanthology.org/2021.emnlp-main.52/)
+- 代码链接：[https://github.com/rycolab/cpsbs](https://github.com/rycolab/cpsbs)
+
+#### Learning Universal Authorship Representations
+
+- 论文链接：[https://aclanthology.org/2021.emnlp-main.70/](https://aclanthology.org/2021.emnlp-main.70/)
+- 代码链接：[https://github.com/noa/uar](https://github.com/noa/uar)
+
+#### “Wikily” Supervised Neural Translation Tailored to Cross-Lingual Tasks
+
+- 论文链接：[https://aclanthology.org/2021.emnlp-main.124/](https://aclanthology.org/2021.emnlp-main.124/)
+- 代码链接：[https://github.com/rasoolims/ImageTranslate](https://github.com/rasoolims/ImageTranslate)
+
+#### Is “moby dick” a Whale or a Bird? Named Entities and Terminology in Speech Translation
+
+- 论文链接：[https://aclanthology.org/2021.emnlp-main.128/](https://aclanthology.org/2021.emnlp-main.128/)
+- 代码链接：[https://github.com/mgaido91/FBK-fairseq-ST](https://github.com/mgaido91/FBK-fairseq-ST)
+
+#### Fast WordPiece Tokenization
+
+- 论文链接：[https://aclanthology.org/2021.emnlp-main.160/](https://aclanthology.org/2021.emnlp-main.160/)
+- 代码链接：[https://github.com/tensorflow/text/blob/master/docs/api_docs/python/text/FastWordpieceTokenizer.md](https://github.com/tensorflow/text/blob/master/docs/api_docs/python/text/FastWordpieceTokenizer.md)
+
+#### Transferable Persona-Grounded Dialogues via Grounded Minimal Edits
+
+- 论文链接：[https://aclanthology.org/2021.emnlp-main.183/](https://aclanthology.org/2021.emnlp-main.183/)
+- 代码链接：[https://github.com/thu-coai/grounded-minimal-edit](https://github.com/thu-coai/grounded-minimal-edit)
+
+#### DyLex: Incorporating Dynamic Lexicons into BERT for Sequence Labeling
+
+- 论文链接：[https://aclanthology.org/2021.emnlp-main.211/](https://aclanthology.org/2021.emnlp-main.211/)
+- 代码链接：[https://github.com/huawei-noah/noah-research/tree/master/NLP/dylex](https://github.com/huawei-noah/noah-research/tree/master/NLP/dylex)
+
+#### Modeling Human Sentence Processing with Left-Corner Recurrent Neural Network Grammars
+
+- 论文链接：[https://aclanthology.org/2021.emnlp-main.235/](https://aclanthology.org/2021.emnlp-main.235/)
+- 代码链接：[https://github.com/osekilab/rnng-eyetrack](https://github.com/osekilab/rnng-eyetrack)
+
+#### kFolden: k-Fold Ensemble for Out-Of-Distribution Detection
+
+- 论文链接：[https://aclanthology.org/2021.emnlp-main.248/](https://aclanthology.org/2021.emnlp-main.248/)
+- 代码链接：[https://github.com/ShannonAI/kfolden-ood-detection](https://github.com/ShannonAI/kfolden-ood-detection)
+
+#### SHAPE: Shifted Absolute Position Embedding for Transformers
+
+- 论文链接：[https://aclanthology.org/2021.emnlp-main.266/](https://aclanthology.org/2021.emnlp-main.266/)
+- 代码链接：[https://github.com/butsugiri/shape](https://github.com/butsugiri/shape)
+
+#### RockNER: A Simple Method to Create Adversarial Examples for Evaluating the Robustness of Named Entity Recognition Models
+
+- 论文链接：[https://aclanthology.org/2021.emnlp-main.302/](https://aclanthology.org/2021.emnlp-main.302/)
+- 代码链接：[https://github.com/INK-USC/RockNER](https://github.com/INK-USC/RockNER)
+
+#### Comparative Opinion Quintuple Extraction from Product Reviews
+
+- 论文链接：[https://aclanthology.org/2021.emnlp-main.322/](https://aclanthology.org/2021.emnlp-main.322/)
+- 代码链接：[https://github.com/nustm/coqe](https://github.com/nustm/coqe)
+
+#### Learn to Copy from the Copying History: Correlational Copy Network for Abstractive Summarization
+
+- 论文链接：[https://aclanthology.org/2021.emnlp-main.336/](https://aclanthology.org/2021.emnlp-main.336/)
+- 代码链接：[https://github.com/hrlinlp/coconet](https://github.com/hrlinlp/coconet)
+
+#### DuRecDial 2.0: A Bilingual Parallel Corpus for Conversational Recommendation
+
+- 论文链接：[https://aclanthology.org/2021.emnlp-main.356/](https://aclanthology.org/2021.emnlp-main.356/)
+- 代码链接：[https://github.com/liuzeming01/durecdial](https://github.com/liuzeming01/durecdial)
+
+#### Consistent Accelerated Inference via Confident Adaptive Transformers
+
+- 论文链接：[https://aclanthology.org/2021.emnlp-main.406/](https://aclanthology.org/2021.emnlp-main.406/)
+- 代码链接：[https://github.com/TalSchuster/CATs](https://github.com/TalSchuster/CATs)
+
+#### ChemNER: Fine-Grained Chemistry Named Entity Recognition with Ontology-Guided Distant Supervision
+
+- 论文链接：[https://aclanthology.org/2021.emnlp-main.424/](https://aclanthology.org/2021.emnlp-main.424/)
+- 代码链接：[https://github.com/xuanwang91/chemner](https://github.com/xuanwang91/chemner)
+
+#### “Average” Approximates “First Principal Component”? An Empirical Analysis on Representations from Neural Language Models
+
+- 论文链接：[https://aclanthology.org/2021.emnlp-main.453/](https://aclanthology.org/2021.emnlp-main.453/)
+- 代码链接：[https://github.com/ZihanWangKi/AverageApproxFirstPC](https://github.com/ZihanWangKi/AverageApproxFirstPC)
+
+#### IGA: An Intent-Guided Authoring Assistant
+
+- 论文链接：[https://aclanthology.org/2021.emnlp-main.483/](https://aclanthology.org/2021.emnlp-main.483/)
+- 代码链接：[https://github.com/simengsun/iga-an-intent-guided-authoring-assistant](https://github.com/simengsun/iga-an-intent-guided-authoring-assistant)
+
+#### Surface Form Competition: Why the Highest Probability Answer Isn’t Always Right
+
+- 论文链接：[https://aclanthology.org/2021.emnlp-main.564/](https://aclanthology.org/2021.emnlp-main.564/)
+- 代码链接：[https://github.com/peterwestuw/surface-form-competition](https://github.com/peterwestuw/surface-form-competition)
+
+#### Don’t Go Far Off: An Empirical Study on Neural Poetry Translation
+
+- 论文链接：[https://aclanthology.org/2021.emnlp-main.577/](https://aclanthology.org/2021.emnlp-main.577/)
+- 代码链接：[https://github.com/tuhinjubcse/poetrytranslationemnlp2021](https://github.com/tuhinjubcse/poetrytranslationemnlp2021)
+
+#### ConvAbuse: Data, Analysis, and Benchmarks for Nuanced Abuse Detection in Conversational AI
+
+- 论文链接：[https://aclanthology.org/2021.emnlp-main.587/](https://aclanthology.org/2021.emnlp-main.587/)
+- 代码链接：[https://github.com/amandacurry/convabuse](https://github.com/amandacurry/convabuse)
+
+#### Effective Sequence-to-Sequence Dialogue State Tracking
+
+- 论文链接：[https://aclanthology.org/2021.emnlp-main.593/](https://aclanthology.org/2021.emnlp-main.593/)
+- 代码链接：[https://github.com/smartyfh/MultiWOZ2.4](https://github.com/smartyfh/MultiWOZ2.4)
+
+#### Assessing the Reliability of Word Embedding Gender Bias Measures
+
+- 论文链接：[https://aclanthology.org/2021.emnlp-main.785/](https://aclanthology.org/2021.emnlp-main.785/)
+- 代码链接：[https://github.com/nlpsoc/reliability_bias](https://github.com/nlpsoc/reliability_bias)
