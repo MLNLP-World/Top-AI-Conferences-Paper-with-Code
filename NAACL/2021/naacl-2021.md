@@ -3322,9 +3322,6 @@ Inference Time Style Control for Summarization
 - 论文链接：https://aclanthology.org/2021.naacl-main.476.pdf
 - 代码链接：https://shuyangcao.github.io/projects/inference_style_control
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### KILT: a Benchmark for Knowledge Intensive Language Tasks
 

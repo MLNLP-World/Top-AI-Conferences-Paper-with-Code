@@ -346,9 +346,6 @@
 | PCToolkit: A Unified Plug-and-Play Prompt Compression Toolkit of Large Language Models | [链接](https://www.ijcai.org/proceedings/2025/1277) | [https://github.com/3DAgentWorld/Toolkit-for-Prompt-Compression](https://github.com/3DAgentWorld/Toolkit-for-Prompt-Compression) |
 | A Smart Multimodal Healthcare Copilot with Powerful LLM Reasoning | [链接](https://www.ijcai.org/proceedings/2025/1278) | [https://github.com/SNOWTEAM2023/MedRAG](https://github.com/SNOWTEAM2023/MedRAG) |
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents
 

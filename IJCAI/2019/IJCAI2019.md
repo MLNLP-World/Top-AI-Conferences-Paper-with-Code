@@ -4047,9 +4047,6 @@
 
 - 论文链接：[https://www.ijcai.org/proceedings/2019/0965.pdf](https://www.ijcai.org/proceedings/2019/0965.pdf)
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019
 

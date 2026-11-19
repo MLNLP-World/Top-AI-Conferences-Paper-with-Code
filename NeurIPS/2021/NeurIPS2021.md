@@ -6429,9 +6429,6 @@
 - 代码链接：[https://github.com/gmum/Zero-Time-Waste](https://github.com/gmum/Zero-Time-Waste)
 
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### Time Discretization-Invariant Safe Action Repetition for Policy Gradient Methods
 

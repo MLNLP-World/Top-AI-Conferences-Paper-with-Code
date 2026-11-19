@@ -2484,9 +2484,6 @@
 
 
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### Stay Hungry, Stay Focused: Generating Informative and Specific Questions in Information-Seeking Conversations
 

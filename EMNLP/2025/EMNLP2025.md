@@ -2353,9 +2353,6 @@
 - 论文链接：[https://aclanthology.org/2025.findings-emnlp.1405/](https://aclanthology.org/2025.findings-emnlp.1405/)
 - 代码链接：[https://github.com/yajingyang/kahan](https://github.com/yajingyang/kahan)
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### AIPOM: Agent-aware Interactive Planning for Multi-Agent Systems
 

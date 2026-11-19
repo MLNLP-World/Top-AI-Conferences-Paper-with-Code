@@ -673,9 +673,6 @@
 - 论文链接：[https://aclanthology.org/2024.findings-naacl.293/](https://aclanthology.org/2024.findings-naacl.293/)
 - 代码链接：[https://github.com/HUFS-NLP/CL_Polarizer.git](https://github.com/HUFS-NLP/CL_Polarizer.git)
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### TOPICAL: TOPIC Pages AutomagicaLly
 

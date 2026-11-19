@@ -9349,9 +9349,6 @@
 - 代码链接：[https://github.com/Kou-99/ZoomTrack](https://github.com/Kou-99/ZoomTrack)
 
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### Modelling Cellular Perturbations with the Sparse Additive Mechanism Shift Variational Autoencoder
 

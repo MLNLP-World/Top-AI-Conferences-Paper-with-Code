@@ -831,9 +831,6 @@ Deep Bucket Elimination
 - 论文链接：https://www.ijcai.org/proceedings/2021/0582.pdf
 - 代码链接：https://github.com/dechterlab/DBE
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### Temporal Induced Self-Play for Stochastic Bayesian Games
 

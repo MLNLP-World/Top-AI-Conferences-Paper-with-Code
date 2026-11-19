@@ -160,9 +160,6 @@
 | Optimized Crystallographic Graph Generation for Material Science | [链接](https://www.ijcai.org/proceedings/2023/836) | [https://github.com/aklipf/mat-graph](https://github.com/aklipf/mat-graph) |
 | LingGe: An Automatic Ancient Chinese Poem-to-Song Generation System | [链接](https://www.ijcai.org/proceedings/2023/842) | [https://boya-music.github.io/lingge](https://boya-music.github.io/lingge) |
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### Explainable Multi-Agent Reinforcement Learning for Temporal Queries
 

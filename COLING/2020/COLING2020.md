@@ -108,9 +108,6 @@
 - 论文链接：https://aclanthology.org/2020.coling-main.245.pdf
 - 代码链接：https://github.com/saharghannay/MEDIA
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### Infusing Sequential Information into Conditional Masked Translation Model with Self-Review Mechanism
 

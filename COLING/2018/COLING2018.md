@@ -751,9 +751,6 @@
 
 + 代码链接：[https://github.com/lancopku/SGM](https://github.com/lancopku/SGM)
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### Challenges of language technologies for the indigenous languages of the Americas
 

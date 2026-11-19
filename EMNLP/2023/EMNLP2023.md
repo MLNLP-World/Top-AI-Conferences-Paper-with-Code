@@ -1198,9 +1198,6 @@
 - 论文链接：[https://aclanthology.org/2023.findings-emnlp.1055/](https://aclanthology.org/2023.findings-emnlp.1055/)
 - 代码链接：[https://github.com/0nutation/SpeechGPT.Demos](https://github.com/0nutation/SpeechGPT.Demos)
 
-## PaperVault 补充
-
-<!-- Source: https://github.com/youngfish42/PaperVault -->
 
 #### Fabricator: An Open Source Toolkit for Generating Labeled Training Data with Teacher LLMs
 
