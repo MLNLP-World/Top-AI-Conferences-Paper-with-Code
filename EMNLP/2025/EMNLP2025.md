@@ -2697,11 +2697,6 @@
 - 论文链接：[https://aclanthology.org/2025.emnlp-main.337/](https://aclanthology.org/2025.emnlp-main.337/)
 - 代码链接：[https://github.com/8023looker/versatune](https://github.com/8023looker/versatune)
 
-#### FlightGPT: Towards Generalizable and Interpretable UAV Vision-and-Language Navigation with Vision-Language Models
-
-- 论文链接：[https://aclanthology.org/2025.emnlp-main.338/](https://aclanthology.org/2025.emnlp-main.338/)
-- 代码链接：[https://github.com/pendulumclock/flightgpt](https://github.com/pendulumclock/flightgpt)
-
 #### LoSiA: Efficient High-Rank Fine-Tuning via Subnet Localization and Optimization
 
 - 论文链接：[https://aclanthology.org/2025.emnlp-main.340/](https://aclanthology.org/2025.emnlp-main.340/)
@@ -3281,11 +3276,6 @@
 
 - 论文链接：[https://aclanthology.org/2025.emnlp-main.1772/](https://aclanthology.org/2025.emnlp-main.1772/)
 - 代码链接：[https://github.com/HLR/FoREST](https://github.com/HLR/FoREST)
-
-#### Constrained Non-negative Matrix Factorization for Guided Topic Modeling of Minority Topics
-
-- 论文链接：[https://aclanthology.org/2025.emnlp-main.1802/](https://aclanthology.org/2025.emnlp-main.1802/)
-- 代码链接：[https://github.com/anonymous-researcher-573/contrained_non-negative-matrix-factorization](https://github.com/anonymous-researcher-573/contrained_non-negative-matrix-factorization)
 
 #### A Head to Predict and a Head to Question: Pre-trained Uncertainty Quantification Heads for Hallucination Detection in LLM Outputs
 

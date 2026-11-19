@@ -3788,11 +3788,6 @@
 - 论文链接：[https://aclanthology.org/2021.emnlp-main.483/](https://aclanthology.org/2021.emnlp-main.483/)
 - 代码链接：[https://github.com/simengsun/iga-an-intent-guided-authoring-assistant](https://github.com/simengsun/iga-an-intent-guided-authoring-assistant)
 
-#### Structure-aware Fine-tuning of Sequence-to-sequence Transformers for Transition-based AMR Parsing
-
-- 论文链接：[https://aclanthology.org/2021.emnlp-main.507/](https://aclanthology.org/2021.emnlp-main.507/)
-- 代码链接：[https://github.com/IBM/transition-amr-parser](https://github.com/IBM/transition-amr-parser)
-
 #### Surface Form Competition: Why the Highest Probability Answer Isn’t Always Right
 
 - 论文链接：[https://aclanthology.org/2021.emnlp-main.564/](https://aclanthology.org/2021.emnlp-main.564/)

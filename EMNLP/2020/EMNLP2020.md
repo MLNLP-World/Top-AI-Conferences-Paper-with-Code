@@ -2688,11 +2688,6 @@
 - 论文链接：[https://aclanthology.org/2020.findings-emnlp.88/](https://aclanthology.org/2020.findings-emnlp.88/)
 - 代码链接：[https://github.com/ilmgut/limit_dataset](https://github.com/ilmgut/limit_dataset)
 
-#### Transition-based Parsing with Stack-Transformers
-
-- 论文链接：[https://aclanthology.org/2020.findings-emnlp.89/](https://aclanthology.org/2020.findings-emnlp.89/)
-- 代码链接：[https://github.com/IBM/transition-amr-parser](https://github.com/IBM/transition-amr-parser)
-
 #### Generative Data Augmentation for Commonsense Reasoning
 
 - 论文链接：[https://aclanthology.org/2020.findings-emnlp.90/](https://aclanthology.org/2020.findings-emnlp.90/)
@@ -3093,11 +3088,6 @@
 - 论文链接：[https://aclanthology.org/2020.findings-emnlp.254/](https://aclanthology.org/2020.findings-emnlp.254/)
 - 代码链接：[https://github.com/LCS2-IIITD/summarization_bias.git](https://github.com/LCS2-IIITD/summarization_bias.git)
 
-#### Graph-to-Tree Neural Networks for Learning Structured Input-Output Translation with Applications to Semantic Parsing and Math Word Problem
-
-- 论文链接：[https://aclanthology.org/2020.findings-emnlp.255/](https://aclanthology.org/2020.findings-emnlp.255/)
-- 代码链接：[https://github.com/IBM/Graph2Tree](https://github.com/IBM/Graph2Tree)
-
 #### Inferring symmetry in natural language
 
 - 论文链接：[https://aclanthology.org/2020.findings-emnlp.259/](https://aclanthology.org/2020.findings-emnlp.259/)
@@ -3172,11 +3162,6 @@
 
 - 论文链接：[https://aclanthology.org/2020.findings-emnlp.287/](https://aclanthology.org/2020.findings-emnlp.287/)
 - 代码链接：[https://github.com/zorikg/KoBE](https://github.com/zorikg/KoBE)
-
-#### Pushing the Limits of AMR Parsing with Self-Learning
-
-- 论文链接：[https://aclanthology.org/2020.findings-emnlp.288/](https://aclanthology.org/2020.findings-emnlp.288/)
-- 代码链接：[https://github.com/IBM/transition-amr-parser](https://github.com/IBM/transition-amr-parser)
 
 #### Towards Zero-Shot Conditional Summarization with Adaptive Multi-Task Fine-Tuning
 
@@ -3342,11 +3327,6 @@
 
 - 论文链接：[https://aclanthology.org/2020.findings-emnlp.353/](https://aclanthology.org/2020.findings-emnlp.353/)
 - 代码链接：[https://github.com/danishpruthi/evidence-extraction](https://github.com/danishpruthi/evidence-extraction)
-
-#### Effects of Naturalistic Variation in Goal-Oriented Dialog
-
-- 论文链接：[https://aclanthology.org/2020.findings-emnlp.358/](https://aclanthology.org/2020.findings-emnlp.358/)
-- 代码链接：[https://github.com/IBM/naturalistic-variation-goal-oriented-dialog-datasets](https://github.com/IBM/naturalistic-variation-goal-oriented-dialog-datasets)
 
 #### WikiLingua: A New Benchmark Dataset for Cross-Lingual Abstractive Summarization
 
@@ -3707,11 +3687,6 @@
 
 - 论文链接：[https://aclanthology.org/2020.emnlp-main.19/](https://aclanthology.org/2020.emnlp-main.19/)
 - 代码链接：[https://github.com/google-research/google-research/tree/master/etcmodel](https://github.com/google-research/google-research/tree/master/etcmodel)
-
-#### Conversational Document Prediction to Assist Customer Care Agents
-
-- 论文链接：[https://aclanthology.org/2020.emnlp-main.25/](https://aclanthology.org/2020.emnlp-main.25/)
-- 代码链接：[https://github.com/IBM/twitter-customer-care-document-prediction](https://github.com/IBM/twitter-customer-care-document-prediction)
 
 #### TernaryBERT: Distillation-aware Ultra-low Bit BERT
 

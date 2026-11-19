@@ -1327,11 +1327,6 @@
 - 论文链接：[https://aclanthology.org/2023.emnlp-demo.46/](https://aclanthology.org/2023.emnlp-demo.46/)
 - 代码链接：[https://github.com/thu-keg/omnievent](https://github.com/thu-keg/omnievent)
 
-#### CocoSciSum: A Scientific Summarization Toolkit with Compositional Controllability
-
-- 论文链接：[https://aclanthology.org/2023.emnlp-demo.47/](https://aclanthology.org/2023.emnlp-demo.47/)
-- 代码链接：[https://github.com/WING-NUS/SciAssist/tree/CocoSciSum](https://github.com/WING-NUS/SciAssist/tree/CocoSciSum)
-
 #### CoLLiE: Collaborative Training of Large Language Models in an Efficient Way
 
 - 论文链接：[https://aclanthology.org/2023.emnlp-demo.48/](https://aclanthology.org/2023.emnlp-demo.48/)
@@ -1371,11 +1366,6 @@
 
 - 论文链接：[https://aclanthology.org/2023.emnlp-industry.29/](https://aclanthology.org/2023.emnlp-industry.29/)
 - 代码链接：[https://github.com/keanudicap/MSQA](https://github.com/keanudicap/MSQA)
-
-#### Towards Safer Operations: An Expert-involved Dataset of High-Pressure Gas Incidents for Preventing Future Failures
-
-- 论文链接：[https://aclanthology.org/2023.emnlp-industry.49/](https://aclanthology.org/2023.emnlp-industry.49/)
-- 代码链接：[https://github.com/Cinnamon/incident-ai-dataset](https://github.com/Cinnamon/incident-ai-dataset)
 
 #### Multi-word Tokenization for Sequence Compression
 
@@ -4042,11 +4032,6 @@
 - 论文链接：[https://aclanthology.org/2023.findings-emnlp.179/](https://aclanthology.org/2023.findings-emnlp.179/)
 - 代码链接：[https://github.com/noewangjy/sp-cot](https://github.com/noewangjy/sp-cot)
 
-#### CASE: Commonsense-Augmented Score with an Expanded Answer Space
-
-- 论文链接：[https://aclanthology.org/2023.findings-emnlp.180/](https://aclanthology.org/2023.findings-emnlp.180/)
-- 代码链接：[https://github.com/wk-chen/commonsense-augmented-score-with-an-expanded-answer-space](https://github.com/wk-chen/commonsense-augmented-score-with-an-expanded-answer-space)
-
 #### GRENADE: Graph-Centric Language Model for Self-Supervised Representation Learning on Text-Attributed Graphs
 
 - 论文链接：[https://aclanthology.org/2023.findings-emnlp.181/](https://aclanthology.org/2023.findings-emnlp.181/)
@@ -5286,11 +5271,6 @@
 
 - 论文链接：[https://aclanthology.org/2023.findings-emnlp.894/](https://aclanthology.org/2023.findings-emnlp.894/)
 - 代码链接：[https://github.com/cclx/effective_metrics](https://github.com/cclx/effective_metrics)
-
-#### Sound of Story: Multi-modal Storytelling with Audio
-
-- 论文链接：[https://aclanthology.org/2023.findings-emnlp.898/](https://aclanthology.org/2023.findings-emnlp.898/)
-- 代码链接：[https://github.com/sosdatasets/sos_dataset](https://github.com/sosdatasets/sos_dataset)
 
 #### Cross-modality Data Augmentation for End-to-End Sign Language Translation
 
