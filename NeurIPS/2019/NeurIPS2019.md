@@ -4933,3 +4933,117 @@
 - 论文链接：[https://paperswithcode.com/paper/zo-adamm-zeroth-order-adaptive-momentum](https://paperswithcode.com/paper/zo-adamm-zeroth-order-adaptive-momentum)
 - 代码链接：[https://github.com/KaidiXu/ZO-AdaMM](https://github.com/KaidiXu/ZO-AdaMM)
 
+
+## PaperVault 补充
+
+<!-- Source: https://github.com/youngfish42/PaperVault -->
+
+#### Bayesian Optimization under Heavy-tailed Payoffs
+
+- 论文链接：[https://papers.nips.cc/paper/2019/hash/06a50e3f66db4a334202d3adfd31c589-Abstract.html](https://papers.nips.cc/paper/2019/hash/06a50e3f66db4a334202d3adfd31c589-Abstract.html)
+- 代码链接：[https://github.com/sayakrc/Bayesian-Optimization-under-Heavy-tailed-Payoffs](https://github.com/sayakrc/Bayesian-Optimization-under-Heavy-tailed-Payoffs)
+
+#### A Normative Theory for Causal Inference and Bayes Factor Computation in Neural Circuits
+
+- 论文链接：[https://papers.nips.cc/paper/2019/hash/07cb5f86508f146774a2fac4373a8e50-Abstract.html](https://papers.nips.cc/paper/2019/hash/07cb5f86508f146774a2fac4373a8e50-Abstract.html)
+- 代码链接：[https://github.com/wenhao-z/Bayes_factor_Opposite_neuron](https://github.com/wenhao-z/Bayes_factor_Opposite_neuron)
+
+#### Average Individual Fairness: Algorithms, Generalization and Experiments
+
+- 论文链接：[https://papers.nips.cc/paper/2019/hash/0e1feae55e360ff05fef58199b3fa521-Abstract.html](https://papers.nips.cc/paper/2019/hash/0e1feae55e360ff05fef58199b3fa521-Abstract.html)
+- 代码链接：[https://github.com/SaeedSharifiMa/AIF](https://github.com/SaeedSharifiMa/AIF)
+
+#### Attentive State-Space Modeling of Disease Progression
+
+- 论文链接：[https://papers.nips.cc/paper/2019/hash/1d0932d7f57ce74d9d9931a2c6db8a06-Abstract.html](https://papers.nips.cc/paper/2019/hash/1d0932d7f57ce74d9d9931a2c6db8a06-Abstract.html)
+- 代码链接：[https://github.com/ahmedmalaa/attentive-state-space-models](https://github.com/ahmedmalaa/attentive-state-space-models)
+
+#### Batched Multi-armed Bandits Problem
+
+- 论文链接：[https://papers.nips.cc/paper/2019/hash/20f07591c6fcb220ffe637cda29bb3f6-Abstract.html](https://papers.nips.cc/paper/2019/hash/20f07591c6fcb220ffe637cda29bb3f6-Abstract.html)
+- 代码链接：[https://github.com/Mathegineer/batched-bandit](https://github.com/Mathegineer/batched-bandit)
+
+#### Augmented Neural ODEs
+
+- 论文链接：[https://papers.nips.cc/paper/2019/hash/21be9a4bd4f81549a9d1d241981cec3c-Abstract.html](https://papers.nips.cc/paper/2019/hash/21be9a4bd4f81549a9d1d241981cec3c-Abstract.html)
+- 代码链接：[https://github.com/EmilienDupont/augmented-neural-odes](https://github.com/EmilienDupont/augmented-neural-odes)
+
+#### Balancing Efficiency and Fairness in On-Demand Ridesourcing
+
+- 论文链接：[https://papers.nips.cc/paper/2019/hash/3070e6addcd702cb58de5d7897bfdae1-Abstract.html](https://papers.nips.cc/paper/2019/hash/3070e6addcd702cb58de5d7897bfdae1-Abstract.html)
+- 代码链接：[https://github.com/zxok365/On-Demand-Ridesourcing-Project](https://github.com/zxok365/On-Demand-Ridesourcing-Project)
+
+#### REM: From Structural Entropy to Community Structure Deception
+
+- 论文链接：[https://papers.nips.cc/paper/2019/hash/328347805873e9a9c700591812fb0ec2-Abstract.html](https://papers.nips.cc/paper/2019/hash/328347805873e9a9c700591812fb0ec2-Abstract.html)
+- 代码链接：[https://github.com/CommunityDeception/CommunityDeceptor](https://github.com/CommunityDeception/CommunityDeceptor)
+
+#### AutoPrune: Automatic Network Pruning by Regularizing Auxiliary Parameters
+
+- 论文链接：[https://papers.nips.cc/paper/2019/hash/4efc9e02abdab6b6166251918570a307-Abstract.html](https://papers.nips.cc/paper/2019/hash/4efc9e02abdab6b6166251918570a307-Abstract.html)
+- 代码链接：[https://github.com/xxshdw/auto_prune](https://github.com/xxshdw/auto_prune)
+
+#### Bayesian Learning of Sum-Product Networks
+
+- 论文链接：[https://papers.nips.cc/paper/2019/hash/5421e013565f7f1afa0cfe8ad87a99ab-Abstract.html](https://papers.nips.cc/paper/2019/hash/5421e013565f7f1afa0cfe8ad87a99ab-Abstract.html)
+- 代码链接：[https://github.com/trappmartin/BayesianSumProductNetworks](https://github.com/trappmartin/BayesianSumProductNetworks)
+
+#### A unified theory for the origin of grid cells through the lens of pattern formation
+
+- 论文链接：[https://papers.nips.cc/paper/2019/hash/6e7d5d259be7bf56ed79029c4e621f44-Abstract.html](https://papers.nips.cc/paper/2019/hash/6e7d5d259be7bf56ed79029c4e621f44-Abstract.html)
+- 代码链接：[https://github.com/ganguli-lab/grid-pattern-formation](https://github.com/ganguli-lab/grid-pattern-formation)
+
+#### Backpropagation-Friendly Eigendecomposition
+
+- 论文链接：[https://papers.nips.cc/paper/2019/hash/7dd0240cd412efde8bc165e864d3644f-Abstract.html](https://papers.nips.cc/paper/2019/hash/7dd0240cd412efde8bc165e864d3644f-Abstract.html)
+- 代码链接：[https://github.com/WeiWangTrento/Power-Iteration-SVD](https://github.com/WeiWangTrento/Power-Iteration-SVD)
+
+#### No-Press Diplomacy: Modeling Multi-Agent Gameplay
+
+- 论文链接：[https://papers.nips.cc/paper/2019/hash/84b20b1f5a0d103f5710bb67a043cd78-Abstract.html](https://papers.nips.cc/paper/2019/hash/84b20b1f5a0d103f5710bb67a043cd78-Abstract.html)
+- 代码链接：[https://github.com/diplomacy/research](https://github.com/diplomacy/research)
+
+#### Bayesian Batch Active Learning as Sparse Subset Approximation
+
+- 论文链接：[https://papers.nips.cc/paper/2019/hash/84c2d4860a0fc27bcf854c444fb8b400-Abstract.html](https://papers.nips.cc/paper/2019/hash/84c2d4860a0fc27bcf854c444fb8b400-Abstract.html)
+- 代码链接：[https://github.com/rpinsler/active-bayesian-coresets](https://github.com/rpinsler/active-bayesian-coresets)
+
+#### Bayesian Joint Estimation of Multiple Graphical Models
+
+- 论文链接：[https://papers.nips.cc/paper/2019/hash/94130ea17023c4837f0dcdda95034b65-Abstract.html](https://papers.nips.cc/paper/2019/hash/94130ea17023c4837f0dcdda95034b65-Abstract.html)
+- 代码链接：[https://github.com/xinming104/GemBag](https://github.com/xinming104/GemBag)
+
+#### BatchBALD: Efficient and Diverse Batch Acquisition for Deep Bayesian Active Learning
+
+- 论文链接：[https://papers.nips.cc/paper/2019/hash/95323660ed2124450caaac2c46b5ed90-Abstract.html](https://papers.nips.cc/paper/2019/hash/95323660ed2124450caaac2c46b5ed90-Abstract.html)
+- 代码链接：[https://github.com/BlackHC/BatchBALD](https://github.com/BlackHC/BatchBALD)
+
+#### AttentionXML: Label Tree-based Attention-Aware Deep Model for High-Performance Extreme Multi-Label Text Classification
+
+- 论文链接：[https://papers.nips.cc/paper/2019/hash/9e6a921fbc428b5638b3986e365d4f21-Abstract.html](https://papers.nips.cc/paper/2019/hash/9e6a921fbc428b5638b3986e365d4f21-Abstract.html)
+- 代码链接：[http://github.com/yourh/AttentionXML](http://github.com/yourh/AttentionXML)
+
+#### Average Case Column Subset Selection for Entrywise $\ell_1$-Norm Loss
+
+- 论文链接：[https://papers.nips.cc/paper/2019/hash/b32e8760418e68f23c811a1cfd6bda78-Abstract.html](https://papers.nips.cc/paper/2019/hash/b32e8760418e68f23c811a1cfd6bda78-Abstract.html)
+- 代码链接：[https://github.com/zpl7840/noise_l1_low_rank_approximation](https://github.com/zpl7840/noise_l1_low_rank_approximation)
+
+#### Dual Variational Generation for Low Shot Heterogeneous Face Recognition
+
+- 论文链接：[https://papers.nips.cc/paper/2019/hash/b5a1fc2085986034e448d2ccc5bb9703-Abstract.html](https://papers.nips.cc/paper/2019/hash/b5a1fc2085986034e448d2ccc5bb9703-Abstract.html)
+- 代码链接：[https://github.com/BradyFU/DVG](https://github.com/BradyFU/DVG)
+
+#### A Unifying Framework for Spectrum-Preserving Graph Sparsification and Coarsening
+
+- 论文链接：[https://papers.nips.cc/paper/2019/hash/cd474f6341aeffd65f93084d0dae3453-Abstract.html](https://papers.nips.cc/paper/2019/hash/cd474f6341aeffd65f93084d0dae3453-Abstract.html)
+- 代码链接：[https://github.com/Gecia/A-Unifying-Framework-for-Spectrum-Preserving-Graph-Sparsification-and-Coarsening](https://github.com/Gecia/A-Unifying-Framework-for-Spectrum-Preserving-Graph-Sparsification-and-Coarsening)
+
+#### Sample-Efficient Deep Reinforcement Learning via Episodic Backward Update
+
+- 论文链接：[https://papers.nips.cc/paper/2019/hash/e6d8545daa42d5ced125a4bf747b3688-Abstract.html](https://papers.nips.cc/paper/2019/hash/e6d8545daa42d5ced125a4bf747b3688-Abstract.html)
+- 代码链接：[https://github.com/suyoung-lee/Episodic-Backward-Update](https://github.com/suyoung-lee/Episodic-Backward-Update)
+
+#### Generative Models for Graph-Based Protein Design
+
+- 论文链接：[https://papers.nips.cc/paper/2019/hash/f3a4ff4839c56a5f460c88cce3666a2b-Abstract.html](https://papers.nips.cc/paper/2019/hash/f3a4ff4839c56a5f460c88cce3666a2b-Abstract.html)
+- 代码链接：[https://github.com/jingraham/neurips19-graph-protein-design](https://github.com/jingraham/neurips19-graph-protein-design)

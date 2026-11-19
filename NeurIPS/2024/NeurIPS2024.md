@@ -12003,3 +12003,3437 @@
 - 论文链接：[https://openreview.net/forum?id=4jXaca2NYa](https://openreview.net/forum?id=4jXaca2NYa)
 - 代码链接：[https://github.com/PJLab-ADG/ZOPP](https://github.com/PJLab-ADG/ZOPP)
 
+
+## PaperVault 补充
+
+<!-- Source: https://github.com/youngfish42/PaperVault -->
+
+#### GITA: Graph to Visual and Textual Integration for Vision-Language Graph Reasoning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/00295cede6e1600d344b5cd6d9fd4640-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/00295cede6e1600d344b5cd6d9fd4640-Abstract-Conference.html)
+- 代码链接：[https://github.com/WEIYanbin1999/GITA](https://github.com/WEIYanbin1999/GITA)
+
+#### DrivAerNet++: A Large-Scale Multimodal Car Dataset with Computational Fluid Dynamics Simulations and Deep Learning Benchmarks
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/013cf29a9e68e4411d0593040a8a1eb3-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/013cf29a9e68e4411d0593040a8a1eb3-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/Mohamedelrefaie/DrivAerNet](https://github.com/Mohamedelrefaie/DrivAerNet)
+
+#### Bench2Drive: Towards Multi-Ability Benchmarking of Closed-Loop End-To-End Autonomous Driving
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/017761f94a1cd66d01c041aff85492c4-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/017761f94a1cd66d01c041aff85492c4-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/Thinklab-SJTU/Bench2Drive](https://github.com/Thinklab-SJTU/Bench2Drive)
+
+#### FEDMEKI: A Benchmark for Scaling Medical Foundation Models via Federated Knowledge Injection
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/0235cbb8cd6425d0b55daefce388fc0b-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/0235cbb8cd6425d0b55daefce388fc0b-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/psudslab/FEDMEKI](https://github.com/psudslab/FEDMEKI)
+
+#### GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/023d2c1a17cf35b11a0cbb43a0677c91-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/023d2c1a17cf35b11a0cbb43a0677c91-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/aaronz345/gtsinger](https://github.com/aaronz345/gtsinger)
+
+#### KVQuant: Towards 10 Million Context Length LLM Inference with KV Cache Quantization
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/028fcbcf85435d39a40c4d61b42c99a4-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/028fcbcf85435d39a40c4d61b42c99a4-Abstract-Conference.html)
+- 代码链接：[https://github.com/squeezeailab/kvquant](https://github.com/squeezeailab/kvquant)
+
+#### DiffPano: Scalable and Consistent Text to Panorama Generation with Spherical Epipolar-Aware Diffusion
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/02c1d1d33dbfbaf03b3971bb542e72e2-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/02c1d1d33dbfbaf03b3971bb542e72e2-Abstract-Conference.html)
+- 代码链接：[https://github.com/zju3dv/diffpano](https://github.com/zju3dv/diffpano)
+
+#### SciInstruct: a Self-Reflective Instruction Annotated Dataset for Training Scientific Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/02ee6b7295f720407b56c457b34c54d5-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/02ee6b7295f720407b56c457b34c54d5-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/THUDM/SciGLM](https://github.com/THUDM/SciGLM)
+
+#### HelpSteer 2: Open-source dataset for training top-performing reward models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/02fd91a387a6a5a5751e81b58a75af90-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/02fd91a387a6a5a5751e81b58a75af90-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/NVIDIA/NeMo-Aligner](https://github.com/NVIDIA/NeMo-Aligner)
+
+#### Efficient Adversarial Training in LLMs with Continuous Attacks
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/0302fb83c62991efbccf0a003e4f5a92-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/0302fb83c62991efbccf0a003e4f5a92-Abstract-Conference.html)
+- 代码链接：[https://github.com/sophie-xhonneux/continuous-advtrain](https://github.com/sophie-xhonneux/continuous-advtrain)
+
+#### LibMOON: A Gradient-based MultiObjective OptimizatioN Library in PyTorch
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/03ce71224741e6596059b8680a62978b-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/03ce71224741e6596059b8680a62978b-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/xzhang2523/libmoon](https://github.com/xzhang2523/libmoon)
+
+#### Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/03e9a69e5b686c316a07d73f0cf5e225-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/03e9a69e5b686c316a07d73f0cf5e225-Abstract-Conference.html)
+- 代码链接：[https://github.com/humansensinglab/Hamba](https://github.com/humansensinglab/Hamba)
+
+#### Autonomous Agents for Collaborative Task under Information Asymmetry
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/0534abc9e6db91683d82186ef0d68202-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/0534abc9e6db91683d82186ef0d68202-Abstract-Conference.html)
+- 代码链接：[https://github.com/thinkwee/iAgents](https://github.com/thinkwee/iAgents)
+
+#### A Hitchhiker's Guide to Fine-Grained Face Forgery Detection Using Common Sense Reasoning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/059d2b9188cdb7ae00f4d78cc9469704-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/059d2b9188cdb7ae00f4d78cc9469704-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/NickyFot/HitchhikersGuide](https://github.com/NickyFot/HitchhikersGuide)
+
+#### UltraEdit: Instruction-based Fine-Grained Image Editing at Scale
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/05a30a0fc9e6bacdd3abd4ca8508a9e6-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/05a30a0fc9e6bacdd3abd4ca8508a9e6-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/pkunlp-icler/ultraedit](https://github.com/pkunlp-icler/ultraedit)
+
+#### CARE: a Benchmark Suite for the Classification and Retrieval of Enzymes
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/05a7ad45d75a3082d7a3a70de8743140-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/05a7ad45d75a3082d7a3a70de8743140-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/jsunn-y/CARE/](https://github.com/jsunn-y/CARE/)
+
+#### VRSBench: A Versatile Vision-Language Benchmark Dataset for Remote Sensing Image Understanding
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/05b7f821234f66b78f99e7803fffa78a-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/05b7f821234f66b78f99e7803fffa78a-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/lx709/vrsbench](https://github.com/lx709/vrsbench)
+
+#### SolarCube: An Integrative Benchmark Dataset Harnessing Satellite and In-situ Observations for Large-scale Solar Energy Forecasting
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/06477eb61ea6b85c6608d42a222462df-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/06477eb61ea6b85c6608d42a222462df-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/Ruohan-Li/SolarCube](https://github.com/Ruohan-Li/SolarCube)
+
+#### MADiff: Offline Multi-agent Learning with Diffusion Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/07e278a120830b10aae20cc600a8c07b-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/07e278a120830b10aae20cc600a8c07b-Abstract-Conference.html)
+- 代码链接：[https://github.com/zbzhu99/madiff](https://github.com/zbzhu99/madiff)
+
+#### TaskBench: Benchmarking Large Language Models for Task Automation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/085185ea97db31ae6dcac7497616fd3e-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/085185ea97db31ae6dcac7497616fd3e-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/microsoft/JARVIS](https://github.com/microsoft/JARVIS)
+
+#### Star-Agents: Automatic Data Optimization with LLM Agents for Instruction Tuning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/0852b88e96d973bd4e21b673f51621d0-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/0852b88e96d973bd4e21b673f51621d0-Abstract-Conference.html)
+- 代码链接：[https://github.com/CANGLETIAN/Star-Agents](https://github.com/CANGLETIAN/Star-Agents)
+
+#### Generative Semi-supervised Graph Anomaly Detection
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/085b4b5d1f81ad9e057ad2b3de922ad4-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/085b4b5d1f81ad9e057ad2b3de922ad4-Abstract-Conference.html)
+- 代码链接：[https://github.com/mala-lab/ggad](https://github.com/mala-lab/ggad)
+
+#### Weak-to-Strong Search: Align Large Language Models via Searching over Small Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/088d99765bc121c6df215da7d45bc4e9-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/088d99765bc121c6df215da7d45bc4e9-Abstract-Conference.html)
+- 代码链接：[https://github.com/zhziszz/weak-to-strong-search](https://github.com/zhziszz/weak-to-strong-search)
+
+#### Can Graph Learning Improve Planning in LLM-based Agents?
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/098d1bd3eb6156a4c2f834563cdcf617-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/098d1bd3eb6156a4c2f834563cdcf617-Abstract-Conference.html)
+- 代码链接：[https://github.com/wxxshirley/gnn4taskplan](https://github.com/wxxshirley/gnn4taskplan)
+
+#### WorkArena++: Towards Compositional Planning and Reasoning-based Common Knowledge Work Tasks
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/0b82662b6c32e887bb252a74d8cb2d5e-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/0b82662b6c32e887bb252a74d8cb2d5e-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/ServiceNow/WorkArena](https://github.com/ServiceNow/WorkArena)
+
+#### DMC-VB: A Benchmark for Representation Learning for Control with Visual Distractors
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/0c946accd3ccc88c09dfae7e1cd40ffe-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/0c946accd3ccc88c09dfae7e1cd40ffe-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/google-deepmind/dmc_vision_benchmark](https://github.com/google-deepmind/dmc_vision_benchmark)
+
+#### BenchX: A Unified Benchmark Framework for Medical Vision-Language Pretraining on Chest X-Rays
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/0cb35e10bf7bb73d10c12414edbd63fd-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/0cb35e10bf7bb73d10c12414edbd63fd-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/yangzhou12/BenchX](https://github.com/yangzhou12/BenchX)
+
+#### HonestLLM: Toward an Honest and Helpful Large Language Model
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/0d99a8c048befb6dd6e17d7684adacac-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/0d99a8c048befb6dd6e17d7684adacac-Abstract-Conference.html)
+- 代码链接：[https://github.com/Flossiee/HonestyLLM](https://github.com/Flossiee/HonestyLLM)
+
+#### MLLMGuard: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/0d9dcd4ebef57f1839d871fe7d891e91-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/0d9dcd4ebef57f1839d871fe7d891e91-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/Carol-gutianle/MLLMGuard](https://github.com/Carol-gutianle/MLLMGuard)
+
+#### UrbanDataLayer: A Unified Data Pipeline for Urban Science
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/0db7f135f6991e8cec5e516ecc66bfba-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/0db7f135f6991e8cec5e516ecc66bfba-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/SJTU-CILAB/udl](https://github.com/SJTU-CILAB/udl)
+
+#### Text-space Graph Foundation Models: Comprehensive Benchmarks and New Insights
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/0e0b39c69663e9c073739adf547ed778-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/0e0b39c69663e9c073739adf547ed778-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/CurryTang/TSGFM](https://github.com/CurryTang/TSGFM)
+
+#### CiteME: Can Language Models Accurately Cite Scientific Claims?
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/0ef47f7b768e1a012e3d995ac8d8fac7-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/0ef47f7b768e1a012e3d995ac8d8fac7-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/bethgelab/CiteME](https://github.com/bethgelab/CiteME)
+
+#### WildGuard: Open One-stop Moderation Tools for Safety Risks, Jailbreaks, and Refusals of LLMs
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/0f69b4b96a46f284b726fbd70f74fb3b-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/0f69b4b96a46f284b726fbd70f74fb3b-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/allenai/wildguard](https://github.com/allenai/wildguard)
+
+#### Theoretical and Empirical Insights into the Origins of Degree Bias in Graph Neural Networks
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/0f94c552e5fe82bc152494985e34bd48-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/0f94c552e5fe82bc152494985e34bd48-Abstract-Conference.html)
+- 代码链接：[https://github.com/arjunsubramonian/degree-bias-exploration](https://github.com/arjunsubramonian/degree-bias-exploration)
+
+#### Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/0fd17409385ab9304e5019c6a6eb327a-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/0fd17409385ab9304e5019c6a6eb327a-Abstract-Conference.html)
+- 代码链接：[https://github.com/jiapuwang/LLM-DA](https://github.com/jiapuwang/LLM-DA)
+
+#### Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/0ff38d72a2e0aa6dbe42de83a17b2223-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/0ff38d72a2e0aa6dbe42de83a17b2223-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/deepcs233/visual-cot](https://github.com/deepcs233/visual-cot)
+
+#### MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLMs
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/1057053100de064a44286239724f7865-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/1057053100de064a44286239724f7865-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/liuziyu77/mmdu](https://github.com/liuziyu77/mmdu)
+
+#### VLKEB: A Large Vision-Language Model Knowledge Editing Benchmark
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/1198b53fa686831d5f0c0860d7ec4f34-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/1198b53fa686831d5f0c0860d7ec4f34-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/VLKEB/VLKEB](https://github.com/VLKEB/VLKEB)
+
+#### LoFiT: Localized Fine-tuning on LLM Representations
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/122ea6470232ee5e79a2649243348005-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/122ea6470232ee5e79a2649243348005-Abstract-Conference.html)
+- 代码链接：[https://github.com/fc2869/lo-fit](https://github.com/fc2869/lo-fit)
+
+#### Online Relational Inference for Evolving Multi-agent Interacting Systems
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/12d7ba753894ed348904df1bf0ce02ec-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/12d7ba753894ed348904df1bf0ce02ec-Abstract-Conference.html)
+- 代码链接：[https://github.com/beomseokg/ORI](https://github.com/beomseokg/ORI)
+
+#### Marginal Causal Flows for Validation and Inference
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/1343e23bc2d34c054040e73ad86582cf-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/1343e23bc2d34c054040e73ad86582cf-Abstract-Conference.html)
+- 代码链接：[https://github.com/llaurabatt/frugal-flows](https://github.com/llaurabatt/frugal-flows)
+
+#### DiscoveryWorld: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/13836f251823945316ae067350a5c366-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/13836f251823945316ae067350a5c366-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/allenai/discoveryworld](https://github.com/allenai/discoveryworld)
+
+#### FairJob: A Real-World Dataset for Fairness in Online Systems
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/142bff4f4c01dd55c4309860ff3a59f1-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/142bff4f4c01dd55c4309860ff3a59f1-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/criteo-research/FairJob-dataset/](https://github.com/criteo-research/FairJob-dataset/)
+
+#### CRAG - Comprehensive RAG Benchmark
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/1435d2d0fca85a84d83ddcb754f58c29-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/1435d2d0fca85a84d83ddcb754f58c29-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/facebookresearch/CRAG/](https://github.com/facebookresearch/CRAG/)
+
+#### PertEval: Unveiling Real Knowledge Capacity of LLMs with Knowledge-Invariant Perturbations
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/149578235c90954e4f10e40fa181918f-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/149578235c90954e4f10e40fa181918f-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/aigc-apps/PertEval](https://github.com/aigc-apps/PertEval)
+
+#### Selective Attention: Enhancing Transformer through Principled Context Control
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/14fc4a68da97a3d31eb11c642b0b10fc-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/14fc4a68da97a3d31eb11c642b0b10fc-Abstract-Conference.html)
+- 代码链接：[https://github.com/umich-sota/selective_attention](https://github.com/umich-sota/selective_attention)
+
+#### Personalized Instance-based Navigation Toward User-Specific Objects in Realistic Environments
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/1522f1d7ee96fafd08244f0def8a1c05-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/1522f1d7ee96fafd08244f0def8a1c05-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/aimagelab/pin](https://github.com/aimagelab/pin)
+
+#### EffiBench: Benchmarking the Efficiency of Automatically Generated Code
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/15807b6e09d691fe5e96cdecde6d7b80-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/15807b6e09d691fe5e96cdecde6d7b80-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/huangd1999/EffiBench](https://github.com/huangd1999/EffiBench)
+
+#### PutnamBench: Evaluating Neural Theorem-Provers on the Putnam Mathematical Competition
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/1582eaf9e0cf349e1e5a6ee453100aa1-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/1582eaf9e0cf349e1e5a6ee453100aa1-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/trishullab/PutnamBench](https://github.com/trishullab/PutnamBench)
+
+#### AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/15add6732964d5b1f0954058bf3ccc88-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/15add6732964d5b1f0954058bf3ccc88-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/biochunan/AsEP-dataset](https://github.com/biochunan/AsEP-dataset)
+
+#### MMM-RS: A Multi-modal, Multi-GSD, Multi-scene Remote Sensing Dataset and Benchmark for Text-to-Image Generation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/1697e3fb412da11dc9488249f9e7bbc9-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/1697e3fb412da11dc9488249f9e7bbc9-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/ljl5261/MMM-RS](https://github.com/ljl5261/MMM-RS)
+
+#### Reversing the Forget-Retain Objectives: An Efficient LLM Unlearning Framework from Logit Difference
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/171291d8fed723c6dfc76330aa827ff8-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/171291d8fed723c6dfc76330aa827ff8-Abstract-Conference.html)
+- 代码链接：[https://github.com/ucsb-nlp-chang/uld](https://github.com/ucsb-nlp-chang/uld)
+
+#### Representation Noising: A Defence Mechanism Against Harmful Finetuning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/172be8b0b88fc2b4aee74237d43f8c04-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/172be8b0b88fc2b4aee74237d43f8c04-Abstract-Conference.html)
+- 代码链接：[https://github.com/domenicrosati/representation-noising](https://github.com/domenicrosati/representation-noising)
+
+#### BLURD: Benchmarking and Learning using a Unified Rendering and Diffusion Model
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/17d25665bf6f46b7b3d32bd5cad3cbb2-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/17d25665bf6f46b7b3d32bd5cad3cbb2-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/squaringTheCircle/BLURD](https://github.com/squaringTheCircle/BLURD)
+
+#### Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/17d60fef592086d1a5cb136f1946df59-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/17d60fef592086d1a5cb136f1946df59-Abstract-Conference.html)
+- 代码链接：[https://github.com/ablghtianyi/ICL_Modular_Arithmetic](https://github.com/ablghtianyi/ICL_Modular_Arithmetic)
+
+#### Towards Comprehensive Detection of Chinese Harmful Memes
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/17fc467c11997914127c001fdc801bea-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/17fc467c11997914127c001fdc801bea-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/dut-lujunyu/toxicn_mm](https://github.com/dut-lujunyu/toxicn_mm)
+
+#### $\texttt{Model-GLUE}$: Democratized LLM Scaling for A Large Model Zoo in the Wild
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/180a476f22a52b8ef14f42b2b927afcc-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/180a476f22a52b8ef14f42b2b927afcc-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/Model-GLUE/Model-GLUE](https://github.com/Model-GLUE/Model-GLUE)
+
+#### Parameter Efficient Adaptation for Image Restoration with Heterogeneous Mixture-of-Experts
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/1862ea85f21ca819eed2b75af39bba60-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/1862ea85f21ca819eed2b75af39bba60-Abstract-Conference.html)
+- 代码链接：[https://github.com/csguoh/adaptir](https://github.com/csguoh/adaptir)
+
+#### LION: Linear Group RNN for 3D Object Detection in Point Clouds
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/189699197ead7a012c7fa4cdc4cc413d-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/189699197ead7a012c7fa4cdc4cc413d-Abstract-Conference.html)
+- 代码链接：[https://github.com/happinesslz/LION](https://github.com/happinesslz/LION)
+
+#### Fast and Memory-Efficient Video Diffusion Using Streamlined Inference
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/18b0b4c788c8f2cf6c2943b989ad18c8-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/18b0b4c788c8f2cf6c2943b989ad18c8-Abstract-Conference.html)
+- 代码链接：[https://github.com/wuyushuwys/FMEDiffusion](https://github.com/wuyushuwys/FMEDiffusion)
+
+#### Beyond Aesthetics: Cultural Competence in Text-to-Image Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/18c669b80d1a8f589713b768bc8fe9a4-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/18c669b80d1a8f589713b768bc8fe9a4-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/google-deepmind/cube](https://github.com/google-deepmind/cube)
+
+#### Initialization is Critical to Whether Transformers Fit Composite Functions by Reasoning or Memorizing
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/19c145aaad40927c51f4d10eaa339c20-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/19c145aaad40927c51f4d10eaa339c20-Abstract-Conference.html)
+- 代码链接：[https://github.com/sjtuzzw/complexity_control](https://github.com/sjtuzzw/complexity_control)
+
+#### ProgressGym: Alignment with a Millennium of Moral Progress
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/1a6d49c1a298ebb799d005b7b90ab31d-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/1a6d49c1a298ebb799d005b7b90ab31d-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/pku-alignment/progressgym](https://github.com/pku-alignment/progressgym)
+
+#### OVT-B: A New Large-Scale Benchmark for Open-Vocabulary Multi-Object Tracking
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/1adeeac24ce6168e20bcee85645720e9-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/1adeeac24ce6168e20bcee85645720e9-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/Coo1Sea/OVT-B-Dataset](https://github.com/Coo1Sea/OVT-B-Dataset)
+
+#### Touchstone Benchmark: Are We on the Right Way for Evaluating AI Algorithms for Medical Segmentation?
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/1b8726b572e0dfa72793f9f6590664fd-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/1b8726b572e0dfa72793f9f6590664fd-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/mrgiovanni/touchstone](https://github.com/mrgiovanni/touchstone)
+
+#### How do Large Language Models Handle Multilingualism?
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/1bd359b32ab8b2a6bbafa1ed2856cf40-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/1bd359b32ab8b2a6bbafa1ed2856cf40-Abstract-Conference.html)
+- 代码链接：[https://github.com/damo-nlp-sg/multilingual_analysis](https://github.com/damo-nlp-sg/multilingual_analysis)
+
+#### Benchmarking LLMs via Uncertainty Quantification
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/1bdcb065d40203a00bd39831153338bb-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/1bdcb065d40203a00bd39831153338bb-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/smartyfh/LLM-Uncertainty-Bench](https://github.com/smartyfh/LLM-Uncertainty-Bench)
+
+#### Coevolving with the Other You: Fine-Tuning LLM with Sequential Cooperative Multi-Agent Reinforcement Learning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/1c2b1c8f7d317719a9ce32dd7386ba35-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/1c2b1c8f7d317719a9ce32dd7386ba35-Abstract-Conference.html)
+- 代码链接：[https://github.com/Harry67Hu/CORY](https://github.com/Harry67Hu/CORY)
+
+#### FT-AED: Benchmark Dataset for Early Freeway Traffic Anomalous Event Detection
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/1c2e08b3af7fee5cdc2755c654738c33-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/1c2e08b3af7fee5cdc2755c654738c33-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/acoursey3/freeway-anomaly-data](https://github.com/acoursey3/freeway-anomaly-data)
+
+#### Can Large Language Model Agents Simulate Human Trust Behavior?
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/1cb57fcf7ff3f6d37eebae5becc9ea6d-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/1cb57fcf7ff3f6d37eebae5becc9ea6d-Abstract-Conference.html)
+- 代码链接：[https://github.com/camel-ai/agent-trust](https://github.com/camel-ai/agent-trust)
+
+#### Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/1cc8db5884a7474b4771762b6f0c8ee1-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/1cc8db5884a7474b4771762b6f0c8ee1-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/ink-usc/lifelong-icl](https://github.com/ink-usc/lifelong-icl)
+
+#### Mercury: A Code Efficiency Benchmark for Code Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/1df1df43b58845650b8dada00fca9772-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/1df1df43b58845650b8dada00fca9772-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/Elfsong/Mercury](https://github.com/Elfsong/Mercury)
+
+#### LVD-2M: A Long-take Video Dataset with Temporally Dense Captions
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/1df493ec1c2530c038d94d7300b5b368-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/1df493ec1c2530c038d94d7300b5b368-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/silentview/lvd-2m](https://github.com/silentview/lvd-2m)
+
+#### Loki: Low-rank Keys for Efficient Sparse Attention
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/1e027da6bec9ceb2ec37951ceeccae93-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/1e027da6bec9ceb2ec37951ceeccae93-Abstract-Conference.html)
+- 代码链接：[https://github.com/hpcgroup/loki](https://github.com/hpcgroup/loki)
+
+#### GlotCC: An Open Broad-Coverage CommonCrawl Corpus and Pipeline for Minority Languages
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/1e6057620ed314b0020b3a30284b0f83-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/1e6057620ed314b0020b3a30284b0f83-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/cisnlp/GlotCC](https://github.com/cisnlp/GlotCC)
+
+#### SafeSora: Towards Safety Alignment of Text2Video Generation via a Human Preference Dataset
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/1eb543faf7c69e8a7eb8b85f70be818f-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/1eb543faf7c69e8a7eb8b85f70be818f-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/pku-alignment/safe-sora](https://github.com/pku-alignment/safe-sora)
+
+#### From an Image to a Scene: Learning to Imagine the World from a Million 360° Videos
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/1fa3d6ccbcd15f7285fee666b2bd57be-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/1fa3d6ccbcd15f7285fee666b2bd57be-Abstract-Conference.html)
+- 代码链接：[https://github.com/mattwallingford/360-1m](https://github.com/mattwallingford/360-1m)
+
+#### SUGARCREPE++ Dataset: Vision-Language Model Sensitivity to Semantic and Lexical Alterations
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/200661bf8f4993b7828a45a2a90f2ecf-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/200661bf8f4993b7828a45a2a90f2ecf-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/Sri-Harsha/scpp](https://github.com/Sri-Harsha/scpp)
+
+#### Shopping MMLU: A Massive Multi-Task Online Shopping Benchmark for Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/2049d75dd13db049897562bcf7d59da8-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/2049d75dd13db049897562bcf7d59da8-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/KL4805/ShoppingMMLU](https://github.com/KL4805/ShoppingMMLU)
+
+#### Finding Transformer Circuits With Edge Pruning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/20fdaf67581e6d7157376d1ed584040a-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/20fdaf67581e6d7157376d1ed584040a-Abstract-Conference.html)
+- 代码链接：[https://github.com/princeton-nlp/edge-pruning](https://github.com/princeton-nlp/edge-pruning)
+
+#### DenseFusion-1M: Merging Vision Experts for Comprehensive Multimodal Perception
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/20ffc2b42c7de4a1960cfdadf305bbe2-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/20ffc2b42c7de4a1960cfdadf305bbe2-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/baaivision/densefusion](https://github.com/baaivision/densefusion)
+
+#### SciFIBench: Benchmarking Large Multimodal Models for Scientific Figure Interpretation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/217bb44ab14621754db8a392163e6b07-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/217bb44ab14621754db8a392163e6b07-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/jonathan-roberts1/SciFIBench](https://github.com/jonathan-roberts1/SciFIBench)
+
+#### WaterMax: breaking the LLM watermark detectability-robustness-quality trade-off
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/21b5883bc8fec922fdbbb06675388164-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/21b5883bc8fec922fdbbb06675388164-Abstract-Conference.html)
+- 代码链接：[https://github.com/eva-giboulot/watermax](https://github.com/eva-giboulot/watermax)
+
+#### Boosting Graph Pooling with Persistent Homology
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/21f76686538a5f06dc431efea5f475f5-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/21f76686538a5f06dc431efea5f475f5-Abstract-Conference.html)
+- 代码链接：[https://github.com/LOGO-CUHKSZ/TIP](https://github.com/LOGO-CUHKSZ/TIP)
+
+#### OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/222d2eaf24cf8259a35d6c7130d31425-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/222d2eaf24cf8259a35d6c7130d31425-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/gair-nlp/olympicarena](https://github.com/gair-nlp/olympicarena)
+
+#### Revisiting Few-Shot Object Detection with Vision-Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/22b2067b8f680812624032025864c5a1-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/22b2067b8f680812624032025864c5a1-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/anishmadan23/foundational_fsod](https://github.com/anishmadan23/foundational_fsod)
+
+#### DEFT: Efficient Fine-tuning of Diffusion Models by Learning the Generalised $h$-transform
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/22d258dfbdf840ccbf266bbc545dd95f-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/22d258dfbdf840ccbf266bbc545dd95f-Abstract-Conference.html)
+- 代码链接：[https://github.com/alexdenker/deft](https://github.com/alexdenker/deft)
+
+#### Task Me Anything
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/237ffa9a473eff1c66d085dba7f813ba-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/237ffa9a473eff1c66d085dba7f813ba-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/jieyuz2/taskmeanything](https://github.com/jieyuz2/taskmeanything)
+
+#### MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/23c9c94227f937cfb50592a15e7fbb63-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/23c9c94227f937cfb50592a15e7fbb63-Abstract-Conference.html)
+- 代码链接：[https://github.com/kkakkkka/MambaTalk](https://github.com/kkakkkka/MambaTalk)
+
+#### HumanVid: Demystifying Training Data for Camera-controllable Human Image Animation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/23f3a0f82d79d985b6076bc84d14f66b-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/23f3a0f82d79d985b6076bc84d14f66b-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/zhenzhiwang/humanvid](https://github.com/zhenzhiwang/humanvid)
+
+#### Needle In A Multimodal Haystack
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/24a8968affe71ffe4067d022b9d16566-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/24a8968affe71ffe4067d022b9d16566-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/OpenGVLab/MM-NIAH](https://github.com/OpenGVLab/MM-NIAH)
+
+#### Attractor Memory for Long-Term Time Series Forecasting: A Chaos Perspective
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/24ef004f733548db6b3197d9f68dcb85-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/24ef004f733548db6b3197d9f68dcb85-Abstract-Conference.html)
+- 代码链接：[https://github.com/citymind-lab/neurips24-attraos](https://github.com/citymind-lab/neurips24-attraos)
+
+#### A Unified Debiasing Approach for Vision-Language Models across Modalities and Tasks
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/254404d551f6ce17bb7407b4d6b3c87b-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/254404d551f6ce17bb7407b4d6b3c87b-Abstract-Conference.html)
+- 代码链接：[https://github.com/HoinJung/Unified-Debiaisng-VLM-SFID](https://github.com/HoinJung/Unified-Debiaisng-VLM-SFID)
+
+#### ChronoMagic-Bench: A Benchmark for Metamorphic Evaluation of Text-to-Time-lapse Video Generation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/25b9960c8a5bd887eb5476c951260403-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/25b9960c8a5bd887eb5476c951260403-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/pku-yuangroup/chronomagic-bench](https://github.com/pku-yuangroup/chronomagic-bench)
+
+#### RelBench: A Benchmark for Deep Learning on Relational Databases
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/25cd345233c65fac1fec0ce61d0f7836-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/25cd345233c65fac1fec0ce61d0f7836-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/snap-stanford/relbench](https://github.com/snap-stanford/relbench)
+
+#### Nimbus: Secure and Efficient Two-Party Inference for Transformers
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/264a9b3ce46abdf572dcfe0401141989-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/264a9b3ce46abdf572dcfe0401141989-Abstract-Conference.html)
+- 代码链接：[https://github.com/secretflow/spu](https://github.com/secretflow/spu)
+
+#### Is Function Similarity Over-Engineered? Building a Benchmark
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/2663c994c84a79b338bca613fe1ae223-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/2663c994c84a79b338bca613fe1ae223-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/FutureComputing4AI/Reverse-Engineering-Function-Search](https://github.com/FutureComputing4AI/Reverse-Engineering-Function-Search)
+
+#### PEACE: A Dataset of Pharmaceutical Care for Cancer Pain Analgesia Evaluation and Medication Decision
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/26c05ef0790f2a8ad53700e1ef436643-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/26c05ef0790f2a8ad53700e1ef436643-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/YTYTYD/PEACE](https://github.com/YTYTYD/PEACE)
+
+#### RAGChecker: A Fine-grained Framework for Diagnosing Retrieval-Augmented Generation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/27245589131d17368cccdfa990cbf16e-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/27245589131d17368cccdfa990cbf16e-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/amazon-science/ragchecker](https://github.com/amazon-science/ragchecker)
+
+#### SeafloorAI: A Large-scale Vision-Language Dataset for Seafloor Geological Survey
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/274de7d60333c0848f42e18ae97f13e3-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/274de7d60333c0848f42e18ae97f13e3-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/deep-real/SeafloorAI](https://github.com/deep-real/SeafloorAI)
+
+#### Lorentz-Equivariant Geometric Algebra Transformers for High-Energy Physics
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/277628cff838927d869cd1f671328ce0-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/277628cff838927d869cd1f671328ce0-Abstract-Conference.html)
+- 代码链接：[https://github.com/heidelberg-hepml/lorentz-gatr](https://github.com/heidelberg-hepml/lorentz-gatr)
+
+#### Learning the Expected Core of Strictly Convex Stochastic Cooperative Games
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/2844b1bec82dd4be201f68715c03ed1b-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/2844b1bec82dd4be201f68715c03ed1b-Abstract-Conference.html)
+- 代码链接：[https://github.com/namtrankekl/constantstrictlyconvexgame](https://github.com/namtrankekl/constantstrictlyconvexgame)
+
+#### Decision Mamba: A Multi-Grained State Space Model with Self-Evolution Regularization for Offline RL
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/288b63aa98084366c4536ba0574a0f22-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/288b63aa98084366c4536ba0574a0f22-Abstract-Conference.html)
+- 代码链接：[https://github.com/aopolin-lv/DecisionMamba](https://github.com/aopolin-lv/DecisionMamba)
+
+#### ConMe: Rethinking Evaluation of Compositional Reasoning for Modern VLMs
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/28aad3b3b315d86910d7f4ee2867dfa4-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/28aad3b3b315d86910d7f4ee2867dfa4-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/jmiemirza/conme](https://github.com/jmiemirza/conme)
+
+#### SnapKV: LLM Knows What You are Looking for Before Generation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/28ab418242603e0f7323e54185d19bde-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/28ab418242603e0f7323e54185d19bde-Abstract-Conference.html)
+- 代码链接：[https://github.com/fasterdecoding/snapkv](https://github.com/fasterdecoding/snapkv)
+
+#### Efficient LLM Jailbreak via Adaptive Dense-to-sparse Constrained Optimization
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/29571f8fda54fe93631c41aad4215abc-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/29571f8fda54fe93631c41aad4215abc-Abstract-Conference.html)
+- 代码链接：[https://github.com/hukkai/adc_llm_attack](https://github.com/hukkai/adc_llm_attack)
+
+#### Cross-Care: Assessing the Healthcare Implications of Pre-training Data on Language Model Bias
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/2a617efee5815f12b405d40569dea0a5-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/2a617efee5815f12b405d40569dea0a5-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/shan23chen/cross-care](https://github.com/shan23chen/cross-care)
+
+#### Data Free Backdoor Attacks
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/2a7e91c6e4b68325d9884a7469804837-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/2a7e91c6e4b68325d9884a7469804837-Abstract-Conference.html)
+- 代码链接：[https://github.com/aaaaaasuka/datafree_backdoor_attacks](https://github.com/aaaaaasuka/datafree_backdoor_attacks)
+
+#### Linear Causal Bandits: Unknown Graph and Soft Interventions
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/2aba6ec20299931d46ddeefd5ddcb442-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/2aba6ec20299931d46ddeefd5ddcb442-Abstract-Conference.html)
+- 代码链接：[https://github.com/ZiruiYan/Linear-Causal-Bandit-Unknown-Graph](https://github.com/ZiruiYan/Linear-Causal-Bandit-Unknown-Graph)
+
+#### RepLiQA: A Question-Answering Dataset for Benchmarking LLMs on Unseen Reference Content
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/2b23626015b6311369e95a70735cbb72-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/2b23626015b6311369e95a70735cbb72-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/ServiceNow/repliqa](https://github.com/ServiceNow/repliqa)
+
+#### Long-range Brain Graph Transformer
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/2bd3ffba268a2699c212a233ed2907f1-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/2bd3ffba268a2699c212a233ed2907f1-Abstract-Conference.html)
+- 代码链接：[https://github.com/yushuowiki/alter](https://github.com/yushuowiki/alter)
+
+#### Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/2bed6c14cd5ea97a9bc1e6094941bde7-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/2bed6c14cd5ea97a9bc1e6094941bde7-Abstract-Conference.html)
+- 代码链接：[https://github.com/swyoon/diffusion-by-maxentirl](https://github.com/swyoon/diffusion-by-maxentirl)
+
+#### Aligning Diffusion Models by Optimizing Human Utility
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/2c487f8a54cf24c0684c32abc77fed56-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/2c487f8a54cf24c0684c32abc77fed56-Abstract-Conference.html)
+- 代码链接：[https://github.com/jacklishufan/diffusion-kto](https://github.com/jacklishufan/diffusion-kto)
+
+#### LexEval: A Comprehensive Chinese Legal Benchmark for Evaluating Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/2cb40fc022ca7bdc1a9a78b793661284-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/2cb40fc022ca7bdc1a9a78b793661284-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/CSHaitao/LexEval](https://github.com/CSHaitao/LexEval)
+
+#### MathPile: A Billion-Token-Scale Pretraining Corpus for Math
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/2d0be3cd5173c10b6ec075d1c393a13d-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/2d0be3cd5173c10b6ec075d1c393a13d-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/gair-nlp/mathpile](https://github.com/gair-nlp/mathpile)
+
+#### Nonlinear dynamics of localization in neural receptive fields
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/2dab2f94544f9297d01a46a5453b93cd-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/2dab2f94544f9297d01a46a5453b93cd-Abstract-Conference.html)
+- 代码链接：[https://github.com/leonlufkin/localization](https://github.com/leonlufkin/localization)
+
+#### UltraMedical: Building Specialized Generalists in Biomedicine
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/2dfc26ce9039f00eee4aba0c54931e46-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/2dfc26ce9039f00eee4aba0c54931e46-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/tsinghuac3i/ultramedical](https://github.com/tsinghuac3i/ultramedical)
+
+#### LINGOLY: A Benchmark of Olympiad-Level Linguistic Reasoning Puzzles in Low Resource and Extinct Languages
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/2e43584b7d7b32fb6b2aa83b32dbbb20-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/2e43584b7d7b32fb6b2aa83b32dbbb20-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/am-bean/lingOly](https://github.com/am-bean/lingOly)
+
+#### ReactZyme: A Benchmark for Enzyme-Reaction Prediction
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/2e68b2367d2e0bc8dd6f0ff86e07c2eb-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/2e68b2367d2e0bc8dd6f0ff86e07c2eb-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/WillHua127/ReactZyme](https://github.com/WillHua127/ReactZyme)
+
+#### Better by default: Strong pre-tuned MLPs and boosted trees on tabular data
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/2ee1c87245956e3eaa71aaba5f5753eb-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/2ee1c87245956e3eaa71aaba5f5753eb-Abstract-Conference.html)
+- 代码链接：[https://github.com/dholzmueller/pytabkit](https://github.com/dholzmueller/pytabkit)
+
+#### DAPE: Data-Adaptive Positional Encoding for Length Extrapolation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/2f050fa9f0d898e3f265d515f50ae8f9-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/2f050fa9f0d898e3f265d515f50ae8f9-Abstract-Conference.html)
+- 代码链接：[https://github.com/chuanyang-zheng/cape](https://github.com/chuanyang-zheng/cape)
+
+#### Diffusion-based Layer-wise Semantic Reconstruction for Unsupervised Out-of-Distribution Detection
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/2f32be3e112e151707cb12528bdfa7d5-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/2f32be3e112e151707cb12528bdfa7d5-Abstract-Conference.html)
+- 代码链接：[https://github.com/xbyym/dlsr](https://github.com/xbyym/dlsr)
+
+#### Advancing Spiking Neural Networks for Sequential Modeling with Central Pattern Generators
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/2f55a8b7b1c2c6312eb86557bb9a2bd5-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/2f55a8b7b1c2c6312eb86557bb9a2bd5-Abstract-Conference.html)
+- 代码链接：[https://github.com/microsoft/seqsnn](https://github.com/microsoft/seqsnn)
+
+#### Evaluating the World Model Implicit in a Generative Model
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/2f6a6317bada76b26a4f61bb70a7db59-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/2f6a6317bada76b26a4f61bb70a7db59-Abstract-Conference.html)
+- 代码链接：[https://github.com/keyonvafa/world-model-evaluation](https://github.com/keyonvafa/world-model-evaluation)
+
+#### Towards Open Respiratory Acoustic Foundation Models: Pretraining and Benchmarking
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/2f803abdcad9de35b45d5a656dade45c-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/2f803abdcad9de35b45d5a656dade45c-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/evelyn0414/OPERA](https://github.com/evelyn0414/OPERA)
+
+#### 4DBInfer: A 4D Benchmarking Toolbox for Graph-Centric Predictive Modeling on RDBs
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/2fd67447702c8eff5683dda507a1b0a2-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/2fd67447702c8eff5683dda507a1b0a2-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/awslabs/multi-table-benchmark](https://github.com/awslabs/multi-table-benchmark)
+
+#### Rethinking Inverse Reinforcement Learning: from Data Alignment to Task Alignment
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/30df5ecdd245bd2f4b0c5ba48de9674a-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/30df5ecdd245bd2f4b0c5ba48de9674a-Abstract-Conference.html)
+- 代码链接：[https://github.com/zwc662/PAGAR](https://github.com/zwc662/PAGAR)
+
+#### AlphaMath Almost Zero: Process Supervision without Process
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/30dfe47a3ccbee68cffa0c19ccb1bc00-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/30dfe47a3ccbee68cffa0c19ccb1bc00-Abstract-Conference.html)
+- 代码链接：[https://github.com/MARIO-Math-Reasoning/Super_MARIO](https://github.com/MARIO-Math-Reasoning/Super_MARIO)
+
+#### OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/31994923f58ae5b2d661b300bd439107-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/31994923f58ae5b2d661b300bd439107-Abstract-Conference.html)
+- 代码链接：[https://github.com/foundationvision/omnitokenizer](https://github.com/foundationvision/omnitokenizer)
+
+#### Multi-Chain Graphs of Graphs: A New Approach to Analyzing Blockchain Datasets
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/3205b048f9cc54b9f7963db0b0f52d53-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/3205b048f9cc54b9f7963db0b0f52d53-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/Xtra-Computing/Cryptocurrency-Graphs-of-graphs](https://github.com/Xtra-Computing/Cryptocurrency-Graphs-of-graphs)
+
+#### MoEUT: Mixture-of-Experts Universal Transformers
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/321387ba926b8e58d3591c0aeb52ffc2-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/321387ba926b8e58d3591c0aeb52ffc2-Abstract-Conference.html)
+- 代码链接：[https://github.com/robertcsordas/moeut](https://github.com/robertcsordas/moeut)
+
+#### ReXTime: A Benchmark Suite for Reasoning-Across-Time in Videos
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/32683193e1d0e7a5795b073acecb3549-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/32683193e1d0e7a5795b073acecb3549-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/rextime/rextime](https://github.com/rextime/rextime)
+
+#### $C^2M^3$: Cycle-Consistent Multi-Model Merging
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/3268f1e2474ef9d1af7f034401197a7f-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/3268f1e2474ef9d1af7f034401197a7f-Abstract-Conference.html)
+- 代码链接：[https://github.com/crisostomi/cycle-consistent-model-merging](https://github.com/crisostomi/cycle-consistent-model-merging)
+
+#### NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/32768f7faf1995026ef9821c696f3404-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/32768f7faf1995026ef9821c696f3404-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/autonomousvision/navsim](https://github.com/autonomousvision/navsim)
+
+#### MLLM-CompBench: A Comparative Reasoning Benchmark for Multimodal LLMs
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/32923dff09f75cf1974c145764a523e2-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/32923dff09f75cf1974c145764a523e2-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/raptormai/compbench](https://github.com/raptormai/compbench)
+
+#### LongVideoBench: A Benchmark for Long-context Interleaved Video-Language Understanding
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/329ad516cf7a6ac306f29882e9c77558-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/329ad516cf7a6ac306f29882e9c77558-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/longvideobench/longvideobench](https://github.com/longvideobench/longvideobench)
+
+#### LAVIB: A Large-scale Video Interpolation Benchmark
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/333f81766b242b1837fa65c2172afb76-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/333f81766b242b1837fa65c2172afb76-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/alexandrosstergiou/lavib](https://github.com/alexandrosstergiou/lavib)
+
+#### A Critical Evaluation of AI Feedback for Aligning Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/33870b3e099880cd8e705cd07173ac27-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/33870b3e099880cd8e705cd07173ac27-Abstract-Conference.html)
+- 代码链接：[https://github.com/architsharma97/dpo-rlaif](https://github.com/architsharma97/dpo-rlaif)
+
+#### DF40: Toward Next-Generation Deepfake Detection
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/34239f60eca7ce9bee5280aaf81362d8-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/34239f60eca7ce9bee5280aaf81362d8-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/YZY-stack/DF40](https://github.com/YZY-stack/DF40)
+
+#### Hamiltonian Monte Carlo Inference of Marginalized Linear Mixed-Effects Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/34268a70fbb49ff67f2de39331fd27b9-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/34268a70fbb49ff67f2de39331fd27b9-Abstract-Conference.html)
+- 代码链接：[https://github.com/lll6924/hamiltonian_lme](https://github.com/lll6924/hamiltonian_lme)
+
+#### SubgDiff: A Subgraph Diffusion Model to Improve Molecular Representation Learning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/3477ca0ce484aa2fa42c1361ab601c25-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/3477ca0ce484aa2fa42c1361ab601c25-Abstract-Conference.html)
+- 代码链接：[https://github.com/IDEA-XL/SubgDiff](https://github.com/IDEA-XL/SubgDiff)
+
+#### Protecting Your LLMs with Information Bottleneck
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/34a1fc7890141f1ada3d8bc6199cce07-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/34a1fc7890141f1ada3d8bc6199cce07-Abstract-Conference.html)
+- 代码链接：[https://github.com/zichuan-liu/ib4llms](https://github.com/zichuan-liu/ib4llms)
+
+#### RAGraph: A General Retrieval-Augmented Graph Learning Framework
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/34d6c7090bc5af0b96aeaf92fa074899-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/34d6c7090bc5af0b96aeaf92fa074899-Abstract-Conference.html)
+- 代码链接：[https://github.com/artessay/ragraph](https://github.com/artessay/ragraph)
+
+#### Delving into the Reversal Curse: How Far Can Large Language Models Generalize?
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/36b6180f3dab4025ba763e853b044814-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/36b6180f3dab4025ba763e853b044814-Abstract-Conference.html)
+- 代码链接：[https://github.com/alibaba/thinking_bias](https://github.com/alibaba/thinking_bias)
+
+#### Language Without Borders: A Dataset and Benchmark for Code-Switching Lip Reading
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/36d4b4c04d07974fe7d455d62783ac22-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/36d4b4c04d07974fe7d455d62783ac22-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/cslr-lipreading/CSLR](https://github.com/cslr-lipreading/CSLR)
+
+#### Should We Really Edit Language Models? On the Evaluation of Edited Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/370fa2e691f57eb319bc263a07dad4a5-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/370fa2e691f57eb319bc263a07dad4a5-Abstract-Conference.html)
+- 代码链接：[https://github.com/lqinfdim/editingevaluation](https://github.com/lqinfdim/editingevaluation)
+
+#### Learning an Actionable Discrete Diffusion Policy via Large-Scale Actionless Video Pre-Training
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/378226e5df7eded3e401de5c9493143c-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/378226e5df7eded3e401de5c9493143c-Abstract-Conference.html)
+- 代码链接：[https://github.com/tinnerhrhe/VPDD](https://github.com/tinnerhrhe/VPDD)
+
+#### Do causal predictors generalize better to new domains?
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/3792ddbf94b68ff4369f510f7a3e1777-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/3792ddbf94b68ff4369f510f7a3e1777-Abstract-Conference.html)
+- 代码链接：[https://github.com/socialfoundations/causal-features](https://github.com/socialfoundations/causal-features)
+
+#### GameTraversalBenchmark: Evaluating Planning Abilities Of Large Language Models Through Traversing 2D Game Maps
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/3852c8254bc6d904c09db9921157f59b-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/3852c8254bc6d904c09db9921157f59b-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/umair-nasir14/Game-Traversal-Benchmark](https://github.com/umair-nasir14/Game-Traversal-Benchmark)
+
+#### Exact Gradients for Stochastic Spiking Neural Networks Driven by Rough Signals
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/3855b10f44494f5ba4c283a00079f1e2-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/3855b10f44494f5ba4c283a00079f1e2-Abstract-Conference.html)
+- 代码链接：[https://github.com/cholberg/snnax](https://github.com/cholberg/snnax)
+
+#### E.T. Bench: Towards Open-Ended Event-Level Video-Language Understanding
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/38ace89a980ead30c6be2b46afc1a5bd-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/38ace89a980ead30c6be2b46afc1a5bd-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/PolyU-ChenLab/ETBench](https://github.com/PolyU-ChenLab/ETBench)
+
+#### Bag of Tricks: Benchmarking of Jailbreak Attacks on LLMs
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/38c1dfb4f7625907b15e9515365e7803-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/38c1dfb4f7625907b15e9515365e7803-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/usail-hkust/JailTrickBench](https://github.com/usail-hkust/JailTrickBench)
+
+#### Adaptive Image Quality Assessment via Teaching Large Multimodal Model to Compare
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/393367b4ccf1d56e51276243d5cb85c4-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/393367b4ccf1d56e51276243d5cb85c4-Abstract-Conference.html)
+- 代码链接：[https://github.com/Q-Future/Compare2Score](https://github.com/Q-Future/Compare2Score)
+
+#### Fast Best-of-N Decoding via Speculative Rejection
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/3950f6bf5c2eb7435ecf58eaa85cc8c2-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/3950f6bf5c2eb7435ecf58eaa85cc8c2-Abstract-Conference.html)
+- 代码链接：[https://github.com/Zanette-Labs/SpeculativeRejection](https://github.com/Zanette-Labs/SpeculativeRejection)
+
+#### Distributional regression: CRPS-error bounds for model fitting, model selection and convex aggregation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/39717429762da92201a750dd03386920-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/39717429762da92201a750dd03386920-Abstract-Conference.html)
+- 代码链接：[https://github.com/ZaouiAmed/Neurips2024_DistributionalRegression](https://github.com/ZaouiAmed/Neurips2024_DistributionalRegression)
+
+#### DiffNorm: Self-Supervised Normalization for Non-autoregressive Speech-to-speech Translation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/3a40e042c66e84659249f3254460c123-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/3a40e042c66e84659249f3254460c123-Abstract-Conference.html)
+- 代码链接：[https://github.com/steventan0110/diffnorm](https://github.com/steventan0110/diffnorm)
+
+#### ClashEval: Quantifying the tug-of-war between an LLM’s internal prior and external evidence
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/3aa291abc426d7a29fb08418c1244177-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/3aa291abc426d7a29fb08418c1244177-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/kevinwu23/StanfordClashEval](https://github.com/kevinwu23/StanfordClashEval)
+
+#### MedSafetyBench: Evaluating and Improving the Medical Safety of Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/3ac952d0264ef7a505393868a70a46b6-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/3ac952d0264ef7a505393868a70a46b6-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/AI4LIFE-GROUP/med-safety-bench](https://github.com/AI4LIFE-GROUP/med-safety-bench)
+
+#### Predicting Ground State Properties: Constant Sample Complexity and Deep Learning Algorithms
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/3b930b4dc163c57b6a35aee5df89f9ed-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/3b930b4dc163c57b6a35aee5df89f9ed-Abstract-Conference.html)
+- 代码链接：[https://github.com/marcwannerchalmers/learning_ground_states](https://github.com/marcwannerchalmers/learning_ground_states)
+
+#### Spiking Graph Neural Network on Riemannian Manifolds
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/3ba7560b4c3e66d760fbdd472cf4a5a9-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/3ba7560b4c3e66d760fbdd472cf4a5a9-Abstract-Conference.html)
+- 代码链接：[https://github.com/ZhenhHuang/MSG](https://github.com/ZhenhHuang/MSG)
+
+#### Vector Quantization Prompting for Continual Learning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/3baf4eeffad860ca9c54aeab632716b4-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/3baf4eeffad860ca9c54aeab632716b4-Abstract-Conference.html)
+- 代码链接：[https://github.com/jiaolifengmi/vq-prompt](https://github.com/jiaolifengmi/vq-prompt)
+
+#### BertaQA: How Much Do Language Models Know About Local Culture?
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/3bb42f6bb1b1ab6809afd6c90865b087-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/3bb42f6bb1b1ab6809afd6c90865b087-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/juletx/BertaQA](https://github.com/juletx/BertaQA)
+
+#### Stylebreeder: Exploring and Democratizing Artistic Styles through Text-to-Image Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/3be05f62bdba744a29bc27d182968b41-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/3be05f62bdba744a29bc27d182968b41-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/stylebreeder/stylebreeder-code](https://github.com/stylebreeder/stylebreeder-code)
+
+#### OpenMathInstruct-1: A 1.8 Million Math Instruction Tuning Dataset
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/3d5aa9a7ce28cdc710fbd044fd3610f3-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/3d5aa9a7ce28cdc710fbd044fd3610f3-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/kipok/nemo-skills](https://github.com/kipok/nemo-skills)
+
+#### Localize, Understand, Collaborate: Semantic-Aware Dragging via Intention Reasoner
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/3dd7c683eddc14f8cabcd6ce8d48cd41-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/3dd7c683eddc14f8cabcd6ce8d48cd41-Abstract-Conference.html)
+- 代码链接：[https://github.com/cuixing100876/luciddrag-neurips2024](https://github.com/cuixing100876/luciddrag-neurips2024)
+
+#### AdaSociety: An Adaptive Environment with Social Structures for Multi-Agent Decision-Making
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/3e4d8407cb468850f2f8f4a949e64bf0-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/3e4d8407cb468850f2f8f4a949e64bf0-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/bigai-ai/AdaSociety](https://github.com/bigai-ai/AdaSociety)
+
+#### FlexMol: A Flexible Toolkit for Benchmarking Molecular Relational Learning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/3e560698f840bceef29e9566b9bd7312-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/3e560698f840bceef29e9566b9bd7312-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/Steven51516/FlexMol](https://github.com/Steven51516/FlexMol)
+
+#### NewTerm: Benchmarking Real-Time New Terms for Large Language Models with Annual Updates
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/3eec719ab86712d32b065c5977f94ad0-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/3eec719ab86712d32b065c5977f94ad0-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/hexuandeng/newterm](https://github.com/hexuandeng/newterm)
+
+#### STimage-1K4M: A histopathology image-gene expression dataset for spatial transcriptomics
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/3ef2b740cb22dcce67c20989cb3d3fce-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/3ef2b740cb22dcce67c20989cb3d3fce-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/JiawenChenn/STimage-1K4M](https://github.com/JiawenChenn/STimage-1K4M)
+
+#### BIOSCAN-5M: A Multimodal Dataset for Insect Biodiversity
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/3fdbb472813041c9ecef04c20c2b1e5a-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/3fdbb472813041c9ecef04c20c2b1e5a-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/bioscan-ml/BIOSCAN-5M](https://github.com/bioscan-ml/BIOSCAN-5M)
+
+#### Learning to Reason via Program Generation, Emulation, and Search
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/401ece9f5d1cfa8600c22049ef43930e-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/401ece9f5d1cfa8600c22049ef43930e-Abstract-Conference.html)
+- 代码链接：[https://github.com/nweir127/cogex](https://github.com/nweir127/cogex)
+
+#### Interpreting Learned Feedback Patterns in Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/403bf224290de69c7d5dc856f5a99d9e-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/403bf224290de69c7d5dc856f5a99d9e-Abstract-Conference.html)
+- 代码链接：[https://github.com/apartresearch/interpreting-reward-models](https://github.com/apartresearch/interpreting-reward-models)
+
+#### On the Computational Complexity of Private High-dimensional Model Selection
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/40889e2aedb47e64d42dd8b8de2fab4e-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/40889e2aedb47e64d42dd8b8de2fab4e-Abstract-Conference.html)
+- 代码链接：[https://github.com/roysaptaumich/dp-bss](https://github.com/roysaptaumich/dp-bss)
+
+#### MINT-1T: Scaling Open-Source Multimodal Data by 10x: A Multimodal Dataset with One Trillion Tokens
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/40b9196c25fe1d64d87ca3a80a91d0ce-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/40b9196c25fe1d64d87ca3a80a91d0ce-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/mlfoundations/MINT-1T](https://github.com/mlfoundations/MINT-1T)
+
+#### $\nabla^2$DFT: A Universal Quantum Chemistry Dataset of Drug-Like Molecules and a Benchmark for Neural Network Potentials
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/40d45b1e23d00d5895e65778e85cf8ee-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/40d45b1e23d00d5895e65778e85cf8ee-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/AIRI-Institute/nablaDFT](https://github.com/AIRI-Institute/nablaDFT)
+
+#### Dataset and Lessons Learned from the 2024 SaTML LLM Capture-the-Flag Competition
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/411c44e6f285310822f39f76a58798c7-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/411c44e6f285310822f39f76a58798c7-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/ethz-spylab/ctf-satml24-data-analysis](https://github.com/ethz-spylab/ctf-satml24-data-analysis)
+
+#### StackEval: Benchmarking LLMs in Coding Assistance
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/4126a607bbe2836cb6ca0eb45b75618b-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/4126a607bbe2836cb6ca0eb45b75618b-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/ProsusAI/stack-eval](https://github.com/ProsusAI/stack-eval)
+
+#### Group Robust Preference Optimization in Reward-free RLHF
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/4147dfaa46cd7e20a2aecb91097ae8cc-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/4147dfaa46cd7e20a2aecb91097ae8cc-Abstract-Conference.html)
+- 代码链接：[https://github.com/rsshyam/Group-robust-preference-optimization](https://github.com/rsshyam/Group-robust-preference-optimization)
+
+#### Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/4254e856d01a5e7b7ea050477c3ef9b9-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/4254e856d01a5e7b7ea050477c3ef9b9-Abstract-Conference.html)
+- 代码链接：[https://github.com/liyichen-cly/pog](https://github.com/liyichen-cly/pog)
+
+#### Beyond task diversity: provable representation transfer for sequential multitask linear bandits
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/42a24a7a3e7cf7dd127a76daf487cffd-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/42a24a7a3e7cf7dd127a76daf487cffd-Abstract-Conference.html)
+- 代码链接：[https://github.com/duongnhatthang/BOSS](https://github.com/duongnhatthang/BOSS)
+
+#### GC-Bench: An Open and Unified Benchmark for Graph Condensation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/42ed003e72eab5136e3d2fdbef4b8d7b-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/42ed003e72eab5136e3d2fdbef4b8d7b-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/RingBDStack/GC-Bench](https://github.com/RingBDStack/GC-Bench)
+
+#### Kuro Siwo: 33 billion $m^2$ under the water. A global multi-temporal satellite dataset for rapid flood mapping
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/43612b0662cb6a4986edf859fd6ebafe-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/43612b0662cb6a4986edf859fd6ebafe-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/Orion-AI-Lab/KuroSiwo](https://github.com/Orion-AI-Lab/KuroSiwo)
+
+#### NoisyGL: A Comprehensive Benchmark for Graph Neural Networks under Label Noise
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/436ffa18e7e17be336fd884f8ebb5748-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/436ffa18e7e17be336fd884f8ebb5748-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/eaglelab-zju/NoisyGL](https://github.com/eaglelab-zju/NoisyGL)
+
+#### Bayesian Optimization of Functions over Node Subsets in Graphs
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/437cd2749391ad40f67e4dd1d87c4596-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/437cd2749391ad40f67e4dd1d87c4596-Abstract-Conference.html)
+- 代码链接：[https://github.com/LeonResearch/GraphComBO](https://github.com/LeonResearch/GraphComBO)
+
+#### ClevrSkills: Compositional Language And Visual Reasoning in Robotics
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/439539557e9ba0d04055773ff1f3241c-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/439539557e9ba0d04055773ff1f3241c-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/Qualcomm-AI-research/ClevrSkills](https://github.com/Qualcomm-AI-research/ClevrSkills)
+
+#### A Geometric View of Data Complexity: Efficient Local Intrinsic Dimension Estimation with Diffusion Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/43ab1646052dab79731f5d70bf40f6dc-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/43ab1646052dab79731f5d70bf40f6dc-Abstract-Conference.html)
+- 代码链接：[https://github.com/layer6ai-labs/flipd](https://github.com/layer6ai-labs/flipd)
+
+#### Reinforcement Learning Gradients as Vitamin for Online Finetuning Decision Transformers
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/43f5f6c5cb333115914c8448b8506411-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/43f5f6c5cb333115914c8448b8506411-Abstract-Conference.html)
+- 代码链接：[https://github.com/kaiyan289/rl_as_vitamin_for_online_decision_transformers](https://github.com/kaiyan289/rl_as_vitamin_for_online_decision_transformers)
+
+#### BiDM: Pushing the Limit of Quantization for Diffusion Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/44b61c5c0ba06d55ab5a1cfb9cfff763-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/44b61c5c0ba06d55ab5a1cfb9cfff763-Abstract-Conference.html)
+- 代码链接：[https://github.com/xingyu-zheng/bidm](https://github.com/xingyu-zheng/bidm)
+
+#### Dual-Personalizing Adapter for Federated Foundation Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/45a30141c6719e9cfedfb51f1c665a37-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/45a30141c6719e9cfedfb51f1c665a37-Abstract-Conference.html)
+- 代码链接：[https://github.com/Lydia-yang/FedDPA](https://github.com/Lydia-yang/FedDPA)
+
+#### Harnessing small projectors and multiple views for efficient vision pretraining
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/464d8334dfca732d538ac050e45c6dc7-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/464d8334dfca732d538ac050e45c6dc7-Abstract-Conference.html)
+- 代码链接：[https://github.com/kumarkrishna/fastssl](https://github.com/kumarkrishna/fastssl)
+
+#### GAIA: Rethinking Action Quality Assessment for AI-Generated Videos
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/46b5405a720a99db4c758cff43c8b4d3-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/46b5405a720a99db4c758cff43c8b4d3-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/zijianchen98/gaia](https://github.com/zijianchen98/gaia)
+
+#### ABCFair: an Adaptable Benchmark approach for Comparing Fairness Methods
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/46bae562da84d63269673808e8eff777-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/46bae562da84d63269673808e8eff777-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/aida-ugent/abcfair](https://github.com/aida-ugent/abcfair)
+
+#### Large Spatial Model: End-to-end Unposed Images to Semantic 3D
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/46fd43174b82660f24e3ba11cf5e1340-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/46fd43174b82660f24e3ba11cf5e1340-Abstract-Conference.html)
+- 代码链接：[https://github.com/NVlabs/LSM](https://github.com/NVlabs/LSM)
+
+#### Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/473a9a75edc46eff5ff224d53d5f7294-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/473a9a75edc46eff5ff224d53d5f7294-Abstract-Conference.html)
+- 代码链接：[https://github.com/byungkwanlee/meteor](https://github.com/byungkwanlee/meteor)
+
+#### The Scandinavian Embedding Benchmarks: Comprehensive Assessment of Multilingual and Monolingual Text Embedding
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/4746bb91bd073ec7eef930d5775122ba-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/4746bb91bd073ec7eef930d5775122ba-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/embeddings-benchmark/mteb](https://github.com/embeddings-benchmark/mteb)
+
+#### VERIFIED: A Video Corpus Moment Retrieval Benchmark for Fine-Grained Video Understanding
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/477929b8d45ab759795b7aac94329b08-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/477929b8d45ab759795b7aac94329b08-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/hlchen23/verified](https://github.com/hlchen23/verified)
+
+#### Yo'LLaVA: Your Personalized Language and Vision Assistant
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/48088756ec0ce6ba362bddc7ebeb3915-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/48088756ec0ce6ba362bddc7ebeb3915-Abstract-Conference.html)
+- 代码链接：[https://github.com/WisconsinAIVision/YoLLaVA](https://github.com/WisconsinAIVision/YoLLaVA)
+
+#### Learning 3D Garment Animation from Trajectories of A Piece of Cloth
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/49be51578b507f37cd8b5fad379af183-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/49be51578b507f37cd8b5fad379af183-Abstract-Conference.html)
+- 代码链接：[https://github.com/ftbabi/eunet_neurips2024](https://github.com/ftbabi/eunet_neurips2024)
+
+#### Persistent Homology for High-dimensional Data Based on Spectral Methods
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/4a32a646254d2e37fc74a38d65796552-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/4a32a646254d2e37fc74a38d65796552-Abstract-Conference.html)
+- 代码链接：[https://github.com/berenslab/eff-ph](https://github.com/berenslab/eff-ph)
+
+#### Evaluating Numerical Reasoning in Text-to-Image Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/4a70f0c8443593ca59a88ebc8a937ed6-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/4a70f0c8443593ca59a88ebc8a937ed6-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/google-deepmind/geckonum_benchmark_t2i](https://github.com/google-deepmind/geckonum_benchmark_t2i)
+
+#### GLBench: A Comprehensive Benchmark for Graph with Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/4ab0bd666d034fcaa5566fc7d176daa6-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/4ab0bd666d034fcaa5566fc7d176daa6-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/NineAbyss/GLBench](https://github.com/NineAbyss/GLBench)
+
+#### Beyond Prompts: Dynamic Conversational Benchmarking of Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/4aedf0cba303537fcb6cf948bb41b2df-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/4aedf0cba303537fcb6cf948bb41b2df-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/GoodAI/goodai-ltm-benchmark](https://github.com/GoodAI/goodai-ltm-benchmark)
+
+#### InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/4b06cdddb1cde6624c0be1465c7b800f-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/4b06cdddb1cde6624c0be1465c7b800f-Abstract-Conference.html)
+- 代码链接：[https://github.com/internlm/internlm-xcomposer](https://github.com/internlm/internlm-xcomposer)
+
+#### Taming Diffusion Prior for Image Super-Resolution with Domain Shift SDEs
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/4b4d25dc0c52d3cf43d5b203cdfdf241-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/4b4d25dc0c52d3cf43d5b203cdfdf241-Abstract-Conference.html)
+- 代码链接：[https://github.com/AMD-AIG-AIMA/DoSSR](https://github.com/AMD-AIG-AIMA/DoSSR)
+
+#### HEMM: Holistic Evaluation of Multimodal Foundation Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/4b6e5dae3acb4cfdfe5928a6eff174ee-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/4b6e5dae3acb4cfdfe5928a6eff174ee-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/pliang279/hemm](https://github.com/pliang279/hemm)
+
+#### Embedding Trajectory for Out-of-Distribution Detection in Mathematical Reasoning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/4b734e95f0788a030a69caa987516186-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/4b734e95f0788a030a69caa987516186-Abstract-Conference.html)
+- 代码链接：[https://github.com/alsace08/ood-math-reasoning](https://github.com/alsace08/ood-math-reasoning)
+
+#### RL on Incorrect Synthetic Data Scales the Efficiency of LLM Math Reasoning by Eight-Fold
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/4b77d5b896c321a29277524a98a50215-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/4b77d5b896c321a29277524a98a50215-Abstract-Conference.html)
+- 代码链接：[https://github.com/ars22/scaling-LLM-math-synthetic-data](https://github.com/ars22/scaling-LLM-math-synthetic-data)
+
+#### Learning Formal Mathematics From Intrinsic Motivation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/4b8001fc75f0532827472ea5a16af9ca-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/4b8001fc75f0532827472ea5a16af9ca-Abstract-Conference.html)
+- 代码链接：[https://github.com/gpoesia/minimo](https://github.com/gpoesia/minimo)
+
+#### Revisiting Self-Supervised Heterogeneous Graph Learning from Spectral Clustering Perspective
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/4b9e2c66b07c89116d2de0a2b7d03db3-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/4b9e2c66b07c89116d2de0a2b7d03db3-Abstract-Conference.html)
+- 代码链接：[https://github.com/YujieMo/SCHOOL](https://github.com/YujieMo/SCHOOL)
+
+#### Sketchy Moment Matching: Toward Fast and Provable Data Selection for Finetuning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/4c79c359b3c5f077c0b955f93cb0f53e-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/4c79c359b3c5f077c0b955f93cb0f53e-Abstract-Conference.html)
+- 代码链接：[https://github.com/xiang-pan/sketchy_moment_matching](https://github.com/xiang-pan/sketchy_moment_matching)
+
+#### Evaluating Multiview Object Consistency in Humans and Image Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/4cc613494d5a4f2feef21ecc229c06f5-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/4cc613494d5a4f2feef21ecc229c06f5-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/tzler/mochi_code](https://github.com/tzler/mochi_code)
+
+#### ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/4ced59d480e07d290b6f29fc8798f195-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/4ced59d480e07d290b6f29fc8798f195-Abstract-Conference.html)
+- 代码链接：[https://github.com/ai4co/llm-as-hh](https://github.com/ai4co/llm-as-hh)
+
+#### ChaosBench: A Multi-Channel, Physics-Based Benchmark for Subseasonal-to-Seasonal Climate Prediction
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/4d3684dd7926754b48bc6cd99a840232-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/4d3684dd7926754b48bc6cd99a840232-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/leap-stc/ChaosBench](https://github.com/leap-stc/ChaosBench)
+
+#### Policy Improvement using Language Feedback Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/4d4f7cf206bb00f9a38a5b6ae92cf79a-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/4d4f7cf206bb00f9a38a5b6ae92cf79a-Abstract-Conference.html)
+- 代码链接：[https://github.com/vzhong/language_feedback_models](https://github.com/vzhong/language_feedback_models)
+
+#### XLand-MiniGrid: Scalable Meta-Reinforcement Learning Environments in JAX
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/4d8a58a62c1a85ebb2cbea798c2779e2-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/4d8a58a62c1a85ebb2cbea798c2779e2-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/corl-team/xland-minigrid](https://github.com/corl-team/xland-minigrid)
+
+#### When are dynamical systems learned from time series data statistically accurate?
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/4dc57702c987e1e72f0dd2921edb5ded-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/4dc57702c987e1e72f0dd2921edb5ded-Abstract-Conference.html)
+- 代码链接：[https://github.com/ni-sha-c/stacnode](https://github.com/ni-sha-c/stacnode)
+
+#### SCRREAM : SCan, Register, REnder And Map: A Framework for Annotating Accurate and Dense 3D Indoor Scenes with a Benchmark
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/4e17f622f4259d0d64331310d2674902-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/4e17f622f4259d0d64331310d2674902-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/Junggy/SCRREAM](https://github.com/Junggy/SCRREAM)
+
+#### A Single-Step, Sharpness-Aware Minimization is All You Need to Achieve Efficient and Accurate Sparse Training
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/4e5a47c427ec16ec863e547bc1aeb70c-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/4e5a47c427ec16ec863e547bc1aeb70c-Abstract-Conference.html)
+- 代码链接：[https://github.com/jjsrf/SSAM-NEURIPS2024](https://github.com/jjsrf/SSAM-NEURIPS2024)
+
+#### Multi-Object Hallucination in Vision Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/4ea4a1ea4d9ff273688c8e92bd087112-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/4ea4a1ea4d9ff273688c8e92bd087112-Abstract-Conference.html)
+- 代码链接：[https://github.com/sled-group/moh](https://github.com/sled-group/moh)
+
+#### Constrained Human-AI Cooperation: An Inclusive Embodied Social Intelligence Challenge
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/4eb8e997fc91086225b7484cf8eac341-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/4eb8e997fc91086225b7484cf8eac341-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/UMass-Foundation-Model/CHAIC](https://github.com/UMass-Foundation-Model/CHAIC)
+
+#### The Well: a Large-Scale Collection of Diverse Physics Simulations for Machine Learning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/4f9a5acd91ac76569f2fe291b1f4772b-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/4f9a5acd91ac76569f2fe291b1f4772b-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/PolymathicAI/the_well](https://github.com/PolymathicAI/the_well)
+
+#### Large Scale Transfer Learning for Tabular Data via Language Modeling
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/4fd5cfd2e31bebbccfa5ffa354c04bdc-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/4fd5cfd2e31bebbccfa5ffa354c04bdc-Abstract-Conference.html)
+- 代码链接：[https://github.com/mlfoundations/rtfm](https://github.com/mlfoundations/rtfm)
+
+#### Can Language Models Learn to Skip Steps?
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/504fa7e518da9d1b53a233ed20a38b46-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/504fa7e518da9d1b53a233ed20a38b46-Abstract-Conference.html)
+- 代码链接：[https://github.com/tengxiaoliu/LM_skip](https://github.com/tengxiaoliu/LM_skip)
+
+#### Questioning the Survey Responses of Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/515c62809e0a29729d7eec26e2916fc0-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/515c62809e0a29729d7eec26e2916fc0-Abstract-Conference.html)
+- 代码链接：[https://github.com/socialfoundations/surveying-language-models](https://github.com/socialfoundations/surveying-language-models)
+
+#### Scribbles for All: Benchmarking Scribble Supervised Segmentation Across Datasets
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/51cd2b3608d7ae17a9fadcc6e1f68629-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/51cd2b3608d7ae17a9fadcc6e1f68629-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/wbkit/Scribbles4All](https://github.com/wbkit/Scribbles4All)
+
+#### A Benchmark Suite for Evaluating Neural Mutual Information Estimators on Unstructured Datasets
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/525bd8aedafa375564f73bacdef411e5-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/525bd8aedafa375564f73bacdef411e5-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/kyungeun-lee/mibenchmark](https://github.com/kyungeun-lee/mibenchmark)
+
+#### MARVEL: Multidimensional Abstraction and Reasoning through Visual Evaluation and Learning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/529d8b3a23991e83db07f21727256374-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/529d8b3a23991e83db07f21727256374-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/1171-jpg/MARVEL_AVR](https://github.com/1171-jpg/MARVEL_AVR)
+
+#### ReFIR: Grounding Large Restoration Models with Retrieval Augmentation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/52a599ccd90f6830ef316c65a60de0a7-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/52a599ccd90f6830ef316c65a60de0a7-Abstract-Conference.html)
+- 代码链接：[https://github.com/csguoh/refir](https://github.com/csguoh/refir)
+
+#### ZSC-Eval: An Evaluation Toolkit and Benchmark for Multi-agent Zero-shot Coordination
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/54a7139c548c88e288aa0fcd2bcbeceb-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/54a7139c548c88e288aa0fcd2bcbeceb-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/sjtu-marl/ZSC-Eval](https://github.com/sjtu-marl/ZSC-Eval)
+
+#### Improved Distribution Matching Distillation for Fast Image Synthesis
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/54dcf25318f9de5a7a01f0a4125c541e-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/54dcf25318f9de5a7a01f0a4125c541e-Abstract-Conference.html)
+- 代码链接：[https://github.com/tianweiy/DMD2](https://github.com/tianweiy/DMD2)
+
+#### Task Confusion and Catastrophic Forgetting in Class-Incremental Learning: A Mathematical Framework for Discriminative and Generative Modelings
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/5503a7c69d48a2f86fc00b3dc09de686-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/5503a7c69d48a2f86fc00b3dc09de686-Abstract-Conference.html)
+- 代码链接：[https://github.com/miladkhademinori/class-incremental-learning](https://github.com/miladkhademinori/class-incremental-learning)
+
+#### ProbTS: Benchmarking Point and Distributional Forecasting across Diverse Prediction Horizons
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/55f2a27b1ac39dbfdd0fc83742dc87d7-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/55f2a27b1ac39dbfdd0fc83742dc87d7-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/microsoft/probts](https://github.com/microsoft/probts)
+
+#### Graph Neural Networks Do Not Always Oversmooth
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/5623c35f3ab5e2c72aeb3abce27dc28f-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/5623c35f3ab5e2c72aeb3abce27dc28f-Abstract-Conference.html)
+- 代码链接：[https://github.com/bepping/non-oversmoothing-gcns](https://github.com/bepping/non-oversmoothing-gcns)
+
+#### Decoupling Semantic Similarity from Spatial Alignment for Neural Networks.
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/56bd21259e28ebdc4d7e1503733bf421-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/56bd21259e28ebdc4d7e1503733bf421-Abstract-Conference.html)
+- 代码链接：[https://github.com/tawald/semantic_rsm](https://github.com/tawald/semantic_rsm)
+
+#### Decoding-Time Language Model Alignment with Multiple Objectives
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/57c89126d60c209f48d0e6395c766bb3-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/57c89126d60c209f48d0e6395c766bb3-Abstract-Conference.html)
+- 代码链接：[https://github.com/srzer/mod](https://github.com/srzer/mod)
+
+#### On Mesa-Optimization in Autoregressively Trained Transformers: Emergence and Capability
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/581e1a06fa20f2c079dc5fb2db236335-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/581e1a06fa20f2c079dc5fb2db236335-Abstract-Conference.html)
+- 代码链接：[https://github.com/ML-GSAI/MesaOpt-AR-Transformer](https://github.com/ML-GSAI/MesaOpt-AR-Transformer)
+
+#### Intruding with Words: Towards Understanding Graph Injection Attacks at the Text Level
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/584b78c26916e5947c5b0c4ff8e7c960-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/584b78c26916e5947c5b0c4ff8e7c960-Abstract-Conference.html)
+- 代码链接：[https://github.com/leirunlin/text-level-graph-attack](https://github.com/leirunlin/text-level-graph-attack)
+
+#### Equivariant Neural Diffusion for Molecule Generation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/587b3f360588143a751c37fcb3b5db7f-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/587b3f360588143a751c37fcb3b5db7f-Abstract-Conference.html)
+- 代码链接：[https://github.com/frcnt/equivariant-neural-diffusion](https://github.com/frcnt/equivariant-neural-diffusion)
+
+#### Personalized Steering of Large Language Models: Versatile Steering Vectors Through Bi-directional Preference Optimization
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/58cbe393b4254da8966780a40d023c0b-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/58cbe393b4254da8966780a40d023c0b-Abstract-Conference.html)
+- 代码链接：[https://github.com/CaoYuanpu/BiPO](https://github.com/CaoYuanpu/BiPO)
+
+#### OAM-TCD: A globally diverse dataset of high-resolution tree cover maps
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/58efdd77196fa8159062afa0408245da-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/58efdd77196fa8159062afa0408245da-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/restor-foundation/tcd](https://github.com/restor-foundation/tcd)
+
+#### Newswire: A Large-Scale Structured Database of a Century of Historical News
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/58f52a01a516609336da78ff17e6f81f-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/58f52a01a516609336da78ff17e6f81f-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/dell-research-harvard/newswire](https://github.com/dell-research-harvard/newswire)
+
+#### Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/5949a8750a110ce1f0631b1776c500a2-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/5949a8750a110ce1f0631b1776c500a2-Abstract-Conference.html)
+- 代码链接：[https://github.com/JiuTian-VL/Optimus-1](https://github.com/JiuTian-VL/Optimus-1)
+
+#### Diffusion Models are Certifiably Robust Classifiers
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/59a3444d39b97ba01a17994f938e1ccc-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/59a3444d39b97ba01a17994f938e1ccc-Abstract-Conference.html)
+- 代码链接：[https://github.com/huanranchen/NoisedDiffusionClassifiers](https://github.com/huanranchen/NoisedDiffusionClassifiers)
+
+#### WebUOT-1M: Advancing Deep Underwater Object Tracking with A Million-Scale Benchmark
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/59bd8ec7f4906e309b8a7727beedde18-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/59bd8ec7f4906e309b8a7727beedde18-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/983632847/Awesome-Multimodal-Object-Tracking](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)
+
+#### Matryoshka Query Transformer for Large Vision-Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/59c147c7d4fdb732daea3064eab949bf-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/59c147c7d4fdb732daea3064eab949bf-Abstract-Conference.html)
+- 代码链接：[https://github.com/gordonhu608/mqt-llava](https://github.com/gordonhu608/mqt-llava)
+
+#### EMGBench: Benchmarking Out-of-Distribution Generalization and Adaptation for Electromyography
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/59fe60482e2e5faf557c37d121994663-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/59fe60482e2e5faf557c37d121994663-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/jehanyang/emgbench](https://github.com/jehanyang/emgbench)
+
+#### SpeechAlign: Aligning Speech Generation to Human Preferences
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/5a016da670821af25f151f523a2e563f-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/5a016da670821af25f151f523a2e563f-Abstract-Conference.html)
+- 代码链接：[https://github.com/0nutation/speechgpt](https://github.com/0nutation/speechgpt)
+
+#### SETLEXSEM CHALLENGE: Using Set Operations to Evaluate the Lexical and Semantic Robustness of Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/5a12909ffd7145c41139ad66ecf20fc0-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/5a12909ffd7145c41139ad66ecf20fc0-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/amazon-science/SetLexSem-Challenge](https://github.com/amazon-science/SetLexSem-Challenge)
+
+#### Noisy Ostracods: A Fine-Grained, Imbalanced Real-World Dataset for Benchmarking Robust Machine Learning and Label Correction Methods
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/5ab97f475339d66f8bb0a94312f57e40-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/5ab97f475339d66f8bb0a94312f57e40-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/H-Jamieu/Noisy_ostracods](https://github.com/H-Jamieu/Noisy_ostracods)
+
+#### ARC: A Generalist Graph Anomaly Detector with In-Context Learning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/5acb720a361eecb34ee62d356859d246-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/5acb720a361eecb34ee62d356859d246-Abstract-Conference.html)
+- 代码链接：[https://github.com/yixinliu233/arc](https://github.com/yixinliu233/arc)
+
+#### CTIBench: A Benchmark for Evaluating LLMs in Cyber Threat Intelligence
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/5acd3c628aa1819fbf07c39ef73e7285-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/5acd3c628aa1819fbf07c39ef73e7285-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/xashru/cti-bench](https://github.com/xashru/cti-bench)
+
+#### MMScan: A Multi-Modal 3D Scene Dataset with Hierarchical Grounded Language Annotations
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/5aed0d900297bd5593afc14ff452d4a8-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/5aed0d900297bd5593afc14ff452d4a8-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/openrobotlab/embodiedscan](https://github.com/openrobotlab/embodiedscan)
+
+#### JaxMARL: Multi-Agent RL Environments and Algorithms in JAX
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/5aee125f052c90e326dcf6f380df94f6-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/5aee125f052c90e326dcf6f380df94f6-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/flairox/jaxmarl](https://github.com/flairox/jaxmarl)
+
+#### Benchmarking Uncertainty Disentanglement: Specialized Uncertainties for Specialized Tasks
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/5afa9cb1e917b898ad418216dc726fbd-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/5afa9cb1e917b898ad418216dc726fbd-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/bmucsanyi/untangle](https://github.com/bmucsanyi/untangle)
+
+#### dopanim: A Dataset of Doppelganger Animals with Noisy Annotations from Multiple Humans
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/5b44b99d012922011f0be1031a98c4f9-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/5b44b99d012922011f0be1031a98c4f9-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/ies-research/multi-annotator-machine-learning](https://github.com/ies-research/multi-annotator-machine-learning)
+
+#### WenMind: A Comprehensive Benchmark for Evaluating Large Language Models in Chinese Classical Literature and Language Arts
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/5c1019b5711474ae5627dc8580614e01-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/5c1019b5711474ae5627dc8580614e01-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/SCUT-DLVCLab/WenMind](https://github.com/SCUT-DLVCLab/WenMind)
+
+#### Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning?
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/5c186016d0844767209dc36e9e61441b-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/5c186016d0844767209dc36e9e61441b-Abstract-Conference.html)
+- 代码链接：[https://github.com/AndssY/DeMa](https://github.com/AndssY/DeMa)
+
+#### ContextGS : Compact 3D Gaussian Splatting with Anchor Level Context Model
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/5c20ca4b0b20b0bd2f1d839dc605e70f-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/5c20ca4b0b20b0bd2f1d839dc605e70f-Abstract-Conference.html)
+- 代码链接：[https://github.com/wyf0912/contextgs](https://github.com/wyf0912/contextgs)
+
+#### OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/5d413e48f84dc61244b6be550f1cd8f5-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/5d413e48f84dc61244b6be550f1cd8f5-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/xlang-ai/OSWorld](https://github.com/xlang-ai/OSWorld)
+
+#### AudioMarkBench: Benchmarking Robustness of Audio Watermarking
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/5d9b7775296a641a1913ab6b4425d5e8-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/5d9b7775296a641a1913ab6b4425d5e8-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/moyangkuo/AudioMarkBench](https://github.com/moyangkuo/AudioMarkBench)
+
+#### MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/5dfbe6f5671e82c76841ba687a8a9ecb-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/5dfbe6f5671e82c76841ba687a8a9ecb-Abstract-Conference.html)
+- 代码链接：[https://github.com/microsoft/MInference](https://github.com/microsoft/MInference)
+
+#### Unveiling Encoder-Free Vision-Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/5e2217482fa75556f1970be809acd3f8-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/5e2217482fa75556f1970be809acd3f8-Abstract-Conference.html)
+- 代码链接：[https://github.com/baaivision/eve](https://github.com/baaivision/eve)
+
+#### Toward Self-Improvement of LLMs via Imagination, Searching, and Criticizing
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/5e5853f35164e434015716a8c2a66543-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/5e5853f35164e434015716a8c2a66543-Abstract-Conference.html)
+- 代码链接：[https://github.com/yetianjhu/alphallm](https://github.com/yetianjhu/alphallm)
+
+#### ERBench: An Entity-Relationship based Automatically Verifiable Hallucination Benchmark for Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/5ef9853a6cdea40ae3e301a6d8dc32b5-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/5ef9853a6cdea40ae3e301a6d8dc32b5-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/dilab-kaist/erbench](https://github.com/dilab-kaist/erbench)
+
+#### HourVideo: 1-Hour Video-Language Understanding
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/5f2809607f692d79a01c05c43d702883-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/5f2809607f692d79a01c05c43d702883-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/keshik6/HourVideo](https://github.com/keshik6/HourVideo)
+
+#### AllClear: A Comprehensive Dataset and Benchmark for Cloud Removal in Satellite Imagery
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/60095e1d7ebb292dbba93c4d8f7b2463-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/60095e1d7ebb292dbba93c4d8f7b2463-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/zhou-hangyu/allclear](https://github.com/zhou-hangyu/allclear)
+
+#### Autoformalize Mathematical Statements by Symbolic Equivalence and Semantic Consistency
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/6034a661584af6c28fd97a6f23e56c0a-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/6034a661584af6c28fd97a6f23e56c0a-Abstract-Conference.html)
+- 代码链接：[https://github.com/miracle-messi/isa-autoformal](https://github.com/miracle-messi/isa-autoformal)
+
+#### WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/60960ad78868fce5c165295fbd895060-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/60960ad78868fce5c165295fbd895060-Abstract-Conference.html)
+- 代码链接：[https://github.com/zjunlp/easyedit](https://github.com/zjunlp/easyedit)
+
+#### HEST-1k: A Dataset For Spatial Transcriptomics and Histology Image Analysis
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/60a899cc31f763be0bde781a75e04458-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/60a899cc31f763be0bde781a75e04458-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/mahmoodlab/hest](https://github.com/mahmoodlab/hest)
+
+#### PEAC: Unsupervised Pre-training for Cross-Embodiment Reinforcement Learning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/62203a74e233e933b160711e791e1a02-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/62203a74e233e933b160711e791e1a02-Abstract-Conference.html)
+- 代码链接：[https://github.com/thu-ml/CEURL](https://github.com/thu-ml/CEURL)
+
+#### Taming the Long Tail in Human Mobility Prediction
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/6294e6ec40d3599dcc9e9d584d959f5c-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/6294e6ec40d3599dcc9e9d584d959f5c-Abstract-Conference.html)
+- 代码链接：[https://github.com/yukayo/lotnext](https://github.com/yukayo/lotnext)
+
+#### Instruction Tuning Large Language Models to Understand Electronic Health Records
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/62986e0a78780fe5f17b495aeded5bab-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/62986e0a78780fe5f17b495aeded5bab-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/zzachw/llemr](https://github.com/zzachw/llemr)
+
+#### Categorical Flow Matching on Statistical Manifolds
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/62a58f2130894e44e8a272c563a2c6f1-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/62a58f2130894e44e8a272c563a2c6f1-Abstract-Conference.html)
+- 代码链接：[https://github.com/ccr-cheng/statistical-flow-matching](https://github.com/ccr-cheng/statistical-flow-matching)
+
+#### FVEL: Interactive Formal Verification Environment with Large Language Models via Theorem Proving
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/62c6d7893b13a13c659cb815852dd00d-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/62c6d7893b13a13c659cb815852dd00d-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/fveler/fvel](https://github.com/fveler/fvel)
+
+#### JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/63092d79154adebd7305dfd498cbff70-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/63092d79154adebd7305dfd498cbff70-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/JailbreakBench/jailbreakbench](https://github.com/JailbreakBench/jailbreakbench)
+
+#### FilterNet: Harnessing Frequency Filters for Time Series Forecasting
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/6323d96f79d5d49e0d3fc88835c082cd-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/6323d96f79d5d49e0d3fc88835c082cd-Abstract-Conference.html)
+- 代码链接：[https://github.com/aikunyi/filternet](https://github.com/aikunyi/filternet)
+
+#### WAGLE: Strategic Weight Attribution for Effective and Modular Unlearning in Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/649ad92e7067b3553a0f15acac68806d-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/649ad92e7067b3553a0f15acac68806d-Abstract-Conference.html)
+- 代码链接：[https://github.com/OPTML-Group/WAGLE](https://github.com/OPTML-Group/WAGLE)
+
+#### emg2pose: A Large and Diverse Benchmark for Surface Electromyographic Hand Pose Estimation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/64f8884f6ba3d9ace5bb647c4f917896-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/64f8884f6ba3d9ace5bb647c4f917896-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/facebookresearch/emg2pose](https://github.com/facebookresearch/emg2pose)
+
+#### Bileve: Securing Text Provenance in Large Language Models Against Spoofing with Bi-level Signature
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/65ec8f5cbc66b6a192c40a3ef1c05702-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/65ec8f5cbc66b6a192c40a3ef1c05702-Abstract-Conference.html)
+- 代码链接：[https://github.com/tongzhou0101/bileve-official](https://github.com/tongzhou0101/bileve-official)
+
+#### UniAudio 1.5: Large Language Model-Driven Audio Codec is A Few-Shot Audio Task Learner
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/6801fa3fd290229efc490ee0cf1c5687-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/6801fa3fd290229efc490ee0cf1c5687-Abstract-Conference.html)
+- 代码链接：[https://github.com/yangdongchao/llm-codec](https://github.com/yangdongchao/llm-codec)
+
+#### SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/681fe4ec554beabdc9c84a1780cd5a8a-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/681fe4ec554beabdc9c84a1780cd5a8a-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/amphionspace/SD-Eval](https://github.com/amphionspace/SD-Eval)
+
+#### Enhancing Graph Transformers with Hierarchical Distance Structural Encoding
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/68a3919db3858f548dea769f2dbba611-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/68a3919db3858f548dea769f2dbba611-Abstract-Conference.html)
+- 代码链接：[https://github.com/luoyk1999/hdse](https://github.com/luoyk1999/hdse)
+
+#### Graph Neural Flows for Unveiling Systemic Interactions Among Irregularly Sampled Time Series
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/68b8d2bc77268facfc75a78782da9559-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/68b8d2bc77268facfc75a78782da9559-Abstract-Conference.html)
+- 代码链接：[https://github.com/gmerca/gneuralflow](https://github.com/gmerca/gneuralflow)
+
+#### Vript: A Video Is Worth Thousands of Words
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/6903a5aaece71b76623245fc6e32f01b-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/6903a5aaece71b76623245fc6e32f01b-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/mutonix/Vript](https://github.com/mutonix/Vript)
+
+#### NYU CTF Bench: A Scalable Open-Source Benchmark Dataset for Evaluating LLMs in Offensive Security
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/69d97a6493fbf016fff0a751f253ad18-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/69d97a6493fbf016fff0a751f253ad18-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/nyu-llm-ctf/llm_ctf_automation](https://github.com/nyu-llm-ctf/llm_ctf_automation)
+
+#### The Multimodal Universe: Enabling Large-Scale Machine Learning with 100 TB of Astronomical Scientific Data
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/6a57493d35fefea59d06396c7cb69228-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/6a57493d35fefea59d06396c7cb69228-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/MultimodalUniverse/MultimodalUniverse](https://github.com/MultimodalUniverse/MultimodalUniverse)
+
+#### A Cat Is A Cat (Not A Dog!): Unraveling Information Mix-ups in Text-to-Image Encoders through Causal Analysis and Embedding Optimization
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/6a69d44b3386e50c06f7107ef4f29302-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/6a69d44b3386e50c06f7107ef4f29302-Abstract-Conference.html)
+- 代码链接：[https://github.com/basiclab/unraveling-information-mix-ups](https://github.com/basiclab/unraveling-information-mix-ups)
+
+#### Learning De-Biased Representations for Remote-Sensing Imagery
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/6a8e10164a90d5c3660c3949289f969a-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/6a8e10164a90d5c3660c3949289f969a-Abstract-Conference.html)
+- 代码链接：[https://github.com/doem97/deblora](https://github.com/doem97/deblora)
+
+#### From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/6aef8bffb372096ee73d98da30119f89-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/6aef8bffb372096ee73d98da30119f89-Abstract-Conference.html)
+- 代码链接：[https://github.com/ameliawong1996/From_News_to_Forecast](https://github.com/ameliawong1996/From_News_to_Forecast)
+
+#### Algorithmic progress in language models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/6b066da6a23bc55f9b887e7298102884-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/6b066da6a23bc55f9b887e7298102884-Abstract-Conference.html)
+- 代码链接：[https://github.com/epoch-research/lm-algorithmic-progress](https://github.com/epoch-research/lm-algorithmic-progress)
+
+#### Forgetting, Ignorance or Myopia: Revisiting Key Challenges in Online Continual Learning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/6b44ee74539ea77d6a0d50d468724371-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/6b44ee74539ea77d6a0d50d468724371-Abstract-Conference.html)
+- 代码链接：[https://github.com/wxr99/Forgetting-Ignorance-or-Myopia-Revisiting-Key-Challenges-in-Online-Continual-Learning](https://github.com/wxr99/Forgetting-Ignorance-or-Myopia-Revisiting-Key-Challenges-in-Online-Continual-Learning)
+
+#### Muharaf: Manuscripts of Handwritten Arabic Dataset for Cursive Text Recognition
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/6b8cb6b291045e217c3ff3f854f2fd0f-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/6b8cb6b291045e217c3ff3f854f2fd0f-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/mehreenmehreen/muharaf](https://github.com/mehreenmehreen/muharaf)
+
+#### Assemblage: Automatic Binary Dataset Construction for Machine Learning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/6bbefc73a187dd42e0dc065b4e7a0615-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/6bbefc73a187dd42e0dc065b4e7a0615-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/assemblage-dataset/assemblage](https://github.com/assemblage-dataset/assemblage)
+
+#### Diffusion for World Modeling: Visual Details Matter in Atari
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/6bdde0373d53d4a501249547084bed43-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/6bdde0373d53d4a501249547084bed43-Abstract-Conference.html)
+- 代码链接：[https://github.com/eloialonso/diamond](https://github.com/eloialonso/diamond)
+
+#### Learning World Models for Unconstrained Goal Navigation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/6cca3481ae66707958b824d37df40177-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/6cca3481ae66707958b824d37df40177-Abstract-Conference.html)
+- 代码链接：[https://github.com/RU-Automated-Reasoning-Group/MUN](https://github.com/RU-Automated-Reasoning-Group/MUN)
+
+#### SubjECTive-QA: Measuring Subjectivity in Earnings Call Transcripts' QA Through Six-Dimensional Feature Analysis
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/6d0f9c415e2d779c78f32b74668e9d02-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/6d0f9c415e2d779c78f32b74668e9d02-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/gtfintechlab/subjective-qa](https://github.com/gtfintechlab/subjective-qa)
+
+#### MmCows: A Multimodal Dataset for Dairy Cattle Monitoring
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/6d8f3f71b22f9d2e9320d7bdb73acea7-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/6d8f3f71b22f9d2e9320d7bdb73acea7-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/neis-lab/mmcows](https://github.com/neis-lab/mmcows)
+
+#### QTIP: Quantization with Trellises and Incoherence Processing
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/6de2e84b8da47bb2eb5e2ac96c63d2b0-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/6de2e84b8da47bb2eb5e2ac96c63d2b0-Abstract-Conference.html)
+- 代码链接：[https://github.com/Cornell-RelaxML/qtip](https://github.com/Cornell-RelaxML/qtip)
+
+#### Artificial Generational Intelligence: Cultural Accumulation in Reinforcement Learning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/6df3a719d99bd2479c04114d357003d0-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/6df3a719d99bd2479c04114d357003d0-Abstract-Conference.html)
+- 代码链接：[https://github.com/flairox/cultural-accumulation](https://github.com/flairox/cultural-accumulation)
+
+#### ODRL: A Benchmark for Off-Dynamics Reinforcement Learning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/6e37ba8a27b53fccd367c648ff365b8f-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/6e37ba8a27b53fccd367c648ff365b8f-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/OffDynamicsRL/off-dynamics-rl](https://github.com/OffDynamicsRL/off-dynamics-rl)
+
+#### SR-CACO-2: A Dataset for Confocal Fluorescence Microscopy Image Super-Resolution
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/6e4248741e35ab5dd7b29178633ddc28-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/6e4248741e35ab5dd7b29178633ddc28-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/sbelharbi/sr-caco-2](https://github.com/sbelharbi/sr-caco-2)
+
+#### ANAH-v2: Scaling Analytical Hallucination Annotation of Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/6e4cdfdd909ea4e34bfc85a12774cba0-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/6e4cdfdd909ea4e34bfc85a12774cba0-Abstract-Conference.html)
+- 代码链接：[https://github.com/open-compass/anah](https://github.com/open-compass/anah)
+
+#### Generating Code World Models with Large Language Models Guided by Monte Carlo Tree Search
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/6f479ea488e0908ac8b1b37b27fd134c-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/6f479ea488e0908ac8b1b37b27fd134c-Abstract-Conference.html)
+- 代码链接：[https://github.com/nicoladainese96/code-world-models](https://github.com/nicoladainese96/code-world-models)
+
+#### How Do Large Language Models Acquire Factual Knowledge During Pretraining?
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/6fdf57c71bc1f1ee29014b8dc52e723f-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/6fdf57c71bc1f1ee29014b8dc52e723f-Abstract-Conference.html)
+- 代码链接：[https://github.com/kaistai/factual-knowledge-acquisition](https://github.com/kaistai/factual-knowledge-acquisition)
+
+#### Found in the Middle: How Language Models Use Long Contexts Better via Plug-and-Play Positional Encoding
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/6ffdbbe354893979367f93e2121e37dd-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/6ffdbbe354893979367f93e2121e37dd-Abstract-Conference.html)
+- 代码链接：[https://github.com/vita-group/ms-poe](https://github.com/vita-group/ms-poe)
+
+#### HW-GPT-Bench: Hardware-Aware Architecture Benchmark for Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/6ffdbf064df51857eb802a904aaaba63-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/6ffdbf064df51857eb802a904aaaba63-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/automl/hw-aware-llm-bench](https://github.com/automl/hw-aware-llm-bench)
+
+#### TEG-DB: A Comprehensive Dataset and Benchmark of Textual-Edge Graphs
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/7054d2c49863c1c41be1d53f4377b82a-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/7054d2c49863c1c41be1d53f4377b82a-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/Zhuofeng-Li/TEG-Benchmark](https://github.com/Zhuofeng-Li/TEG-Benchmark)
+
+#### Tree of Attacks: Jailbreaking Black-Box LLMs Automatically
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/70702e8cbb4890b4a467b984ae59828a-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/70702e8cbb4890b4a467b984ae59828a-Abstract-Conference.html)
+- 代码链接：[https://github.com/ricommunity/tap](https://github.com/ricommunity/tap)
+
+#### Exploring the Edges of Latent State Clusters for Goal-Conditioned Reinforcement Learning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/7089237e828d55febd85a8d07f89e102-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/7089237e828d55febd85a8d07f89e102-Abstract-Conference.html)
+- 代码链接：[https://github.com/RU-Automated-Reasoning-Group/CE2](https://github.com/RU-Automated-Reasoning-Group/CE2)
+
+#### Learning Cut Generating Functions for Integer Programming
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/71008846945765893f43abe829090bf8-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/71008846945765893f43abe829090bf8-Abstract-Conference.html)
+- 代码链接：[https://github.com/hongyu-cheng/learncgf](https://github.com/hongyu-cheng/learncgf)
+
+#### DART-Eval: A Comprehensive DNA Language Model Evaluation Benchmark on Regulatory DNA
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/71998bfc3217ffe1cca1ee084dfadadd-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/71998bfc3217ffe1cca1ee084dfadadd-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/kundajelab/DART-Eval](https://github.com/kundajelab/DART-Eval)
+
+#### Make Your LLM Fully Utilize the Context
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/71c3451f6cd6a4f82bb822db25cea4fd-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/71c3451f6cd6a4f82bb822db25cea4fd-Abstract-Conference.html)
+- 代码链接：[https://github.com/microsoft/FILM](https://github.com/microsoft/FILM)
+
+#### Expectation Alignment: Handling Reward Misspecification in the Presence of Expectation Mismatch
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/72393bd47a35f5b3bee4c609e7bba733-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/72393bd47a35f5b3bee4c609e7bba733-Abstract-Conference.html)
+- 代码链接：[https://github.com/malek-mechergui/codemdp](https://github.com/malek-mechergui/codemdp)
+
+#### Are Large Language Models Good Statisticians?
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/729786203d330da046dd8091c2d92a66-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/729786203d330da046dd8091c2d92a66-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/derrickzhuyz/statqa](https://github.com/derrickzhuyz/statqa)
+
+#### PTQ4DiT: Post-training Quantization for Diffusion Transformers
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/72d32f4fe0b7af03732bd227bf1c4a5f-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/72d32f4fe0b7af03732bd227bf1c4a5f-Abstract-Conference.html)
+- 代码链接：[https://github.com/adreamwu/ptq4dit](https://github.com/adreamwu/ptq4dit)
+
+#### SelfCodeAlign: Self-Alignment for Code Generation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/72da102da91a8042a0b2aa968429a9f9-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/72da102da91a8042a0b2aa968429a9f9-Abstract-Conference.html)
+- 代码链接：[https://github.com/bigcode-project/selfcodealign](https://github.com/bigcode-project/selfcodealign)
+
+#### A Cross-Domain Benchmark for Active Learning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/72de9826cfe582e175520f404eaad473-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/72de9826cfe582e175520f404eaad473-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/wernerth94/a-cross-domain-benchmark-for-active-learning](https://github.com/wernerth94/a-cross-domain-benchmark-for-active-learning)
+
+#### JourneyBench: A Challenging One-Stop Vision-Language Understanding Benchmark of Generated Images
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/734abb86d3caa949f44da8a093717f61-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/734abb86d3caa949f44da8a093717f61-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/journeybench/journeybench](https://github.com/journeybench/journeybench)
+
+#### When to Sense and Control? A Time-adaptive Approach for Continuous-Time RL
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/746b0a1e6e3cff8d968ba6d2e6fff049-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/746b0a1e6e3cff8d968ba6d2e6fff049-Abstract-Conference.html)
+- 代码链接：[https://github.com/lasgroup/model-based-rl](https://github.com/lasgroup/model-based-rl)
+
+#### SurgicAI: A Hierarchical Platform for Fine-Grained Surgical Policy Learning and Benchmarking
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/74c4f2b87b7499d365422152c76fd916-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/74c4f2b87b7499d365422152c76fd916-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/surgical-robotics-ai/SurgicAI](https://github.com/surgical-robotics-ai/SurgicAI)
+
+#### T2VSafetyBench: Evaluating the Safety of Text-to-Video Generative Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/74eed5f568354c2e77dd9b018f38a9d4-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/74eed5f568354c2e77dd9b018f38a9d4-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/yibo-miao/T2VSafetyBench](https://github.com/yibo-miao/T2VSafetyBench)
+
+#### Me, Myself, and AI: The Situational Awareness Dataset (SAD) for LLMs
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/7537726385a4a6f94321e3adf8bd827e-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/7537726385a4a6f94321e3adf8bd827e-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/lrudl/sad](https://github.com/lrudl/sad)
+
+#### CableInspect-AD: An Expert-Annotated Anomaly Detection Dataset
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/76d9dd096d9469d6b7e732f0cddb51b3-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/76d9dd096d9469d6b7e732f0cddb51b3-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/mila-iqia/cableinspect-ad-code](https://github.com/mila-iqia/cableinspect-ad-code)
+
+#### ReST-MCTS*: LLM Self-Training via Process Reward Guided Tree Search
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/76ec4dc30e9faaf0e4b6093eaa377218-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/76ec4dc30e9faaf0e4b6093eaa377218-Abstract-Conference.html)
+- 代码链接：[https://github.com/THUDM/ReST-MCTS](https://github.com/THUDM/ReST-MCTS)
+
+#### Microstructures and Accuracy of Graph Recall by Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/77e6814d32a86b76123bd10aa7e2ad81-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/77e6814d32a86b76123bd10aa7e2ad81-Abstract-Conference.html)
+- 代码链接：[https://github.com/abel0828/llm-graph-recall](https://github.com/abel0828/llm-graph-recall)
+
+#### VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/78b3e7836e3b7dea79d809b0c99cb097-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/78b3e7836e3b7dea79d809b0c99cb097-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/wangwenhao0716/vidprom](https://github.com/wangwenhao0716/vidprom)
+
+#### Adaptive Exploration for Data-Efficient General Value Function Evaluations
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/794a72b1a9d5fc4c040eb3110d94c8a1-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/794a72b1a9d5fc4c040eb3110d94c8a1-Abstract-Conference.html)
+- 代码链接：[https://github.com/arushijain94/explorationofgvfs](https://github.com/arushijain94/explorationofgvfs)
+
+#### Benchmarking PtO and PnO Methods in the Predictive Combinatorial Optimization Regime
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/796076672b00f54fb01d05a2e5fde363-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/796076672b00f54fb01d05a2e5fde363-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/Thinklab-SJTU/PredictiveCO-Benchmark](https://github.com/Thinklab-SJTU/PredictiveCO-Benchmark)
+
+#### Terra: A Multimodal Spatio-Temporal Dataset Spanning the Earth
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/7a6a7fbd1ee0c9684b3f919f79d129ef-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/7a6a7fbd1ee0c9684b3f919f79d129ef-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/CityMind-Lab/NeurIPS24-Terra](https://github.com/CityMind-Lab/NeurIPS24-Terra)
+
+#### Interpretable Concept Bottlenecks to Align Reinforcement Learning Agents
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/7b76eea0c3683e440c3d362620f578cd-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/7b76eea0c3683e440c3d362620f578cd-Abstract-Conference.html)
+- 代码链接：[https://github.com/k4ntz/scobots](https://github.com/k4ntz/scobots)
+
+#### Back to the Continuous Attractor
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/7b78a2a7360d5a9ad750834dc5a33bfb-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/7b78a2a7360d5a9ad750834dc5a33bfb-Abstract-Conference.html)
+- 代码链接：[https://github.com/catniplab/back_to_the_continuous_attractor](https://github.com/catniplab/back_to_the_continuous_attractor)
+
+#### Navigating the Maze of Explainable AI: A Systematic Approach to Evaluating Methods and Metrics
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/7beb1ddb04401ba21869f23a77f3e4e1-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/7beb1ddb04401ba21869f23a77f3e4e1-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/IML-DKFZ/latec](https://github.com/IML-DKFZ/latec)
+
+#### UDA: A Benchmark Suite for Retrieval Augmented Generation in Real-World Document Analysis
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/7c06759d1a8567f087b02e8589454917-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/7c06759d1a8567f087b02e8589454917-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/qinchuanhui/UDA-Benchmark](https://github.com/qinchuanhui/UDA-Benchmark)
+
+#### BoostAdapter: Improving Vision-Language Test-Time Adaptation via Regional Bootstrapping
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/7d60bfd8458b67acbbaf18b892338d00-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/7d60bfd8458b67acbbaf18b892338d00-Abstract-Conference.html)
+- 代码链接：[https://github.com/taolinzhang/boostadapter](https://github.com/taolinzhang/boostadapter)
+
+#### iVideoGPT: Interactive VideoGPTs are Scalable World Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/7dbb5bfab324e3b86af9bd0df15498dd-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/7dbb5bfab324e3b86af9bd0df15498dd-Abstract-Conference.html)
+- 代码链接：[https://github.com/thuml/iVideoGPT](https://github.com/thuml/iVideoGPT)
+
+#### IndicVoices-R: Unlocking a Massive Multilingual Multi-speaker Speech Corpus for Scaling Indian TTS
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/7dfcaf4512bbf2a807a783b90afb6c09-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/7dfcaf4512bbf2a807a783b90afb6c09-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/ai4bharat/indicvoices-r](https://github.com/ai4bharat/indicvoices-r)
+
+#### Safetywashing: Do AI Safety Benchmarks Actually Measure Safety Progress?
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/7ebcdd0de471c027e67a11959c666d74-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/7ebcdd0de471c027e67a11959c666d74-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/centerforaisafety/safetywashing](https://github.com/centerforaisafety/safetywashing)
+
+#### FACT or Fiction: Can Truthful Mechanisms Eliminate Federated Free Riding?
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/803485352e61e3ebf41221e4776c9fd4-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/803485352e61e3ebf41221e4776c9fd4-Abstract-Conference.html)
+- 代码链接：[https://github.com/marcobornstein/fact](https://github.com/marcobornstein/fact)
+
+#### VideoGUI: A Benchmark for GUI Automation from Instructional Videos
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/804e757b7d7043c26701c3a313032101-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/804e757b7d7043c26701c3a313032101-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/showlab/videogui](https://github.com/showlab/videogui)
+
+#### Can Graph Neural Networks Expose Training Data Properties? An Efficient Risk Assessment Approach
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/806288e682d8a38c0bf21e37ab38af0a-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/806288e682d8a38c0bf21e37ab38af0a-Abstract-Conference.html)
+- 代码链接：[https://github.com/zjunet/GPIA_NIPS](https://github.com/zjunet/GPIA_NIPS)
+
+#### A Large-Scale Human-Centric Benchmark for Referring Expression Comprehension in the LMM Era
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/80f0cd0305f7741659304f5325f3bf6d-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/80f0cd0305f7741659304f5325f3bf6d-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/ZhaoJingjing713/HC-RefLoCo](https://github.com/ZhaoJingjing713/HC-RefLoCo)
+
+#### A New Multi-Source Light Detection Benchmark and Semi-Supervised Focal Light Detection
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/8114d5aec06601f02446b9fc9a1d5ba4-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/8114d5aec06601f02446b9fc9a1d5ba4-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/YDLD-dataset/YDLD](https://github.com/YDLD-dataset/YDLD)
+
+#### LogiCity: Advancing Neuro-Symbolic AI with Abstract Urban Simulation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/8196be81e68289d7a9ece21ed7f5750a-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/8196be81e68289d7a9ece21ed7f5750a-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/Jaraxxus-Me/LogiCity](https://github.com/Jaraxxus-Me/LogiCity)
+
+#### VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/81a60d18e010b27b36cd465c6604b915-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/81a60d18e010b27b36cd465c6604b915-Abstract-Conference.html)
+- 代码链接：[https://github.com/opengvlab/visionllm](https://github.com/opengvlab/visionllm)
+
+#### Indoor Air Quality Dataset with Activities of Daily Living in Low to Middle-income Communities
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/81e16e41f99fe4ab9c23a0e0da8eaab2-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/81e16e41f99fe4ab9c23a0e0da8eaab2-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/prasenjit52282/dalton-dataset](https://github.com/prasenjit52282/dalton-dataset)
+
+#### Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/81f19c0e9f3e06c831630ab6662fd8ea-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/81f19c0e9f3e06c831630ab6662fd8ea-Abstract-Conference.html)
+- 代码链接：[https://github.com/pr-ryan/demo](https://github.com/pr-ryan/demo)
+
+#### ViLCo-Bench: VIdeo Language COntinual learning Benchmark
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/8219947e7bfbcd0cebd12ea85b9285b8-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/8219947e7bfbcd0cebd12ea85b9285b8-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/cruiseresearchgroup/ViLCo](https://github.com/cruiseresearchgroup/ViLCo)
+
+#### Building a stable classifier with the inflated argmax
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/822621aaa88635437ea51023afdeaec2-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/822621aaa88635437ea51023afdeaec2-Abstract-Conference.html)
+- 代码链接：[https://github.com/jake-soloff/stable-argmax-experiments](https://github.com/jake-soloff/stable-argmax-experiments)
+
+#### Counter-Current Learning: A Biologically Plausible Dual Network Approach for Deep Learning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/82f05a105c928c10706213952bf0c8b7-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/82f05a105c928c10706213952bf0c8b7-Abstract-Conference.html)
+- 代码链接：[https://github.com/iandrover/ccl-neurips24](https://github.com/iandrover/ccl-neurips24)
+
+#### Megalodon: Efficient LLM Pretraining and Inference with Unlimited Context Length
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/840abfadd04c967feaa2a49aba94a32d-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/840abfadd04c967feaa2a49aba94a32d-Abstract-Conference.html)
+- 代码链接：[https://github.com/xuezhemax/megalodon](https://github.com/xuezhemax/megalodon)
+
+#### Arctique: An artificial histopathological dataset unifying realism and controllability for uncertainty quantification
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/840ba425392fbfede5cf50c755c608c6-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/840ba425392fbfede5cf50c755c608c6-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/kainmueller-lab/arctique](https://github.com/kainmueller-lab/arctique)
+
+#### Boosted Conformal Prediction Intervals
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/842714f78c95096e20ac7d2591c5a24b-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/842714f78c95096e20ac7d2591c5a24b-Abstract-Conference.html)
+- 代码链接：[https://github.com/ran-xie/boosted-conformal](https://github.com/ran-xie/boosted-conformal)
+
+#### Physics-informed Neural Networks for Functional Differential Equations: Cylindrical Approximation and Its Convergence Guarantees
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/84c6c76526783f4afd82687829d3aa97-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/84c6c76526783f4afd82687829d3aa97-Abstract-Conference.html)
+- 代码链接：[https://github.com/taikimiyagawa/functionalpinn](https://github.com/taikimiyagawa/functionalpinn)
+
+#### PPLNs: Parametric Piecewise Linear Networks for Event-Based Temporal Modeling and Beyond
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/84ca3f2d9d9bfca13f69b48ea63eb4a5-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/84ca3f2d9d9bfca13f69b48ea63eb4a5-Abstract-Conference.html)
+- 代码链接：[https://github.com/chensong1995/ppln](https://github.com/chensong1995/ppln)
+
+#### Integrating GNN and Neural ODEs for Estimating Non-Reciprocal Two-Body Interactions in Mixed-Species Collective Motion
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/84f44b36ceb4fbc9bb269959f4796eed-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/84f44b36ceb4fbc9bb269959f4796eed-Abstract-Conference.html)
+- 代码链接：[https://github.com/MasahitoUWAMICHI/collectiveMotionNN](https://github.com/MasahitoUWAMICHI/collectiveMotionNN)
+
+#### SeTAR: Out-of-Distribution Detection with Selective Low-Rank Approximation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/8555cf308efef02adacb0f9e09bd5f10-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/8555cf308efef02adacb0f9e09bd5f10-Abstract-Conference.html)
+- 代码链接：[https://github.com/X1AOX1A/SeTAR](https://github.com/X1AOX1A/SeTAR)
+
+#### Towards Heterogeneous Long-tailed Learning: Benchmarking, Metrics, and Toolbox
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/85cd8edc556709341b2ef6c4d5725545-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/85cd8edc556709341b2ef6c4d5725545-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/SSSKJ/HeroLT](https://github.com/SSSKJ/HeroLT)
+
+#### Solving Inverse Problems via Diffusion Optimal Control
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/86655bc516148e311bcfcf88f1744de7-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/86655bc516148e311bcfcf88f1744de7-Abstract-Conference.html)
+- 代码链接：[https://github.com/lihenryhfl/diffusion_optimal_control](https://github.com/lihenryhfl/diffusion_optimal_control)
+
+#### Enhancing Reasoning Capabilities of LLMs via Principled Synthetic Logic Corpus
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/8678da90126aa58326b2fc0254b33a8c-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/8678da90126aa58326b2fc0254b33a8c-Abstract-Conference.html)
+- 代码链接：[https://github.com/hitachi-nlp/fld](https://github.com/hitachi-nlp/fld)
+
+#### Optimal Aggregation of Prediction Intervals under Unsupervised Domain Shift
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/869bfd807a513755bef25e3896a19a21-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/869bfd807a513755bef25e3896a19a21-Abstract-Conference.html)
+- 代码链接：[https://github.com/jiaweige0416/pi-with-shift](https://github.com/jiaweige0416/pi-with-shift)
+
+#### Efficient Large Multi-modal Models via Visual Context Compression
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/871ed095b734818cfba48db6aeb25a62-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/871ed095b734818cfba48db6aeb25a62-Abstract-Conference.html)
+- 代码链接：[https://github.com/beckschen/llavolta](https://github.com/beckschen/llavolta)
+
+#### Membership Inference on Text-to-Image Diffusion Models via Conditional Likelihood Discrepancy
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/874411a224a1934b80d499068384808b-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/874411a224a1934b80d499068384808b-Abstract-Conference.html)
+- 代码链接：[https://github.com/zhaisf/clid](https://github.com/zhaisf/clid)
+
+#### Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/8754ad68d557e633e5ce9dd02781e9cc-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/8754ad68d557e633e5ce9dd02781e9cc-Abstract-Conference.html)
+- 代码链接：[https://github.com/ykarmesh/stable-control-representations](https://github.com/ykarmesh/stable-control-representations)
+
+#### AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/877b40688e330a0e2a3fc24084208dfa-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/877b40688e330a0e2a3fc24084208dfa-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/hkust-nlp/agentboard](https://github.com/hkust-nlp/agentboard)
+
+#### Fair and Welfare-Efficient Constrained Multi-Matchings under Uncertainty
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/883105b282fe15275991b411e6b200c5-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/883105b282fe15275991b411e6b200c5-Abstract-Conference.html)
+- 代码链接：[https://github.com/justinpayan/RAU2](https://github.com/justinpayan/RAU2)
+
+#### DiReCT: Diagnostic Reasoning for Clinical Notes via Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/892850bf793e03b5c410dfd9425b94c8-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/892850bf793e03b5c410dfd9425b94c8-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/wbw520/direct](https://github.com/wbw520/direct)
+
+#### Spiking Neural Network as Adaptive Event Stream Slicer
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/893a5db6100028ec814cfd99fe92c31b-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/893a5db6100028ec814cfd99fe92c31b-Abstract-Conference.html)
+- 代码链接：[https://github.com/andycao1125/spikeslicer](https://github.com/andycao1125/spikeslicer)
+
+#### T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/8a57aa8e8b57e64a42e95f7dceb0adb9-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/8a57aa8e8b57e64a42e95f7dceb0adb9-Abstract-Conference.html)
+- 代码链接：[https://github.com/Ji4chenLi/t2v-turbo](https://github.com/Ji4chenLi/t2v-turbo)
+
+#### GTA: A Benchmark for General Tool Agents
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/8a75ee6d4b2eb0b777f549a32a5a5c28-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/8a75ee6d4b2eb0b777f549a32a5a5c28-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/open-compass/GTA](https://github.com/open-compass/GTA)
+
+#### What to Say and When to Say it: Live Fitness Coaching as a Testbed for Situated Interaction
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/8aa695b5d6bf9e958d4e56b22c9b859d-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/8aa695b5d6bf9e958d4e56b22c9b859d-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/qualcomm-ai-research/fitcoach](https://github.com/qualcomm-ai-research/fitcoach)
+
+#### Continual Audio-Visual Sound Separation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/8af52d7acc4f0013661d4223d7e12b4c-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/8af52d7acc4f0013661d4223d7e12b4c-Abstract-Conference.html)
+- 代码链接：[https://github.com/weiguoPian/ContAV-Sep_NeurIPS2024](https://github.com/weiguoPian/ContAV-Sep_NeurIPS2024)
+
+#### CoMat: Aligning Text-to-Image Diffusion Model with Image-to-Text Concept Matching
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/8b54ecd9823fff6d37e61ece8f87e534-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/8b54ecd9823fff6d37e61ece8f87e534-Abstract-Conference.html)
+- 代码链接：[https://github.com/caraj7/comat](https://github.com/caraj7/comat)
+
+#### PINNacle: A Comprehensive Benchmark of Physics-Informed Neural Networks for Solving PDEs
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/8c63299fb2820ef41cb05e2ff11836f5-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/8c63299fb2820ef41cb05e2ff11836f5-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/i207m/pinnacle](https://github.com/i207m/pinnacle)
+
+#### BitsFusion: 1.99 bits Weight Quantization of Diffusion Model
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/8c64bc3f7796d31caa7c3e6b969bf7da-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/8c64bc3f7796d31caa7c3e6b969bf7da-Abstract-Conference.html)
+- 代码链接：[https://github.com/huggingface/diffusers](https://github.com/huggingface/diffusers)
+
+#### Causal Temporal Representation Learning with Nonstationary Sparse Transition
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/8cef4e4bcb85f7d4a1005a9db018d6b6-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/8cef4e4bcb85f7d4a1005a9db018d6b6-Abstract-Conference.html)
+- 代码链接：[https://github.com/xiangchensong/ctrlns](https://github.com/xiangchensong/ctrlns)
+
+#### DevBench: A multimodal developmental benchmark for language learning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/8d987b2981388c99c7eab6095d1d29fd-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/8d987b2981388c99c7eab6095d1d29fd-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/alvinwmtan/dev-bench](https://github.com/alvinwmtan/dev-bench)
+
+#### Relational Concept Bottleneck Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/8deff86036ee6a73cda883dc7d2d6b07-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/8deff86036ee6a73cda883dc7d2d6b07-Abstract-Conference.html)
+- 代码链接：[https://github.com/diligmic/rcbm-neurips2024](https://github.com/diligmic/rcbm-neurips2024)
+
+#### Confidence Calibration of Classifiers with Many Classes
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/8df80d7115a55eb81010c967a247b1ae-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/8df80d7115a55eb81010c967a247b1ae-Abstract-Conference.html)
+- 代码链接：[https://github.com/allglc/tva-calibration](https://github.com/allglc/tva-calibration)
+
+#### Point Cloud Matters: Rethinking the Impact of Different Observation Spaces on Robot Learning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/8e5dc5969a6174fcaaececd890c7f59b-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/8e5dc5969a6174fcaaececd890c7f59b-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/haoyizhu/pointcloudmatters](https://github.com/haoyizhu/pointcloudmatters)
+
+#### Time-MMD: Multi-Domain Multimodal Dataset for Time Series Analysis
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/8e7768122f3eeec6d77cd2b424b72413-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/8e7768122f3eeec6d77cd2b424b72413-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/AdityaLab/Time-MMD](https://github.com/AdityaLab/Time-MMD)
+
+#### Generating Highly Designable Proteins with Geometric Algebra Flow Matching
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/8e906a69bcdfc3b9be15995b525ddda7-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/8e906a69bcdfc3b9be15995b525ddda7-Abstract-Conference.html)
+- 代码链接：[https://github.com/hits-mli/gafl](https://github.com/hits-mli/gafl)
+
+#### BLEnD: A Benchmark for LLMs on Everyday Knowledge in Diverse Cultures and Languages
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/8eb88844dafefa92a26aaec9f3acad93-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/8eb88844dafefa92a26aaec9f3acad93-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/nlee0212/BLEnD](https://github.com/nlee0212/BLEnD)
+
+#### Structured Unrestricted-Rank Matrices for Parameter Efficient Finetuning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/8eec8d7bcecf034304174e6b57dbc19a-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/8eec8d7bcecf034304174e6b57dbc19a-Abstract-Conference.html)
+- 代码链接：[https://github.com/arijitthegame/structured-matrices-peft](https://github.com/arijitthegame/structured-matrices-peft)
+
+#### TabularBench: Benchmarking Adversarial Robustness for Tabular Deep Learning in Real-world Use-cases
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/8f5defaa8dc728c3e4aaee59ac8ca942-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/8f5defaa8dc728c3e4aaee59ac8ca942-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/serval-uni-lu/tabularbench](https://github.com/serval-uni-lu/tabularbench)
+
+#### Lambda: Learning Matchable Prior For Entity Alignment with Unlabeled Dangling Cases
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/8fd5bc08e744fe0dfe798c61d1575a22-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/8fd5bc08e744fe0dfe798c61d1575a22-Abstract-Conference.html)
+- 代码链接：[https://github.com/Handon112358/NeurIPS_2024_Learning-Matchable-Prior-For-Entity-Alignment-with-Unlabeled-Dangling-Cases](https://github.com/Handon112358/NeurIPS_2024_Learning-Matchable-Prior-For-Entity-Alignment-with-Unlabeled-Dangling-Cases)
+
+#### RegExplainer: Generating Explanations for Graph Neural Networks in Regression Tasks
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/909f526db5127f8bd8158af32d9e313a-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/909f526db5127f8bd8158af32d9e313a-Abstract-Conference.html)
+- 代码链接：[https://github.com/jz48/regexplainer](https://github.com/jz48/regexplainer)
+
+#### Dendritic Integration Inspired Artificial Neural Networks Capture Data Correlation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/90b31ad371165eaac2dc6de8993fded7-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/90b31ad371165eaac2dc6de8993fded7-Abstract-Conference.html)
+- 代码链接：[https://github.com/liuchongming1999/Dendritic-integration-inspired-CNN-NeurIPS-2024](https://github.com/liuchongming1999/Dendritic-integration-inspired-CNN-NeurIPS-2024)
+
+#### OctreeOcc: Efficient and Multi-Granularity Occupancy Prediction Using Octree Queries
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/9149fc44c95ce58e3ca529a1e34c2691-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/9149fc44c95ce58e3ca529a1e34c2691-Abstract-Conference.html)
+- 代码链接：[https://github.com/4DVLab/OctreeOcc](https://github.com/4DVLab/OctreeOcc)
+
+#### Discrete-state Continuous-time Diffusion for Graph Generation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/91813e5ddd9658b99be4c532e274b49c-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/91813e5ddd9658b99be4c532e274b49c-Abstract-Conference.html)
+- 代码链接：[https://github.com/pricexu/disco](https://github.com/pricexu/disco)
+
+#### Meta-Diffu$B$: A Contextualized Sequence-to-Sequence Text Diffusion Model with Meta-Exploration
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/91d193b65d0b120d29503590827de1ea-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/91d193b65d0b120d29503590827de1ea-Abstract-Conference.html)
+- 代码链接：[https://github.com/meta-diffub/meta-diffub](https://github.com/meta-diffub/meta-diffub)
+
+#### Free Lunch in Pathology Foundation Model: Task-specific Model Adaptation with Concept-Guided Feature Enhancement
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/9251fa7fcc356bbfc16c040f4c030d83-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/9251fa7fcc356bbfc16c040f4c030d83-Abstract-Conference.html)
+- 代码链接：[https://github.com/hku-medai/cate](https://github.com/hku-medai/cate)
+
+#### Tetrahedron Splatting for 3D Generation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/92ce40962b4098f7bf6eed33128fc606-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/92ce40962b4098f7bf6eed33128fc606-Abstract-Conference.html)
+- 代码链接：[https://github.com/fudan-zvg/tet-splatting](https://github.com/fudan-zvg/tet-splatting)
+
+#### Dissecting the Failure of Invariant Learning on Graphs
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/932147114c48f8b04d41aebc0c631158-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/932147114c48f8b04d41aebc0c631158-Abstract-Conference.html)
+- 代码链接：[https://github.com/novaglow646/neurips24-invariant-learning-on-graphs](https://github.com/novaglow646/neurips24-invariant-learning-on-graphs)
+
+#### IKEA Manuals at Work: 4D Grounding of Assembly Instructions on Internet Videos
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/936c72edff325b2ad5eda320e916487f-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/936c72edff325b2ad5eda320e916487f-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/yunongLiu1/IKEA-Manuals-at-Work](https://github.com/yunongLiu1/IKEA-Manuals-at-Work)
+
+#### Graph-enhanced Optimizers for Structure-aware Recommendation Embedding Evolution
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/938ac7bb9a997b60b6be0348c486aaef-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/938ac7bb9a997b60b6be0348c486aaef-Abstract-Conference.html)
+- 代码链接：[https://github.com/mtandhj/sevo](https://github.com/mtandhj/sevo)
+
+#### TorchSpatial: A Location Encoding Framework and Benchmark for Spatial Representation Learning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/9449c2d5b0cc8c9a445752f3ff195a1c-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/9449c2d5b0cc8c9a445752f3ff195a1c-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/seai-lab/TorchSpatial](https://github.com/seai-lab/TorchSpatial)
+
+#### FedLPA: One-shot Federated Learning with Layer-Wise Posterior Aggregation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/9482f45fdd89aba9130bb04c44f788a9-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/9482f45fdd89aba9130bb04c44f788a9-Abstract-Conference.html)
+- 代码链接：[https://github.com/lebronlambert/FedLPA_NeurIPS2024](https://github.com/lebronlambert/FedLPA_NeurIPS2024)
+
+#### QGFN: Controllable Greediness with Action Values
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/948d8ba4e30c8c3a800cf436b31f376e-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/948d8ba4e30c8c3a800cf436b31f376e-Abstract-Conference.html)
+- 代码链接：[https://github.com/yunglau/QGFN](https://github.com/yunglau/QGFN)
+
+#### A Structure-Aware Framework for Learning Device Placements on Computation Graphs
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/94bd1b8c906494bada774096bd0fdd73-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/94bd1b8c906494bada774096bd0fdd73-Abstract-Conference.html)
+- 代码链接：[https://github.com/hping666/HSDAG](https://github.com/hping666/HSDAG)
+
+#### Croissant: A Metadata Format for ML-Ready Datasets
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/9547b09b722f2948ff3ddb5d86002bc0-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/9547b09b722f2948ff3ddb5d86002bc0-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/mlcommons/croissant](https://github.com/mlcommons/croissant)
+
+#### TAPVid-3D: A Benchmark for Tracking Any Point in 3D
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/9566607d423f8c32a2d5ce09a8b62232-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/9566607d423f8c32a2d5ce09a8b62232-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/google-deepmind/tapnet](https://github.com/google-deepmind/tapnet)
+
+#### UniBench: Visual Reasoning Requires Rethinking Vision-Language Beyond Scaling
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/96271227d3e204501d199433e56af289-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/96271227d3e204501d199433e56af289-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/facebookresearch/unibench](https://github.com/facebookresearch/unibench)
+
+#### Conjugated Semantic Pool Improves OOD Detection with Pre-trained Vision-Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/967017dbe801dc95f5a2587c6d6a1ef3-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/967017dbe801dc95f5a2587c6d6a1ef3-Abstract-Conference.html)
+- 代码链接：[https://github.com/MengyuanChen21/NeurIPS2024-CSP](https://github.com/MengyuanChen21/NeurIPS2024-CSP)
+
+#### Benchmarking Estimators for Natural Experiments: A Novel Dataset and a Doubly Robust Algorithm
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/9687f7801396bc0eecc9f7edfd8267d5-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/9687f7801396bc0eecc9f7edfd8267d5-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/rtealwitter/naturalexperiments](https://github.com/rtealwitter/naturalexperiments)
+
+#### AFBench: A Large-scale Benchmark for Airfoil Design
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/96bc329285d3f028dc5972d7146c7e2f-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/96bc329285d3f028dc5972d7146c7e2f-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/hitcslj/afbench](https://github.com/hitcslj/afbench)
+
+#### AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/97091a5177d8dc64b1da8bf3e1f6fb54-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/97091a5177d8dc64b1da8bf3e1f6fb54-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/ethz-spylab/agentdojo](https://github.com/ethz-spylab/agentdojo)
+
+#### Codec Avatar Studio: Paired Human Captures for Complete, Driveable, and Generalizable Avatars
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/9712b78386cebdc3db7f1a48c2d20edb-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/9712b78386cebdc3db7f1a48c2d20edb-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/facebookresearch/ava-256](https://github.com/facebookresearch/ava-256)
+
+#### Measuring Progress in Dictionary Learning for Language Model Interpretability with Board Game Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/9736acf007760cc2b47948ae3cf06274-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/9736acf007760cc2b47948ae3cf06274-Abstract-Conference.html)
+- 代码链接：[https://github.com/adamkarvonen/SAE_BoardGameEval](https://github.com/adamkarvonen/SAE_BoardGameEval)
+
+#### Scaling Law for Time Series Forecasting
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/97c2f0fac182353062d304d0322ae285-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/97c2f0fac182353062d304d0322ae285-Abstract-Conference.html)
+- 代码链接：[https://github.com/jingzheshi/scalinglawfortimeseriesforecasting](https://github.com/jingzheshi/scalinglawfortimeseriesforecasting)
+
+#### Improving Alignment and Robustness with Circuit Breakers
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/97ca7168c2c333df5ea61ece3b3276e1-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/97ca7168c2c333df5ea61ece3b3276e1-Abstract-Conference.html)
+- 代码链接：[https://github.com/blackswan-ai/circuit-breakers](https://github.com/blackswan-ai/circuit-breakers)
+
+#### TuneTables: Context Optimization for Scalable Prior-Data Fitted Networks
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/97dc07f1253ab33ee514f395a82fa7cc-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/97dc07f1253ab33ee514f395a82fa7cc-Abstract-Conference.html)
+- 代码链接：[https://github.com/penfever/tabpfn-pt](https://github.com/penfever/tabpfn-pt)
+
+#### SmallToLarge (S2L): Scalable Data Selection for Fine-tuning Large Language Models by Summarizing Training Trajectories of Small Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/97fe251c25b6f99a2a23b330a75b11d4-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/97fe251c25b6f99a2a23b330a75b11d4-Abstract-Conference.html)
+- 代码链接：[https://github.com/bigml-cs-ucla/s2l](https://github.com/bigml-cs-ucla/s2l)
+
+#### Cooperation, Competition, and Maliciousness: LLM-Stakeholders Interactive Negotiation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/984dd3db213db2d1454a163b65b84d08-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/984dd3db213db2d1454a163b65b84d08-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/s-abdelnabi/llm-deliberation](https://github.com/s-abdelnabi/llm-deliberation)
+
+#### MedCalc-Bench: Evaluating Large Language Models for Medical Calculations
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/99e81750f3fdfcaf9613db2dbf4bd623-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/99e81750f3fdfcaf9613db2dbf4bd623-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/ncbi-nlp/MedCalc-Bench](https://github.com/ncbi-nlp/MedCalc-Bench)
+
+#### Parameter Competition Balancing for Model Merging
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/99fc8bc48b917c301a80cb74d91c0c06-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/99fc8bc48b917c301a80cb74d91c0c06-Abstract-Conference.html)
+- 代码链接：[https://github.com/duguodong7/pcb-merging](https://github.com/duguodong7/pcb-merging)
+
+#### PointAD: Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/9a263e235f6d1521d13a8531c7974951-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/9a263e235f6d1521d13a8531c7974951-Abstract-Conference.html)
+- 代码链接：[https://github.com/zqhang/pointad](https://github.com/zqhang/pointad)
+
+#### MagR: Weight Magnitude Reduction for Enhancing Post-Training Quantization
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/9a987c98a7f36cc83f9065df3ca4f9e0-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/9a987c98a7f36cc83f9065df3ca4f9e0-Abstract-Conference.html)
+- 代码链接：[https://github.com/aozhongzhang/magr](https://github.com/aozhongzhang/magr)
+
+#### Boosting Alignment for Post-Unlearning Text-to-Image Generative Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/9aa51796f8bede2ea947d6b6e3087ab8-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/9aa51796f8bede2ea947d6b6e3087ab8-Abstract-Conference.html)
+- 代码链接：[https://github.com/reds-lab/restricted_gradient_diversity_unlearning](https://github.com/reds-lab/restricted_gradient_diversity_unlearning)
+
+#### DreamCatcher: A Wearer-aware Multi-modal Sleep Event Dataset Based on Earables in Non-restrictive Environments
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/9ab8bb568825d49ce31aa87b7e2f4ad7-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/9ab8bb568825d49ce31aa87b7e2f4ad7-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/thuhci/DreamCatcher](https://github.com/thuhci/DreamCatcher)
+
+#### Identification of Analytic Nonlinear Dynamical Systems with Non-asymptotic Guarantees
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/9b3c956210432122aa5385c355fc7c6e-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/9b3c956210432122aa5385c355fc7c6e-Abstract-Conference.html)
+- 代码链接：[https://github.com/NeginMusavi/real-analytic-nonlinear-sys-id](https://github.com/NeginMusavi/real-analytic-nonlinear-sys-id)
+
+#### Who Evaluates the Evaluations? Objectively Scoring Text-to-Image Prompt Coherence Metrics with T2IScoreScore (TS2)
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/9b9cfd5428153ccfbd4ba34b7e007305-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/9b9cfd5428153ccfbd4ba34b7e007305-Abstract-Conference.html)
+- 代码链接：[https://github.com/michaelsaxon/T2IScoreScore](https://github.com/michaelsaxon/T2IScoreScore)
+
+#### Large Language Models Must Be Taught to Know What They Don’t Know
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/9c20f16b05f5e5e70fa07e2a4364b80e-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/9c20f16b05f5e5e70fa07e2a4364b80e-Abstract-Conference.html)
+- 代码链接：[https://github.com/activatedgeek/calibration-tuning](https://github.com/activatedgeek/calibration-tuning)
+
+#### Bayesian Optimisation with Unknown Hyperparameters: Regret Bounds Logarithmically Closer to Optimal
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/9cf904c86cc5f9ac95646c07d2cfa241-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/9cf904c86cc5f9ac95646c07d2cfa241-Abstract-Conference.html)
+- 代码链接：[https://github.com/juliuszziomek/lb-gp-ucb](https://github.com/juliuszziomek/lb-gp-ucb)
+
+#### Discovering Preference Optimization Algorithms with and for Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/9d88b87b31986f8293bb0067a841579e-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/9d88b87b31986f8293bb0067a841579e-Abstract-Conference.html)
+- 代码链接：[https://github.com/luchris429/DiscoPOP](https://github.com/luchris429/DiscoPOP)
+
+#### Proving Theorems Recursively
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/9de7a49945898da86e062e7029baa284-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/9de7a49945898da86e062e7029baa284-Abstract-Conference.html)
+- 代码链接：[https://github.com/wiio12/poetry](https://github.com/wiio12/poetry)
+
+#### CleanDiffuser: An Easy-to-use Modularized Library for Diffusion Models in Decision Making
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/9e08a1db869a9646418e3371b24c6ae6-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/9e08a1db869a9646418e3371b24c6ae6-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/cleandiffuserteam/cleandiffuser](https://github.com/cleandiffuserteam/cleandiffuser)
+
+#### LLMCBench: Benchmarking Large Language Model Compression for Efficient Deployment
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/9f4cc62d0632911c63163ea3d9ec19bd-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/9f4cc62d0632911c63163ea3d9ec19bd-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/aboveparadise/llmcbench](https://github.com/aboveparadise/llmcbench)
+
+#### DAGER: Exact Gradient Inversion for Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/9ff1577a1f8308df1ccea6b4f64a103f-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/9ff1577a1f8308df1ccea6b4f64a103f-Abstract-Conference.html)
+- 代码链接：[https://github.com/insait-institute/dager-gradient-inversion](https://github.com/insait-institute/dager-gradient-inversion)
+
+#### Replay-and-Forget-Free Graph Class-Incremental Learning: A Task Profiling and Prompting Approach
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a07e87ecfa8a651d62257571669b0150-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/a07e87ecfa8a651d62257571669b0150-Abstract-Conference.html)
+- 代码链接：[https://github.com/mala-lab/tpp](https://github.com/mala-lab/tpp)
+
+#### DeTeCtive: Detecting AI-generated Text via Multi-Level Contrastive Learning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a117a3cd54b7affad04618c77c2fb18b-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/a117a3cd54b7affad04618c77c2fb18b-Abstract-Conference.html)
+- 代码链接：[https://github.com/heyongxin233/detective](https://github.com/heyongxin233/detective)
+
+#### Hidden in Plain Sight: Evaluating Abstract Shape Recognition in Vision-Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a13ff984831deea39e6132bafdfdd6d5-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/a13ff984831deea39e6132bafdfdd6d5-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/arshiahemmat/illusionbench](https://github.com/arshiahemmat/illusionbench)
+
+#### SM3-Text-to-Query: Synthetic Multi-Model Medical Text-to-Query Benchmark
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a182a8e6ebc91728b6e6b6382c9f7b1e-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/a182a8e6ebc91728b6e6b6382c9f7b1e-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/jf87/sm3-text-to-query](https://github.com/jf87/sm3-text-to-query)
+
+#### Implicit Zoo: A Large-Scale Dataset of Neural Implicit Functions for 2D Images and 3D Scenes
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a1aa1edb47567545a4b037a95d658e6f-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/a1aa1edb47567545a4b037a95d658e6f-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/qimaqi/Implicit-Zoo](https://github.com/qimaqi/Implicit-Zoo)
+
+#### MMBench-Video: A Long-Form Multi-Shot Benchmark for Holistic Video Understanding
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a2326c9715a516c91174132e0170073a-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/a2326c9715a516c91174132e0170073a-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/open-compass/vlmevalkit](https://github.com/open-compass/vlmevalkit)
+
+#### Benchmarking Out-of-Distribution Generalization Capabilities of DNN-based Encoding Models for the Ventral Visual Cortex.
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a27eda1ce7c14f4875f15cf3d1737cc5-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/a27eda1ce7c14f4875f15cf3d1737cc5-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/Spandan-Madan/benchmarking_ood_generalization_visual_cortex](https://github.com/Spandan-Madan/benchmarking_ood_generalization_visual_cortex)
+
+#### EHRCon: Dataset for Checking Consistency between Unstructured Notes and Structured Tables in Electronic Health Records
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a291dad965af9bc2e39ffeb2ca1c6dc0-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/a291dad965af9bc2e39ffeb2ca1c6dc0-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/dustn1259/EHRCon](https://github.com/dustn1259/EHRCon)
+
+#### PrivacyLens: Evaluating Privacy Norm Awareness of Language Models in Action
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a2a7e58309d5190082390ff10ff3b2b8-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/a2a7e58309d5190082390ff10ff3b2b8-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/SALT-NLP/PrivacyLens](https://github.com/SALT-NLP/PrivacyLens)
+
+#### Revisiting, Benchmarking and Understanding Unsupervised Graph Domain Adaptation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a2c548b2ed3141400d86a235eaa6fad0-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/a2c548b2ed3141400d86a235eaa6fad0-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/pygda-team/pygda](https://github.com/pygda-team/pygda)
+
+#### CryoBench: Diverse and challenging datasets for the heterogeneity problem in cryo-EM
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a2ef5ba272df8f168dc38037cc946be0-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/a2ef5ba272df8f168dc38037cc946be0-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/ml-struct-bio/cryobench](https://github.com/ml-struct-bio/cryobench)
+
+#### Adversarial Schrödinger Bridge Matching
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a30d82c09902ced8aa3f49c5ee4a3d9b-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/a30d82c09902ced8aa3f49c5ee4a3d9b-Abstract-Conference.html)
+- 代码链接：[https://github.com/daniil-selikhanovych/asbm](https://github.com/daniil-selikhanovych/asbm)
+
+#### Rethinking the Evaluation of Out-of-Distribution Detection: A Sorites Paradox
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a37bcf136d2e51eac4f74b33ee21c277-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/a37bcf136d2e51eac4f74b33ee21c277-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/qqwsad5/IS-OOD](https://github.com/qqwsad5/IS-OOD)
+
+#### FIFO-Diffusion: Generating Infinite Videos from Text without Training
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a397986e0f34d4b1f0b640686ceaeff7-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/a397986e0f34d4b1f0b640686ceaeff7-Abstract-Conference.html)
+- 代码链接：[https://github.com/jjihwan/FIFO-Diffusion_public](https://github.com/jjihwan/FIFO-Diffusion_public)
+
+#### AMBROSIA: A Benchmark for Parsing Ambiguous Questions into Database Queries
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a4c942a8405cc910f0a833d28d2573cc-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/a4c942a8405cc910f0a833d28d2573cc-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/saparina/ambrosia](https://github.com/saparina/ambrosia)
+
+#### DACO: Towards Application-Driven and Comprehensive Data Analysis via Code Generation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a4cb1444fb05839d0113d2773da88a49-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/a4cb1444fb05839d0113d2773da88a49-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/shirley-wu/daco](https://github.com/shirley-wu/daco)
+
+#### emg2qwerty: A Large Dataset with Baselines for Touch Typing using Surface Electromyography
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a64d53074d011e49af1dfc72c332fe4b-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/a64d53074d011e49af1dfc72c332fe4b-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/facebookresearch/emg2qwerty](https://github.com/facebookresearch/emg2qwerty)
+
+#### NN4SysBench: Characterizing Neural Network Verification for Computer Systems
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a652ef11196e949d079e2818574e7e3d-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/a652ef11196e949d079e2818574e7e3d-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/lydialin1212/NN4Sys_Benchmark](https://github.com/lydialin1212/NN4Sys_Benchmark)
+
+#### DTGB: A Comprehensive Benchmark for Dynamic Text-Attributed Graphs
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a65d054a407f94c34ecfb598fb540a0d-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/a65d054a407f94c34ecfb598fb540a0d-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/zjs123/DTGB](https://github.com/zjs123/DTGB)
+
+#### Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a6a066fb44f2fe0d36cf740c873b8890-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/a6a066fb44f2fe0d36cf740c873b8890-Abstract-Conference.html)
+- 代码链接：[https://github.com/opendrivelab/vista](https://github.com/opendrivelab/vista)
+
+#### Mitigating Object Hallucination via Concentric Causal Attention
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a76ed4a8ef522c823d73925e7fff16d4-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/a76ed4a8ef522c823d73925e7fff16d4-Abstract-Conference.html)
+- 代码链接：[https://github.com/xing0047/cca-llava](https://github.com/xing0047/cca-llava)
+
+#### Intrinsic Self-Supervision for Data Quality Audits
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a7ce9b6a4db012cdaac28dd48989a17d-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/a7ce9b6a4db012cdaac28dd48989a17d-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/Digital-Dermatology/SelfClean](https://github.com/Digital-Dermatology/SelfClean)
+
+#### QGym: Scalable Simulation and Benchmarking of Queuing Network Controllers
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a7f67788f7b4d77fa7cd6887de3dcbe7-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/a7f67788f7b4d77fa7cd6887de3dcbe7-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/namkoong-lab/QGym](https://github.com/namkoong-lab/QGym)
+
+#### GeSS: Benchmarking Geometric Deep Learning under Scientific Applications with Distribution Shifts
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a8063075b00168dc39bc81683619f1a8-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/a8063075b00168dc39bc81683619f1a8-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/graph-com/gdl_ds](https://github.com/graph-com/gdl_ds)
+
+#### CausalChaos! Dataset for Comprehensive Causal Action Question Answering Over Longer Causal Chains Grounded in Dynamic Visual Scenes
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a89558069b44ae56ee0daf1f32aae1f6-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/a89558069b44ae56ee0daf1f32aae1f6-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/LUNAProject22/CausalChaos](https://github.com/LUNAProject22/CausalChaos)
+
+#### BEACON: Benchmark for Comprehensive RNA Tasks and Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a8ea503d91320fcfe12cba61c8a6d285-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/a8ea503d91320fcfe12cba61c8a6d285-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/terry-r123/RNABenchmark](https://github.com/terry-r123/RNABenchmark)
+
+#### InterpBench: Semi-Synthetic Transformers for Evaluating Mechanistic Interpretability Techniques
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a8f7d43ae092d9a5295775eb17f3f4f7-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/a8f7d43ae092d9a5295775eb17f3f4f7-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/FlyingPumba/circuits-benchmark](https://github.com/FlyingPumba/circuits-benchmark)
+
+#### SLowcalSGD : Slow Query Points Improve Local-SGD for Stochastic Convex Optimization
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a97b58c4f7551053b0512f92244b0810-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/a97b58c4f7551053b0512f92244b0810-Abstract-Conference.html)
+- 代码链接：[https://github.com/dahan198/slowcal-sgd](https://github.com/dahan198/slowcal-sgd)
+
+#### Learning to Handle Complex Constraints for Vehicle Routing Problems
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/a9d2a5fd12d34250c21b5e4fa8d906b0-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/a9d2a5fd12d34250c21b5e4fa8d906b0-Abstract-Conference.html)
+- 代码链接：[https://github.com/jieyibi/pip-constraint](https://github.com/jieyibi/pip-constraint)
+
+#### Sequential Signal Mixing Aggregation for Message Passing Graph Neural Networks
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/aaa0ac4253da75faf9b0dc0dda062612-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/aaa0ac4253da75faf9b0dc0dda062612-Abstract-Conference.html)
+- 代码链接：[https://github.com/AlmogDavid/SSMA](https://github.com/AlmogDavid/SSMA)
+
+#### Multi-Head Mixture-of-Experts
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/ab05dc8bf36a9f66edbff6992ec86f56-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/ab05dc8bf36a9f66edbff6992ec86f56-Abstract-Conference.html)
+- 代码链接：[https://github.com/yushuiwx/mh-moe](https://github.com/yushuiwx/mh-moe)
+
+#### GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/ab7e02fd60e47e2a379d567f6b54f04e-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/ab7e02fd60e47e2a379d567f6b54f04e-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/uni-medical/GMAI-MMBench](https://github.com/uni-medical/GMAI-MMBench)
+
+#### AuctionNet: A Novel Benchmark for Decision-Making in Large-Scale Games
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/ab9b7c23edfea0011507f7e1eae82cd2-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/ab9b7c23edfea0011507f7e1eae82cd2-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/alimama-tech/AuctionNet](https://github.com/alimama-tech/AuctionNet)
+
+#### AsyncDiff: Parallelizing Diffusion Models by Asynchronous Denoising
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/ad15848baa3932c0d2deabf0e11d1dcd-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/ad15848baa3932c0d2deabf0e11d1dcd-Abstract-Conference.html)
+- 代码链接：[https://github.com/czg1225/asyncdiff](https://github.com/czg1225/asyncdiff)
+
+#### ProG: A Graph Prompt Learning Benchmark
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/ad3e803a977f4279330c6ab7245937c6-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/ad3e803a977f4279330c6ab7245937c6-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/sheldonresearch/ProG](https://github.com/sheldonresearch/ProG)
+
+#### FinBen: A Holistic Financial Benchmark for Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/adb1d9fa8be4576d28703b396b82ba1b-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/adb1d9fa8be4576d28703b396b82ba1b-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/the-finai/pixiu](https://github.com/the-finai/pixiu)
+
+#### A Data-Centric Perspective on Evaluating Machine Learning Models for Tabular Data
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/ae00e5ce7142d02e30a8235ede1ec6fc-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/ae00e5ce7142d02e30a8235ede1ec6fc-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/atschalz/dc_tabeval](https://github.com/atschalz/dc_tabeval)
+
+#### ImageNet3D: Towards General-Purpose Object-Level 3D Understanding
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/ae51515c1cfecf544963a527260f94e9-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/ae51515c1cfecf544963a527260f94e9-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/wufeim/imagenet3d](https://github.com/wufeim/imagenet3d)
+
+#### UnlearnCanvas: Stylized Image Dataset for Enhanced Machine Unlearning Evaluation in Diffusion Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/aebf4822d30c3f2600566af7eba83548-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/aebf4822d30c3f2600566af7eba83548-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/optml-group/unlearncanvas](https://github.com/optml-group/unlearncanvas)
+
+#### Biomedical Visual Instruction Tuning with Clinician Preference Alignment
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/aec33ab89b5986605cd7c331396e7e5c-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/aec33ab89b5986605cd7c331396e7e5c-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/mao1207/BioMed-VITAL](https://github.com/mao1207/BioMed-VITAL)
+
+#### Unveiling Causal Reasoning in Large Language Models: Reality or Mirage?
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/af2bb2b2280d36f8842e440b4e275152-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/af2bb2b2280d36f8842e440b4e275152-Abstract-Conference.html)
+- 代码链接：[https://github.com/haoang97/causalprobe-2024](https://github.com/haoang97/causalprobe-2024)
+
+#### StrategyLLM: Large Language Models as Strategy Generators, Executors, Optimizers, and Evaluators for Problem Solving
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/af7cc9e2366b8f8837a6ef339810277a-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/af7cc9e2366b8f8837a6ef339810277a-Abstract-Conference.html)
+- 代码链接：[https://github.com/gao-xiao-bai/strategyllm](https://github.com/gao-xiao-bai/strategyllm)
+
+#### NeuralPlane: An Efficiently Parallelizable Platform for Fixed-wing Aircraft Control with Reinforcement Learning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/af97b61e9fef8f55e32a2602af364d8c-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/af97b61e9fef8f55e32a2602af364d8c-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/xuecy22/NeuralPlane](https://github.com/xuecy22/NeuralPlane)
+
+#### Approximately Equivariant Neural Processes
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b00ef390dcd5f147fd7c5c2bb35f09be-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/b00ef390dcd5f147fd7c5c2bb35f09be-Abstract-Conference.html)
+- 代码链接：[https://github.com/cambridge-mlg/tetnp](https://github.com/cambridge-mlg/tetnp)
+
+#### MeshXL: Neural Coordinate Field for Generative 3D Foundation Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b0131b6ee02a00b03fc3320176fec8f5-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/b0131b6ee02a00b03fc3320176fec8f5-Abstract-Conference.html)
+- 代码链接：[https://github.com/openmeshlab/meshxl](https://github.com/openmeshlab/meshxl)
+
+#### Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b041cbfcc3f282a9b3c8eb9c16177529-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/b041cbfcc3f282a9b3c8eb9c16177529-Abstract-Conference.html)
+- 代码链接：[https://github.com/qiwang067/CoWorld](https://github.com/qiwang067/CoWorld)
+
+#### Evaluating language models as risk scores
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b0a4b3e384b4554e65a47ad1f6b0310a-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/b0a4b3e384b4554e65a47ad1f6b0310a-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/socialfoundations/folktexts](https://github.com/socialfoundations/folktexts)
+
+#### Classic GNNs are Strong Baselines: Reassessing GNNs for Node Classification
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b10ed15ff1aa864f1be3a75f1ffc021b-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/b10ed15ff1aa864f1be3a75f1ffc021b-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/LUOyk1999/tunedGNN](https://github.com/LUOyk1999/tunedGNN)
+
+#### Benchmarking the Attribution Quality of Vision Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b17799e0bbbf65687f4e2df1f98aa225-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/b17799e0bbbf65687f4e2df1f98aa225-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/visinf/idsds](https://github.com/visinf/idsds)
+
+#### RWKU: Benchmarking Real-World Knowledge Unlearning for Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b1f78dfc9ca0156498241012aec4efa0-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/b1f78dfc9ca0156498241012aec4efa0-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/jinzhuoran/rwku](https://github.com/jinzhuoran/rwku)
+
+#### ALI-Agent: Assessing LLMs' Alignment with Human Values via Agent-based Evaluation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b35c38f70065ac6c694089ca93a015bb-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/b35c38f70065ac6c694089ca93a015bb-Abstract-Conference.html)
+- 代码链接：[https://github.com/sophiezheng998/ali-agent](https://github.com/sophiezheng998/ali-agent)
+
+#### CURE4Rec: A Benchmark for Recommendation Unlearning with Deeper Influence
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b364953e402d7d92e13830383677efb5-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/b364953e402d7d92e13830383677efb5-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/xiye7lai/CURE4Rec](https://github.com/xiye7lai/CURE4Rec)
+
+#### ControlSynth Neural ODEs: Modeling Dynamical Systems with Guaranteed Convergence
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b3b0ea507520e3db70f7219b59fd5fd9-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/b3b0ea507520e3db70f7219b59fd5fd9-Abstract-Conference.html)
+- 代码链接：[https://github.com/continuumcoder/controlsynth-neural-ode](https://github.com/continuumcoder/controlsynth-neural-ode)
+
+#### PersonalSum: A User-Subjective Guided Personalized Summarization Dataset for Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b3c318cd7ee132d8a6b1895a2d6436c7-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/b3c318cd7ee132d8a6b1895a2d6436c7-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/smartmediaai/personalsum](https://github.com/smartmediaai/personalsum)
+
+#### PaCE: Parsimonious Concept Engineering for Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b3cca813dcd78fe75e4d4df2e6a0b1a7-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/b3cca813dcd78fe75e4d4df2e6a0b1a7-Abstract-Conference.html)
+- 代码链接：[https://github.com/peterljq/parsimonious-concept-engineering](https://github.com/peterljq/parsimonious-concept-engineering)
+
+#### SHED: Shapley-Based Automated Dataset Refinement for Instruction Fine-Tuning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b3cff9947cde08b4fa70652cb8ac9209-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/b3cff9947cde08b4fa70652cb8ac9209-Abstract-Conference.html)
+- 代码链接：[https://github.com/lucidreamer9/shed-shapley-based-automated-dataset-refinement](https://github.com/lucidreamer9/shed-shapley-based-automated-dataset-refinement)
+
+#### CoVoMix: Advancing Zero-Shot Speech Generation for Human-like Multi-talker Conversations
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b5fd95d6b16d3172e307103a97f19e1b-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/b5fd95d6b16d3172e307103a97f19e1b-Abstract-Conference.html)
+- 代码链接：[https://github.com/vivian556123/neurips2024-covomix](https://github.com/vivian556123/neurips2024-covomix)
+
+#### DetectRL: Benchmarking LLM-Generated Text Detection in Real-World Scenarios
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b61bdf7e9f64c04ec75a26e781e2ad51-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/b61bdf7e9f64c04ec75a26e781e2ad51-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/NLP2CT/DetectRL](https://github.com/NLP2CT/DetectRL)
+
+#### Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b631da756d1573c24c9ba9c702fde5a9-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/b631da756d1573c24c9ba9c702fde5a9-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/embodied-agent-eval/embodied-agent-eval](https://github.com/embodied-agent-eval/embodied-agent-eval)
+
+#### Resolving Discrepancies in Compute-Optimal Scaling of Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b6341525cd84f3be0ef203e4d7cd8556-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/b6341525cd84f3be0ef203e4d7cd8556-Abstract-Conference.html)
+- 代码链接：[https://github.com/formll/resolving-scaling-law-discrepancies](https://github.com/formll/resolving-scaling-law-discrepancies)
+
+#### SustainDC: Benchmarking for Sustainable Data Center Control
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b6676756f8a935e208f394a1ba47f0bc-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/b6676756f8a935e208f394a1ba47f0bc-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/hewlettpackard/dc-rl](https://github.com/hewlettpackard/dc-rl)
+
+#### Streaming Detection of Queried Event Start
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b689b90ddf2b47d3103decabe6d47446-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/b689b90ddf2b47d3103decabe6d47446-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/sdqesdataset/sdqes_generation](https://github.com/sdqesdataset/sdqes_generation)
+
+#### ConvBench: A Multi-Turn Conversation Evaluation Benchmark with Hierarchical Ablation Capability for Large Vision-Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b69396afc07a9ca3428d194f4db84c02-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/b69396afc07a9ca3428d194f4db84c02-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/shirlyliu64/ConvBench](https://github.com/shirlyliu64/ConvBench)
+
+#### HYDRA: Model Factorization Framework for Black-Box LLM Personalization
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b6b4906c1334656e97cc9968ccfca073-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/b6b4906c1334656e97cc9968ccfca073-Abstract-Conference.html)
+- 代码链接：[https://github.com/night-chen/hydra](https://github.com/night-chen/hydra)
+
+#### Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b6e9d6f4f3428cd5f3f9e9bbae2cab10-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/b6e9d6f4f3428cd5f3f9e9bbae2cab10-Abstract-Conference.html)
+- 代码链接：[https://github.com/lancopku/agent-backdoor-attacks](https://github.com/lancopku/agent-backdoor-attacks)
+
+#### OpenDlign: Open-World Point Cloud Understanding with Depth-Aligned Images
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b739cbaa0e94bfd7669d9573e9235411-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/b739cbaa0e94bfd7669d9573e9235411-Abstract-Conference.html)
+- 代码链接：[https://github.com/Yebulabula/OpenDlign](https://github.com/Yebulabula/OpenDlign)
+
+#### Consensus Learning with Deep Sets for Essential Matrix Estimation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b7f09d26f9b64b5430402860158c2e19-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/b7f09d26f9b64b5430402860158c2e19-Abstract-Conference.html)
+- 代码链接：[https://github.com/drormoran/NACNet](https://github.com/drormoran/NACNet)
+
+#### Any2Graph: Deep End-To-End Supervised Graph Prediction With An Optimal Transport Loss
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b81a352c156ca123c30c740f147a4496-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/b81a352c156ca123c30c740f147a4496-Abstract-Conference.html)
+- 代码链接：[https://github.com/KrzakalaPaul/Any2Graph](https://github.com/KrzakalaPaul/Any2Graph)
+
+#### RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b81d83165e3145a2e7d33bb5e33ea913-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/b81d83165e3145a2e7d33bb5e33ea913-Abstract-Conference.html)
+- 代码链接：[https://github.com/toytiny/radarocc](https://github.com/toytiny/radarocc)
+
+#### BiVLC: Extending Vision-Language Compositionality Evaluation with Text-to-Image Retrieval
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b8b93c48f5bfa385d071342089d70422-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/b8b93c48f5bfa385d071342089d70422-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/imirandam/bivlc](https://github.com/imirandam/bivlc)
+
+#### A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b91ea2ba1b6521940e204b7b81d5ef47-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/b91ea2ba1b6521940e204b7b81d5ef47-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/dasgringuen/assetto_corsa_gym](https://github.com/dasgringuen/assetto_corsa_gym)
+
+#### BioTrove: A Large Curated Image Dataset Enabling AI for Biodiversity
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b92854f80ba4feefb973959b259dbc2c-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/b92854f80ba4feefb973959b259dbc2c-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/baskargroup/Arboretum](https://github.com/baskargroup/Arboretum)
+
+#### APDDv2: Aesthetics of Paintings and Drawings Dataset with Artist Labeled Scores and Comments
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/baa66b34c11716bdff4854bbc8e667e4-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/baa66b34c11716bdff4854bbc8e667e4-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/BestiVictory/APDDv2.git](https://github.com/BestiVictory/APDDv2.git)
+
+#### Simplified and Generalized Masked Diffusion for Discrete Data
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/bad233b9849f019aead5e5cc60cef70f-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/bad233b9849f019aead5e5cc60cef70f-Abstract-Conference.html)
+- 代码链接：[https://github.com/google-deepmind/md4](https://github.com/google-deepmind/md4)
+
+#### $\texttt{ConflictBank}$: A Benchmark for Evaluating the Influence of Knowledge Conflicts in LLMs
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/baf4b960d118f838ad0b2c08247a9ebe-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/baf4b960d118f838ad0b2c08247a9ebe-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/zhaochen0110/conflictbank](https://github.com/zhaochen0110/conflictbank)
+
+#### MoVA: Adapting Mixture of Vision Experts to Multimodal Context
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/bb0fea29f7aa6ede17e906ac6a225f34-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/bb0fea29f7aa6ede17e906ac6a225f34-Abstract-Conference.html)
+- 代码链接：[https://github.com/templex98/mova](https://github.com/templex98/mova)
+
+#### Infer Induced Sentiment of Comment Response to Video: A New Task, Dataset and Baseline
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/bbf090d264b94d29260f5303efea868c-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/bbf090d264b94d29260f5303efea868c-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/IEIT-AGI/MSA-CRVI](https://github.com/IEIT-AGI/MSA-CRVI)
+
+#### Mixture of Tokens: Continuous MoE through Cross-Example Aggregation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/bc427eb348789b190e3ea050cceff8a3-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/bc427eb348789b190e3ea050cceff8a3-Abstract-Conference.html)
+- 代码链接：[https://github.com/llm-random/llm-random](https://github.com/llm-random/llm-random)
+
+#### M3LEO: A Multi-Modal, Multi-Label Earth Observation Dataset Integrating Interferometric SAR and Multispectral Data
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/bd194b579f60879e04ca9ce8a4ea5da1-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/bd194b579f60879e04ca9ce8a4ea5da1-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/spaceml-org/m3leo](https://github.com/spaceml-org/m3leo)
+
+#### NovoBench: Benchmarking Deep Learning-based \emph{De Novo} Sequencing Methods in Proteomics
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/bd281779e603522d92aa4f59c36012e4-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/bd281779e603522d92aa4f59c36012e4-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/Westlake-OmicsAI/NovoBench](https://github.com/Westlake-OmicsAI/NovoBench)
+
+#### Quantifying Aleatoric Uncertainty of the Treatment Effect: A Novel Orthogonal Learner
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/bdabb5d4262bcfb6a1d529d690a6c82b-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/bdabb5d4262bcfb6a1d529d690a6c82b-Abstract-Conference.html)
+- 代码链接：[https://github.com/valentyn1997/au-cnfs](https://github.com/valentyn1997/au-cnfs)
+
+#### Synthetic Programming Elicitation for Text-to-Code in Very Low-Resource Programming and Formal Languages
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/bde1c75d7d89e64d6d93dce1c68dc3d8-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/bde1c75d7d89e64d6d93dce1c68dc3d8-Abstract-Conference.html)
+- 代码链接：[https://github.com/FedericoAureliano/eudoxus](https://github.com/FedericoAureliano/eudoxus)
+
+#### The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/be2e1b68b44f2419e19f6c35a1b8cf35-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/be2e1b68b44f2419e19f6c35a1b8cf35-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/hannahkirk/prism-alignment](https://github.com/hannahkirk/prism-alignment)
+
+#### Large Language Model Unlearning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/be52acf6bccf4a8c0a90fe2f5cfcead3-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/be52acf6bccf4a8c0a90fe2f5cfcead3-Abstract-Conference.html)
+- 代码链接：[https://github.com/kevinyaobytedance/llm_unlearn](https://github.com/kevinyaobytedance/llm_unlearn)
+
+#### Lean Workbook: A large-scale Lean problem set formalized from natural language math problems
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/bf236666a2cc5f3ae05d2e08485efc4c-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/bf236666a2cc5f3ae05d2e08485efc4c-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/InternLM/InternLM-Math](https://github.com/InternLM/InternLM-Math)
+
+#### RealMAN: A Real-Recorded and Annotated Microphone Array Dataset for Dynamic Speech Enhancement and Localization
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/bf8f6f5b017dc60d0c4e28a7a9a4ee7b-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/bf8f6f5b017dc60d0c4e28a7a9a4ee7b-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/Audio-WestlakeU/RealMAN](https://github.com/Audio-WestlakeU/RealMAN)
+
+#### RedCode: Risky Code Execution and Generation Benchmark for Code Agents
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/bfd082c452dffb450d5a5202b0419205-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/bfd082c452dffb450d5a5202b0419205-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/AI-secure/RedCode](https://github.com/AI-secure/RedCode)
+
+#### BABILong: Testing the Limits of LLMs with Long Context Reasoning-in-a-Haystack
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/c0d62e70dbc659cc9bd44cbcf1cb652f-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/c0d62e70dbc659cc9bd44cbcf1cb652f-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/booydar/babilong](https://github.com/booydar/babilong)
+
+#### NetworkGym: Reinforcement Learning Environments for Multi-Access Traffic Management in Network Simulation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/c112271dab20d38b43a1c0669f86b4f6-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/c112271dab20d38b43a1c0669f86b4f6-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/hmomin/networkgym](https://github.com/hmomin/networkgym)
+
+#### Risk-Averse Fine-tuning of Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/c182ec594f38926b7fcb827635b9a8f4-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/c182ec594f38926b7fcb827635b9a8f4-Abstract-Conference.html)
+- 代码链接：[https://github.com/sapanachaudhary/ra-rlhf](https://github.com/sapanachaudhary/ra-rlhf)
+
+#### StreamBench: Towards Benchmarking Continuous Improvement of Language Agents
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/c189915371c4474fe9789be3728113fc-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/c189915371c4474fe9789be3728113fc-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/stream-bench/stream-bench](https://github.com/stream-bench/stream-bench)
+
+#### Pessimistic Backward Policy for GFlowNets
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/c1ab28d0fe0bfb53067a1af7e578cd7d-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/c1ab28d0fe0bfb53067a1af7e578cd7d-Abstract-Conference.html)
+- 代码链接：[https://github.com/hsjang0/Pessimistic-Backward-Policy-for-GFlowNets](https://github.com/hsjang0/Pessimistic-Backward-Policy-for-GFlowNets)
+
+#### Self-Calibrating Conformal Prediction
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/c1c49aba08e6c90f2b1f85751f497a2f-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/c1c49aba08e6c90f2b1f85751f497a2f-Abstract-Conference.html)
+- 代码链接：[https://github.com/larsvanderlaan/selfcalibratingconformal](https://github.com/larsvanderlaan/selfcalibratingconformal)
+
+#### Leveraging Hallucinations to Reduce Manual Prompt Dependency in Promptable Segmentation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/c1e1ad233411e25b54bb5df3a0576c2c-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/c1e1ad233411e25b54bb5df3a0576c2c-Abstract-Conference.html)
+- 代码链接：[https://github.com/lwpyh/ProMaC_code](https://github.com/lwpyh/ProMaC_code)
+
+#### VFIMamba: Video Frame Interpolation with State Space Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/c1e9db5e1b04322963af91ac0c943568-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/c1e9db5e1b04322963af91ac0c943568-Abstract-Conference.html)
+- 代码链接：[https://github.com/mcg-nju/vfimamba](https://github.com/mcg-nju/vfimamba)
+
+#### FreeSplat: Generalizable 3D Gaussian Splatting Towards Free View Synthesis of Indoor Scenes
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/c2166d01fe4bcd694aba89f608737678-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/c2166d01fe4bcd694aba89f608737678-Abstract-Conference.html)
+- 代码链接：[https://github.com/wangys16/freesplat](https://github.com/wangys16/freesplat)
+
+#### UniMTS: Unified Pre-training for Motion Time Series
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/c290d4373c495b2cad0625d6288260f0-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/c290d4373c495b2cad0625d6288260f0-Abstract-Conference.html)
+- 代码链接：[https://github.com/xiyuanzh/unimts](https://github.com/xiyuanzh/unimts)
+
+#### Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/c2f71567cd53464161cab3336e8fc865-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/c2f71567cd53464161cab3336e8fc865-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/xlang-ai/spider2-v](https://github.com/xlang-ai/spider2-v)
+
+#### D-MiSo: Editing Dynamic 3D Scenes using Multi-Gaussians Soup
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/c32319f4868da7613d78af9993100e42-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/c32319f4868da7613d78af9993100e42-Abstract-Conference.html)
+- 代码链接：[https://github.com/waczjoan/D-MiSo](https://github.com/waczjoan/D-MiSo)
+
+#### The Elephant in the Room: Towards A Reliable Time-Series Anomaly Detection Benchmark
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/c3f3c690b7a99fba16d0efd35cb83b2c-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/c3f3c690b7a99fba16d0efd35cb83b2c-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/TheDatumOrg/TSB-AD](https://github.com/TheDatumOrg/TSB-AD)
+
+#### MARPLE: A Benchmark for Long-Horizon Inference
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/c4c6b9642f3d1c2bf036bb9575f7b5bf-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/c4c6b9642f3d1c2bf036bb9575f7b5bf-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/marple-benchmark/marple](https://github.com/marple-benchmark/marple)
+
+#### Rule Based Rewards for Language Model Safety
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/c4e380fb74dec9da9c7212e834657aa9-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/c4e380fb74dec9da9c7212e834657aa9-Abstract-Conference.html)
+- 代码链接：[https://github.com/openai/safety-rbr-code-and-data](https://github.com/openai/safety-rbr-code-and-data)
+
+#### Iteration Head: A Mechanistic Study of Chain-of-Thought
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/c50f8180ef34060ec59b75d6e1220f7a-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/c50f8180ef34060ec59b75d6e1220f7a-Abstract-Conference.html)
+- 代码链接：[https://github.com/facebookresearch/pal](https://github.com/facebookresearch/pal)
+
+#### Optimal ablation for interpretability
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/c55e6792923cc16fd6ed5c3f672420a5-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/c55e6792923cc16fd6ed5c3f672420a5-Abstract-Conference.html)
+- 代码链接：[https://github.com/maxtli/optimalablation](https://github.com/maxtli/optimalablation)
+
+#### xRAG: Extreme Context Compression for Retrieval-augmented Generation with One Token
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/c5cf13bfd3762821ef7607e63ee90075-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/c5cf13bfd3762821ef7607e63ee90075-Abstract-Conference.html)
+- 代码链接：[https://github.com/Hannibal046/xRAG](https://github.com/Hannibal046/xRAG)
+
+#### Customized Subgraph Selection and Encoding for Drug-drug Interaction Prediction
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/c5e7867ce0baf950b53f0879af369599-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/c5e7867ce0baf950b53f0879af369599-Abstract-Conference.html)
+- 代码链接：[https://github.com/LARS-research/CSSE-DDI](https://github.com/LARS-research/CSSE-DDI)
+
+#### MassSpecGym: A benchmark for the discovery and identification of molecules
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/c6c31413d5c53b7d1c343c1498734b0f-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/c6c31413d5c53b7d1c343c1498734b0f-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/pluskal-lab/MassSpecGym](https://github.com/pluskal-lab/MassSpecGym)
+
+#### Robust Graph Neural Networks via Unbiased Aggregation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/c6e31f86c1eb8dfc05190cf15ed52064-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/c6e31f86c1eb8dfc05190cf15ed52064-Abstract-Conference.html)
+- 代码链接：[https://github.com/chris-hzc/rung](https://github.com/chris-hzc/rung)
+
+#### GAVEL: Generating Games via Evolution and Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/c7b04e4e13bb77996d3ae2ff667231ac-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/c7b04e4e13bb77996d3ae2ff667231ac-Abstract-Conference.html)
+- 代码链接：[https://github.com/gdrtodd/gavel](https://github.com/gdrtodd/gavel)
+
+#### Motion Graph Unleashed: A Novel Approach to Video Prediction
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/c897d8f3be030344949de9bd93d8274e-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/c897d8f3be030344949de9bd93d8274e-Abstract-Conference.html)
+- 代码链接：[https://github.com/Kay1794/Motion-Graph-Video-Prediction](https://github.com/Kay1794/Motion-Graph-Video-Prediction)
+
+#### FedLLM-Bench: Realistic Benchmarks for Federated Learning of Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/c8cdab0e890c59255c27977072fdb0f0-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/c8cdab0e890c59255c27977072fdb0f0-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/rui-ye/FedLLM-Bench](https://github.com/rui-ye/FedLLM-Bench)
+
+#### FairMedFM: Fairness Benchmarking for Medical Imaging Foundation Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/c9826b9ea5e1b49b256329934a578d83-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/c9826b9ea5e1b49b256329934a578d83-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/FairMedFM/FairMedFM](https://github.com/FairMedFM/FairMedFM)
+
+#### Non-Euclidean Mixture Model for Social Network Embedding
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/c9e20f70f049ac5be8955c8bb970d0a5-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/c9e20f70f049ac5be8955c8bb970d0a5-Abstract-Conference.html)
+- 代码链接：[https://github.com/roshnigiyer/nmm](https://github.com/roshnigiyer/nmm)
+
+#### Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/ca9567d8ef6b2ea2da0d7eed57b933ee-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/ca9567d8ef6b2ea2da0d7eed57b933ee-Abstract-Conference.html)
+- 代码链接：[https://github.com/giorgiopiatti/govsim](https://github.com/giorgiopiatti/govsim)
+
+#### Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/cb66be286795d71f89367d596bf78ea7-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/cb66be286795d71f89367d596bf78ea7-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/MBZUAI-LLM/web2code](https://github.com/MBZUAI-LLM/web2code)
+
+#### Adversarial Moment-Matching Distillation of Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/cbae8efcc23a0cb6d15a20f245514020-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/cbae8efcc23a0cb6d15a20f245514020-Abstract-Conference.html)
+- 代码链接：[https://github.com/jiachenwestlake/MMKD](https://github.com/jiachenwestlake/MMKD)
+
+#### When LLMs Meet Cunning Texts: A Fallacy Understanding Benchmark for Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/cbfbf1a9adbcc29783475d2767f218e8-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/cbfbf1a9adbcc29783475d2767f218e8-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/THUKElab/FLUB](https://github.com/THUKElab/FLUB)
+
+#### NoMAD-Attention: Efficient LLM Inference on CPUs Through Multiply-add-free Attention
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/ccda3c632cc8590ee60ca5ba226a4c30-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/ccda3c632cc8590ee60ca5ba226a4c30-Abstract-Conference.html)
+- 代码链接：[https://github.com/tonyzhang617/nomad-dist](https://github.com/tonyzhang617/nomad-dist)
+
+#### Compositional Generalization Across Distributional Shifts with Sparse Tree Operations
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/ccfa9ba5a84d0e4c620093d27102b7c5-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/ccfa9ba5a84d0e4c620093d27102b7c5-Abstract-Conference.html)
+- 代码链接：[https://github.com/psoulos/sdtm](https://github.com/psoulos/sdtm)
+
+#### T2Vs Meet VLMs: A Scalable Multimodal Dataset for Visual Harmfulness Recognition
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/cd1640f5795c7cdc6aefce566d7a35b3-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/cd1640f5795c7cdc6aefce566d7a35b3-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/nctu-eva-lab/vhd11k](https://github.com/nctu-eva-lab/vhd11k)
+
+#### Unsupervised Discovery of Formulas for Mathematical Constants
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/cd8b5de90ebfd6df2b703d2346370cba-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/cd8b5de90ebfd6df2b703d2346370cba-Abstract-Conference.html)
+- 代码链接：[https://github.com/ramanujanmachine/blind-delta-algorithm](https://github.com/ramanujanmachine/blind-delta-algorithm)
+
+#### DeltaDock: A Unified Framework for Accurate, Efficient, and Physically Reliable Molecular Docking
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/cd97da5366de69250442901abcdd4c0a-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/cd97da5366de69250442901abcdd4c0a-Abstract-Conference.html)
+- 代码链接：[https://github.com/jiaxianyan/DeltaDock](https://github.com/jiaxianyan/DeltaDock)
+
+#### CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/cdf6f8e9fd9aeaf79b6024caec24f15b-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/cdf6f8e9fd9aeaf79b6024caec24f15b-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/princeton-nlp/CharXiv](https://github.com/princeton-nlp/CharXiv)
+
+#### Value Imprint: A Technique for Auditing the Human Values Embedded in RLHF Datasets
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/cf7ec6aa55ba2b2f7af0cf3fd25b7f8c-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/cf7ec6aa55ba2b2f7af0cf3fd25b7f8c-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/hv-rsrch/valueimprint](https://github.com/hv-rsrch/valueimprint)
+
+#### Q-VLM: Post-training Quantization for Large Vision-Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/cffbaf4f47546ece96bb42c0edda40ee-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/cffbaf4f47546ece96bb42c0edda40ee-Abstract-Conference.html)
+- 代码链接：[https://github.com/changyuanwang17/qvlm](https://github.com/changyuanwang17/qvlm)
+
+#### Off to new Shores: A Dataset & Benchmark for (near-)coastal Flood Inundation Forecasting
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d029726ea3e0b6050d0ec666099964cd-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/d029726ea3e0b6050d0ec666099964cd-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/Multihuntr/GFF](https://github.com/Multihuntr/GFF)
+
+#### Agent Planning with World Knowledge Model
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d032263772946dd5026e7f3cd22bce5b-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/d032263772946dd5026e7f3cd22bce5b-Abstract-Conference.html)
+- 代码链接：[https://github.com/zjunlp/wkm](https://github.com/zjunlp/wkm)
+
+#### Calibrating Reasoning in Language Models with Internal Consistency
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d037fd021c9aace128b8ce25001cdb6c-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/d037fd021c9aace128b8ce25001cdb6c-Abstract-Conference.html)
+- 代码链接：[https://github.com/zhxieml/internal-consistency](https://github.com/zhxieml/internal-consistency)
+
+#### Image2Struct: Benchmarking Structure Extraction for Vision-Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d0718553fd6b227a353c6432cf893285-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/d0718553fd6b227a353c6432cf893285-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/stanford-crfm/helm](https://github.com/stanford-crfm/helm)
+
+#### AutoSurvey: Large Language Models Can Automatically Write Surveys
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d07a9fc7da2e2ec0574c38d5f504d105-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/d07a9fc7da2e2ec0574c38d5f504d105-Abstract-Conference.html)
+- 代码链接：[https://github.com/autosurveys/autosurvey](https://github.com/autosurveys/autosurvey)
+
+#### LOVA3: Learning to Visual Question Answering, Asking and Assessment
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d0822540916cd716add52e1846a6e18d-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/d0822540916cd716add52e1846a6e18d-Abstract-Conference.html)
+- 代码链接：[https://github.com/showlab/lova3](https://github.com/showlab/lova3)
+
+#### PowerPM: Foundation Model for Power Systems
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d0a2279c9f7ded859bcbf878c3c3d1ed-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/d0a2279c9f7ded859bcbf878c3c3d1ed-Abstract-Conference.html)
+- 代码链接：[https://github.com/yuqinie98/patchtst](https://github.com/yuqinie98/patchtst)
+
+#### LoQT: Low-Rank Adapters for Quantized Pretraining
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d0c6bc641a56bebee9d985b937307367-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/d0c6bc641a56bebee9d985b937307367-Abstract-Conference.html)
+- 代码链接：[https://github.com/sebulo/LoQT](https://github.com/sebulo/LoQT)
+
+#### Advancing Training Efficiency of Deep Spiking Neural Networks through Rate-based Backpropagation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d1bdc488ec18f64177b2275a03984683-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/d1bdc488ec18f64177b2275a03984683-Abstract-Conference.html)
+- 代码链接：[https://github.com/tab-ct/rate-based-backpropagation](https://github.com/tab-ct/rate-based-backpropagation)
+
+#### A Neuro-Symbolic Benchmark Suite for Concept Quality and Reasoning Shortcuts
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d1d11bf8299334d354949ba8738e8301-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/d1d11bf8299334d354949ba8738e8301-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/unitn-sml/rsbench](https://github.com/unitn-sml/rsbench)
+
+#### WONDERBREAD: A Benchmark for Evaluating Multimodal Foundation Models on Business Process Management Tasks
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d1fa821312040303b089ae529dbf81a6-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/d1fa821312040303b089ae529dbf81a6-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/HazyResearch/wonderbread](https://github.com/HazyResearch/wonderbread)
+
+#### A SARS-CoV-2 Interaction Dataset and VHH Sequence Corpus for Antibody Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d2a1e47f7dc635fac77fbd6e2ec799e4-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/d2a1e47f7dc635fac77fbd6e2ec799e4-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/cognano/AVIDa-SARS-CoV-2](https://github.com/cognano/AVIDa-SARS-CoV-2)
+
+#### LocCa: Visual Pretraining with Location-aware Captioners
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d303b4f1ef8d8274ae6b152df70f5406-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/d303b4f1ef8d8274ae6b152df70f5406-Abstract-Conference.html)
+- 代码链接：[https://github.com/google-research/big_vision](https://github.com/google-research/big_vision)
+
+#### RedPajama: an Open Dataset for Training Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d34497330b1fd6530f7afd86d0df9f76-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/d34497330b1fd6530f7afd86d0df9f76-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/togethercomputer/redpajama-data](https://github.com/togethercomputer/redpajama-data)
+
+#### Tracing Hyperparameter Dependencies for Model Parsing via Learnable Graph Pooling Network
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d412468559da4e2ac41a0285b3a079cd-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/d412468559da4e2ac41a0285b3a079cd-Abstract-Conference.html)
+- 代码链接：[https://github.com/chelsea234/lgpn](https://github.com/chelsea234/lgpn)
+
+#### SynRS3D: A Synthetic Dataset for Global 3D Semantic Understanding from Monocular Remote Sensing Imagery
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d4f3da38b491b44d40a0d5a5b37134ba-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/d4f3da38b491b44d40a0d5a5b37134ba-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/JTRNEO/SynRS3D](https://github.com/JTRNEO/SynRS3D)
+
+#### Pruning neural network models for gene regulatory dynamics using data and domain knowledge
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d52d2281babd36913643392a09a56832-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/d52d2281babd36913643392a09a56832-Abstract-Conference.html)
+- 代码链接：[https://github.com/quackenbushlab/dash](https://github.com/quackenbushlab/dash)
+
+#### Noise Contrastive Alignment of Language Models with Explicit Rewards
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d5a58d198afa370a3dff0e1ca4fe1802-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/d5a58d198afa370a3dff0e1ca4fe1802-Abstract-Conference.html)
+- 代码链接：[https://github.com/thu-ml/noise-contrastive-alignment](https://github.com/thu-ml/noise-contrastive-alignment)
+
+#### Robust Conformal Prediction Using Privileged Information
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d5ae1c5167be330b90f4c0a1eed7f8f0-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/d5ae1c5167be330b90f4c0a1eed7f8f0-Abstract-Conference.html)
+- 代码链接：[https://github.com/Shai128/pcp](https://github.com/Shai128/pcp)
+
+#### Semi-Truths: A Large-Scale Dataset of AI-Augmented Images for Evaluating Robustness of AI-Generated Image detectors
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d5cdf7e56422f2a229c497dd89c3b995-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/d5cdf7e56422f2a229c497dd89c3b995-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/J-Kruk/SemiTruths](https://github.com/J-Kruk/SemiTruths)
+
+#### Latent Diffusion for Neural Spiking Data
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d60b6b7f0ba6bf07d975b3bbdacea702-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/d60b6b7f0ba6bf07d975b3bbdacea702-Abstract-Conference.html)
+- 代码链接：[https://github.com/mackelab/LDNS](https://github.com/mackelab/LDNS)
+
+#### Knowledge Circuits in Pretrained Transformers
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d6df31b1be98e04be48af8bedb95b499-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/d6df31b1be98e04be48af8bedb95b499-Abstract-Conference.html)
+- 代码链接：[https://github.com/zjunlp/knowledgecircuits](https://github.com/zjunlp/knowledgecircuits)
+
+#### Unveiling the Tapestry of Consistency in Large Vision-Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d6f094ba0f5ce1720466342f78031bdb-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/d6f094ba0f5ce1720466342f78031bdb-Abstract-Conference.html)
+- 代码链接：[https://github.com/foundation-multimodal-models/conbench](https://github.com/foundation-multimodal-models/conbench)
+
+#### Multi-model Ensemble Conformal Prediction in Dynamic Environments
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d705dd6e77decdc399162d6d5b92f6e8-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/d705dd6e77decdc399162d6d5b92f6e8-Abstract-Conference.html)
+- 代码链接：[https://github.com/erfanhajihashemi/Multi-model-Ensemble-Conformal-Prediction-in-Dynamic-Environments](https://github.com/erfanhajihashemi/Multi-model-Ensemble-Conformal-Prediction-in-Dynamic-Environments)
+
+#### Inductive biases of multi-task learning and finetuning: multiple regimes of feature reuse
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d7346ff79699b5bba26f8af89e700a95-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/d7346ff79699b5bba26f8af89e700a95-Abstract-Conference.html)
+- 代码链接：[https://github.com/sflippl/multi-task](https://github.com/sflippl/multi-task)
+
+#### SPIQA: A Dataset for Multimodal Question Answering on Scientific Papers
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d74033a247989e8f6f3bf9e0c9629fb5-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/d74033a247989e8f6f3bf9e0c9629fb5-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/google/spiqa](https://github.com/google/spiqa)
+
+#### Retrospective for the Dynamic Sensorium Competition for predicting large-scale mouse primary visual cortex activity from videos
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d758d7c0a88d741c8ca4637579c9df87-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/d758d7c0a88d741c8ca4637579c9df87-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/bryanlimy/ViV1T](https://github.com/bryanlimy/ViV1T)
+
+#### ElasTST: Towards Robust Varied-Horizon Forecasting with Elastic Time-Series Transformer
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d7aa002885ccbe68cf6880da583761b2-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/d7aa002885ccbe68cf6880da583761b2-Abstract-Conference.html)
+- 代码链接：[https://github.com/microsoft/probts](https://github.com/microsoft/probts)
+
+#### Human-Aware Vision-and-Language Navigation: Bridging Simulation to Reality with Dynamic Human Interactions
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d8087deaf34bb07ddd41c65f8a9fe9b5-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/d8087deaf34bb07ddd41c65f8a9fe9b5-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/lpercc/ha3d_simulator](https://github.com/lpercc/ha3d_simulator)
+
+#### Latent Paraphrasing: Perturbation on Layers Improves Knowledge Injection in Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d85030334fadbd55043c911076caf0ae-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/d85030334fadbd55043c911076caf0ae-Abstract-Conference.html)
+- 代码链接：[https://github.com/krafton-ai/LaPael](https://github.com/krafton-ai/LaPael)
+
+#### APEBench: A Benchmark for Autoregressive Neural Emulators of PDEs
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/d9875ebcf74bccdc5076acab0dbee62c-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/d9875ebcf74bccdc5076acab0dbee62c-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/Ceyron/apebench](https://github.com/Ceyron/apebench)
+
+#### A Synthetic Dataset for Personal Attribute Inference
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/daa1816b84ca2d5051c87fb4d37dd540-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/daa1816b84ca2d5051c87fb4d37dd540-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/eth-sri/synthpai](https://github.com/eth-sri/synthpai)
+
+#### Weisfeiler and Leman Go Loopy: A New Hierarchy for Graph Representational Learning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/dad28e90cd2c8caedf362d49c4d99e70-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/dad28e90cd2c8caedf362d49c4d99e70-Abstract-Conference.html)
+- 代码链接：[https://github.com/rpaolino/loopy](https://github.com/rpaolino/loopy)
+
+#### Neuc-MDS: Non-Euclidean Multidimensional Scaling Through Bilinear Forms
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/dc36c213f20300d1381520b0ce0c7788-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/dc36c213f20300d1381520b0ce0c7788-Abstract-Conference.html)
+- 代码链接：[https://github.com/KLu9812/MDSPlus](https://github.com/KLu9812/MDSPlus)
+
+#### Stronger Than You Think: Benchmarking Weak Supervision on Realistic Tasks
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/dd26d03d50af993ed052578c730e9729-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/dd26d03d50af993ed052578c730e9729-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/jeffreywpli/stronger-than-you-think](https://github.com/jeffreywpli/stronger-than-you-think)
+
+#### Alleviating Hallucinations in Large Vision-Language Models through Hallucination-Induced Optimization
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/dde040998d82553cf7f689e8ae173d5a-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/dde040998d82553cf7f689e8ae173d5a-Abstract-Conference.html)
+- 代码链接：[https://github.com/BT-C/HIO](https://github.com/BT-C/HIO)
+
+#### SG-Bench: Evaluating LLM Safety Generalization Across Diverse Tasks and Prompt Types
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/de7b99107c53e60257c727dc73daf1d1-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/de7b99107c53e60257c727dc73daf1d1-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/MurrayTom/SG-Bench](https://github.com/MurrayTom/SG-Bench)
+
+#### Continuously Learning, Adapting, and Improving: A Dual-Process Approach to Autonomous Driving
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/df04a35d907e894d59d4eab1f92bc87b-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/df04a35d907e894d59d4eab1f92bc87b-Abstract-Conference.html)
+- 代码链接：[https://github.com/pjlab-adg/leapad](https://github.com/pjlab-adg/leapad)
+
+#### Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/df2d62b96a4003203450cf89cd338bb7-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/df2d62b96a4003203450cf89cd338bb7-Abstract-Conference.html)
+- 代码链接：[https://github.com/todexter3/richelieu](https://github.com/todexter3/richelieu)
+
+#### Subject-driven Text-to-Image Generation via Preference-based Reinforcement Learning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/df40e4147b55744ab782b09ccde054db-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/df40e4147b55744ab782b09ccde054db-Abstract-Conference.html)
+- 代码链接：[https://github.com/andrew-miao/RPO](https://github.com/andrew-miao/RPO)
+
+#### Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e0f393e7980a24fd12fa6f15adfa25fb-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/e0f393e7980a24fd12fa6f15adfa25fb-Abstract-Conference.html)
+- 代码链接：[https://github.com/liruiw/HPT](https://github.com/liruiw/HPT)
+
+#### Pedestrian Trajectory Prediction with Missing Data: Datasets, Imputation, and Benchmarking
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e13a3071bd0aeb97ce41b2da921dfdb6-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/e13a3071bd0aeb97ce41b2da921dfdb6-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/Pranav-chib/TrajImpute](https://github.com/Pranav-chib/TrajImpute)
+
+#### Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e142fd2b70f10db2543c64bca1417de8-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/e142fd2b70f10db2543c64bca1417de8-Abstract-Conference.html)
+- 代码链接：[https://github.com/wangjw6/llmob](https://github.com/wangjw6/llmob)
+
+#### EHRNoteQA: An LLM Benchmark for Real-World Clinical Practice Using Discharge Summaries
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e15c4afff22f12c4986c1fcb4e941e03-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/e15c4afff22f12c4986c1fcb4e941e03-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/ji-youn-kim/EHRNoteQA](https://github.com/ji-youn-kim/EHRNoteQA)
+
+#### Almost Surely Asymptotically Constant Graph Neural Networks
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e1cd1db6fcd4a6df8618259f5b9cca0f-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/e1cd1db6fcd4a6df8618259f5b9cca0f-Abstract-Conference.html)
+- 代码链接：[https://github.com/benfinkelshtein/gnn-asymptotically-constant](https://github.com/benfinkelshtein/gnn-asymptotically-constant)
+
+#### Confidence Regulation Neurons in Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e21955c93dede886af1d0d362c756757-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/e21955c93dede886af1d0d362c756757-Abstract-Conference.html)
+- 代码链接：[https://github.com/bpwu1/confidence-regulation-neurons](https://github.com/bpwu1/confidence-regulation-neurons)
+
+#### Humor in AI: Massive Scale Crowd-Sourced Preferences and Benchmarks for Cartoon Captioning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e297fb6cd1690ee5b39c5bb4c58ad801-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/e297fb6cd1690ee5b39c5bb4c58ad801-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/yguooo/cartoon-caption-generation](https://github.com/yguooo/cartoon-caption-generation)
+
+#### GS-Blur: A 3D Scene-Based Dataset for Realistic Image Deblurring
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e2df455342ea37b0365ab7b6ce2c48fe-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/e2df455342ea37b0365ab7b6ce2c48fe-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/dongwoohhh/GS-Blur](https://github.com/dongwoohhh/GS-Blur)
+
+#### A StrongREJECT for Empty Jailbreaks
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e2e06adf560b0706d3b1ddfca9f29756-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/e2e06adf560b0706d3b1ddfca9f29756-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/alexandrasouly/strongreject](https://github.com/alexandrasouly/strongreject)
+
+#### IMPACT: A Large-scale Integrated Multimodal Patent Analysis and Creation Dataset for Design Patents
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e3301977b92f28e32639ec99eb08f4a1-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/e3301977b92f28e32639ec99eb08f4a1-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/AI4Patents/IMPACT](https://github.com/AI4Patents/IMPACT)
+
+#### Unraveling Molecular Structure: A Multimodal Spectroscopic Dataset for Chemistry
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e38e60b33bb2c6993e0865160cdb5cf1-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/e38e60b33bb2c6993e0865160cdb5cf1-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/rxn4chemistry/multimodal-spectroscopic-dataset](https://github.com/rxn4chemistry/multimodal-spectroscopic-dataset)
+
+#### Quantifying the Gain in Weak-to-Strong Generalization
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e4a0d8aef3567f742b0794844d9b5847-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/e4a0d8aef3567f742b0794844d9b5847-Abstract-Conference.html)
+- 代码链接：[https://github.com/chogba/wtsg-regression](https://github.com/chogba/wtsg-regression)
+
+#### INQUIRE: A Natural World Text-to-Image Retrieval Benchmark
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e4ad9c75f0d60ed75700f020adb3f705-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/e4ad9c75f0d60ed75700f020adb3f705-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/inquire-benchmark/INQUIRE](https://github.com/inquire-benchmark/INQUIRE)
+
+#### IPO: Interpretable Prompt Optimization for Vision-Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e52e4de8689a9955b6d3ff421d019387-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/e52e4de8689a9955b6d3ff421d019387-Abstract-Conference.html)
+- 代码链接：[https://github.com/lmsdss/IPO](https://github.com/lmsdss/IPO)
+
+#### Towards Principled Graph Transformers
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e5419147e53eba322cf12aff266a66f2-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/e5419147e53eba322cf12aff266a66f2-Abstract-Conference.html)
+- 代码链接：[https://github.com/luis-mueller/towards-principled-gts](https://github.com/luis-mueller/towards-principled-gts)
+
+#### Consistency Models for Scalable and Fast Simulation-Based Inference
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e58026e2b2929108e1bd24cbfa1c8e4b-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/e58026e2b2929108e1bd24cbfa1c8e4b-Abstract-Conference.html)
+- 代码链接：[https://github.com/bayesflow-org/consistency-model-posterior-estimation](https://github.com/bayesflow-org/consistency-model-posterior-estimation)
+
+#### 4-bit Shampoo for Memory-Efficient Network Training
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e5b4633454cb2174779d294ccda02318-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/e5b4633454cb2174779d294ccda02318-Abstract-Conference.html)
+- 代码链接：[https://github.com/sike-wang/low-bit-shampoo](https://github.com/sike-wang/low-bit-shampoo)
+
+#### State Space Models on Temporal Graphs: A First-Principles Study
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e5ba3d6d93213db6b1d1931c6517fe1a-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/e5ba3d6d93213db6b1d1931c6517fe1a-Abstract-Conference.html)
+- 代码链接：[https://github.com/edisonleeeee/graphssm](https://github.com/edisonleeeee/graphssm)
+
+#### PUZZLES: A Benchmark for Neural Algorithmic Reasoning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e5d1eaadeed651ba1021c09149db4b92-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/e5d1eaadeed651ba1021c09149db4b92-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/eth-disco/rlp](https://github.com/eth-disco/rlp)
+
+#### STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e607b1419e9ae7cd5cb5b5bb60c2ad5c-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/e607b1419e9ae7cd5cb5b5bb60c2ad5c-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/snap-stanford/stark](https://github.com/snap-stanford/stark)
+
+#### Theoretical Foundations of Deep Selective State-Space Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e6231c5f46598cfd09ff1970524e0436-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/e6231c5f46598cfd09ff1970524e0436-Abstract-Conference.html)
+- 代码链接：[https://github.com/benjamin-walker/selective-ssms-and-linear-cdes](https://github.com/benjamin-walker/selective-ssms-and-linear-cdes)
+
+#### Contextual Bilevel Reinforcement Learning for Incentive Alignment
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e66309ead63bc1410d2df261a28f602d-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/e66309ead63bc1410d2df261a28f602d-Abstract-Conference.html)
+- 代码链接：[https://github.com/lasgroup/hpgd](https://github.com/lasgroup/hpgd)
+
+#### RClicks: Realistic Click Simulation for Benchmarking Interactive Segmentation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e6b5bcc872666d37c469e5c5ba723669-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/e6b5bcc872666d37c469e5c5ba723669-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/emb-ai/rclicks](https://github.com/emb-ai/rclicks)
+
+#### Frieren: Efficient Video-to-Audio Generation Network with Rectified Flow Matching
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e7384de302bef52319b5067c3115bbfb-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/e7384de302bef52319b5067c3115bbfb-Abstract-Conference.html)
+- 代码链接：[https://github.com/cyanbx/Frieren-V2A](https://github.com/cyanbx/Frieren-V2A)
+
+#### CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e78399fc43dbb2d87b7e1e6906ce5baf-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/e78399fc43dbb2d87b7e1e6906ce5baf-Abstract-Conference.html)
+- 代码链接：[https://github.com/rafadd/condtsf](https://github.com/rafadd/condtsf)
+
+#### DistrictNet: Decision-aware learning for geographical districting
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e878c8f38381d0964677fb9536c494ee-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/e878c8f38381d0964677fb9536c494ee-Abstract-Conference.html)
+- 代码链接：[https://github.com/cheikh025/DistrictNet](https://github.com/cheikh025/DistrictNet)
+
+#### InfiBench: Evaluating the Question-Answering Capabilities of Code Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e888eb9400fe14bb70e057aa1d719188-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/e888eb9400fe14bb70e057aa1d719188-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/infi-coder/infibench-evaluation-harness](https://github.com/infi-coder/infibench-evaluation-harness)
+
+#### Symmetric Linear Bandits with Hidden Symmetry
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e894de44f7587d5ea723120f4d0b8689-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/e894de44f7587d5ea723120f4d0b8689-Abstract-Conference.html)
+- 代码链接：[https://github.com/namtrankekl/symmetric-linear-bandit-with-hidden-symmetry](https://github.com/namtrankekl/symmetric-linear-bandit-with-hidden-symmetry)
+
+#### SafeWorld: Geo-Diverse Safety Alignment
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e8aad0aaa1309659a7d7e4c21202d9d0-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/e8aad0aaa1309659a7d7e4c21202d9d0-Abstract-Conference.html)
+- 代码链接：[https://github.com/pluslabnlp/safeworld](https://github.com/pluslabnlp/safeworld)
+
+#### TSGM: A Flexible Framework for Generative Modeling of Synthetic Time Series
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e92bb8c76d1aa420171f51495ce56eaf-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/e92bb8c76d1aa420171f51495ce56eaf-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/AlexanderVNikitin/tsgm](https://github.com/AlexanderVNikitin/tsgm)
+
+#### Job-SDF: A Multi-Granularity Dataset for Job Skill Demand Forecasting and Benchmarking
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/e997325c6f4045aa646c81e674076297-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/e997325c6f4045aa646c81e674076297-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/Job-SDF/benchmark](https://github.com/Job-SDF/benchmark)
+
+#### An Efficient Memory Module for Graph Few-Shot Class-Incremental Learning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/eae7fa3e1584f46253c891bcb61846b8-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/eae7fa3e1584f46253c891bcb61846b8-Abstract-Conference.html)
+- 代码链接：[https://github.com/arvin0313/mecoin-gfscil](https://github.com/arvin0313/mecoin-gfscil)
+
+#### shapiq: Shapley Interactions for Machine Learning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/eb3a9313405e2d4175a5a3cfcd49999b-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/eb3a9313405e2d4175a5a3cfcd49999b-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/mmschlk/shapiq](https://github.com/mmschlk/shapiq)
+
+#### Activation Map Compression through Tensor Decomposition for Deep Learning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/eb58e6745340616828a053500220f963-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/eb58e6745340616828a053500220f963-Abstract-Conference.html)
+- 代码链接：[https://github.com/le-trungnguyen/neurips2024-activationcompression](https://github.com/le-trungnguyen/neurips2024-activationcompression)
+
+#### Probing the Decision Boundaries of In-context Learning in Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/eb5dd4476448c44e55a759a985b3bbec-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/eb5dd4476448c44e55a759a985b3bbec-Abstract-Conference.html)
+- 代码链接：[https://github.com/siyan-zhao/ICL_decision_boundary](https://github.com/siyan-zhao/ICL_decision_boundary)
+
+#### From Similarity to Superiority: Channel Clustering for Time Series Forecasting
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/eb9b18ccb76a1156af5779ffdca1d91f-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/eb9b18ccb76a1156af5779ffdca1d91f-Abstract-Conference.html)
+- 代码链接：[https://github.com/graph-and-geometric-learning/timeseriesccm](https://github.com/graph-and-geometric-learning/timeseriesccm)
+
+#### VastTrack: Vast Category Visual Object Tracking
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/ec17a52ea4d42361ce8dde2e17dcea05-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/ec17a52ea4d42361ce8dde2e17dcea05-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/HengLan/VastTrack](https://github.com/HengLan/VastTrack)
+
+#### Expecting The Unexpected: Towards Broad Out-Of-Distribution Detection
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/ec80d18205e39d42a27192d5f3ddd688-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/ec80d18205e39d42a27192d5f3ddd688-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/servicenow/broad-openood](https://github.com/servicenow/broad-openood)
+
+#### VLM4Bio: A Benchmark Dataset to Evaluate Pretrained Vision-Language Models for Trait Discovery from Biological Images
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/eced4a5fbc776e81b45e2f72447f0164-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/eced4a5fbc776e81b45e2f72447f0164-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/sammarfy/vlm4bio](https://github.com/sammarfy/vlm4bio)
+
+#### CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/ed1d3d4c64dc1b95332a8cde3f2a0bdf-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/ed1d3d4c64dc1b95332a8cde3f2a0bdf-Abstract-Conference.html)
+- 代码链接：[https://github.com/shi-labs/cumo](https://github.com/shi-labs/cumo)
+
+#### BackTime: Backdoor Attacks on Multivariate Time Series Forecasting
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/ed3cd2520148b577039adfade82a5566-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/ed3cd2520148b577039adfade82a5566-Abstract-Conference.html)
+- 代码链接：[https://github.com/xiaolin-cs/backtime](https://github.com/xiaolin-cs/backtime)
+
+#### Nonparametric Instrumental Variable Regression through Stochastic Approximate Gradients
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/edfd99d02718585697fda9df97fcf53d-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/edfd99d02718585697fda9df97fcf53d-Abstract-Conference.html)
+- 代码链接：[https://github.com/caioflp/sagd-iv](https://github.com/caioflp/sagd-iv)
+
+#### Scene Graph Generation with Role-Playing Large Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/ee74a6ade401e200985e2421b20bbae4-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/ee74a6ade401e200985e2421b20bbae4-Abstract-Conference.html)
+- 代码链接：[https://github.com/guikunchen/sdsgg](https://github.com/guikunchen/sdsgg)
+
+#### Parameter-Inverted Image Pyramid Networks
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/ee81a23d6b83ac15fbeb5b7a30934e0b-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/ee81a23d6b83ac15fbeb5b7a30934e0b-Abstract-Conference.html)
+- 代码链接：[https://github.com/opengvlab/piip](https://github.com/opengvlab/piip)
+
+#### FUSU: A Multi-temporal-source Land Use Change Segmentation Dataset for Fine-grained Urban Semantic Understanding
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/eeb3df2d70affd52f65ff3b9abb32487-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/eeb3df2d70affd52f65ff3b9abb32487-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/yuanshuai0914/FUSU](https://github.com/yuanshuai0914/FUSU)
+
+#### CNCA: Toward Customizable and Natural Generation of Adversarial Camouflage for Vehicle Detectors
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f02a816cd50c0b1441601dbde012fa24-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/f02a816cd50c0b1441601dbde012fa24-Abstract-Conference.html)
+- 代码链接：[https://github.com/SeRAlab/CNCA](https://github.com/SeRAlab/CNCA)
+
+#### Building Timeseries Dataset: Empowering Large-Scale Building Analytics
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f0430903a14db90e5ce96f101902d6d7-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/f0430903a14db90e5ce96f101902d6d7-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/cruiseresearchgroup/DIEF_BTS](https://github.com/cruiseresearchgroup/DIEF_BTS)
+
+#### Benchmarking Counterfactual Image Generation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f04351c9fa1e22797c7d32c1f6d23948-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/f04351c9fa1e22797c7d32c1f6d23948-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/gulnazaki/counterfactual-benchmark](https://github.com/gulnazaki/counterfactual-benchmark)
+
+#### WFCRL: A Multi-Agent Reinforcement Learning Benchmark for Wind Farm Control
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f0a4a0ecdc29a0087c0848948e2fce81-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/f0a4a0ecdc29a0087c0848948e2fce81-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/ifpen/wfcrl-env](https://github.com/ifpen/wfcrl-env)
+
+#### Learning-to-Cache: Accelerating Diffusion Transformer via Layer Caching
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f0b1515be276f6ba82b4f2b25e50bef0-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/f0b1515be276f6ba82b4f2b25e50bef0-Abstract-Conference.html)
+- 代码链接：[https://github.com/horseee/learning-to-cache](https://github.com/horseee/learning-to-cache)
+
+#### Alleviating Distortion in Image Generation via Multi-Resolution Diffusion Models and Time-Dependent Layer Normalization
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f1aa53cac69ef6980ca4a911ffcf278b-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/f1aa53cac69ef6980ca4a911ffcf278b-Abstract-Conference.html)
+- 代码链接：[https://github.com/qihao067/DiMR](https://github.com/qihao067/DiMR)
+
+#### InfoRM: Mitigating Reward Hacking in RLHF via Information-Theoretic Reward Modeling
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f25d75fc760aec0a6174f9f5d9da59b8-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/f25d75fc760aec0a6174f9f5d9da59b8-Abstract-Conference.html)
+- 代码链接：[https://github.com/miaoyuchun/inform](https://github.com/miaoyuchun/inform)
+
+#### IaC-Eval: A Code Generation Benchmark for Cloud Infrastructure-as-Code Programs
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f26b29298ae8acd94bd7e839688e329b-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/f26b29298ae8acd94bd7e839688e329b-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/autoiac-project/iac-eval](https://github.com/autoiac-project/iac-eval)
+
+#### Semantic Density: Uncertainty Quantification for Large Language Models through Confidence Measurement in Semantic Space
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f26d4fbaf7dfa115f1d4b3f104e26bce-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/f26d4fbaf7dfa115f1d4b3f104e26bce-Abstract-Conference.html)
+- 代码链接：[https://github.com/cognizant-ai-labs/semantic-density-paper](https://github.com/cognizant-ai-labs/semantic-density-paper)
+
+#### Understanding the Differences in Foundation Models: Attention, State Space Models, and Recurrent Neural Networks
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f271a36160097fbdb06a9adeb1605343-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/f271a36160097fbdb06a9adeb1605343-Abstract-Conference.html)
+- 代码链接：[https://github.com/intelligentcontrolsystems/dsf-mqar](https://github.com/intelligentcontrolsystems/dsf-mqar)
+
+#### IMDL-BenCo: A Comprehensive Benchmark and Codebase for Image Manipulation Detection & Localization
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f280a398c243b5fdaa09f57ece880fc9-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/f280a398c243b5fdaa09f57ece880fc9-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/scu-zjz/IMDLBenCo](https://github.com/scu-zjz/IMDLBenCo)
+
+#### GV-Rep: A Large-Scale Dataset for Genetic Variant Representation Learning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f2b86cbc0b3e31dd001aeb516afbe1e2-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/f2b86cbc0b3e31dd001aeb516afbe1e2-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/bowang-lab/genomic-fm](https://github.com/bowang-lab/genomic-fm)
+
+#### Can LLMs Solve Molecule Puzzles? A Multimodal Benchmark for Molecular Structure Elucidation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f2b9e8e7a36d43ddfd3d55113d56b1e0-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/f2b9e8e7a36d43ddfd3d55113d56b1e0-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/KehanGuo2/MolPuzzle](https://github.com/KehanGuo2/MolPuzzle)
+
+#### A Benchmark Dataset for Event-Guided Human Pose Estimation and Tracking in Extreme Conditions
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f304e427cfe6bb762fe1bf18516c8a87-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/f304e427cfe6bb762fe1bf18516c8a87-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/Chohoonhee/EHPT-XC](https://github.com/Chohoonhee/EHPT-XC)
+
+#### CALE: Continuous Arcade Learning Environment
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f359c6545bea1ffc971f483469b37122-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/f359c6545bea1ffc971f483469b37122-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/Farama-Foundation/Arcade-Learning-Environment](https://github.com/Farama-Foundation/Arcade-Learning-Environment)
+
+#### Membership Inference Attacks against Fine-tuned Large Language Models via Self-prompt Calibration
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f36ad694188bb4c4bbbd61e2038e069e-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/f36ad694188bb4c4bbbd61e2038e069e-Abstract-Conference.html)
+- 代码链接：[https://github.com/tsinghua-fib-lab/NeurIPS2024_SPV-MIA](https://github.com/tsinghua-fib-lab/NeurIPS2024_SPV-MIA)
+
+#### Metric Flow Matching for Smooth Interpolations on the Data Manifold
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f381114cf5aba4e45552869863deaaa7-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/f381114cf5aba4e45552869863deaaa7-Abstract-Conference.html)
+- 代码链接：[https://github.com/kksniak/metric-flow-matching](https://github.com/kksniak/metric-flow-matching)
+
+#### 3DCoMPaT200: Language Grounded Large-Scale 3D Vision Dataset for Compositional Recognition
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f4f094d1c87437fb9157a9eae5a3def0-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/f4f094d1c87437fb9157a9eae5a3def0-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/3DCoMPaT200/3DCoMPaT200/](https://github.com/3DCoMPaT200/3DCoMPaT200/)
+
+#### Towards Reliable Model Selection for Unsupervised Domain Adaptation: An Empirical Study and A Certified Baseline
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f50cebc22663df45ce619645bfabb3b3-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/f50cebc22663df45ce619645bfabb3b3-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/LHXXHB/EnsV](https://github.com/LHXXHB/EnsV)
+
+#### DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning Graph
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f5198bc255e1d5f959edd6d1d1a86fab-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/f5198bc255e1d5f959edd6d1d1a86fab-Abstract-Conference.html)
+- 代码链接：[https://github.com/salt-nlp/darg](https://github.com/salt-nlp/darg)
+
+#### IncomeSCM: From tabular data set to time-series simulator and causal estimation benchmark
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f5c7fb98367440a5eb01d70294c180ca-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/f5c7fb98367440a5eb01d70294c180ca-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/Healthy-AI/IncomeSCM](https://github.com/Healthy-AI/IncomeSCM)
+
+#### Exploring Consistency in Graph Representations: from Graph Kernels to Graph Neural Networks
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f631e778fd3c1b871e9e3a94369335e9-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/f631e778fd3c1b871e9e3a94369335e9-Abstract-Conference.html)
+- 代码链接：[https://github.com/graphminddartmouth/graph-consistency](https://github.com/graphminddartmouth/graph-consistency)
+
+#### Introducing Spectral Attention for Long-Range Dependency in Time Series Forecasting
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f6adf61977467560f79b95485d1f3a79-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/f6adf61977467560f79b95485d1f3a79-Abstract-Conference.html)
+- 代码链接：[https://github.com/djlee1208/bsa_2024](https://github.com/djlee1208/bsa_2024)
+
+#### SELECT: A Large-Scale Benchmark of Data Curation Strategies for Image Classification
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f6de5ed486b1802874fe9c70b50277e4-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/f6de5ed486b1802874fe9c70b50277e4-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/jimmyxu123/SELECT](https://github.com/jimmyxu123/SELECT)
+
+#### $\texttt{dattri}$: A Library for Efficient Data Attribution
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f732683302d91e47610b2416b4977a66-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/f732683302d91e47610b2416b4977a66-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/TRAIS-Lab/dattri](https://github.com/TRAIS-Lab/dattri)
+
+#### Aligning LLM Agents by Learning Latent Preference from User Edits
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f75744612447126da06767daecce1a84-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/f75744612447126da06767daecce1a84-Abstract-Conference.html)
+- 代码链接：[https://github.com/gao-g/prelude](https://github.com/gao-g/prelude)
+
+#### Unchosen Experts Can Contribute Too: Unleashing MoE Models’ Power by Self-Contrast
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f77012b463892a3f2ac56d3a6086fc5b-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/f77012b463892a3f2ac56d3a6086fc5b-Abstract-Conference.html)
+- 代码链接：[https://github.com/davidfanzz/scmoe](https://github.com/davidfanzz/scmoe)
+
+#### Unitary Convolutions for Learning on Graphs and Groups
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f775e2e0e7e12227adecbbf945f43546-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/f775e2e0e7e12227adecbbf945f43546-Abstract-Conference.html)
+- 代码链接：[https://github.com/Weber-GeoML/Unitary_Convolutions](https://github.com/Weber-GeoML/Unitary_Convolutions)
+
+#### FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f7ae4fe91d96f50abc2211f09b6a7e49-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/f7ae4fe91d96f50abc2211f09b6a7e49-Abstract-Conference.html)
+- 代码链接：[https://github.com/the-finai/fincon](https://github.com/the-finai/fincon)
+
+#### The Fragility of Fairness: Causal Sensitivity Analysis for Fair Machine Learning
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f7be3ebca4980b59fe3f665011115395-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/f7be3ebca4980b59fe3f665011115395-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/Jakefawkes/fragile_fair](https://github.com/Jakefawkes/fragile_fair)
+
+#### Understanding Multi-Granularity for Open-Vocabulary Part Segmentation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f7f47a73d631c0410cbc2748a8015241-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/f7f47a73d631c0410cbc2748a8015241-Abstract-Conference.html)
+- 代码链接：[https://github.com/kaist-cvml-lab/part-clipseg](https://github.com/kaist-cvml-lab/part-clipseg)
+
+#### Task-oriented Time Series Imputation Evaluation via Generalized Representers
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f88264fcc54775ee1706116e90fe351a-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/f88264fcc54775ee1706116e90fe351a-Abstract-Conference.html)
+- 代码链接：[https://github.com/hkuedl/Task-Oriented-Imputation](https://github.com/hkuedl/Task-Oriented-Imputation)
+
+#### Benchmarking Complex Instruction-Following with Multiple Constraints Composition
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f8c24b08b96a08ec7a7a975feea7777e-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/f8c24b08b96a08ec7a7a975feea7777e-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/thu-coai/complexbench](https://github.com/thu-coai/complexbench)
+
+#### InversionView: A General-Purpose Method for Reading Information from Neural Activations
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f94cfd15db3f16ee7789b6b7e91ec476-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/f94cfd15db3f16ee7789b6b7e91ec476-Abstract-Conference.html)
+- 代码链接：[https://github.com/huangxt39/inversionview](https://github.com/huangxt39/inversionview)
+
+#### Divergences between Language Models and Human Brains
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f96839fc751b67492e17e70f5c9730e4-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/f96839fc751b67492e17e70f5c9730e4-Abstract-Conference.html)
+- 代码链接：[https://github.com/flamingozh/divergence_meg](https://github.com/flamingozh/divergence_meg)
+
+#### The Importance of Being Scalable: Improving the Speed and Accuracy of Neural Network Interatomic Potentials Across Chemical Domains
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/fad8e1915f66161581bb127ccf01092e-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/fad8e1915f66161581bb127ccf01092e-Abstract-Conference.html)
+- 代码链接：[https://github.com/ASK-Berkeley/EScAIP](https://github.com/ASK-Berkeley/EScAIP)
+
+#### Recurrent neural networks: vanishing and exploding gradients are not the end of the story
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/fbb07254ef01868967dc891ea3fa6c13-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/fbb07254ef01868967dc891ea3fa6c13-Abstract-Conference.html)
+- 代码链接：[https://github.com/NicolasZucchet/Vanishing-and-exploding-gradients-are-not-the-end-of-the-story](https://github.com/NicolasZucchet/Vanishing-and-exploding-gradients-are-not-the-end-of-the-story)
+
+#### Fully Distributed, Flexible Compositional Visual Representations via Soft Tensor Products
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/fbf1fe4819b359f5715c4989b9df3725-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/fbf1fe4819b359f5715c4989b9df3725-Abstract-Conference.html)
+- 代码链接：[https://github.com/gomb0c/soft_tpr](https://github.com/gomb0c/soft_tpr)
+
+#### Dispelling the Mirage of Progress in Offline MARL through Standardised Baselines and Evaluation
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/fc6247c33cff077a3910d0c28463f445-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/fc6247c33cff077a3910d0c28463f445-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/instadeepai/og-marl](https://github.com/instadeepai/og-marl)
+
+#### Topic-Conversation Relevance (TCR) Dataset and Benchmarks
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/fd9b0883e4c9f0f0b3db673ce54dc8f2-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/fd9b0883e4c9f0f0b3db673ce54dc8f2-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/microsoft/topic_conversation](https://github.com/microsoft/topic_conversation)
+
+#### TGB 2.0: A Benchmark for Learning on Temporal Knowledge Graphs and Heterogeneous Graphs
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/fda026cf2423a01fcbcf1e1e43ee9a50-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/fda026cf2423a01fcbcf1e1e43ee9a50-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/erfanloghmani/myket-android-application-market-dataset](https://github.com/erfanloghmani/myket-android-application-market-dataset)
+
+#### MOTIVE: A Drug-Target Interaction Graph For Inductive Link Prediction
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/fdb3fa770c2e0ecbb4b7dc7083ef5be9-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/fdb3fa770c2e0ecbb4b7dc7083ef5be9-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/carpenter-singh-lab/motive](https://github.com/carpenter-singh-lab/motive)
+
+#### CARES: A Comprehensive Benchmark of Trustworthiness in Medical Vision Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/fde7f40f8ced5735006810534dc66b33-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/fde7f40f8ced5735006810534dc66b33-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/richard-peng-xia/CARES](https://github.com/richard-peng-xia/CARES)
+
+#### A survey and benchmark of high-dimensional Bayesian optimization of discrete sequences
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/fe0007fcfd707673660ec0f9014bc48e-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/fe0007fcfd707673660ec0f9014bc48e-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/MachineLearningLifeScience/hdbo_benchmark](https://github.com/MachineLearningLifeScience/hdbo_benchmark)
+
+#### VHELM: A Holistic Evaluation of Vision Language Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/fe2fc7dc60b55ccd8886220b40fb1f74-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/fe2fc7dc60b55ccd8886220b40fb1f74-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/stanford-crfm/helm](https://github.com/stanford-crfm/helm)
+
+#### CoMix: A Comprehensive Benchmark for Multi-Task Comic Understanding
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/fe79898dcf078ec54b6feeea10ebb751-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/fe79898dcf078ec54b6feeea10ebb751-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/emanuelevivoli/CoMix-dataset](https://github.com/emanuelevivoli/CoMix-dataset)
+
+#### Multi-modal Situated Reasoning in 3D Scenes
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/feaeec8ec2d3cb131fe18517ff14ec1f-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/feaeec8ec2d3cb131fe18517ff14ec1f-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/MSR3D/MSR3D](https://github.com/MSR3D/MSR3D)
+
+#### Can Large Language Models Analyze Graphs like Professionals? A Benchmark, Datasets and Models
+
+- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/ff417c3993894694e88ffc4d3f53d28b-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/ff417c3993894694e88ffc4d3f53d28b-Abstract-Datasets_and_Benchmarks_Track.html)
+- 代码链接：[https://github.com/BUPT-GAMMA/ProGraph](https://github.com/BUPT-GAMMA/ProGraph)
