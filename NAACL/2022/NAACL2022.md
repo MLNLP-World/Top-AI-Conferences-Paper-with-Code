@@ -1588,11 +1588,6 @@
 - 论文链接：[https://aclanthology.org/2022.findings-naacl.76/](https://aclanthology.org/2022.findings-naacl.76/)
 - 代码链接：[https://github.com/hwanheelee1993/MFMA](https://github.com/hwanheelee1993/MFMA)
 
-#### RGL: A Simple yet Effective Relation Graph Augmented Prompt-based Tuning Approach for Few-Shot Learning
-
-- 论文链接：[https://aclanthology.org/2022.findings-naacl.81/](https://aclanthology.org/2022.findings-naacl.81/)
-- 代码链接：[https://github.com/PaddlePaddle/PaddleNLP/tree/develop/examples/few_shot/RGL](https://github.com/PaddlePaddle/PaddleNLP/tree/develop/examples/few_shot/RGL)
-
 #### Seeing the wood for the trees: a contrastive regularization method for the low-resource Knowledge Base Question Answering
 
 - 论文链接：[https://aclanthology.org/2022.findings-naacl.82/](https://aclanthology.org/2022.findings-naacl.82/)
@@ -2141,7 +2136,7 @@
 #### RAAT: Relation-Augmented Attention Transformer for Relation Modeling in Document-Level Event Extraction
 
 - 论文链接：[https://aclanthology.org/2022.naacl-main.367/](https://aclanthology.org/2022.naacl-main.367/)
-- 代码链接：[https://github.com/TencentYoutuResearch/RAAT](https://github.com/TencentYoutuResearch/RAAT)
+- 代码链接：[https://github.com/TencentYoutuResearch/EventExtraction-RAAT](https://github.com/TencentYoutuResearch/EventExtraction-RAAT)
 
 #### Meet Your Favorite Character: Open-domain Chatbot Mimicking Fictional Characters with only a Few Utterances
 

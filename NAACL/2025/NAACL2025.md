@@ -1572,11 +1572,6 @@
 - 论文链接：[https://aclanthology.org/2025.naacl-long.504/](https://aclanthology.org/2025.naacl-long.504/)
 - 代码链接：[https://github.com/alenai97/miceval](https://github.com/alenai97/miceval)
 
-#### CartesianMoE: Boosting Knowledge Sharing among Experts via Cartesian Product Routing in Mixture-of-Experts
-
-- 论文链接：[https://aclanthology.org/2025.naacl-long.505/](https://aclanthology.org/2025.naacl-long.505/)
-- 代码链接：[https://github.com/suu990901/CartesianMoE](https://github.com/suu990901/CartesianMoE)
-
 #### MILU: A Multi-task Indic Language Understanding Benchmark
 
 - 论文链接：[https://aclanthology.org/2025.naacl-long.507/](https://aclanthology.org/2025.naacl-long.507/)
