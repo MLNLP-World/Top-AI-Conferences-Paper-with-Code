@@ -291,3 +291,517 @@
 | LuxEmbedder: A Cross-Lingual Approach to Enhanced Luxembourgish Sentence Embeddings | [链接](https://aclanthology.org/2025.coling-main.753/) | [https://github.com/fredxlpy/LuxEmbedder](https://github.com/fredxlpy/LuxEmbedder) |
 | OpenFactCheck: Building, Benchmarking Customized Fact-Checking Systems and Evaluating the Factuality of Claims and LLMs | [链接](https://aclanthology.org/2025.coling-main.755/) | [https://github.com/yuxiaw/openfactcheck](https://github.com/yuxiaw/openfactcheck) |
 | A Dataset for Expert Reviewer Recommendation with Large Language Models as Zero-shot Rankers | [链接](https://aclanthology.org/2025.coling-main.756/) | [https://github.com/sodestream/revrec](https://github.com/sodestream/revrec) |
+
+## PaperVault 补充
+
+<!-- Source: https://github.com/youngfish42/PaperVault -->
+
+#### Loki: An Open-Source Tool for Fact Verification
+
+- 论文链接：[https://aclanthology.org/2025.coling-demos.4/](https://aclanthology.org/2025.coling-demos.4/)
+- 代码链接：[https://github.com/Libr-AI/OpenFactVerification](https://github.com/Libr-AI/OpenFactVerification)
+
+#### UnifiedGEC: Integrating Grammatical Error Correction Approaches for Multi-languages with a Unified Framework
+
+- 论文链接：[https://aclanthology.org/2025.coling-demos.5/](https://aclanthology.org/2025.coling-demos.5/)
+- 代码链接：[https://github.com/AnKate/UnifiedGEC](https://github.com/AnKate/UnifiedGEC)
+
+#### Reliable, Reproducible, and Really Fast Leaderboards with Evalica
+
+- 论文链接：[https://aclanthology.org/2025.coling-demos.6/](https://aclanthology.org/2025.coling-demos.6/)
+- 代码链接：[https://github.com/dustalov/evalica](https://github.com/dustalov/evalica)
+
+#### EasyJudge: an Easy-to-use Tool for Comprehensive Response Evaluation of LLMs
+
+- 论文链接：[https://aclanthology.org/2025.coling-demos.10/](https://aclanthology.org/2025.coling-demos.10/)
+- 代码链接：[https://github.com/4real3000/easyjudge](https://github.com/4real3000/easyjudge)
+
+#### RAGthoven: A Configurable Toolkit for RAG-enabled LLM Experimentation
+
+- 论文链接：[https://aclanthology.org/2025.coling-demos.12/](https://aclanthology.org/2025.coling-demos.12/)
+- 代码链接：[https://github.com/ragthoven-dev/ragthoven](https://github.com/ragthoven-dev/ragthoven)
+
+#### GECTurk WEB: An Explainable Online Platform for Turkish Grammatical Error Detection and Correction
+
+- 论文链接：[https://aclanthology.org/2025.coling-demos.16/](https://aclanthology.org/2025.coling-demos.16/)
+- 代码链接：[https://github.com/GGLAB-KU/gecturkweb](https://github.com/GGLAB-KU/gecturkweb)
+
+#### GR-NLP-TOOLKIT: An Open-Source NLP Toolkit for Modern Greek
+
+- 论文链接：[https://aclanthology.org/2025.coling-demos.17/](https://aclanthology.org/2025.coling-demos.17/)
+- 代码链接：[https://github.com/nlpaueb/gr-nlp-toolkit](https://github.com/nlpaueb/gr-nlp-toolkit)
+
+#### ViSoLex: An Open-Source Repository for Vietnamese Social Media Lexical Normalization
+
+- 论文链接：[https://aclanthology.org/2025.coling-demos.18/](https://aclanthology.org/2025.coling-demos.18/)
+- 代码链接：[https://github.com/hadung2002/visolex](https://github.com/hadung2002/visolex)
+
+#### OKG: On-the-Fly Keyword Generation in Sponsored Search Advertising
+
+- 论文链接：[https://aclanthology.org/2025.coling-industry.10/](https://aclanthology.org/2025.coling-industry.10/)
+- 代码链接：[https://github.com/sony/okg](https://github.com/sony/okg)
+
+#### No Size Fits All: The Perils and Pitfalls of Leveraging LLMs Vary with Company Size
+
+- 论文链接：[https://aclanthology.org/2025.coling-industry.16/](https://aclanthology.org/2025.coling-industry.16/)
+- 代码链接：[https://github.com/vinayakcse/industrialllmspapers](https://github.com/vinayakcse/industrialllmspapers)
+
+#### A Recipe For Building a Compliant Real Estate Chatbot
+
+- 论文链接：[https://aclanthology.org/2025.coling-industry.18/](https://aclanthology.org/2025.coling-industry.18/)
+- 代码链接：[https://github.com/zillow/compliant-real-estate-chatbot](https://github.com/zillow/compliant-real-estate-chatbot)
+
+#### Enhancing Future Link Prediction in Quantum Computing Semantic Networks through LLM-Initiated Node Features
+
+- 论文链接：[https://aclanthology.org/2025.coling-industry.25/](https://aclanthology.org/2025.coling-industry.25/)
+- 代码链接：[https://github.com/boxorange/QC-LinkPrediction](https://github.com/boxorange/QC-LinkPrediction)
+
+#### CarMem: Enhancing Long-Term Memory in LLM Voice Assistants through Category-Bounding
+
+- 论文链接：[https://aclanthology.org/2025.coling-industry.29/](https://aclanthology.org/2025.coling-industry.29/)
+- 代码链接：[https://github.com/johanneskirmayr/carmem](https://github.com/johanneskirmayr/carmem)
+
+#### AutoProteinEngine: A Large Language Model Driven Agent Framework for Multimodal AutoML in Protein Engineering
+
+- 论文链接：[https://aclanthology.org/2025.coling-industry.36/](https://aclanthology.org/2025.coling-industry.36/)
+- 代码链接：[https://github.com/tsynbio/autope](https://github.com/tsynbio/autope)
+
+#### On the effective transfer of knowledge from English to Hindi Wikipedia
+
+- 论文链接：[https://aclanthology.org/2025.coling-industry.39/](https://aclanthology.org/2025.coling-industry.39/)
+- 代码链接：[https://github.com/paramita08/wikiTransfer](https://github.com/paramita08/wikiTransfer)
+
+#### KARRIEREWEGE: A large scale Career Path Prediction Dataset
+
+- 论文链接：[https://aclanthology.org/2025.coling-industry.46/](https://aclanthology.org/2025.coling-industry.46/)
+- 代码链接：[https://github.com/elenasenger/karrierewege](https://github.com/elenasenger/karrierewege)
+
+#### Transforming Code Understanding: Clustering-Based Retrieval for Improved Summarization in Domain-Specific Languages
+
+- 论文链接：[https://aclanthology.org/2025.coling-industry.47/](https://aclanthology.org/2025.coling-industry.47/)
+- 代码链接：[https://github.com/babangain/ebpf_summ](https://github.com/babangain/ebpf_summ)
+
+#### ChartGemma: Visual Instruction-tuning for Chart Reasoning in the Wild
+
+- 论文链接：[https://aclanthology.org/2025.coling-industry.54/](https://aclanthology.org/2025.coling-industry.54/)
+- 代码链接：[https://github.com/vis-nlp/ChartGemma](https://github.com/vis-nlp/ChartGemma)
+
+#### LoRA Soups: Merging LoRAs for Practical Skill Composition Tasks
+
+- 论文链接：[https://aclanthology.org/2025.coling-industry.55/](https://aclanthology.org/2025.coling-industry.55/)
+- 代码链接：[https://github.com/aksh555/lora-soups](https://github.com/aksh555/lora-soups)
+
+#### REVerSum: A Multi-staged Retrieval-Augmented Generation Method to Enhance Wikipedia Tail Biographies through Personal Narratives
+
+- 论文链接：[https://aclanthology.org/2025.coling-industry.61/](https://aclanthology.org/2025.coling-industry.61/)
+- 代码链接：[https://github.com/sayantan11995/wikipedia_enrichment](https://github.com/sayantan11995/wikipedia_enrichment)
+
+#### Teaching-Inspired Integrated Prompting Framework: A Novel Approach for Enhancing Reasoning in Large Language Models
+
+- 论文链接：[https://aclanthology.org/2025.coling-industry.69/](https://aclanthology.org/2025.coling-industry.69/)
+- 代码链接：[https://github.com/sallytan13/teaching-inspired-prompting](https://github.com/sallytan13/teaching-inspired-prompting)
+
+#### Match, Compare, or Select? An Investigation of Large Language Models for Entity Matching
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.8/](https://aclanthology.org/2025.coling-main.8/)
+- 代码链接：[https://github.com/tshu-w/comem](https://github.com/tshu-w/comem)
+
+#### Federated Incremental Named Entity Recognition
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.13/](https://aclanthology.org/2025.coling-main.13/)
+- 代码链接：[https://github.com/bladedancer957/finer](https://github.com/bladedancer957/finer)
+
+#### ELITR-Bench: A Meeting Assistant Benchmark for Long-Context Language Models
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.28/](https://aclanthology.org/2025.coling-main.28/)
+- 代码链接：[https://github.com/utter-project/elitr-bench](https://github.com/utter-project/elitr-bench)
+
+#### Positive Text Reframing under Multi-strategy Optimization
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.29/](https://aclanthology.org/2025.coling-main.29/)
+- 代码链接：[https://github.com/20174376/code-for-paper](https://github.com/20174376/code-for-paper)
+
+#### SyntheT2C: Generating Synthetic Data for Fine-Tuning Large Language Models on the Text2Cypher Task
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.46/](https://aclanthology.org/2025.coling-main.46/)
+- 代码链接：[https://github.com/ZGChung/SyntheT2C](https://github.com/ZGChung/SyntheT2C)
+
+#### Compress to Impress: Unleashing the Potential of Compressive Memory in Real-World Long-Term Conversations
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.51/](https://aclanthology.org/2025.coling-main.51/)
+- 代码链接：[https://github.com/nuochenpku/comedy](https://github.com/nuochenpku/comedy)
+
+#### Mining Word Boundaries from Speech-Text Parallel Data for Cross-domain Chinese Word Segmentation
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.83/](https://aclanthology.org/2025.coling-main.83/)
+- 代码链接：[https://github.com/XuebinWang-ai/Mining_Word_Boundaries](https://github.com/XuebinWang-ai/Mining_Word_Boundaries)
+
+#### FTFT: Efficient and Robust Fine-Tuning by Transferring Training Dynamics
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.86/](https://aclanthology.org/2025.coling-main.86/)
+- 代码链接：[https://github.com/nlpsoc/ftft](https://github.com/nlpsoc/ftft)
+
+#### CAST: Cross-modal Alignment Similarity Test for Vision Language Models
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.93/](https://aclanthology.org/2025.coling-main.93/)
+- 代码链接：[https://github.com/gautierdag/cast](https://github.com/gautierdag/cast)
+
+#### CEHA: A Dataset of Conflict Events in the Horn of Africa
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.99/](https://aclanthology.org/2025.coling-main.99/)
+- 代码链接：[https://github.com/dataminr-ai/ceha](https://github.com/dataminr-ai/ceha)
+
+#### Learning to Refuse: Towards Mitigating Privacy Risks in LLMs
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.114/](https://aclanthology.org/2025.coling-main.114/)
+- 代码链接：[https://github.com/zhliu0106/learning-to-refuse](https://github.com/zhliu0106/learning-to-refuse)
+
+#### Acquiring Bidirectionality via Large and Small Language Models
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.116/](https://aclanthology.org/2025.coling-main.116/)
+- 代码链接：[https://github.com/hitachi-nlp/backward-llm](https://github.com/hitachi-nlp/backward-llm)
+
+#### Linguistic Features Extracted by GPT-4 Improve Alzheimer’s Disease Detection based on Spontaneous Speech
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.126/](https://aclanthology.org/2025.coling-main.126/)
+- 代码链接：[https://github.com/jheitz/coling2025_gpt_paper](https://github.com/jheitz/coling2025_gpt_paper)
+
+#### RoLargeSum: A Large Dialect-Aware Romanian News Dataset for Summary, Headline, and Keyword Generation
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.140/](https://aclanthology.org/2025.coling-main.140/)
+- 代码链接：[https://github.com/avramandrei/rolargesum](https://github.com/avramandrei/rolargesum)
+
+#### “Not Aligned” is Not “Malicious”: Being Careful about Hallucinations of Large Language Models’ Jailbreak
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.146/](https://aclanthology.org/2025.coling-main.146/)
+- 代码链接：[https://github.com/Meirtz/BabyBLUE-llm](https://github.com/Meirtz/BabyBLUE-llm)
+
+#### Leveraging Explicit Reasoning for Inference Integration in Commonsense-Augmented Dialogue Models
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.152/](https://aclanthology.org/2025.coling-main.152/)
+- 代码链接：[https://github.com/emorynlp/dialcs-reasoning](https://github.com/emorynlp/dialcs-reasoning)
+
+#### From Multiple-Choice to Extractive QA: A Case Study for English and Arabic
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.168/](https://aclanthology.org/2025.coling-main.168/)
+- 代码链接：[https://github.com/mbzuai-nlp/multichoice2extractiveqa](https://github.com/mbzuai-nlp/multichoice2extractiveqa)
+
+#### Aligning Large Language Models with Human Opinions through Persona Selection and Value–Belief–Norm Reasoning
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.172/](https://aclanthology.org/2025.coling-main.172/)
+- 代码链接：[https://github.com/dxlong2000/coo](https://github.com/dxlong2000/coo)
+
+#### ProSparse: Introducing and Enhancing Intrinsic Activation Sparsity within Large Language Models
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.180/](https://aclanthology.org/2025.coling-main.180/)
+- 代码链接：[https://github.com/raincleared-song/sparse_gpu_operator](https://github.com/raincleared-song/sparse_gpu_operator)
+
+#### Hawkes based Representation Learning for Reasoning over Scale-free Community-structured Temporal Knowledge Graphs
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.198/](https://aclanthology.org/2025.coling-main.198/)
+- 代码链接：[https://github.com/wisdommllab/herln](https://github.com/wisdommllab/herln)
+
+#### Controlling Out-of-Domain Gaps in LLMs for Genre Classification and Generated Text Detection
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.224/](https://aclanthology.org/2025.coling-main.224/)
+- 代码链接：[https://github.com/dminus1/LLM-OOD-control](https://github.com/dminus1/LLM-OOD-control)
+
+#### Context-Informed Machine Translation of Manga using Multimodal Large Language Models
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.232/](https://aclanthology.org/2025.coling-main.232/)
+- 代码链接：[https://github.com/plippmann/multimodal-manga-translation](https://github.com/plippmann/multimodal-manga-translation)
+
+#### Embedding Style Beyond Topics: Analyzing Dispersion Effects Across Different Language Models
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.236/](https://aclanthology.org/2025.coling-main.236/)
+- 代码链接：[https://github.com/evangeliazve/topic_style_embeddings_dispersion](https://github.com/evangeliazve/topic_style_embeddings_dispersion)
+
+#### Investigating the Factual Knowledge Boundary of Large Language Models with Retrieval Augmentation
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.250/](https://aclanthology.org/2025.coling-main.250/)
+- 代码链接：[https://github.com/rucaibox/llm-knowledge-boundary](https://github.com/rucaibox/llm-knowledge-boundary)
+
+#### CONTRANS: Weak-to-Strong Alignment Engineering via Concept Transplantation
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.279/](https://aclanthology.org/2025.coling-main.279/)
+- 代码链接：[https://github.com/willowdong/contrans](https://github.com/willowdong/contrans)
+
+#### Idea23D: Collaborative LMM Agents Enable 3D Model Generation from Interleaved Multimodal Inputs
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.280/](https://aclanthology.org/2025.coling-main.280/)
+- 代码链接：[https://github.com/yisuanwang/idea23d](https://github.com/yisuanwang/idea23d)
+
+#### Is Parameter Collision Hindering Continual Learning in LLMs?
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.286/](https://aclanthology.org/2025.coling-main.286/)
+- 代码链接：[https://github.com/pku-yuangroup/n-lora](https://github.com/pku-yuangroup/n-lora)
+
+#### Towards Efficient and Robust VQA-NLE Data Generation with Large Vision-Language Models
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.292/](https://aclanthology.org/2025.coling-main.292/)
+- 代码链接：[https://github.com/patrickamadeus/vqa-nle-llava](https://github.com/patrickamadeus/vqa-nle-llava)
+
+#### DefVerify: Do Hate Speech Models Reflect Their Dataset’s Definition?
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.293/](https://aclanthology.org/2025.coling-main.293/)
+- 代码链接：[https://github.com/urjakh/defverify](https://github.com/urjakh/defverify)
+
+#### Fine-tuning Large Language Models for Improving Factuality in Legal Question Answering
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.298/](https://aclanthology.org/2025.coling-main.298/)
+- 代码链接：[https://github.com/yinghaohu/legalhalbench](https://github.com/yinghaohu/legalhalbench)
+
+#### Large Language Models are good multi-lingual learners : When LLMs meet cross-lingual prompts
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.300/](https://aclanthology.org/2025.coling-main.300/)
+- 代码链接：[https://github.com/tengwang0318/MLPrompt](https://github.com/tengwang0318/MLPrompt)
+
+#### QUENCH: Measuring the gap between Indic and Non-Indic Contextual General Reasoning in LLMs
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.303/](https://aclanthology.org/2025.coling-main.303/)
+- 代码链接：[https://github.com/aflah02/quench](https://github.com/aflah02/quench)
+
+#### Multimodal Fact-Checking with Vision Language Models: A Probing Classifier based Solution with Embedding Strategies
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.310/](https://aclanthology.org/2025.coling-main.310/)
+- 代码链接：[https://github.com/firatcekinel/Multimodal-Fact-Checking-with-Vision-Language-Models](https://github.com/firatcekinel/Multimodal-Fact-Checking-with-Vision-Language-Models)
+
+#### Disentangling Preference Representation and Text Generation for Efficient Individual Preference Alignment
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.323/](https://aclanthology.org/2025.coling-main.323/)
+- 代码链接：[https://github.com/zhangjf-nlp/LatentDPO](https://github.com/zhangjf-nlp/LatentDPO)
+
+#### Attention-Seeker: Dynamic Self-Attention Scoring for Unsupervised Keyphrase Extraction
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.335/](https://aclanthology.org/2025.coling-main.335/)
+- 代码链接：[https://github.com/EruM16/Attention-Seeker](https://github.com/EruM16/Attention-Seeker)
+
+#### WIKIGENBENCH:Exploring Full-length Wikipedia Generation under Real-World Scenario
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.349/](https://aclanthology.org/2025.coling-main.349/)
+- 代码链接：[https://github.com/zhzihao/wikigenbench](https://github.com/zhzihao/wikigenbench)
+
+#### Montague semantics and modifier consistency measurement in neural language models
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.370/](https://aclanthology.org/2025.coling-main.370/)
+- 代码链接：[https://github.com/dscarvalho/modifiers_consistency](https://github.com/dscarvalho/modifiers_consistency)
+
+#### Towards Cross-Lingual Audio Abuse Detection in Low-Resource Settings with Few-Shot Learning
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.373/](https://aclanthology.org/2025.coling-main.373/)
+- 代码链接：[https://github.com/callmesanfornow/fsl-audio-abuse](https://github.com/callmesanfornow/fsl-audio-abuse)
+
+#### Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.383/](https://aclanthology.org/2025.coling-main.383/)
+- 代码链接：[https://github.com/wutaiqiang/llm_kd_akl](https://github.com/wutaiqiang/llm_kd_akl)
+
+#### Mix-of-Granularity: Optimize the Chunking Granularity for Retrieval-Augmented Generation
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.384/](https://aclanthology.org/2025.coling-main.384/)
+- 代码链接：[https://github.com/ZGChung/Mix-of-Granularity](https://github.com/ZGChung/Mix-of-Granularity)
+
+#### Multilingual Knowledge Editing with Language-Agnostic Factual Neurons
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.385/](https://aclanthology.org/2025.coling-main.385/)
+- 代码链接：[https://github.com/XZhang00/LU-LAFNs](https://github.com/XZhang00/LU-LAFNs)
+
+#### Analyzing the Attention Heads for Pronoun Disambiguation in Context-aware Machine Translation Models
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.424/](https://aclanthology.org/2025.coling-main.424/)
+- 代码链接：[https://github.com/pawel-m/context-mt-attention-analysis](https://github.com/pawel-m/context-mt-attention-analysis)
+
+#### Tougher Text, Smarter Models: Raising the Bar for Adversarial Defence Benchmarks
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.432/](https://aclanthology.org/2025.coling-main.432/)
+- 代码链接：[https://github.com/puredefence/advbench4text](https://github.com/puredefence/advbench4text)
+
+#### data2lang2vec: Data Driven Typological Features Completion
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.435/](https://aclanthology.org/2025.coling-main.435/)
+- 代码链接：[https://github.com/hamid-amir/data_lang2vec](https://github.com/hamid-amir/data_lang2vec)
+
+#### Why do language models perform worse for morphologically complex languages?
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.441/](https://aclanthology.org/2025.coling-main.441/)
+- 代码链接：[https://github.com/catherinearnett/morphscore](https://github.com/catherinearnett/morphscore)
+
+#### Automatic Extraction of Metaphoric Analogies from Literary Texts: Task Formulation, Dataset Construction, and Evaluation
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.448/](https://aclanthology.org/2025.coling-main.448/)
+- 代码链接：[https://github.com/mionies/metaphoric-analogies-extraction](https://github.com/mionies/metaphoric-analogies-extraction)
+
+#### Linguistic Minimal Pairs Elicit Linguistic Similarity in Large Language Models
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.459/](https://aclanthology.org/2025.coling-main.459/)
+- 代码链接：[https://github.com/chendelong1999/linguistic-similarity](https://github.com/chendelong1999/linguistic-similarity)
+
+#### Automated Molecular Concept Generation and Labeling with Large Language Models
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.462/](https://aclanthology.org/2025.coling-main.462/)
+- 代码链接：[https://github.com/ziminz19/automolco](https://github.com/ziminz19/automolco)
+
+#### A Framework for Effective Invocation Methods of Various LLM Services
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.464/](https://aclanthology.org/2025.coling-main.464/)
+- 代码链接：[https://github.com/w-caner/effective-strategy-for-lmaas](https://github.com/w-caner/effective-strategy-for-lmaas)
+
+#### Beyond Discrete Personas: Personality Modeling Through Journal Intensive Conversations
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.470/](https://aclanthology.org/2025.coling-main.470/)
+- 代码链接：[https://github.com/sayantan-world/beyond-discrete-personas](https://github.com/sayantan-world/beyond-discrete-personas)
+
+#### Can We Afford The Perfect Prompt? Balancing Cost and Accuracy with the Economical Prompting Index
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.471/](https://aclanthology.org/2025.coling-main.471/)
+- 代码链接：[https://github.com/tm21cy/EconomicalPromptingIndex](https://github.com/tm21cy/EconomicalPromptingIndex)
+
+#### Exploring Language Model Generalization in Low-Resource Extractive QA
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.474/](https://aclanthology.org/2025.coling-main.474/)
+- 代码链接：[https://github.com/saptarshi059/generalization-hypothesis](https://github.com/saptarshi059/generalization-hypothesis)
+
+#### Revisiting Cosine Similarity via Normalized ICA-transformed Embeddings
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.497/](https://aclanthology.org/2025.coling-main.497/)
+- 代码链接：[https://github.com/ymgw55/cosine-similarity-via-ica](https://github.com/ymgw55/cosine-similarity-via-ica)
+
+#### Prompting Large Language Models to Tackle the Full Software Development Lifecycle: A Case Study
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.502/](https://aclanthology.org/2025.coling-main.502/)
+- 代码链接：[https://github.com/open-compass/devbench](https://github.com/open-compass/devbench)
+
+#### Towards Consistent Natural-Language Explanations via Explanation-Consistency Finetuning
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.505/](https://aclanthology.org/2025.coling-main.505/)
+- 代码链接：[https://github.com/yandachen/explanation-consistency-finetuning](https://github.com/yandachen/explanation-consistency-finetuning)
+
+#### Propulsion: Steering LLM with Tiny Fine-Tuning
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.506/](https://aclanthology.org/2025.coling-main.506/)
+- 代码链接：[https://github.com/Kowsher/Propulsion](https://github.com/Kowsher/Propulsion)
+
+#### Hire Me or Not? Examining Language Model’s Behavior with Occupation Attributes
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.529/](https://aclanthology.org/2025.coling-main.529/)
+- 代码链接：[https://github.com/daminz97/multi-step_gsv](https://github.com/daminz97/multi-step_gsv)
+
+#### Multilingual and Explainable Text Detoxification with Parallel Corpora
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.535/](https://aclanthology.org/2025.coling-main.535/)
+- 代码链接：[https://github.com/textdetox/multilingual_explainable_paradetox](https://github.com/textdetox/multilingual_explainable_paradetox)
+
+#### Semantic Captioning: Benchmark Dataset and Graph-Aware Few-Shot In-Context Learning for SQL2Text
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.536/](https://aclanthology.org/2025.coling-main.536/)
+- 代码链接：[https://github.com/aliwister/ast-icl](https://github.com/aliwister/ast-icl)
+
+#### Measuring Contextual Informativeness in Child-Directed Text
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.540/](https://aclanthology.org/2025.coling-main.540/)
+- 代码链接：[https://github.com/mariavale/contextual_inform](https://github.com/mariavale/contextual_inform)
+
+#### Enhancing Rhetorical Figure Annotation: An Ontology-Based Web Application with RAG Integration
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.587/](https://aclanthology.org/2025.coling-main.587/)
+- 代码链接：[https://github.com/kuehnram/findyourfigure](https://github.com/kuehnram/findyourfigure)
+
+#### Extending LLMs to New Languages: A Case Study of Llama and Persian Adaptation
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.594/](https://aclanthology.org/2025.coling-main.594/)
+- 代码链接：[https://github.com/samin-mehdizadeh/llama-persian-adaptation](https://github.com/samin-mehdizadeh/llama-persian-adaptation)
+
+#### The Only Way is Ethics: A Guide to Ethical Research with Large Language Models
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.603/](https://aclanthology.org/2025.coling-main.603/)
+- 代码链接：[https://github.com/mxeddie/ethics-whitepaper](https://github.com/mxeddie/ethics-whitepaper)
+
+#### SCCD: A Session-based Dataset for Chinese Cyberbullying Detection
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.639/](https://aclanthology.org/2025.coling-main.639/)
+- 代码链接：[https://github.com/STAIR-BUPT/SCCD](https://github.com/STAIR-BUPT/SCCD)
+
+#### AgriCLIP: Adapting CLIP for Agriculture and Livestock via Domain-Specialized Cross-Model Alignment
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.644/](https://aclanthology.org/2025.coling-main.644/)
+- 代码链接：[https://github.com/umair1221/agriclip](https://github.com/umair1221/agriclip)
+
+#### Reasoning Graph Enhanced Exemplars Retrieval for In-Context Learning
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.651/](https://aclanthology.org/2025.coling-main.651/)
+- 代码链接：[https://github.com/yukang-lin/rger](https://github.com/yukang-lin/rger)
+
+#### NesTools: A Dataset for Evaluating Nested Tool Learning Abilities of Large Language Models
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.657/](https://aclanthology.org/2025.coling-main.657/)
+- 代码链接：[https://github.com/hhan1018/nestools](https://github.com/hhan1018/nestools)
+
+#### A Benchmark and Robustness Study of In-Context-Learning with Large Language Models in Music Entity Detection
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.658/](https://aclanthology.org/2025.coling-main.658/)
+- 代码链接：[https://github.com/progsi/ytuncoverllm](https://github.com/progsi/ytuncoverllm)
+
+#### Few-shot domain adaptation for named-entity recognition via joint constrained k-means and subspace selection
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.662/](https://aclanthology.org/2025.coling-main.662/)
+- 代码链接：[https://github.com/ayoubhammal/ckss4ner](https://github.com/ayoubhammal/ckss4ner)
+
+#### Decoding Decoded: Understanding Hyperparameter Effects in Open-Ended Text Generation
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.668/](https://aclanthology.org/2025.coling-main.668/)
+- 代码链接：[https://github.com/yecanlee/decoding-decoded](https://github.com/yecanlee/decoding-decoded)
+
+#### Cross-Dialect Information Retrieval: Information Access in Low-Resource and High-Variance Languages
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.678/](https://aclanthology.org/2025.coling-main.678/)
+- 代码链接：[https://github.com/mainlp/wikidir](https://github.com/mainlp/wikidir)
+
+#### Decompose-ToM: Enhancing Theory of Mind Reasoning in Large Language Models through Simulation and Task Decomposition
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.682/](https://aclanthology.org/2025.coling-main.682/)
+- 代码链接：[https://github.com/xarangi/decompose-tom](https://github.com/xarangi/decompose-tom)
+
+#### Bridging Context Gaps: Enhancing Comprehension in Long-Form Social Conversations Through Contextualized Excerpts
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.683/](https://aclanthology.org/2025.coling-main.683/)
+- 代码链接：[https://github.com/shresh02/bridging_context_gaps](https://github.com/shresh02/bridging_context_gaps)
+
+#### Counterfactual Debating with Preset Stances for Hallucination Elimination of LLMs
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.703/](https://aclanthology.org/2025.coling-main.703/)
+- 代码链接：[https://github.com/peter-fy/cfmad](https://github.com/peter-fy/cfmad)
+
+#### BinarySelect to Improve Accessibility of Black-Box Attack Research
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.728/](https://aclanthology.org/2025.coling-main.728/)
+- 代码链接：[https://github.com/jonrusert/binaryselect](https://github.com/jonrusert/binaryselect)
+
+#### Interaction Matters: An Evaluation Framework for Interactive Dialogue Assessment on English Second Language Conversations
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.729/](https://aclanthology.org/2025.coling-main.729/)
+- 代码链接：[https://github.com/RenaGao/2024InteractiveMetrics](https://github.com/RenaGao/2024InteractiveMetrics)
+
+#### Chain-of-Discussion: A Multi-Model Framework for Complex Evidence-Based Question Answering
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.734/](https://aclanthology.org/2025.coling-main.734/)
+- 代码链接：[https://github.com/kobayashikanna01/chain-of-discussion](https://github.com/kobayashikanna01/chain-of-discussion)
+
+#### User Willingness-aware Sales Talk Dataset
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.742/](https://aclanthology.org/2025.coling-main.742/)
+- 代码链接：[https://github.com/CyberAgentAILab/salestalk-dataset](https://github.com/CyberAgentAILab/salestalk-dataset)
+
+#### Return of EM: Entity-driven Answer Set Expansion for QA Evaluation
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.743/](https://aclanthology.org/2025.coling-main.743/)
+- 代码链接：[https://github.com/dongryeollee96/entqa](https://github.com/dongryeollee96/entqa)
+
+#### CPsyExam: A Chinese Benchmark for Evaluating Psychology using Examinations
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.745/](https://aclanthology.org/2025.coling-main.745/)
+- 代码链接：[https://github.com/CAS-SIAT-XinHai/CPsyExam](https://github.com/CAS-SIAT-XinHai/CPsyExam)
+
+#### Can Model Uncertainty Function as a Proxy for Multiple-Choice Question Item Difficulty?
+
+- 论文链接：[https://aclanthology.org/2025.coling-main.749/](https://aclanthology.org/2025.coling-main.749/)
+- 代码链接：[https://github.com/leonidaszotos/uncertainty-as-proxy-for-difficulty](https://github.com/leonidaszotos/uncertainty-as-proxy-for-difficulty)

@@ -678,3 +678,827 @@
 - 论文链接：[https://aclanthology.org/2022.coling-1.621/](https://aclanthology.org/2022.coling-1.621/)
 - 代码链接：[https://paperswithcode.com/paper/?acl=2022.coling-1.621](https://paperswithcode.com/paper/?acl=2022.coling-1.621)
 
+
+## PaperVault 补充
+
+<!-- Source: https://github.com/youngfish42/PaperVault -->
+
+#### TAKE: Topic-shift Aware Knowledge sElection for Dialogue Generation
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.20/](https://aclanthology.org/2022.coling-1.20/)
+- 代码链接：[https://github.com/iie-ycx/coling2022-take](https://github.com/iie-ycx/coling2022-take)
+
+#### GRAVL-BERT: Graphical Visual-Linguistic Representations for Multimodal Coreference Resolution
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.22/](https://aclanthology.org/2022.coling-1.22/)
+- 代码链接：[https://github.com/alexa/gravl-bert](https://github.com/alexa/gravl-bert)
+
+#### “Mama Always Had a Way of Explaining Things So I Could Understand”: A Dialogue Corpus for Learning to Construct Explanations
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.27/](https://aclanthology.org/2022.coling-1.27/)
+- 代码链接：[https://github.com/webis-de/coling-22](https://github.com/webis-de/coling-22)
+
+#### PEPDS: A Polite and Empathetic Persuasive Dialogue System for Charity Donation
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.34/](https://aclanthology.org/2022.coling-1.34/)
+- 代码链接：[https://github.com/mishrakshitij/pepds](https://github.com/mishrakshitij/pepds)
+
+#### A Closer Look at Few-Shot Out-of-Distribution Intent Detection
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.36/](https://aclanthology.org/2022.coling-1.36/)
+- 代码链接：[https://github.com/liam0949/few-shot-intent-ood](https://github.com/liam0949/few-shot-intent-ood)
+
+#### CGIM: A Cycle Guided Interactive Learning Model for Consistency Identification in Task-oriented Dialogue
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.37/](https://aclanthology.org/2022.coling-1.37/)
+- 代码链接：[https://github.com/lightchen233/cgim](https://github.com/lightchen233/cgim)
+
+#### Section-Aware Commonsense Knowledge-Grounded Dialogue Generation with Pre-trained Language Model
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.43/](https://aclanthology.org/2022.coling-1.43/)
+- 代码链接：[https://github.com/pku-sixing/coling2022-sakdp](https://github.com/pku-sixing/coling2022-sakdp)
+
+#### Semantic-based Pre-training for Dialogue Understanding
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.49/](https://aclanthology.org/2022.coling-1.49/)
+- 代码链接：[https://github.com/goodbai-nlp/sem-plm](https://github.com/goodbai-nlp/sem-plm)
+
+#### Towards Multi-label Unknown Intent Detection
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.52/](https://aclanthology.org/2022.coling-1.52/)
+- 代码链接：[https://github.com/yawenouyang/aik](https://github.com/yawenouyang/aik)
+
+#### MulZDG: Multilingual Code-Switching Framework for Zero-shot Dialogue Generation
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.54/](https://aclanthology.org/2022.coling-1.54/)
+- 代码链接：[https://github.com/misonsky/multilingualdatasets](https://github.com/misonsky/multilingualdatasets)
+
+#### Does GPT-3 Generate Empathetic Dialogues? A Novel In-Context Example Selection Method and Automatic Evaluation Metric for Empathetic Dialogue Generation
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.56/](https://aclanthology.org/2022.coling-1.56/)
+- 代码链接：[https://github.com/passing2961/EmpGPT-3](https://github.com/passing2961/EmpGPT-3)
+
+#### Towards Enhancing Health Coaching Dialogue in Low-Resource Settings
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.58/](https://aclanthology.org/2022.coling-1.58/)
+- 代码链接：[https://github.com/uic-nlp-lab/virtualcoachdata](https://github.com/uic-nlp-lab/virtualcoachdata)
+
+#### Extractive Summarisation for German-language Data: A Text-level Approach with Discourse Features
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.63/](https://aclanthology.org/2022.coling-1.63/)
+- 代码链接：[https://github.com/fhewett/pcc-summaries](https://github.com/fhewett/pcc-summaries)
+
+#### “No, They Did Not”: Dialogue Response Dynamics in Pre-trained Language Models
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.72/](https://aclanthology.org/2022.coling-1.72/)
+- 代码链接：[https://github.com/sangheek16/dialogue-response-dynamics](https://github.com/sangheek16/dialogue-response-dynamics)
+
+#### New or Old? Exploring How Pre-Trained Language Models Represent Discourse Entities
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.73/](https://aclanthology.org/2022.coling-1.73/)
+- 代码链接：[https://github.com/clp-research/new-old-discourse-entities](https://github.com/clp-research/new-old-discourse-entities)
+
+#### Dialo-AP: A Dependency Parsing Based Argument Parser for Dialogues
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.74/](https://aclanthology.org/2022.coling-1.74/)
+- 代码链接：[https://github.com/sougata-ub/dialo-ap](https://github.com/sougata-ub/dialo-ap)
+
+#### ConnPrompt: Connective-cloze Prompt Learning for Implicit Discourse Relation Recognition
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.75/](https://aclanthology.org/2022.coling-1.75/)
+- 代码链接：[https://github.com/hustminslab/connprompt](https://github.com/hustminslab/connprompt)
+
+#### A Distance-Aware Multi-Task Framework for Conversational Discourse Parsing
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.76/](https://aclanthology.org/2022.coling-1.76/)
+- 代码链接：[https://github.com/yxfansuda/damt](https://github.com/yxfansuda/damt)
+
+#### Linguistically Motivated Features for Classifying Shorter Text into Fiction and Non-Fiction Genre
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.77/](https://aclanthology.org/2022.coling-1.77/)
+- 代码链接：[https://github.com/armankazmi/linguistic-features-of-text](https://github.com/armankazmi/linguistic-features-of-text)
+
+#### Where to Attack: A Dynamic Locator Model for Backdoor Attack in Text Classifications
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.82/](https://aclanthology.org/2022.coling-1.82/)
+- 代码链接：[https://github.com/jncsnlp/LocatorModel](https://github.com/jncsnlp/LocatorModel)
+
+#### A Domain Knowledge Enhanced Pre-Trained Language Model for Vertical Search: Case Study on Medicinal Products
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.85/](https://aclanthology.org/2022.coling-1.85/)
+- 代码链接：[https://github.com/liuks/ep_plm](https://github.com/liuks/ep_plm)
+
+#### Attribute Injection for Pretrained Language Models: A New Benchmark and an Efficient Method
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.88/](https://aclanthology.org/2022.coling-1.88/)
+- 代码链接：[https://github.com/rktamplayo/injector](https://github.com/rktamplayo/injector)
+
+#### LIME: Weakly-Supervised Text Classification without Seeds
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.91/](https://aclanthology.org/2022.coling-1.91/)
+- 代码链接：[https://github.com/seongminp/lime](https://github.com/seongminp/lime)
+
+#### MuSeCLIR: A Multiple Senses and Cross-lingual Information Retrieval Dataset
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.96/](https://aclanthology.org/2022.coling-1.96/)
+- 代码链接：[https://github.com/justinal/museclir](https://github.com/justinal/museclir)
+
+#### Virtual Knowledge Graph Construction for Zero-Shot Domain-Specific Document Retrieval
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.101/](https://aclanthology.org/2022.coling-1.101/)
+- 代码链接：[https://github.com/yeonsw/vkgdr](https://github.com/yeonsw/vkgdr)
+
+#### MICO: Selective Search with Mutual Information Co-training
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.102/](https://aclanthology.org/2022.coling-1.102/)
+- 代码链接：[https://github.com/aws/selective-search-with-mutual-information-cotraining](https://github.com/aws/selective-search-with-mutual-information-cotraining)
+
+#### Threat Scenarios and Best Practices to Detect Neural Fake News
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.106/](https://aclanthology.org/2022.coling-1.106/)
+- 代码链接：[https://github.com/artidoro/detect-gentext](https://github.com/artidoro/detect-gentext)
+
+#### Bigger Data or Fairer Data? Augmenting BERT via Active Sampling for Educational Text Classification
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.109/](https://aclanthology.org/2022.coling-1.109/)
+- 代码链接：[https://github.com/lsha49/FairBERT_deploy](https://github.com/lsha49/FairBERT_deploy)
+
+#### Quantifying Bias from Decoding Techniques in Natural Language Generation
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.112/](https://aclanthology.org/2022.coling-1.112/)
+- 代码链接：[https://github.com/mayukhga83/decoder-bias](https://github.com/mayukhga83/decoder-bias)
+
+#### Perform like an Engine: A Closed-Loop Neural-Symbolic Learning Framework for Knowledge Graph Inference
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.119/](https://aclanthology.org/2022.coling-1.119/)
+- 代码链接：[https://github.com/ngl567/EngineKG](https://github.com/ngl567/EngineKG)
+
+#### Self-Supervised Intermediate Fine-Tuning of Biomedical Language Models for Interpreting Patient Case Descriptions
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.123/](https://aclanthology.org/2022.coling-1.123/)
+- 代码链接：[https://github.com/israa-alghanmi/intermediate-ft-biomedical-lms](https://github.com/israa-alghanmi/intermediate-ft-biomedical-lms)
+
+#### Can We Guide a Multi-Hop Reasoning Language Model to Incrementally Learn at Each Single-Hop?
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.125/](https://aclanthology.org/2022.coling-1.125/)
+- 代码链接：[https://github.com/jeslev/incremental_reasoning](https://github.com/jeslev/incremental_reasoning)
+
+#### Modeling Hierarchical Reasoning Chains by Linking Discourse Units and Key Phrases for Reading Comprehension
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.126/](https://aclanthology.org/2022.coling-1.126/)
+- 代码链接：[https://github.com/cather-chen/logical-reasoning-graph](https://github.com/cather-chen/logical-reasoning-graph)
+
+#### Repo4QA: Answering Coding Questions via Dense Retrieval on GitHub Repositories
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.136/](https://aclanthology.org/2022.coling-1.136/)
+- 代码链接：[https://github.com/minkow/repo4qa](https://github.com/minkow/repo4qa)
+
+#### Logical Form Generation via Multi-task Learning for Complex Question Answering over Knowledge Bases
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.145/](https://aclanthology.org/2022.coling-1.145/)
+- 代码链接：[https://github.com/hxx97/gmt-kbqa](https://github.com/hxx97/gmt-kbqa)
+
+#### CMQA: A Dataset of Conditional Question Answering with Multiple-Span Answers
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.146/](https://aclanthology.org/2022.coling-1.146/)
+- 代码链接：[https://github.com/juyiming/cmqa](https://github.com/juyiming/cmqa)
+
+#### Weakly Supervised Formula Learner for Solving Mathematical Problems
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.150/](https://aclanthology.org/2022.coling-1.150/)
+- 代码链接：[https://github.com/evan-ak/wsfl](https://github.com/evan-ak/wsfl)
+
+#### Reducing Spurious Correlations for Answer Selection by Feature Decorrelation and Language Debiasing
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.151/](https://aclanthology.org/2022.coling-1.151/)
+- 代码链接：[https://github.com/xish9/scan](https://github.com/xish9/scan)
+
+#### Understanding and Improving Zero-shot Multi-hop Reasoning in Generative Question Answering
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.152/](https://aclanthology.org/2022.coling-1.152/)
+- 代码链接：[https://github.com/jzbjyb/multihop](https://github.com/jzbjyb/multihop)
+
+#### Domain Adaptation for Question Answering via Question Classification
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.153/](https://aclanthology.org/2022.coling-1.153/)
+- 代码链接：[https://github.com/yueeeeeeee/self-supervised-qa](https://github.com/yueeeeeeee/self-supervised-qa)
+
+#### Different Data, Different Modalities! Reinforced Data Splitting for Effective Multimodal Information Extraction from Social Media Posts
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.160/](https://aclanthology.org/2022.coling-1.160/)
+- 代码链接：[https://github.com/xubodhu/RDS](https://github.com/xubodhu/RDS)
+
+#### Mining Health-related Cause-Effect Statements with High Precision at Large Scale
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.167/](https://aclanthology.org/2022.coling-1.167/)
+- 代码链接：[https://github.com/webis-de/coling-22](https://github.com/webis-de/coling-22)
+
+#### Find the Funding: Entity Linking with Incomplete Funding Knowledge Bases
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.168/](https://aclanthology.org/2022.coling-1.168/)
+- 代码链接：[https://github.com/informagi/fund-el](https://github.com/informagi/fund-el)
+
+#### Event Detection with Dual Relational Graph Attention Networks
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.172/](https://aclanthology.org/2022.coling-1.172/)
+- 代码链接：[https://github.com/macvh/dualgat](https://github.com/macvh/dualgat)
+
+#### Learning Hierarchy-Aware Quaternion Knowledge Graph Embeddings with Representing Relations as 3D Rotations
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.175/](https://aclanthology.org/2022.coling-1.175/)
+- 代码链接：[https://github.com/jinfa/hrqe](https://github.com/jinfa/hrqe)
+
+#### A Simple Temporal Information Matching Mechanism for Entity Alignment between Temporal Knowledge Graphs
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.181/](https://aclanthology.org/2022.coling-1.181/)
+- 代码链接：[https://github.com/lcai2/stea](https://github.com/lcai2/stea)
+
+#### Document-level Biomedical Relation Extraction Based on Multi-Dimensional Fusion Information and Multi-Granularity Logical Reasoning
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.183/](https://aclanthology.org/2022.coling-1.183/)
+- 代码链接：[https://github.com/luguo-ry/filr](https://github.com/luguo-ry/filr)
+
+#### Simple Yet Powerful: An Overlooked Architecture for Nested Named Entity Recognition
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.184/](https://aclanthology.org/2022.coling-1.184/)
+- 代码链接：[https://github.com/matirojasg/nested-ner-mlc](https://github.com/matirojasg/nested-ner-mlc)
+
+#### DoSEA: A Domain-specific Entity-aware Framework for Cross-Domain Named Entity Recogition
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.188/](https://aclanthology.org/2022.coling-1.188/)
+- 代码链接：[https://github.com/mhtang1995/DoSEA](https://github.com/mhtang1995/DoSEA)
+
+#### CETA: A Consensus Enhanced Training Approach for Denoising in Distantly Supervised Relation Extraction
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.197/](https://aclanthology.org/2022.coling-1.197/)
+- 代码链接：[https://github.com/ethan-rr/ceta](https://github.com/ethan-rr/ceta)
+
+#### Event Causality Identification via Derivative Prompt Joint Learning
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.200/](https://aclanthology.org/2022.coling-1.200/)
+- 代码链接：[https://github.com/Everglow123/ECIMP](https://github.com/Everglow123/ECIMP)
+
+#### Event Causality Extraction with Event Argument Correlations
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.201/](https://aclanthology.org/2022.coling-1.201/)
+- 代码链接：[https://github.com/cuishiyao96/ece](https://github.com/cuishiyao96/ece)
+
+#### A Relation Extraction Dataset for Knowledge Extraction from Web Tables
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.203/](https://aclanthology.org/2022.coling-1.203/)
+- 代码链接：[https://github.com/alexa/alexa-dataset-redtab](https://github.com/alexa/alexa-dataset-redtab)
+
+#### Dependency-aware Prototype Learning for Few-shot Relation Classification
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.205/](https://aclanthology.org/2022.coling-1.205/)
+- 代码链接：[https://github.com/publicstaticvo/DAPL](https://github.com/publicstaticvo/DAPL)
+
+#### MECI: A Multilingual Dataset for Event Causality Identification
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.206/](https://aclanthology.org/2022.coling-1.206/)
+- 代码链接：[https://github.com/nlp-uoregon/meci-dataset](https://github.com/nlp-uoregon/meci-dataset)
+
+#### Optimal Partial Transport Based Sentence Selection for Long-form Document Matching
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.208/](https://aclanthology.org/2022.coling-1.208/)
+- 代码链接：[https://github.com/ruc-wjyu/opt-match](https://github.com/ruc-wjyu/opt-match)
+
+#### Improving Zero-Shot Entity Linking Candidate Generation with Ultra-Fine Entity Type Information
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.214/](https://aclanthology.org/2022.coling-1.214/)
+- 代码链接：[https://github.com/suixuhui/etzel](https://github.com/suixuhui/etzel)
+
+#### CofeNet: Context and Former-Label Enhanced Net for Complicated Quotation Extraction
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.215/](https://aclanthology.org/2022.coling-1.215/)
+- 代码链接：[https://github.com/cofe-ai/CofeNet](https://github.com/cofe-ai/CofeNet)
+
+#### DESED: Dialogue-based Explanation for Sentence-level Event Detection
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.219/](https://aclanthology.org/2022.coling-1.219/)
+- 代码链接：[https://github.com/ydongd/desed](https://github.com/ydongd/desed)
+
+#### COPNER: Contrastive Learning with Prompt Guiding for Few-shot Named Entity Recognition
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.222/](https://aclanthology.org/2022.coling-1.222/)
+- 代码链接：[https://github.com/andrewhyc/copner](https://github.com/andrewhyc/copner)
+
+#### Are People Located in the Places They Mention in Their Tweets? A Multimodal Approach
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.226/](https://aclanthology.org/2022.coling-1.226/)
+- 代码链接：[https://github.com/zhaomin1995/coling2022_repo](https://github.com/zhaomin1995/coling2022_repo)
+
+#### KGE-CL: Contrastive Learning of Tensor Decomposition Based Knowledge Graph Embeddings
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.229/](https://aclanthology.org/2022.coling-1.229/)
+- 代码链接：[https://github.com/HELL-TO-HEAVEN/KGE-CL](https://github.com/HELL-TO-HEAVEN/KGE-CL)
+
+#### Augmenting Legal Judgment Prediction with Contrastive Case Relations
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.235/](https://aclanthology.org/2022.coling-1.235/)
+- 代码链接：[https://github.com/dgliu/coling22_ctm](https://github.com/dgliu/coling22_ctm)
+
+#### Text-to-Text Extraction and Verbalization of Biomedical Event Graphs
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.238/](https://aclanthology.org/2022.coling-1.238/)
+- 代码链接：[https://github.com/disi-unibo-nlp/bio-ee-egv](https://github.com/disi-unibo-nlp/bio-ee-egv)
+
+#### Multimodal Semi-supervised Learning for Disaster Tweet Classification
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.239/](https://aclanthology.org/2022.coling-1.239/)
+- 代码链接：[https://github.com/iustinsirbu13/multimodal-ssl-for-disaster-tweet-classification](https://github.com/iustinsirbu13/multimodal-ssl-for-disaster-tweet-classification)
+
+#### Automated Essay Scoring via Pairwise Contrastive Regression
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.240/](https://aclanthology.org/2022.coling-1.240/)
+- 代码链接：[https://github.com/carryckw/aes-npcr](https://github.com/carryckw/aes-npcr)
+
+#### A Progressive Framework for Role-Aware Rumor Resolution
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.242/](https://aclanthology.org/2022.coling-1.242/)
+- 代码链接：[https://github.com/lchen96/trigger_identification](https://github.com/lchen96/trigger_identification)
+
+#### CLoSE: Contrastive Learning of Subframe Embeddings for Political Bias Classification of News Media
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.245/](https://aclanthology.org/2022.coling-1.245/)
+- 代码链接：[https://github.com/msu-nlp-css/close_framing](https://github.com/msu-nlp-css/close_framing)
+
+#### Boosting Deep CTR Prediction with a Plug-and-Play Pre-trainer for News Recommendation
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.249/](https://aclanthology.org/2022.coling-1.249/)
+- 代码链接：[https://github.com/jyonn/prec](https://github.com/jyonn/prec)
+
+#### Improving Fake News Detection of Influential Domain via Domain- and Instance-Level Transfer
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.250/](https://aclanthology.org/2022.coling-1.250/)
+- 代码链接：[https://github.com/ICTMCG/DITFEND](https://github.com/ICTMCG/DITFEND)
+
+#### Automatic ICD Coding Exploiting Discourse Structure and Reconciled Code Embeddings
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.254/](https://aclanthology.org/2022.coling-1.254/)
+- 代码链接：[https://github.com/discnet2022/discnet](https://github.com/discnet2022/discnet)
+
+#### Doc-GCN: Heterogeneous Graph Convolutional Networks for Document Layout Analysis
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.256/](https://aclanthology.org/2022.coling-1.256/)
+- 代码链接：[https://github.com/adlnlp/doc_gcn](https://github.com/adlnlp/doc_gcn)
+
+#### Learning to Generate Explanation from e-Hospital Services for Medical Suggestion
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.260/](https://aclanthology.org/2022.coling-1.260/)
+- 代码链接：[https://github.com/ntunlplab/tw-eh](https://github.com/ntunlplab/tw-eh)
+
+#### DeltaNet: Conditional Medical Report Generation for COVID-19 Diagnosis
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.261/](https://aclanthology.org/2022.coling-1.261/)
+- 代码链接：[https://github.com/lx-doctorai1/deltanet](https://github.com/lx-doctorai1/deltanet)
+
+#### A Two Stage Adaptation Framework for Frame Detection via Prompt Learning
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.263/](https://aclanthology.org/2022.coling-1.263/)
+- 代码链接：[https://github.com/xymou/frame_detection](https://github.com/xymou/frame_detection)
+
+#### TreeMAN: Tree-enhanced Multimodal Attention Network for ICD Coding
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.270/](https://aclanthology.org/2022.coling-1.270/)
+- 代码链接：[https://github.com/liu-zichen/TreeMAN](https://github.com/liu-zichen/TreeMAN)
+
+#### Does BERT Rediscover a Classical NLP Pipeline?
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.278/](https://aclanthology.org/2022.coling-1.278/)
+- 代码链接：[https://github.com/frankniujc/gridloc_probe](https://github.com/frankniujc/gridloc_probe)
+
+#### Generic Overgeneralization in Pre-trained Language Models
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.282/](https://aclanthology.org/2022.coling-1.282/)
+- 代码链接：[https://github.com/sello-ralethe/gog-in-plms](https://github.com/sello-ralethe/gog-in-plms)
+
+#### How about Time? Probing a Multilingual Language Model for Temporal Relations
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.283/](https://aclanthology.org/2022.coling-1.283/)
+- 代码链接：[https://github.com/irenedini/tlink_probing](https://github.com/irenedini/tlink_probing)
+
+#### CogBERT: Cognition-Guided Pre-trained Language Models
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.284/](https://aclanthology.org/2022.coling-1.284/)
+- 代码链接：[https://github.com/PosoSAgapo/cogbert](https://github.com/PosoSAgapo/cogbert)
+
+#### NSP-BERT: A Prompt-based Few-Shot Learner through an Original Pre-training Task —— Next Sentence Prediction
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.286/](https://aclanthology.org/2022.coling-1.286/)
+- 代码链接：[https://github.com/sunyilgdx/prompts4keras](https://github.com/sunyilgdx/prompts4keras)
+
+#### MetaPrompting: Learning to Learn Better Prompts
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.287/](https://aclanthology.org/2022.coling-1.287/)
+- 代码链接：[https://github.com/dousia/metaprompting](https://github.com/dousia/metaprompting)
+
+#### Pre-trained Token-replaced Detection Model as Few-shot Learner
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.289/](https://aclanthology.org/2022.coling-1.289/)
+- 代码链接：[https://github.com/cjfarmer/trd_fsl](https://github.com/cjfarmer/trd_fsl)
+
+#### CausalQA: A Benchmark for Causal Question Answering
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.291/](https://aclanthology.org/2022.coling-1.291/)
+- 代码链接：[https://github.com/webis-de/coling-22](https://github.com/webis-de/coling-22)
+
+#### Curating a Large-Scale Motivational Interviewing Dataset Using Peer Support Forums
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.293/](https://aclanthology.org/2022.coling-1.293/)
+- 代码链接：[https://github.com/anuradha1992/motivational-interviewing-dataset](https://github.com/anuradha1992/motivational-interviewing-dataset)
+
+#### CCTC: A Cross-Sentence Chinese Text Correction Dataset for Native Speakers
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.294/](https://aclanthology.org/2022.coling-1.294/)
+- 代码链接：[https://github.com/destwang/ctcresources](https://github.com/destwang/ctcresources)
+
+#### Understanding Attention for Vision-and-Language Tasks
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.304/](https://aclanthology.org/2022.coling-1.304/)
+- 代码链接：[https://github.com/adlnlp/Attention_VL](https://github.com/adlnlp/Attention_VL)
+
+#### TestAug: A Framework for Augmenting Capability-based NLP Tests
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.307/](https://aclanthology.org/2022.coling-1.307/)
+- 代码链接：[https://github.com/guanqun-yang/testaug](https://github.com/guanqun-yang/testaug)
+
+#### K-MHaS: A Multi-label Hate Speech Detection Dataset in Korean Online News Comment
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.311/](https://aclanthology.org/2022.coling-1.311/)
+- 代码链接：[https://github.com/adlnlp/K-MHaS](https://github.com/adlnlp/K-MHaS)
+
+#### Benchmarking Automated Clinical Language Simplification: Dataset, Algorithm, and Evaluation
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.313/](https://aclanthology.org/2022.coling-1.313/)
+- 代码链接：[https://github.com/machinelearning4health/medlane](https://github.com/machinelearning4health/medlane)
+
+#### Are Pretrained Multilingual Models Equally Fair across Languages?
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.318/](https://aclanthology.org/2022.coling-1.318/)
+- 代码链接：[https://github.com/coastalcph/mozart](https://github.com/coastalcph/mozart)
+
+#### BECEL: Benchmark for Consistency Evaluation of Language Models
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.324/](https://aclanthology.org/2022.coling-1.324/)
+- 代码链接：[https://github.com/mj-jang/becel](https://github.com/mj-jang/becel)
+
+#### A New Public Corpus for Clinical Section Identification: MedSecId
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.326/](https://aclanthology.org/2022.coling-1.326/)
+- 代码链接：[https://github.com/uic-nlp-lab/medsecid](https://github.com/uic-nlp-lab/medsecid)
+
+#### Accounting for Language Effect in the Evaluation of Cross-lingual AMR Parsers
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.336/](https://aclanthology.org/2022.coling-1.336/)
+- 代码链接：[https://github.com/shirawein/crossling-amr-eval](https://github.com/shirawein/crossling-amr-eval)
+
+#### One Word, Two Sides: Traces of Stance in Contextualized Word Representations
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.347/](https://aclanthology.org/2022.coling-1.347/)
+- 代码链接：[https://github.com/ainagari/1word2sides](https://github.com/ainagari/1word2sides)
+
+#### Prepositions Matter in Quantifier Scope Disambiguation
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.348/](https://aclanthology.org/2022.coling-1.348/)
+- 代码链接：[https://github.com/aleczkowski/prep_matter_in_qsd](https://github.com/aleczkowski/prep_matter_in_qsd)
+
+#### DynGL-SDP: Dynamic Graph Learning for Semantic Dependency Parsing
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.351/](https://aclanthology.org/2022.coling-1.351/)
+- 代码链接：[https://github.com/libinnlp/dyngl-sdp](https://github.com/libinnlp/dyngl-sdp)
+
+#### Multilingual and Multimodal Topic Modelling with Pretrained Embeddings
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.355/](https://aclanthology.org/2022.coling-1.355/)
+- 代码链接：[https://github.com/ezosa/m3l-topic-model](https://github.com/ezosa/m3l-topic-model)
+
+#### Word Sense Disambiguation with Knowledge-Enhanced and Local Self-Attention-based Extractive Sense Comprehension
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.357/](https://aclanthology.org/2022.coling-1.357/)
+- 代码链接：[https://github.com/stubborn-z/kelesc](https://github.com/stubborn-z/kelesc)
+
+#### Testing Large Language Models on Compositionality and Inference with Phrase-Level Adjective-Noun Entailment
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.359/](https://aclanthology.org/2022.coling-1.359/)
+- 代码链接：[https://github.com/lorenzoscottb/plane](https://github.com/lorenzoscottb/plane)
+
+#### CILex: An Investigation of Context Information for Lexical Substitution Methods
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.362/](https://aclanthology.org/2022.coling-1.362/)
+- 代码链接：[https://github.com/sandaruSen/CILex](https://github.com/sandaruSen/CILex)
+
+#### Metaphor Detection via Linguistics Enhanced Siamese Network
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.364/](https://aclanthology.org/2022.coling-1.364/)
+- 代码链接：[https://github.com/silasthu/misnet](https://github.com/silasthu/misnet)
+
+#### Transparent Semantic Parsing with Universal Dependencies Using Graph Transformations
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.367/](https://aclanthology.org/2022.coling-1.367/)
+- 代码链接：[https://github.com/wpoelman/ud-boxer](https://github.com/wpoelman/ud-boxer)
+
+#### Multilingual Word Sense Disambiguation with Unified Sense Representation
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.368/](https://aclanthology.org/2022.coling-1.368/)
+- 代码链接：[https://github.com/suytingwan/multilingual-wsd](https://github.com/suytingwan/multilingual-wsd)
+
+#### Noisy Label Regularisation for Textual Regression
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.371/](https://aclanthology.org/2022.coling-1.371/)
+- 代码链接：[https://github.com/yuxiaw/regularise-regression-noisy-labels](https://github.com/yuxiaw/regularise-regression-noisy-labels)
+
+#### Aligning Multilingual Embeddings for Improved Code-switched Natural Language Understanding
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.375/](https://aclanthology.org/2022.coling-1.375/)
+- 代码链接：[https://github.com/barahfazili/alignmentforcs](https://github.com/barahfazili/alignmentforcs)
+
+#### Adapting Pre-trained Language Models to African Languages via Multilingual Adaptive Fine-Tuning
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.382/](https://aclanthology.org/2022.coling-1.382/)
+- 代码链接：[https://github.com/uds-lsv/afro-maft](https://github.com/uds-lsv/afro-maft)
+
+#### A Simple and Effective Method to Improve Zero-Shot Cross-Lingual Transfer Learning
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.385/](https://aclanthology.org/2022.coling-1.385/)
+- 代码链接：[https://github.com/kb-ding/ear](https://github.com/kb-ding/ear)
+
+#### Byte-based Multilingual NMT for Endangered Languages
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.388/](https://aclanthology.org/2022.coling-1.388/)
+- 代码链接：[https://github.com/mengjiaozhang/byte-based-multilingual-nmt](https://github.com/mengjiaozhang/byte-based-multilingual-nmt)
+
+#### Applying Natural Annotation and Curriculum Learning to Named Entity Recognition for Under-Resourced Languages
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.394/](https://aclanthology.org/2022.coling-1.394/)
+- 代码链接：[https://github.com/ValeraLobov/SlavNER](https://github.com/ValeraLobov/SlavNER)
+
+#### CitRet: A Hybrid Model for Cited Text Span Retrieval
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.399/](https://aclanthology.org/2022.coling-1.399/)
+- 代码链接：[https://github.com/amitpandey-research/citret_public](https://github.com/amitpandey-research/citret_public)
+
+#### A Simple Log-based Loss Function for Ordinal Text Classification
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.407/](https://aclanthology.org/2022.coling-1.407/)
+- 代码链接：[https://github.com/glanceable-io/ordinal-log-loss](https://github.com/glanceable-io/ordinal-log-loss)
+
+#### Ask Question First for Enhancing Lifelong Language Learning
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.408/](https://aclanthology.org/2022.coling-1.408/)
+- 代码链接：[https://github.com/codehan/aqf-rq](https://github.com/codehan/aqf-rq)
+
+#### Where Does Linguistic Information Emerge in Neural Language Models? Measuring Gains and Contributions across Layers
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.413/](https://aclanthology.org/2022.coling-1.413/)
+- 代码链接：[https://github.com/jekunz/emergent_info](https://github.com/jekunz/emergent_info)
+
+#### Accelerating Inference for Pretrained Language Models by Unified Multi-Perspective Early Exiting
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.414/](https://aclanthology.org/2022.coling-1.414/)
+- 代码链接：[https://github.com/junkong5/mpee](https://github.com/junkong5/mpee)
+
+#### WARM: A Weakly (+Semi) Supervised Math Word Problem Solver
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.421/](https://aclanthology.org/2022.coling-1.421/)
+- 代码链接：[https://github.com/iishapandey/warm](https://github.com/iishapandey/warm)
+
+#### Adaptive Meta-learner via Gradient Similarity for Few-shot Text Classification
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.431/](https://aclanthology.org/2022.coling-1.431/)
+- 代码链接：[https://github.com/Tianyi-Lei/Adaptive-Meta-learner-via-Gradient-Similarity-for-Few-shot-Text-Classification](https://github.com/Tianyi-Lei/Adaptive-Meta-learner-via-Gradient-Similarity-for-Few-shot-Text-Classification)
+
+#### Knowledge Distillation with Reptile Meta-Learning for Pretrained Language Model Compression
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.435/](https://aclanthology.org/2022.coling-1.435/)
+- 代码链接：[https://github.com/maxinge8698/ReptileDistil](https://github.com/maxinge8698/ReptileDistil)
+
+#### A Generalized Method for Automated Multilingual Loanword Detection
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.442/](https://aclanthology.org/2022.coling-1.442/)
+- 代码链接：[https://github.com/csu-signal/loan-word-detection](https://github.com/csu-signal/loan-word-detection)
+
+#### Multi-level Community-awareness Graph Neural Networks for Neural Machine Translation
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.444/](https://aclanthology.org/2022.coling-1.444/)
+- 代码链接：[https://github.com/nqbinh17/mc-gnn](https://github.com/nqbinh17/mc-gnn)
+
+#### Iterative Constrained Back-Translation for Unsupervised Domain Adaptation of Machine Translation
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.448/](https://aclanthology.org/2022.coling-1.448/)
+- 代码链接：[https://github.com/zzzxiaohong/icbt](https://github.com/zzzxiaohong/icbt)
+
+#### Speeding up Transformer Decoding via an Attention Refinement Network
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.453/](https://aclanthology.org/2022.coling-1.453/)
+- 代码链接：[https://github.com/kaixin-wu-for-open-source/arn](https://github.com/kaixin-wu-for-open-source/arn)
+
+#### CoDoNMT: Modeling Cohesion Devices for Document-Level Neural Machine Translation
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.462/](https://aclanthology.org/2022.coling-1.462/)
+- 代码链接：[https://github.com/codeboy311/codonmt](https://github.com/codeboy311/codonmt)
+
+#### Towards Robust Neural Machine Translation with Iterative Scheduled Data-Switch Training
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.468/](https://aclanthology.org/2022.coling-1.468/)
+- 代码链接：[https://github.com/DeepLearnXMU/RobustNMT-ISDST](https://github.com/DeepLearnXMU/RobustNMT-ISDST)
+
+#### Speaker-Aware Discourse Parsing on Multi-Party Dialogues
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.477/](https://aclanthology.org/2022.coling-1.477/)
+- 代码链接：[https://github.com/yunan4nlp/sa-dpmd](https://github.com/yunan4nlp/sa-dpmd)
+
+#### Yet Another Format of Universal Dependencies for Korean
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.482/](https://aclanthology.org/2022.coling-1.482/)
+- 代码链接：[https://github.com/jungyeul/morphud-korean](https://github.com/jungyeul/morphud-korean)
+
+#### Enhancing Structure-aware Encoder with Extremely Limited Data for Graph-based Dependency Parsing
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.483/](https://aclanthology.org/2022.coling-1.483/)
+- 代码链接：[https://github.com/synlp/dmpar](https://github.com/synlp/dmpar)
+
+#### Simple and Effective Graph-to-Graph Annotation Conversion
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.484/](https://aclanthology.org/2022.coling-1.484/)
+- 代码链接：[https://github.com/wangyuxuan93/g2gconversion](https://github.com/wangyuxuan93/g2gconversion)
+
+#### BiBL: AMR Parsing and Generation with Bidirectional Bayesian Learning
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.485/](https://aclanthology.org/2022.coling-1.485/)
+- 代码链接：[https://github.com/KHAKhazeus/BiBL](https://github.com/KHAKhazeus/BiBL)
+
+#### Multi-Layer Pseudo-Siamese Biaffine Model for Dependency Parsing
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.486/](https://aclanthology.org/2022.coling-1.486/)
+- 代码链接：[https://github.com/xzy-xzy/mlpsb-parser](https://github.com/xzy-xzy/mlpsb-parser)
+
+#### Are Visual-Linguistic Models Commonsense Knowledge Bases?
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.491/](https://aclanthology.org/2022.coling-1.491/)
+- 代码链接：[https://github.com/mallory24/cs_probing](https://github.com/mallory24/cs_probing)
+
+#### ACT-Thor: A Controlled Benchmark for Embodied Action Understanding in Simulated Environments
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.495/](https://aclanthology.org/2022.coling-1.495/)
+- 代码链接：[https://github.com/hannamw/act-thor](https://github.com/hannamw/act-thor)
+
+#### Towards Better Semantic Understanding of Mobile Interfaces
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.497/](https://aclanthology.org/2022.coling-1.497/)
+- 代码链接：[https://github.com/google-research-datasets/rico_semantics](https://github.com/google-research-datasets/rico_semantics)
+
+#### GAP: A Graph-aware Language Model Framework for Knowledge Graph-to-Text Generation
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.506/](https://aclanthology.org/2022.coling-1.506/)
+- 代码链接：[https://github.com/acolas1/GAP_COLING2022](https://github.com/acolas1/GAP_COLING2022)
+
+#### Content Type Profiling of Data-to-Text Generation Datasets
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.507/](https://aclanthology.org/2022.coling-1.507/)
+- 代码链接：[https://github.com/ashishu007/content-type-profiling](https://github.com/ashishu007/content-type-profiling)
+
+#### Selective Token Generation for Few-shot Natural Language Generation
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.510/](https://aclanthology.org/2022.coling-1.510/)
+- 代码链接：[https://github.com/kakaobrain/stg](https://github.com/kakaobrain/stg)
+
+#### Multi Graph Neural Network for Extractive Long Document Summarization
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.512/](https://aclanthology.org/2022.coling-1.512/)
+- 代码链接：[https://github.com/dungdx34/mtgnn-sum](https://github.com/dungdx34/mtgnn-sum)
+
+#### PrefScore: Pairwise Preference Learning for Reference-free Summarization Quality Assessment
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.515/](https://aclanthology.org/2022.coling-1.515/)
+- 代码链接：[https://github.com/nkwbtb/prefscore](https://github.com/nkwbtb/prefscore)
+
+#### Analyzing the Dialect Diversity in Multi-document Summaries
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.542/](https://aclanthology.org/2022.coling-1.542/)
+- 代码链接：[https://github.com/portnlp/divsumm](https://github.com/portnlp/divsumm)
+
+#### Generation of Patient After-Visit Summaries to Support Physicians
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.544/](https://aclanthology.org/2022.coling-1.544/)
+- 代码链接：[https://github.com/pengshancai/avs_gen](https://github.com/pengshancai/avs_gen)
+
+#### Mind the Gap! Injecting Commonsense Knowledge for Abstractive Dialogue Summarization
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.548/](https://aclanthology.org/2022.coling-1.548/)
+- 代码链接：[https://github.com/SeungoneKim/SICK_Summarization](https://github.com/SeungoneKim/SICK_Summarization)
+
+#### UPER: Boosting Multi-Document Summarization with an Unsupervised Prompt-based Extractor
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.550/](https://aclanthology.org/2022.coling-1.550/)
+- 代码链接：[https://github.com/THU-KEG/UPER](https://github.com/THU-KEG/UPER)
+
+#### Noise-injected Consistency Training and Entropy-constrained Pseudo Labeling for Semi-supervised Extractive Summarization
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.561/](https://aclanthology.org/2022.coling-1.561/)
+- 代码链接：[https://github.com/opensum/cpsum](https://github.com/opensum/cpsum)
+
+#### CM-Gen: A Neural Framework for Chinese Metaphor Generation with Explicit Context Modelling
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.563/](https://aclanthology.org/2022.coling-1.563/)
+- 代码链接：[https://github.com/liyucheng09/metaphor_generator](https://github.com/liyucheng09/metaphor_generator)
+
+#### Visual Information Guided Zero-Shot Paraphrase Generation
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.568/](https://aclanthology.org/2022.coling-1.568/)
+- 代码链接：[https://github.com/l-zhe/vipg](https://github.com/l-zhe/vipg)
+
+#### Why Is It Hate Speech? Masked Rationale Prediction for Explainable Hate Speech Detection
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.577/](https://aclanthology.org/2022.coling-1.577/)
+- 代码链接：[https://github.com/alatteaday/mrp_hate-speech-detection](https://github.com/alatteaday/mrp_hate-speech-detection)
+
+#### Generalizable Implicit Hate Speech Detection Using Contrastive Learning
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.579/](https://aclanthology.org/2022.coling-1.579/)
+- 代码链接：[https://github.com/youngwook06/impcon](https://github.com/youngwook06/impcon)
+
+#### Social Bot-Aware Graph Neural Network for Early Rumor Detection
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.580/](https://aclanthology.org/2022.coling-1.580/)
+- 代码链接：[https://github.com/sky-star-moon/sbag](https://github.com/sky-star-moon/sbag)
+
+#### Detecting Minority Arguments for Mutual Understanding: A Moderation Tool for the Online Climate Change Debate
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.583/](https://aclanthology.org/2022.coling-1.583/)
+- 代码链接：[https://github.com/cwaterschoot/minority_argumentation](https://github.com/cwaterschoot/minority_argumentation)
+
+#### Entity-Level Sentiment Analysis (ELSA): An Exploratory Task Survey
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.589/](https://aclanthology.org/2022.coling-1.589/)
+- 代码链接：[https://github.com/egilron/elsa-introduction](https://github.com/egilron/elsa-introduction)
+
+#### Learning from Adjective-Noun Pairs: A Knowledge-enhanced Framework for Target-Oriented Multimodal Sentiment Classification
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.590/](https://aclanthology.org/2022.coling-1.590/)
+- 代码链接：[https://github.com/1429904852/kef](https://github.com/1429904852/kef)
+
+#### Towards Exploiting Sticker for Multimodal Sentiment Analysis in Social Media: A New Dataset and Baseline
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.591/](https://aclanthology.org/2022.coling-1.591/)
+- 代码链接：[https://github.com/Logos23333/CSMSA](https://github.com/Logos23333/CSMSA)
+
+#### Composition-based Heterogeneous Graph Multi-channel Attention Network for Multi-aspect Multi-sentiment Classification
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.594/](https://aclanthology.org/2022.coling-1.594/)
+- 代码链接：[https://github.com/hankniu01/chgman](https://github.com/hankniu01/chgman)
+
+#### Transferring Confluent Knowledge to Argument Mining
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.597/](https://aclanthology.org/2022.coling-1.597/)
+- 代码链接：[https://github.com/nlx-group/transfer-am](https://github.com/nlx-group/transfer-am)
+
+#### KC-ISA: An Implicit Sentiment Analysis Model Combining Knowledge Enhancement and Context Features
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.601/](https://aclanthology.org/2022.coling-1.601/)
+- 代码链接：[https://github.com/anonymouscoling2022/kc-isa](https://github.com/anonymouscoling2022/kc-isa)
+
+#### Domain Generalization for Text Classification with Memory-Based Supervised Contrastive Learning
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.602/](https://aclanthology.org/2022.coling-1.602/)
+- 代码链接：[https://github.com/tonytan48/mscl](https://github.com/tonytan48/mscl)
+
+#### Target Really Matters: Target-aware Contrastive Learning and Consistency Regularization for Few-shot Stance Detection
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.605/](https://aclanthology.org/2022.coling-1.605/)
+- 代码链接：[https://github.com/monolith-v1/stcc](https://github.com/monolith-v1/stcc)
+
+#### MuCDN: Mutual Conversational Detachment Network for Emotion Recognition in Multi-Party Conversations
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.612/](https://aclanthology.org/2022.coling-1.612/)
+- 代码链接：[https://github.com/circle-hit/mucdn](https://github.com/circle-hit/mucdn)
+
+#### UECA-Prompt: Universal Prompt for Emotion Cause Analysis
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.613/](https://aclanthology.org/2022.coling-1.613/)
+- 代码链接：[https://github.com/yajus/ueca-prompt](https://github.com/yajus/ueca-prompt)
+
+#### One-Teacher and Multiple-Student Knowledge Distillation on Sentiment Classification
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.614/](https://aclanthology.org/2022.coling-1.614/)
+- 代码链接：[https://github.com/strive-hhh/otms-kd](https://github.com/strive-hhh/otms-kd)
+
+#### Making Parameter-efficient Tuning More Efficient: A Unified Framework for Classification Tasks
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.615/](https://aclanthology.org/2022.coling-1.615/)
+- 代码链接：[https://github.com/xzhou20/plugin-tuning](https://github.com/xzhou20/plugin-tuning)
+
+#### A Structure-Aware Argument Encoder for Literature Discourse Analysis
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.619/](https://aclanthology.org/2022.coling-1.619/)
+- 代码链接：[https://github.com/lemuria-wchen/SAE](https://github.com/lemuria-wchen/SAE)
+
+#### Incorporating Instructional Prompts into a Unified Generative Framework for Joint Multiple Intent Detection and Slot Filling
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.631/](https://aclanthology.org/2022.coling-1.631/)
+- 代码链接：[https://github.com/young1993/ugen](https://github.com/young1993/ugen)
+
+#### Adaptive Unsupervised Self-training for Disfluency Detection
+
+- 论文链接：[https://aclanthology.org/2022.coling-1.632/](https://aclanthology.org/2022.coling-1.632/)
+- 代码链接：[https://github.com/wyxstriker/reweightingdisfluency](https://github.com/wyxstriker/reweightingdisfluency)
