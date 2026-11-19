@@ -3878,11 +3878,6 @@
 - 论文链接：[https://aclanthology.org/2020.emnlp-main.437/](https://aclanthology.org/2020.emnlp-main.437/)
 - 代码链接：[https://github.com/google-research/google-research/tree/master/t5_closed_book_qa](https://github.com/google-research/google-research/tree/master/t5_closed_book_qa)
 
-#### SubjQA: A Dataset for Subjectivity and Review Comprehension
-
-- 论文链接：[https://aclanthology.org/2020.emnlp-main.442/](https://aclanthology.org/2020.emnlp-main.442/)
-- 代码链接：[https://github.com/megagonlabs/SubjQA](https://github.com/megagonlabs/SubjQA)
-
 #### Unsupervised Natural Language Inference via Decoupled Multimodal Contrastive Learning
 
 - 论文链接：[https://aclanthology.org/2020.emnlp-main.444/](https://aclanthology.org/2020.emnlp-main.444/)
@@ -3928,11 +3923,6 @@
 - 论文链接：[https://aclanthology.org/2020.emnlp-main.561/](https://aclanthology.org/2020.emnlp-main.561/)
 - 代码链接：[https://github.com/microsoft/ContextualSP](https://github.com/microsoft/ContextualSP)
 
-#### A Multi-Task Incremental Learning Framework with Category Name Embedding for Aspect-Category Sentiment Analysis
-
-- 论文链接：[https://aclanthology.org/2020.emnlp-main.565/](https://aclanthology.org/2020.emnlp-main.565/)
-- 代码链接：[https://github.com/flak300S/emnlp2020_CNE-net](https://github.com/flak300S/emnlp2020_CNE-net)
-
 #### DyERNIE: Dynamic Evolution of Riemannian Manifold Embeddings for Temporal Knowledge Graph Completion
 
 - 论文链接：[https://aclanthology.org/2020.emnlp-main.593/](https://aclanthology.org/2020.emnlp-main.593/)
@@ -3963,16 +3953,6 @@
 - 论文链接：[https://aclanthology.org/2020.emnlp-main.618/](https://aclanthology.org/2020.emnlp-main.618/)
 - 代码链接：[https://github.com/artetxem/esxnli](https://github.com/artetxem/esxnli)
 
-#### Multi-XScience: A Large-scale Dataset for Extreme Multi-document Summarization of Scientific Articles
-
-- 论文链接：[https://aclanthology.org/2020.emnlp-main.648/](https://aclanthology.org/2020.emnlp-main.648/)
-- 代码链接：[https://github.com/yaolu/Multi-XScience](https://github.com/yaolu/Multi-XScience)
-
-#### Conversational Semantic Parsing for Dialog State Tracking
-
-- 论文链接：[https://aclanthology.org/2020.emnlp-main.651/](https://aclanthology.org/2020.emnlp-main.651/)
-- 代码链接：[https://github.com/apple/ml-tree-dst](https://github.com/apple/ml-tree-dst)
-
 #### New Protocols and Negative Results for Textual Entailment Data Collection
 
 - 论文链接：[https://aclanthology.org/2020.emnlp-main.658/](https://aclanthology.org/2020.emnlp-main.658/)
@@ -3982,11 +3962,6 @@
 
 - 论文链接：[https://aclanthology.org/2020.emnlp-main.671/](https://aclanthology.org/2020.emnlp-main.671/)
 - 代码链接：[https://github.com/he159ok/Towards-More-Accurate-Uncertainty-Estimation-In-Text-Classification](https://github.com/he159ok/Towards-More-Accurate-Uncertainty-Estimation-In-Text-Classification)
-
-#### NwQM: A neural quality assessment framework for Wikipedia
-
-- 论文链接：[https://aclanthology.org/2020.emnlp-main.674/](https://aclanthology.org/2020.emnlp-main.674/)
-- 代码链接：[https://github.com/sasibhushan3/NwQM_EMNLP](https://github.com/sasibhushan3/NwQM_EMNLP)
 
 #### Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations
 
