@@ -4046,3 +4046,17 @@
 #### Intelligent Decision Support for Improving Power Management
 
 - 论文链接：[https://www.ijcai.org/proceedings/2019/0965.pdf](https://www.ijcai.org/proceedings/2019/0965.pdf)
+
+## PaperVault 补充
+
+<!-- Source: https://github.com/youngfish42/PaperVault -->
+
+#### Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, IJCAI 2019, Macao, China, August 10-16, 2019
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2019](https://doi.org/10.24963/ijcai.2019)
+- 代码链接：[https://github.com/cfm-uestc/DPQ](https://github.com/cfm-uestc/DPQ)
+
+#### Hierarchical Graph Convolutional Networks for Semi-supervised Node Classification
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2019/630](https://doi.org/10.24963/ijcai.2019/630)
+- 代码链接：[https://github.com/CRIPAC-DIG/H-GCN](https://github.com/CRIPAC-DIG/H-GCN)

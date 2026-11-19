@@ -830,3 +830,182 @@ Deep Bucket Elimination
 
 - 论文链接：https://www.ijcai.org/proceedings/2021/0582.pdf
 - 代码链接：https://github.com/dechterlab/DBE
+
+## PaperVault 补充
+
+<!-- Source: https://github.com/youngfish42/PaperVault -->
+
+#### Temporal Induced Self-Play for Stochastic Bayesian Games
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/14](https://doi.org/10.24963/ijcai.2021/14)
+- 代码链接：[https://github.com/laonahongchen/Temporal-Induced-Self-Play-for-Stochastic-Bayesian-Games](https://github.com/laonahongchen/Temporal-Induced-Self-Play-for-Stochastic-Bayesian-Games)
+
+#### GASP: Gated Attention for Saliency Prediction
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/81](https://doi.org/10.24963/ijcai.2021/81)
+- 代码链接：[https://github.com/knowledgetechnologyuhh/gasp](https://github.com/knowledgetechnologyuhh/gasp)
+
+#### Zero-Shot Chinese Character Recognition with Stroke-Level Decomposition
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/85](https://doi.org/10.24963/ijcai.2021/85)
+- 代码链接：[https://github.com/FudanVI/FudanOCR/tree/main/stroke-level-decomposition](https://github.com/FudanVI/FudanOCR/tree/main/stroke-level-decomposition)
+
+#### Information Bottleneck Approach to Spatial Attention Learning
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/108](https://doi.org/10.24963/ijcai.2021/108)
+- 代码链接：[https://github.com/ashleylqx/aib](https://github.com/ashleylqx/aib)
+
+#### Point-based Acoustic Scattering for Interactive Sound Propagation via Surface Encoding
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/126](https://doi.org/10.24963/ijcai.2021/126)
+- 代码链接：[https://github.com/RoyJames/Fast3DScattering-release](https://github.com/RoyJames/Fast3DScattering-release)
+
+#### Structure Guided Lane Detection
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/138](https://doi.org/10.24963/ijcai.2021/138)
+- 代码链接：[https://github.com/Jinming-Su/SGNet](https://github.com/Jinming-Su/SGNet)
+
+#### Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/152](https://doi.org/10.24963/ijcai.2021/152)
+- 代码链接：[https://github.com/wangsuzhen/Audio2Head](https://github.com/wangsuzhen/Audio2Head)
+
+#### Domain-Smoothing Network for Zero-Shot Sketch-Based Image Retrieval
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/158](https://doi.org/10.24963/ijcai.2021/158)
+- 代码链接：[https://github.com/haowang1992/DSN](https://github.com/haowang1992/DSN)
+
+#### Dual-Cross Central Difference Network for Face Anti-Spoofing
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/177](https://doi.org/10.24963/ijcai.2021/177)
+- 代码链接：[https://github.com/ZitongYu/CDCN](https://github.com/ZitongYu/CDCN)
+
+#### Node-wise Localization of Graph Neural Networks
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/210](https://doi.org/10.24963/ijcai.2021/210)
+- 代码链接：[https://github.com/shuaiOKshuai/LGNN](https://github.com/shuaiOKshuai/LGNN)
+
+#### Masked Label Prediction: Unified Message Passing Model for Semi-Supervised Classification
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/214](https://doi.org/10.24963/ijcai.2021/214)
+- 代码链接：[https://github.com/PaddlePaddle/PGL/tree/main/ogb_examples/nodeproppred/unimp](https://github.com/PaddlePaddle/PGL/tree/main/ogb_examples/nodeproppred/unimp)
+
+#### UIBert: Learning Generic Multimodal Representations for UI Understanding
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/235](https://doi.org/10.24963/ijcai.2021/235)
+- 代码链接：[https://github.com/google-research-datasets/uibert](https://github.com/google-research-datasets/uibert)
+
+#### HIP Network: Historical Information Passing Network for Extrapolation Reasoning on Temporal Knowledge Graph
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/264](https://doi.org/10.24963/ijcai.2021/264)
+- 代码链接：[https://github.com/Yongquan-He/HIP-network](https://github.com/Yongquan-He/HIP-network)
+
+#### Lifting Symmetry Breaking Constraints with Inductive Logic Programming
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/284](https://doi.org/10.24963/ijcai.2021/284)
+- 代码链接：[https://github.com/prosysscience/Symmetry_Breaking_with_ILP](https://github.com/prosysscience/Symmetry_Breaking_with_ILP)
+
+#### Stochastic Actor-Executor-Critic for Image-to-Image Translation
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/382](https://doi.org/10.24963/ijcai.2021/382)
+- 代码链接：[https://github.com/Algolzw/SPAC-Deformable-Registration](https://github.com/Algolzw/SPAC-Deformable-Registration)
+
+#### Evaluating Relaxations of Logic for Neural Networks: A Comprehensive Study
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/387](https://doi.org/10.24963/ijcai.2021/387)
+- 代码链接：[https://github.com/utahnlp/neural-logic](https://github.com/utahnlp/neural-logic)
+
+#### Learning Embeddings from Knowledge Graphs With Numeric Edge Attributes
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/395](https://doi.org/10.24963/ijcai.2021/395)
+- 代码链接：[https://github.com/Accenture/AmpliGraph](https://github.com/Accenture/AmpliGraph)
+
+#### Meta-Reinforcement Learning by Tracking Task Non-stationarity
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/399](https://doi.org/10.24963/ijcai.2021/399)
+- 代码链接：[https://github.com/riccardopoiani/trio-non-stationary-meta-rl](https://github.com/riccardopoiani/trio-non-stationary-meta-rl)
+
+#### Regularizing Variational Autoencoder with Diversity and Uncertainty Awareness
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/408](https://doi.org/10.24963/ijcai.2021/408)
+- 代码链接：[https://github.com/smilesdzgk/du-vae](https://github.com/smilesdzgk/du-vae)
+
+#### Interpretable Compositional Convolutional Neural Networks
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/409](https://doi.org/10.24963/ijcai.2021/409)
+- 代码链接：[https://github.com/ada-shen/icCNN](https://github.com/ada-shen/icCNN)
+
+#### Neural Architecture Search of SPD Manifold Networks
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/413](https://doi.org/10.24963/ijcai.2021/413)
+- 代码链接：[https://github.com/rheasukthanker/spdnetnas](https://github.com/rheasukthanker/spdnetnas)
+
+#### Decomposable-Net: Scalable Low-Rank Compression for Neural Networks
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/447](https://doi.org/10.24963/ijcai.2021/447)
+- 代码链接：[https://github.com/ygcats/Scalable-Low-Rank-Compression-for-Neural-Networks](https://github.com/ygcats/Scalable-Low-Rank-Compression-for-Neural-Networks)
+
+#### Hindsight Trust Region Policy Optimization
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/459](https://doi.org/10.24963/ijcai.2021/459)
+- 代码链接：[https://github.com/HTRPOCODES/HTRPO-v2](https://github.com/HTRPOCODES/HTRPO-v2)
+
+#### UNBERT: User-News Matching BERT for News Recommendation
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/462](https://doi.org/10.24963/ijcai.2021/462)
+- 代码链接：[https://github.com/reczoo/RecZoo/tree/main/pretraining/news/UNBERT](https://github.com/reczoo/RecZoo/tree/main/pretraining/news/UNBERT)
+
+#### Model-based Multi-agent Policy Optimization with Adaptive Opponent-wise Rollouts
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/466](https://doi.org/10.24963/ijcai.2021/466)
+- 代码链接：[https://github.com/apexrl/AORPO](https://github.com/apexrl/AORPO)
+
+#### Rethink the Connections among Generalization, Memorization, and the Spectral Bias of DNNs
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/467](https://doi.org/10.24963/ijcai.2021/467)
+- 代码链接：[https://github.com/ZhangXiao96/RethinkSpectralBias](https://github.com/ZhangXiao96/RethinkSpectralBias)
+
+#### TrafficStream: A Streaming Traffic Flow Forecasting Framework Based on Graph Neural Networks and Continual Learning
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/498](https://doi.org/10.24963/ijcai.2021/498)
+- 代码链接：[https://github.com/AprLie/TrafficStream](https://github.com/AprLie/TrafficStream)
+
+#### BACKDOORL: Backdoor Attack against Competitive Reinforcement Learning
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/509](https://doi.org/10.24963/ijcai.2021/509)
+- 代码链接：[https://github.com/wanglun1996/multi_agent_rl_backdoor_videos](https://github.com/wanglun1996/multi_agent_rl_backdoor_videos)
+
+#### Provable Guarantees on the Robustness of Decision Rules to Causal Interventions
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/585](https://doi.org/10.24963/ijcai.2021/585)
+- 代码链接：[https://github.com/wangben88/interventional-robustness](https://github.com/wangben88/interventional-robustness)
+
+#### A Survey on Spoken Language Understanding: Recent Advances and New Frontiers
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/622](https://doi.org/10.24963/ijcai.2021/622)
+- 代码链接：[https://github.com/yizhen20133868/Awesome-SLU-Survey](https://github.com/yizhen20133868/Awesome-SLU-Survey)
+
+#### Generalizing to Unseen Domains: A Survey on Domain Generalization
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/628](https://doi.org/10.24963/ijcai.2021/628)
+- 代码链接：[https://github.com/jindongwang/transferlearning](https://github.com/jindongwang/transferlearning)
+
+#### Graph Learning based Recommender Systems: A Review
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/630](https://doi.org/10.24963/ijcai.2021/630)
+- 代码链接：[https://github.com/shoujin88/graph-learning-based-recommender-systems-GLRS-](https://github.com/shoujin88/graph-learning-based-recommender-systems-GLRS-)
+
+#### Automated Machine Learning on Graphs: A Survey
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/637](https://doi.org/10.24963/ijcai.2021/637)
+- 代码链接：[https://github.com/THUMNLab/AutoGL](https://github.com/THUMNLab/AutoGL)
+
+#### Unsupervised Learning of Probably Symmetric Deformable 3D Objects from Images in the Wild (Extended Abstract)
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/665](https://doi.org/10.24963/ijcai.2021/665)
+- 代码链接：[https://github.com/elliottwu/unsup3d](https://github.com/elliottwu/unsup3d)
+
+#### VisioRed: A Visualisation Tool for Interpretable Predictive Maintenance
+
+- 论文链接：[https://doi.org/10.24963/ijcai.2021/713](https://doi.org/10.24963/ijcai.2021/713)
+- 代码链接：[https://github.com/intelligence-csd-auth-gr/Interpretable-Predictive-Maintenance/tree/master/VisioRed%20Demo](https://github.com/intelligence-csd-auth-gr/Interpretable-Predictive-Maintenance/tree/master/VisioRed%20Demo)
