@@ -883,11 +883,6 @@
 - 论文链接：[https://aclanthology.org/2022.coling-1.153/](https://aclanthology.org/2022.coling-1.153/)
 - 代码链接：[https://github.com/yueeeeeeee/self-supervised-qa](https://github.com/yueeeeeeee/self-supervised-qa)
 
-#### Cluster-aware Pseudo-Labeling for Supervised Open Relation Extraction
-
-- 论文链接：[https://aclanthology.org/2022.coling-1.158/](https://aclanthology.org/2022.coling-1.158/)
-- 代码链接：[https://github.com/bobtuan/capl](https://github.com/bobtuan/capl)
-
 #### Different Data, Different Modalities! Reinforced Data Splitting for Effective Multimodal Information Extraction from Social Media Posts
 
 - 论文链接：[https://aclanthology.org/2022.coling-1.160/](https://aclanthology.org/2022.coling-1.160/)

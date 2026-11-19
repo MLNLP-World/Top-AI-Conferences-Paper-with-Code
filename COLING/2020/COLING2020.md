@@ -982,11 +982,6 @@
 - 论文链接：[https://aclanthology.org/2020.coling-main.511/](https://aclanthology.org/2020.coling-main.511/)
 - 代码链接：[https://github.com/harikavuppala1a/semisupervised_multitask_learning](https://github.com/harikavuppala1a/semisupervised_multitask_learning)
 
-#### Retrieving Skills from Job Descriptions: A Language Model Based Extreme Multi-label Classification Framework
-
-- 论文链接：[https://aclanthology.org/2020.coling-main.513/](https://aclanthology.org/2020.coling-main.513/)
-- 代码链接：[https://github.com/wing-nus/jd2skills-bert-xmlc](https://github.com/wing-nus/jd2skills-bert-xmlc)
-
 #### PheMT: A Phenomenon-wise Dataset for Machine Translation Robustness on User-Generated Contents
 
 - 论文链接：[https://aclanthology.org/2020.coling-main.521/](https://aclanthology.org/2020.coling-main.521/)
@@ -1006,11 +1001,6 @@
 
 - 论文链接：[https://aclanthology.org/2020.coling-main.525/](https://aclanthology.org/2020.coling-main.525/)
 - 代码链接：[https://github.com/kayoyin/transformer-slt](https://github.com/kayoyin/transformer-slt)
-
-#### Fine-grained Information Status Classification Using Discourse Context-Aware BERT
-
-- 论文链接：[https://aclanthology.org/2020.coling-main.537/](https://aclanthology.org/2020.coling-main.537/)
-- 代码链接：[https://github.com/IBM/bridging-resolution](https://github.com/IBM/bridging-resolution)
 
 #### Free the Plural: Unrestricted Split-Antecedent Anaphora Resolution
 
