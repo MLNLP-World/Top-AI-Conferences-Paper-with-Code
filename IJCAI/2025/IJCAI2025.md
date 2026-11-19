@@ -385,11 +385,6 @@
 - 论文链接：[https://doi.org/10.24963/ijcai.2025/158](https://doi.org/10.24963/ijcai.2025/158)
 - 代码链接：[https://github.com/mlvccn/bmtc_transferattackvid](https://github.com/mlvccn/bmtc_transferattackvid)
 
-#### RAMer: Reconstruction-based Adversarial Model for Multi-party Multi-modal Multi-label Emotion Recognition
-
-- 论文链接：[https://doi.org/10.24963/ijcai.2025/247](https://doi.org/10.24963/ijcai.2025/247)
-- 代码链接：[https://github.com/Sootung/RAMer](https://github.com/Sootung/RAMer)
-
 #### GraphAD: Interaction Scene Graph for End-to-end Autonomous Driving
 
 - 论文链接：[https://doi.org/10.24963/ijcai.2025/270](https://doi.org/10.24963/ijcai.2025/270)

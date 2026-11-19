@@ -880,11 +880,6 @@ Deep Bucket Elimination
 - 论文链接：[https://doi.org/10.24963/ijcai.2021/177](https://doi.org/10.24963/ijcai.2021/177)
 - 代码链接：[https://github.com/ZitongYu/CDCN](https://github.com/ZitongYu/CDCN)
 
-#### PointLIE: Locally Invertible Embedding for Point Cloud Sampling and Recovery
-
-- 论文链接：[https://doi.org/10.24963/ijcai.2021/186](https://doi.org/10.24963/ijcai.2021/186)
-- 代码链接：[https://github.com/zwb0/PointLIE](https://github.com/zwb0/PointLIE)
-
 #### Node-wise Localization of Graph Neural Networks
 
 - 论文链接：[https://doi.org/10.24963/ijcai.2021/210](https://doi.org/10.24963/ijcai.2021/210)

@@ -1037,11 +1037,6 @@
 - 论文链接：[https://doi.org/10.24963/ijcai.2020/543](https://doi.org/10.24963/ijcai.2020/543)
 - 代码链接：[https://github.com/microsoft/vert-papers/tree/master/papers/UniTrans](https://github.com/microsoft/vert-papers/tree/master/papers/UniTrans)
 
-#### ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation
-
-- 论文链接：[https://doi.org/10.24963/ijcai.2020/553](https://doi.org/10.24963/ijcai.2020/553)
-- 代码链接：[https://github.com/PaddlePaddle/ERNIE/ernie-gen](https://github.com/PaddlePaddle/ERNIE/ernie-gen)
-
 #### TransOMCS: From Linguistic Graphs to Commonsense Knowledge
 
 - 论文链接：[https://doi.org/10.24963/ijcai.2020/554](https://doi.org/10.24963/ijcai.2020/554)
