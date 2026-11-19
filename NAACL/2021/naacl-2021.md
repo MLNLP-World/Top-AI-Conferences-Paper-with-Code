@@ -3321,3 +3321,142 @@ Inference Time Style Control for Summarization
 
 - 论文链接：https://aclanthology.org/2021.naacl-main.476.pdf
 - 代码链接：https://shuyangcao.github.io/projects/inference_style_control
+
+## PaperVault 补充
+
+<!-- Source: https://github.com/youngfish42/PaperVault -->
+
+#### KILT: a Benchmark for Knowledge Intensive Language Tasks
+
+- 论文链接：[https://aclanthology.org/2021.naacl-main.200/](https://aclanthology.org/2021.naacl-main.200/)
+- 代码链接：[https://github.com/facebookresearch/KILT](https://github.com/facebookresearch/KILT)
+
+#### PhoNLP: A joint multi-task learning model for Vietnamese part-of-speech tagging, named entity recognition and dependency parsing
+
+- 论文链接：[https://aclanthology.org/2021.naacl-demos.1/](https://aclanthology.org/2021.naacl-demos.1/)
+- 代码链接：[https://github.com/VinAIResearch/PhoNLP](https://github.com/VinAIResearch/PhoNLP)
+
+#### Machine-Assisted Script Curation
+
+- 论文链接：[https://aclanthology.org/2021.naacl-demos.2/](https://aclanthology.org/2021.naacl-demos.2/)
+- 代码链接：[https://github.com/isi-vista/MASC](https://github.com/isi-vista/MASC)
+
+#### NAMER: A Node-Based Multitasking Framework for Multi-Hop Knowledge Base Question Answering
+
+- 论文链接：[https://aclanthology.org/2021.naacl-demos.3/](https://aclanthology.org/2021.naacl-demos.3/)
+- 代码链接：[https://github.com/ridiculouz/CKBQA](https://github.com/ridiculouz/CKBQA)
+
+#### Robustness Gym: Unifying the NLP Evaluation Landscape
+
+- 论文链接：[https://aclanthology.org/2021.naacl-demos.6/](https://aclanthology.org/2021.naacl-demos.6/)
+- 代码链接：[https://github.com/robustness-gym/robustness-gym](https://github.com/robustness-gym/robustness-gym)
+
+#### EventPlus: A Temporal Event Understanding Pipeline
+
+- 论文链接：[https://aclanthology.org/2021.naacl-demos.7/](https://aclanthology.org/2021.naacl-demos.7/)
+- 代码链接：[https://github.com/PlusLabNLP/EventPlus](https://github.com/PlusLabNLP/EventPlus)
+
+#### Multifaceted Domain-Specific Document Embeddings
+
+- 论文链接：[https://aclanthology.org/2021.naacl-demos.9/](https://aclanthology.org/2021.naacl-demos.9/)
+- 代码链接：[https://github.com/philipphager/faceted-domain-encoder](https://github.com/philipphager/faceted-domain-encoder)
+
+#### Improving Evidence Retrieval for Automated Explainable Fact-Checking
+
+- 论文链接：[https://aclanthology.org/2021.naacl-demos.10/](https://aclanthology.org/2021.naacl-demos.10/)
+- 代码链接：[https://github.com/algoprog/Quin](https://github.com/algoprog/Quin)
+
+#### TextEssence: A Tool for Interactive Analysis of Semantic Shifts Between Corpora
+
+- 论文链接：[https://aclanthology.org/2021.naacl-demos.13/](https://aclanthology.org/2021.naacl-demos.13/)
+- 代码链接：[https://github.com/drgriffis/text-essence](https://github.com/drgriffis/text-essence)
+
+#### RESIN: A Dockerized Schema-Guided Cross-document Cross-lingual Cross-media Information Extraction and Event Tracking System
+
+- 论文链接：[https://aclanthology.org/2021.naacl-demos.16/](https://aclanthology.org/2021.naacl-demos.16/)
+- 代码链接：[https://github.com/resin-kairos/resin-pipeline-public](https://github.com/resin-kairos/resin-pipeline-public)
+
+#### MUDES: Multilingual Detection of Offensive Spans
+
+- 论文链接：[https://aclanthology.org/2021.naacl-demos.17/](https://aclanthology.org/2021.naacl-demos.17/)
+- 代码链接：[https://github.com/tharindudr/MUDES](https://github.com/tharindudr/MUDES)
+
+#### Sampling and Filtering of Neural Machine Translation Distillation Data
+
+- 论文链接：[https://aclanthology.org/2021.naacl-srw.1/](https://aclanthology.org/2021.naacl-srw.1/)
+- 代码链接：[https://github.com/zouharvi/reference-mt-distill](https://github.com/zouharvi/reference-mt-distill)
+
+#### Parallel Text Alignment and Monolingual Parallel Corpus Creation from Philosophical Texts for Text Simplification
+
+- 论文链接：[https://aclanthology.org/2021.naacl-srw.6/](https://aclanthology.org/2021.naacl-srw.6/)
+- 代码链接：[https://github.com/stefanpaun/massalign](https://github.com/stefanpaun/massalign)
+
+#### A Sliding-Window Approach to Automatic Creation of Meeting Minutes
+
+- 论文链接：[https://aclanthology.org/2021.naacl-srw.10/](https://aclanthology.org/2021.naacl-srw.10/)
+- 代码链接：[https://github.com/ucfnlp/meeting-sliding-window](https://github.com/ucfnlp/meeting-sliding-window)
+
+#### Morphology-Aware Meta-Embeddings for Tamil
+
+- 论文链接：[https://aclanthology.org/2021.naacl-srw.13/](https://aclanthology.org/2021.naacl-srw.13/)
+- 代码链接：[https://github.com/arjun-sai-krishnan/tamil-morpho-embeddings](https://github.com/arjun-sai-krishnan/tamil-morpho-embeddings)
+
+#### Seed Word Selection for Weakly-Supervised Text Classification with Unsupervised Error Estimation
+
+- 论文链接：[https://aclanthology.org/2021.naacl-srw.14/](https://aclanthology.org/2021.naacl-srw.14/)
+- 代码链接：[https://github.com/YipingNUS/OptimSeed](https://github.com/YipingNUS/OptimSeed)
+
+#### Emotion Classification in a Resource Constrained Language Using Transformer-based Approach
+
+- 论文链接：[https://aclanthology.org/2021.naacl-srw.19/](https://aclanthology.org/2021.naacl-srw.19/)
+- 代码链接：[https://github.com/omar-sharif03/NAACL-SRW-2021](https://github.com/omar-sharif03/NAACL-SRW-2021)
+
+#### Beyond Paragraphs: NLP for Long Sequences
+
+- 论文链接：[https://aclanthology.org/2021.naacl-tutorials.5/](https://aclanthology.org/2021.naacl-tutorials.5/)
+- 代码链接：[https://github.com/allenai/naacl2021-longdoc-tutorial](https://github.com/allenai/naacl2021-longdoc-tutorial)
+
+#### Proteno: Text Normalization with Limited Data for Fast Deployment in Text to Speech Systems
+
+- 论文链接：[https://aclanthology.org/2021.naacl-industry.10/](https://aclanthology.org/2021.naacl-industry.10/)
+- 代码链接：[https://github.com/amazon-research/proteno](https://github.com/amazon-research/proteno)
+
+#### Addressing the Vulnerability of NMT in Input Perturbations
+
+- 论文链接：[https://aclanthology.org/2021.naacl-industry.11/](https://aclanthology.org/2021.naacl-industry.11/)
+- 代码链接：[https://github.com/wwxu21/CER-MT](https://github.com/wwxu21/CER-MT)
+
+#### Autocorrect in the Process of Translation — Multi-task Learning Improves Dialogue Machine Translation
+
+- 论文链接：[https://aclanthology.org/2021.naacl-industry.14/](https://aclanthology.org/2021.naacl-industry.14/)
+- 代码链接：[https://github.com/rgwt123/DialogueMT](https://github.com/rgwt123/DialogueMT)
+
+#### LightSeq: A High Performance Inference Library for Transformers
+
+- 论文链接：[https://aclanthology.org/2021.naacl-industry.15/](https://aclanthology.org/2021.naacl-industry.15/)
+- 代码链接：[https://github.com/bytedance/lightseq](https://github.com/bytedance/lightseq)
+
+#### Practical Transformer-based Multilingual Text Classification
+
+- 论文链接：[https://aclanthology.org/2021.naacl-industry.16/](https://aclanthology.org/2021.naacl-industry.16/)
+- 代码链接：[https://github.com/sentropytechnologies/hateval2019-relabeled](https://github.com/sentropytechnologies/hateval2019-relabeled)
+
+#### Query2Prod2Vec: Grounded Word Embeddings for eCommerce
+
+- 论文链接：[https://aclanthology.org/2021.naacl-industry.20/](https://aclanthology.org/2021.naacl-industry.20/)
+- 代码链接：[https://github.com/coveooss/ecommerce-query-embeddings](https://github.com/coveooss/ecommerce-query-embeddings)
+
+#### Technical Question Answering across Tasks and Domains
+
+- 论文链接：[https://aclanthology.org/2021.naacl-industry.23/](https://aclanthology.org/2021.naacl-industry.23/)
+- 代码链接：[https://github.com/wyu97/TransTD](https://github.com/wyu97/TransTD)
+
+#### Intent Features for Rich Natural Language Understanding
+
+- 论文链接：[https://aclanthology.org/2021.naacl-industry.27/](https://aclanthology.org/2021.naacl-industry.27/)
+- 代码链接：[https://github.com/blester125/global-local-model](https://github.com/blester125/global-local-model)
+
+#### Benchmarking Commercial Intent Detection Services with Practice-Driven Evaluations
+
+- 论文链接：[https://aclanthology.org/2021.naacl-industry.38/](https://aclanthology.org/2021.naacl-industry.38/)
+- 代码链接：[https://github.com/haodeqi/BenchmarkingIntentDetection](https://github.com/haodeqi/BenchmarkingIntentDetection)

@@ -1398,3 +1398,757 @@
 - 论文链接：[https://aclanthology.org/2022.naacl-industry.37/](https://aclanthology.org/2022.naacl-industry.37/)
 - 代码链接：[https://paperswithcode.com/paper/?acl=2022.naacl-industry.37](https://paperswithcode.com/paper/?acl=2022.naacl-industry.37)
 
+
+## PaperVault 补充
+
+<!-- Source: https://github.com/youngfish42/PaperVault -->
+
+#### PubHealthTab: A Public Health Table-based Dataset for Evidence-based Fact Checking
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.1/](https://aclanthology.org/2022.findings-naacl.1/)
+- 代码链接：[https://github.com/mubasharaak/pubhealthtab](https://github.com/mubasharaak/pubhealthtab)
+
+#### Improving Conversational Recommendation Systems’ Quality with Context-Aware Item Meta-Information
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.4/](https://aclanthology.org/2022.findings-naacl.4/)
+- 代码链接：[https://github.com/by2299/mese](https://github.com/by2299/mese)
+
+#### SEQZERO: Few-shot Compositional Semantic Parsing with Sequential Prompts and Zero-shot Models
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.5/](https://aclanthology.org/2022.findings-naacl.5/)
+- 代码链接：[https://github.com/amzn/seqzero](https://github.com/amzn/seqzero)
+
+#### MultiVerS: Improving scientific claim verification with weak supervision and full-document context
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.6/](https://aclanthology.org/2022.findings-naacl.6/)
+- 代码链接：[https://github.com/dwadden/multivers](https://github.com/dwadden/multivers)
+
+#### Self-Supervised Contrastive Learning with Adversarial Perturbations for Defending Word Substitution-based Attacks
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.8/](https://aclanthology.org/2022.findings-naacl.8/)
+- 代码链接：[https://github.com/LotusDYH/ssl_robust](https://github.com/LotusDYH/ssl_robust)
+
+#### In-BoXBART: Get Instructions into Biomedical Multi-Task Learning
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.10/](https://aclanthology.org/2022.findings-naacl.10/)
+- 代码链接：[https://github.com/mihir3009/in-boxbart](https://github.com/mihir3009/in-boxbart)
+
+#### SemAttack: Natural Textual Attacks via Different Semantic Spaces
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.14/](https://aclanthology.org/2022.findings-naacl.14/)
+- 代码链接：[https://github.com/AI-secure/SemAttack](https://github.com/AI-secure/SemAttack)
+
+#### Zero-shot Cross-lingual Conversational Semantic Role Labeling
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.20/](https://aclanthology.org/2022.findings-naacl.20/)
+- 代码链接：[https://github.com/hahahawu/zero-shot-xcsrl](https://github.com/hahahawu/zero-shot-xcsrl)
+
+#### A Framework to Generate High-Quality Datapoints for Multiple Novel Intent Detection
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.21/](https://aclanthology.org/2022.findings-naacl.21/)
+- 代码链接：[https://github.com/sukannyapurkayastha/mnid](https://github.com/sukannyapurkayastha/mnid)
+
+#### Design Challenges for a Multi-Perspective Search Engine
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.22/](https://aclanthology.org/2022.findings-naacl.22/)
+- 代码链接：[https://github.com/cogcomp/multi-persp-search-engine](https://github.com/cogcomp/multi-persp-search-engine)
+
+#### PCEE-BERT: Accelerating BERT Inference via Patient and Confident Early Exiting
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.25/](https://aclanthology.org/2022.findings-naacl.25/)
+- 代码链接：[https://github.com/michael-wzhu/PCEE-BERT](https://github.com/michael-wzhu/PCEE-BERT)
+
+#### Learning to repair: Repairing model output errors after deployment using a dynamic memory of feedback
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.26/](https://aclanthology.org/2022.findings-naacl.26/)
+- 代码链接：[https://github.com/allenai/interscript](https://github.com/allenai/interscript)
+
+#### Extracting Temporal Event Relation with Syntax-guided Graph Transformer
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.29/](https://aclanthology.org/2022.findings-naacl.29/)
+- 代码链接：[https://github.com/vt-nlp/syntax-guided-graph-transformer](https://github.com/vt-nlp/syntax-guided-graph-transformer)
+
+#### Few-Shot Self-Rationalization with Natural Language Prompts
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.31/](https://aclanthology.org/2022.findings-naacl.31/)
+- 代码链接：[https://github.com/allenai/feb](https://github.com/allenai/feb)
+
+#### Literature-Augmented Clinical Outcome Prediction
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.33/](https://aclanthology.org/2022.findings-naacl.33/)
+- 代码链接：[https://github.com/allenai/beep](https://github.com/allenai/beep)
+
+#### Entailment Tree Explanations via Iterative Retrieval-Generation Reasoner
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.35/](https://aclanthology.org/2022.findings-naacl.35/)
+- 代码链接：[https://github.com/amazon-research/irgr](https://github.com/amazon-research/irgr)
+
+#### A Question-Answer Driven Approach to Reveal Affirmative Interpretations from Verbal Negations
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.37/](https://aclanthology.org/2022.findings-naacl.37/)
+- 代码链接：[https://github.com/mosharafhossain/afin](https://github.com/mosharafhossain/afin)
+
+#### Fine-grained Image Captioning with CLIP Reward
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.39/](https://aclanthology.org/2022.findings-naacl.39/)
+- 代码链接：[https://github.com/j-min/clip-caption-reward](https://github.com/j-min/clip-caption-reward)
+
+#### Modeling Ideological Salience and Framing in Polarized Online Groups with Graph Neural Networks and Structured Sparsity
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.41/](https://aclanthology.org/2022.findings-naacl.41/)
+- 代码链接：[https://github.com/valentinhofmann/slap4slip](https://github.com/valentinhofmann/slap4slip)
+
+#### On Measuring Social Biases in Prompt-Based Multi-Task Learning
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.42/](https://aclanthology.org/2022.findings-naacl.42/)
+- 代码链接：[https://github.com/feyzaakyurek/bbnli](https://github.com/feyzaakyurek/bbnli)
+
+#### Instilling Type Knowledge in Language Models via Multi-Task QA
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.45/](https://aclanthology.org/2022.findings-naacl.45/)
+- 代码链接：[https://github.com/amazon-research/wikiwiki-dataset](https://github.com/amazon-research/wikiwiki-dataset)
+
+#### StATIK: Structure and Text for Inductive Knowledge Graph Completion
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.46/](https://aclanthology.org/2022.findings-naacl.46/)
+- 代码链接：[https://github.com/elanmarkowitz/statik](https://github.com/elanmarkowitz/statik)
+
+#### CoCoA-MT: A Dataset and Benchmark for Contrastive Controlled MT with Application to Formality
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.47/](https://aclanthology.org/2022.findings-naacl.47/)
+- 代码链接：[https://github.com/amazon-research/contrastive-controlled-mt](https://github.com/amazon-research/contrastive-controlled-mt)
+
+#### CLEAR: Improving Vision-Language Navigation with Cross-Lingual, Environment-Agnostic Representations
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.48/](https://aclanthology.org/2022.findings-naacl.48/)
+- 代码链接：[https://github.com/jialuli-luka/clear](https://github.com/jialuli-luka/clear)
+
+#### Opponent Modeling in Negotiation Dialogues by Related Data Adaptation
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.50/](https://aclanthology.org/2022.findings-naacl.50/)
+- 代码链接：[https://github.com/kushalchawla/opponent-modeling](https://github.com/kushalchawla/opponent-modeling)
+
+#### LongT5: Efficient Text-To-Text Transformer for Long Sequences
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.55/](https://aclanthology.org/2022.findings-naacl.55/)
+- 代码链接：[https://github.com/google-research/longt5](https://github.com/google-research/longt5)
+
+#### LM-CORE: Language Models with Contextually Relevant External Knowledge
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.57/](https://aclanthology.org/2022.findings-naacl.57/)
+- 代码链接：[https://github.com/sumit-research/lmcore](https://github.com/sumit-research/lmcore)
+
+#### A Generative Language Model for Few-shot Aspect-Based Sentiment Analysis
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.58/](https://aclanthology.org/2022.findings-naacl.58/)
+- 代码链接：[https://github.com/salesforce/fewshot_absa](https://github.com/salesforce/fewshot_absa)
+
+#### MultiNERD: A Multilingual, Multi-Genre and Fine-Grained Dataset for Named Entity Recognition (and Disambiguation)
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.60/](https://aclanthology.org/2022.findings-naacl.60/)
+- 代码链接：[https://github.com/Babelscape/multinerd](https://github.com/Babelscape/multinerd)
+
+#### Measuring and Improving Compositional Generalization in Text-to-SQL via Component Alignment
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.62/](https://aclanthology.org/2022.findings-naacl.62/)
+- 代码链接：[https://github.com/ygan/spiderss-spidercg](https://github.com/ygan/spiderss-spidercg)
+
+#### Learning Rich Representation of Keyphrases from Text
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.67/](https://aclanthology.org/2022.findings-naacl.67/)
+- 代码链接：[https://github.com/bloomberg/kbir_keybart](https://github.com/bloomberg/kbir_keybart)
+
+#### An Information-Theoretic Approach and Dataset for Probing Gender Stereotypes in Multilingual Masked Language Models
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.69/](https://aclanthology.org/2022.findings-naacl.69/)
+- 代码链接：[https://github.com/vsteinborn/s_jsd-multilingual-bias](https://github.com/vsteinborn/s_jsd-multilingual-bias)
+
+#### MM-Claims: A Dataset for Multimodal Claim Detection in Social Media
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.72/](https://aclanthology.org/2022.findings-naacl.72/)
+- 代码链接：[https://github.com/tibhannover/mm_claims](https://github.com/tibhannover/mm_claims)
+
+#### QLEVR: A Diagnostic Dataset for Quantificational Language and Elementary Visual Reasoning
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.73/](https://aclanthology.org/2022.findings-naacl.73/)
+- 代码链接：[https://github.com/zechenli03/QLEVR](https://github.com/zechenli03/QLEVR)
+
+#### MWP-BERT: Numeracy-Augmented Pre-training for Math Word Problem Solving
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.74/](https://aclanthology.org/2022.findings-naacl.74/)
+- 代码链接：[https://github.com/lzhenwen/mwp-bert](https://github.com/lzhenwen/mwp-bert)
+
+#### Restoring Hebrew Diacritics Without a Dictionary
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.75/](https://aclanthology.org/2022.findings-naacl.75/)
+- 代码链接：[https://github.com/elazarg/nakdimon](https://github.com/elazarg/nakdimon)
+
+#### Masked Summarization to Generate Factually Inconsistent Summaries for Improved Factual Consistency Checking
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.76/](https://aclanthology.org/2022.findings-naacl.76/)
+- 代码链接：[https://github.com/hwanheelee1993/MFMA](https://github.com/hwanheelee1993/MFMA)
+
+#### Seeing the wood for the trees: a contrastive regularization method for the low-resource Knowledge Base Question Answering
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.82/](https://aclanthology.org/2022.findings-naacl.82/)
+- 代码链接：[https://github.com/jakeymei/smoco](https://github.com/jakeymei/smoco)
+
+#### Phrase-level Textual Adversarial Attack with Label Preservation
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.83/](https://aclanthology.org/2022.findings-naacl.83/)
+- 代码链接：[https://github.com/yibin-lei/plat](https://github.com/yibin-lei/plat)
+
+#### OTExtSum: Extractive Text Summarisation with Optimal Transport
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.85/](https://aclanthology.org/2022.findings-naacl.85/)
+- 代码链接：[https://github.com/peggypytang/otextsum](https://github.com/peggypytang/otextsum)
+
+#### Speeding Up Entmax
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.86/](https://aclanthology.org/2022.findings-naacl.86/)
+- 代码链接：[https://github.com/maxattezekbayev/alpha-relu](https://github.com/maxattezekbayev/alpha-relu)
+
+#### Improving Code-Switching Dependency Parsing with Semi-Supervised Auxiliary Tasks
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.87/](https://aclanthology.org/2022.findings-naacl.87/)
+- 代码链接：[https://github.com/sb-b/ss-cs-depparser](https://github.com/sb-b/ss-cs-depparser)
+
+#### Towards Computationally Feasible Deep Active Learning
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.90/](https://aclanthology.org/2022.findings-naacl.90/)
+- 代码链接：[https://github.com/airi-institute/al_nlp_feasible](https://github.com/airi-institute/al_nlp_feasible)
+
+#### Retrieval-Augmented Multilingual Keyphrase Generation with Retriever-Generator Iterative Training
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.92/](https://aclanthology.org/2022.findings-naacl.92/)
+- 代码链接：[https://github.com/yifan-gao/multilingual_keyphrase_generation](https://github.com/yifan-gao/multilingual_keyphrase_generation)
+
+#### FAtNet: Cost-Effective Approach Towards Mitigating the Linguistic Bias in Speaker Verification Systems
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.93/](https://aclanthology.org/2022.findings-naacl.93/)
+- 代码链接：[https://github.com/vdivyas/fatnet](https://github.com/vdivyas/fatnet)
+
+#### Syntax Controlled Knowledge Graph-to-Text Generation with Order and Semantic Consistency
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.95/](https://aclanthology.org/2022.findings-naacl.95/)
+- 代码链接：[https://github.com/lemonqc/kg2text](https://github.com/lemonqc/kg2text)
+
+#### BanglaBERT: Language Model Pretraining and Benchmarks for Low-Resource Language Understanding Evaluation in Bangla
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.98/](https://aclanthology.org/2022.findings-naacl.98/)
+- 代码链接：[https://github.com/csebuetnlp/banglabert](https://github.com/csebuetnlp/banglabert)
+
+#### Low-resource Entity Set Expansion: A Comprehensive Study on User-generated Text
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.100/](https://aclanthology.org/2022.findings-naacl.100/)
+- 代码链接：[https://github.com/megagonlabs/esebench](https://github.com/megagonlabs/esebench)
+
+#### POLITICS: Pretraining with Same-story Article Comparison for Ideology Prediction and Stance Detection
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.101/](https://aclanthology.org/2022.findings-naacl.101/)
+- 代码链接：[https://github.com/launchnlp/politics](https://github.com/launchnlp/politics)
+
+#### Empowering parameter-efficient transfer learning by recognizing the kernel structure in self-attention
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.102/](https://aclanthology.org/2022.findings-naacl.102/)
+- 代码链接：[https://github.com/ychen-stat-ml/kernel-adapters](https://github.com/ychen-stat-ml/kernel-adapters)
+
+#### Unbiased Math Word Problems Benchmark for Mitigating Solving Bias
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.104/](https://aclanthology.org/2022.findings-naacl.104/)
+- 代码链接：[https://github.com/yangzhch6/UnbiasedMWP](https://github.com/yangzhch6/UnbiasedMWP)
+
+#### Pathway2Text: Dataset and Method for Biomedical Pathway Description Generation
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.108/](https://aclanthology.org/2022.findings-naacl.108/)
+- 代码链接：[https://github.com/yjwtheonly/pathway2text](https://github.com/yjwtheonly/pathway2text)
+
+#### Exploring Neural Models for Query-Focused Summarization
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.109/](https://aclanthology.org/2022.findings-naacl.109/)
+- 代码链接：[https://github.com/salesforce/query-focused-sum](https://github.com/salesforce/query-focused-sum)
+
+#### MixQG: Neural Question Generation with Mixed Answer Types
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.111/](https://aclanthology.org/2022.findings-naacl.111/)
+- 代码链接：[https://github.com/salesforce/qgen](https://github.com/salesforce/qgen)
+
+#### Temporal Attention for Language Models
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.112/](https://aclanthology.org/2022.findings-naacl.112/)
+- 代码链接：[https://github.com/guyrosin/temporal_attention](https://github.com/guyrosin/temporal_attention)
+
+#### Efficient Few-Shot Fine-Tuning for Opinion Summarization
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.113/](https://aclanthology.org/2022.findings-naacl.113/)
+- 代码链接：[https://github.com/amazon-research/adasum](https://github.com/amazon-research/adasum)
+
+#### Domain-matched Pre-training Tasks for Dense Retrieval
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.114/](https://aclanthology.org/2022.findings-naacl.114/)
+- 代码链接：[https://github.com/facebookresearch/dpr-scale](https://github.com/facebookresearch/dpr-scale)
+
+#### UniK-QA: Unified Representations of Structured and Unstructured Knowledge for Open-Domain Question Answering
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.115/](https://aclanthology.org/2022.findings-naacl.115/)
+- 代码链接：[https://github.com/facebookresearch/UniK-QA](https://github.com/facebookresearch/UniK-QA)
+
+#### Hierarchical Transformers Are More Efficient Language Models
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.117/](https://aclanthology.org/2022.findings-naacl.117/)
+- 代码链接：[https://github.com/google/trax/blob/master/trax/models/research/hourglass.py](https://github.com/google/trax/blob/master/trax/models/research/hourglass.py)
+
+#### DISARM: Detecting the Victims Targeted by Harmful Memes
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.118/](https://aclanthology.org/2022.findings-naacl.118/)
+- 代码链接：[https://github.com/lcs2-iiitd/disarm](https://github.com/lcs2-iiitd/disarm)
+
+#### Good Visual Guidance Make A Better Extractor: Hierarchical Visual Prefix for Multimodal Entity and Relation Extraction
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.121/](https://aclanthology.org/2022.findings-naacl.121/)
+- 代码链接：[https://github.com/zjunlp/HVPNeT](https://github.com/zjunlp/HVPNeT)
+
+#### The Role of Context in Detecting Previously Fact-Checked Claims
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.122/](https://aclanthology.org/2022.findings-naacl.122/)
+- 代码链接：[https://github.com/firojalam/detecting-previously-fact-checked-claims](https://github.com/firojalam/detecting-previously-fact-checked-claims)
+
+#### EVI: Multilingual Spoken Dialogue Tasks and Dataset for Knowledge-Based Enrolment, Verification, and Identification
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.124/](https://aclanthology.org/2022.findings-naacl.124/)
+- 代码链接：[https://github.com/PolyAI-LDN/evi-paper](https://github.com/PolyAI-LDN/evi-paper)
+
+#### Post-Training Dialogue Summarization using Pseudo-Paraphrasing
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.125/](https://aclanthology.org/2022.findings-naacl.125/)
+- 代码链接：[https://github.com/jiaqisjtu/dialsent-pgg](https://github.com/jiaqisjtu/dialsent-pgg)
+
+#### A Dual-Channel Framework for Sarcasm Recognition by Detecting Sentiment Conflict
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.126/](https://aclanthology.org/2022.findings-naacl.126/)
+- 代码链接：[https://github.com/yiyi-ict/dual-channel-for-sarcasm](https://github.com/yiyi-ict/dual-channel-for-sarcasm)
+
+#### Zero-shot Entity Linking with Less Data
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.127/](https://aclanthology.org/2022.findings-naacl.127/)
+- 代码链接：[https://github.com/IBM/NeSLET](https://github.com/IBM/NeSLET)
+
+#### Revisiting Generative Commonsense Reasoning: A Pre-Ordering Approach
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.129/](https://aclanthology.org/2022.findings-naacl.129/)
+- 代码链接：[https://github.com/zhaochaocs/planned-ptm](https://github.com/zhaochaocs/planned-ptm)
+
+#### Identifying and Mitigating Spurious Correlations for Improving Robustness in NLP Models
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.130/](https://aclanthology.org/2022.findings-naacl.130/)
+- 代码链接：[https://github.com/tianlu-wang/Identifying-and-Mitigating-Spurious-Correlations-for-Improving-Robustness-in-NLP-Models](https://github.com/tianlu-wang/Identifying-and-Mitigating-Spurious-Correlations-for-Improving-Robustness-in-NLP-Models)
+
+#### Great~Truths~are ~Always ~Simple: A Rather Simple Knowledge Encoder for Enhancing the Commonsense Reasoning Capacity of Pre-Trained Models
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.131/](https://aclanthology.org/2022.findings-naacl.131/)
+- 代码链接：[https://github.com/RUCAIBox/SAFE](https://github.com/RUCAIBox/SAFE)
+
+#### Analyzing the Intensity of Complaints on Social Media
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.132/](https://aclanthology.org/2022.findings-naacl.132/)
+- 代码链接：[https://github.com/nlpfang/complaint_intensity](https://github.com/nlpfang/complaint_intensity)
+
+#### Detecting Narrative Elements in Informational Text
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.133/](https://aclanthology.org/2022.findings-naacl.133/)
+- 代码链接：[https://github.com/efle/neat](https://github.com/efle/neat)
+
+#### Crake: Causal-Enhanced Table-Filler for Question Answering over Large Scale Knowledge Base
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.136/](https://aclanthology.org/2022.findings-naacl.136/)
+- 代码链接：[https://github.com/aozmh/crake](https://github.com/aozmh/crake)
+
+#### Exploring the Universal Vulnerability of Prompt-based Learning Paradigm
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.137/](https://aclanthology.org/2022.findings-naacl.137/)
+- 代码链接：[https://github.com/leix28/prompt-universal-vulnerability](https://github.com/leix28/prompt-universal-vulnerability)
+
+#### Learn from Relation Information: Towards Prototype Representation Rectification for Few-Shot Relation Extraction
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.139/](https://aclanthology.org/2022.findings-naacl.139/)
+- 代码链接：[https://github.com/lylylylylyly/prm-fsre](https://github.com/lylylylylyly/prm-fsre)
+
+#### HUE: Pretrained Model and Dataset for Understanding Hanja Documents of Ancient Korea
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.140/](https://aclanthology.org/2022.findings-naacl.140/)
+- 代码链接：[https://github.com/haneul-yoo/hue](https://github.com/haneul-yoo/hue)
+
+#### SeaD: End-to-end Text-to-SQL Generation with Schema-aware Denoising
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.141/](https://aclanthology.org/2022.findings-naacl.141/)
+- 代码链接：[https://github.com/salesforce/WikiSQL](https://github.com/salesforce/WikiSQL)
+
+#### CRUSH: Contextually Regularized and User anchored Self-supervised Hate speech Detection
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.144/](https://aclanthology.org/2022.findings-naacl.144/)
+- 代码链接：[https://github.com/parag1604/crush](https://github.com/parag1604/crush)
+
+#### METGEN: A Module-Based Entailment Tree Generation Framework for Answer Explanation
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.145/](https://aclanthology.org/2022.findings-naacl.145/)
+- 代码链接：[https://github.com/Raising-hrx/MetGen](https://github.com/Raising-hrx/MetGen)
+
+#### A Timestep aware Sentence Embedding and Acme Coverage for Brief but Informative Title Generation
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.146/](https://aclanthology.org/2022.findings-naacl.146/)
+- 代码链接：[https://github.com/alipay/timestep-aware-sentenceembedding-and-acmecoverage](https://github.com/alipay/timestep-aware-sentenceembedding-and-acmecoverage)
+
+#### XLTime: A Cross-Lingual Knowledge Transfer Framework for Temporal Expression Extraction
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.148/](https://aclanthology.org/2022.findings-naacl.148/)
+- 代码链接：[https://github.com/yuweicao-uic/xltime](https://github.com/yuweicao-uic/xltime)
+
+#### BehancePR: A Punctuation Restoration Dataset for Livestreaming Video Transcript
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.149/](https://aclanthology.org/2022.findings-naacl.149/)
+- 代码链接：[http://github.com/nlp-uoregon/behancepr](http://github.com/nlp-uoregon/behancepr)
+
+#### Uncertainty-Aware Cross-Lingual Transfer with Pseudo Partial Labels
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.153/](https://aclanthology.org/2022.findings-naacl.153/)
+- 代码链接：[https://github.com/slei109/cltp](https://github.com/slei109/cltp)
+
+#### NLU++: A Multi-Label, Slot-Rich, Generalisable Dataset for Natural Language Understanding in Task-Oriented Dialogue
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.154/](https://aclanthology.org/2022.findings-naacl.154/)
+- 代码链接：[https://github.com/PolyAI-LDN/task-specific-datasets](https://github.com/PolyAI-LDN/task-specific-datasets)
+
+#### Challenges in Generalization in Open Domain Question Answering
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.155/](https://aclanthology.org/2022.findings-naacl.155/)
+- 代码链接：[https://github.com/likicode/QA-generalize](https://github.com/likicode/QA-generalize)
+
+#### Beyond Distributional Hypothesis: Let Language Models Learn Meaning-Text Correspondence
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.156/](https://aclanthology.org/2022.findings-naacl.156/)
+- 代码链接：[https://github.com/mj-jang/beyond-distributional](https://github.com/mj-jang/beyond-distributional)
+
+#### Por Qué Não Utiliser Alla Språk? Mixed Training with Gradient Optimization in Few-Shot Cross-Lingual Transfer
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.157/](https://aclanthology.org/2022.findings-naacl.157/)
+- 代码链接：[https://github.com/fe1ixxu/mixed-gradient-few-shot](https://github.com/fe1ixxu/mixed-gradient-few-shot)
+
+#### Learning to Execute Actions or Ask Clarification Questions
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.158/](https://aclanthology.org/2022.findings-naacl.158/)
+- 代码链接：[https://github.com/zhengxiangshi/learntoask](https://github.com/zhengxiangshi/learntoask)
+
+#### Capturing Conversational Interaction for Question Answering via Global History Reasoning
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.159/](https://aclanthology.org/2022.findings-naacl.159/)
+- 代码链接：[https://github.com/jaytsien/GHR](https://github.com/jaytsien/GHR)
+
+#### Controllable Sentence Simplification via Operation Classification
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.161/](https://aclanthology.org/2022.findings-naacl.161/)
+- 代码链接：[https://github.com/liamcripwell/control_simp](https://github.com/liamcripwell/control_simp)
+
+#### Towards Job-Transition-Tag Graph for a Better Job Title Representation Learning
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.164/](https://aclanthology.org/2022.findings-naacl.164/)
+- 代码链接：[https://github.com/zhujun81/job_title_representation](https://github.com/zhujun81/job_title_representation)
+
+#### CL-ReLKT: Cross-lingual Language Knowledge Transfer for Multilingual Retrieval Question Answering
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.165/](https://aclanthology.org/2022.findings-naacl.165/)
+- 代码链接：[https://github.com/mrpeerat/CL-ReLKT](https://github.com/mrpeerat/CL-ReLKT)
+
+#### BORT: Back and Denoising Reconstruction for End-to-End Task-Oriented Dialog
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.166/](https://aclanthology.org/2022.findings-naacl.166/)
+- 代码链接：[https://github.com/jd-ai-research-nlp/bort](https://github.com/jd-ai-research-nlp/bort)
+
+#### Multi-stage Distillation Framework for Cross-Lingual Semantic Similarity Matching
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.167/](https://aclanthology.org/2022.findings-naacl.167/)
+- 代码链接：[https://github.com/KB-Ding/Multi-stage-Distillaton-Framework](https://github.com/KB-Ding/Multi-stage-Distillaton-Framework)
+
+#### Specializing Pre-trained Language Models for Better Relational Reasoning via Network Pruning
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.169/](https://aclanthology.org/2022.findings-naacl.169/)
+- 代码链接：[https://github.com/drsy/lamp](https://github.com/drsy/lamp)
+
+#### A Label-Aware Autoregressive Framework for Cross-Domain NER
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.171/](https://aclanthology.org/2022.findings-naacl.171/)
+- 代码链接：[https://github.com/jinpeng01/laner](https://github.com/jinpeng01/laner)
+
+#### LiST: Lite Prompted Self-training Makes Parameter-efficient Few-shot Learners
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.174/](https://aclanthology.org/2022.findings-naacl.174/)
+- 代码链接：[https://github.com/microsoft/list](https://github.com/microsoft/list)
+
+#### CLMLF:A Contrastive Learning and Multi-Layer Fusion Method for Multimodal Sentiment Detection
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.175/](https://aclanthology.org/2022.findings-naacl.175/)
+- 代码链接：[https://github.com/link-li/clmlf](https://github.com/link-li/clmlf)
+
+#### Weakly Supervised Text Classification using Supervision Signals from a Language Model
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.176/](https://aclanthology.org/2022.findings-naacl.176/)
+- 代码链接：[https://github.com/hkust-knowcomp/wddc](https://github.com/hkust-knowcomp/wddc)
+
+#### Analytical Reasoning of Text
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.177/](https://aclanthology.org/2022.findings-naacl.177/)
+- 代码链接：[https://github.com/zhongwanjun/AR-LSAT](https://github.com/zhongwanjun/AR-LSAT)
+
+#### CCQA: A New Web-Scale Question Answering Dataset for Model Pre-Training
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.184/](https://aclanthology.org/2022.findings-naacl.184/)
+- 代码链接：[https://github.com/facebookresearch/CCQA](https://github.com/facebookresearch/CCQA)
+
+#### Learning Discriminative Representations for Open Relation Extraction with Instance Ranking and Label Calibration
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.186/](https://aclanthology.org/2022.findings-naacl.186/)
+- 代码链接：[https://github.com/shusenwang/naacl2022-irlc](https://github.com/shusenwang/naacl2022-irlc)
+
+#### Textual Entailment for Event Argument Extraction: Zero- and Few-Shot with Multi-Source Learning
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.187/](https://aclanthology.org/2022.findings-naacl.187/)
+- 代码链接：[https://github.com/osainz59/Ask2Transformers](https://github.com/osainz59/Ask2Transformers)
+
+#### RCL: Relation Contrastive Learning for Zero-Shot Relation Extraction
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.188/](https://aclanthology.org/2022.findings-naacl.188/)
+- 代码链接：[https://github.com/shusenwang/naacl2022-rcl](https://github.com/shusenwang/naacl2022-rcl)
+
+#### ATP: AMRize Then Parse! Enhancing AMR Parsing with PseudoAMRs
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.190/](https://aclanthology.org/2022.findings-naacl.190/)
+- 代码链接：[https://github.com/PKUnlp-icler/ATP](https://github.com/PKUnlp-icler/ATP)
+
+#### TaCL: Improving BERT Pre-training with Token-aware Contrastive Learning
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.191/](https://aclanthology.org/2022.findings-naacl.191/)
+- 代码链接：[https://github.com/yxuansu/tacl](https://github.com/yxuansu/tacl)
+
+#### MTG: A Benchmark Suite for Multilingual Text Generation
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.192/](https://aclanthology.org/2022.findings-naacl.192/)
+- 代码链接：[https://github.com/zide05/MTG](https://github.com/zide05/MTG)
+
+#### Weakly Supervised Text-to-SQL Parsing through Question Decomposition
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.193/](https://aclanthology.org/2022.findings-naacl.193/)
+- 代码链接：[https://github.com/tomerwolgithub/question-decomposition-to-sql](https://github.com/tomerwolgithub/question-decomposition-to-sql)
+
+#### Detect Rumors in Microblog Posts for Low-Resource Domains via Adversarial Contrastive Learning
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.194/](https://aclanthology.org/2022.findings-naacl.194/)
+- 代码链接：[https://github.com/daniellin97/aclr4rumor-naacl2022](https://github.com/daniellin97/aclr4rumor-naacl2022)
+
+#### DialoKG: Knowledge-Structure Aware Task-Oriented Dialogue Generation
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.195/](https://aclanthology.org/2022.findings-naacl.195/)
+- 代码链接：[https://github.com/rashad101/dialokg](https://github.com/rashad101/dialokg)
+
+#### Zero-Shot Event Detection Based on Ordered Contrastive Learning and Prompt-Based Prediction
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.196/](https://aclanthology.org/2022.findings-naacl.196/)
+- 代码链接：[https://github.com/kindroach/naacl-zeop](https://github.com/kindroach/naacl-zeop)
+
+#### KETOD: Knowledge-Enriched Task-Oriented Dialogue
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.197/](https://aclanthology.org/2022.findings-naacl.197/)
+- 代码链接：[https://github.com/facebookresearch/ketod](https://github.com/facebookresearch/ketod)
+
+#### AdapterBias: Parameter-efficient Token-dependent Representation Shift for Adapters in NLP Tasks
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.199/](https://aclanthology.org/2022.findings-naacl.199/)
+- 代码链接：[https://github.com/Allen0307/AdapterBias](https://github.com/Allen0307/AdapterBias)
+
+#### Bridging the Gap between Training and Inference: Multi-Candidate Optimization for Diverse Neural Machine Translation
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.200/](https://aclanthology.org/2022.findings-naacl.200/)
+- 代码链接：[https://github.com/DeepLearnXMU/MultiCanOptim](https://github.com/DeepLearnXMU/MultiCanOptim)
+
+#### Learning from Bootstrapping and Stepwise Reinforcement Reward: A Semi-Supervised Framework for Text Style Transfer
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.201/](https://aclanthology.org/2022.findings-naacl.201/)
+- 代码链接：[https://github.com/seq-to-mind/semi-style-transfer](https://github.com/seq-to-mind/semi-style-transfer)
+
+#### EA2E: Improving Consistency with Event Awareness for Document-Level Argument Extraction
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.202/](https://aclanthology.org/2022.findings-naacl.202/)
+- 代码链接：[https://github.com/zqs1943/docie](https://github.com/zqs1943/docie)
+
+#### Label Refinement via Contrastive Learning for Distantly-Supervised Named Entity Recognition
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.203/](https://aclanthology.org/2022.findings-naacl.203/)
+- 代码链接：[https://github.com/yinghy18/credel](https://github.com/yinghy18/credel)
+
+#### Negative Sample is Negative in Its Own Way: Tailoring Negative Sentences for Image-Text Retrieval
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.204/](https://aclanthology.org/2022.findings-naacl.204/)
+- 代码链接：[https://github.com/libertfan/tags](https://github.com/libertfan/tags)
+
+#### Explore More Guidance: A Task-aware Instruction Network for Sign Language Translation Enhanced with Data Augmentation
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.205/](https://aclanthology.org/2022.findings-naacl.205/)
+- 代码链接：[https://github.com/yongcaoplus/tin-slt](https://github.com/yongcaoplus/tin-slt)
+
+#### RoViST: Learning Robust Metrics for Visual Storytelling
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.206/](https://aclanthology.org/2022.findings-naacl.206/)
+- 代码链接：[https://github.com/usydnlp/rovist](https://github.com/usydnlp/rovist)
+
+#### Query2Particles: Knowledge Graph Reasoning with Particle Embeddings
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.207/](https://aclanthology.org/2022.findings-naacl.207/)
+- 代码链接：[https://github.com/hkust-knowcomp/query2particles](https://github.com/hkust-knowcomp/query2particles)
+
+#### ID10M: Idiom Identification in 10 Languages
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.208/](https://aclanthology.org/2022.findings-naacl.208/)
+- 代码链接：[https://github.com/Babelscape/ID10M](https://github.com/Babelscape/ID10M)
+
+#### Cross-Domain Classification of Moral Values
+
+- 论文链接：[https://aclanthology.org/2022.findings-naacl.209/](https://aclanthology.org/2022.findings-naacl.209/)
+- 代码链接：[https://github.com/adondera/transferability-of-values](https://github.com/adondera/transferability-of-values)
+
+#### Easy and Efficient Transformer: Scalable Inference Solution For Large NLP Model
+
+- 论文链接：[https://aclanthology.org/2022.naacl-industry.8/](https://aclanthology.org/2022.naacl-industry.8/)
+- 代码链接：[https://github.com/NetEase-FuXi/EET](https://github.com/NetEase-FuXi/EET)
+
+#### Learning Natural Language Generation with Truncated Reinforcement Learning
+
+- 论文链接：[https://aclanthology.org/2022.naacl-main.2/](https://aclanthology.org/2022.naacl-main.2/)
+- 代码链接：[https://github.com/amdonati/rl-nlp](https://github.com/amdonati/rl-nlp)
+
+#### TSTR: Too Short to Represent, Summarize with Details! Intro-Guided Extended Summary Generation
+
+- 论文链接：[https://aclanthology.org/2022.naacl-main.25/](https://aclanthology.org/2022.naacl-main.25/)
+- 代码链接：[https://github.com/georgetown-ir-lab/tstrsum](https://github.com/georgetown-ir-lab/tstrsum)
+
+#### Fuse It More Deeply! A Variational Transformer with Layer-Wise Latent Variable Inference for Text Generation
+
+- 论文链接：[https://aclanthology.org/2022.naacl-main.51/](https://aclanthology.org/2022.naacl-main.51/)
+- 代码链接：[https://github.com/openvlg/della](https://github.com/openvlg/della)
+
+#### On the Use of External Data for Spoken Named Entity Recognition
+
+- 论文链接：[https://aclanthology.org/2022.naacl-main.53/](https://aclanthology.org/2022.naacl-main.53/)
+- 代码链接：[https://github.com/asappresearch/spoken-ner](https://github.com/asappresearch/spoken-ner)
+
+#### NeuroLogic A*esque Decoding: Constrained Text Generation with Lookahead Heuristics
+
+- 论文链接：[https://aclanthology.org/2022.naacl-main.57/](https://aclanthology.org/2022.naacl-main.57/)
+- 代码链接：[https://github.com/GXimingLu/a_star_neurologic](https://github.com/GXimingLu/a_star_neurologic)
+
+#### Abstraction not Memory: BERT and the English Article System
+
+- 论文链接：[https://aclanthology.org/2022.naacl-main.67/](https://aclanthology.org/2022.naacl-main.67/)
+- 代码链接：[https://github.com/h-tayyarmadabushi/abstraction-not-memory-bert-and-the-english-article-system-naacl-2022](https://github.com/h-tayyarmadabushi/abstraction-not-memory-bert-and-the-english-article-system-naacl-2022)
+
+#### OPERA: Operation-Pivoted Discrete Reasoning over Text
+
+- 论文链接：[https://aclanthology.org/2022.naacl-main.119/](https://aclanthology.org/2022.naacl-main.119/)
+- 代码链接：[https://github.com/jd-ai-research-nlp/opera](https://github.com/jd-ai-research-nlp/opera)
+
+#### End-to-End Chinese Speaker Identification
+
+- 论文链接：[https://aclanthology.org/2022.naacl-main.165/](https://aclanthology.org/2022.naacl-main.165/)
+- 代码链接：[https://github.com/yudiandoris/csi](https://github.com/yudiandoris/csi)
+
+#### Does Summary Evaluation Survive Translation to Other Languages?
+
+- 论文链接：[https://aclanthology.org/2022.naacl-main.173/](https://aclanthology.org/2022.naacl-main.173/)
+- 代码链接：[https://github.com/PrimerAI/primer-research/](https://github.com/PrimerAI/primer-research/)
+
+#### Unified Semantic Typing with Meaningful Label Inference
+
+- 论文链接：[https://aclanthology.org/2022.naacl-main.190/](https://aclanthology.org/2022.naacl-main.190/)
+- 代码链接：[https://github.com/luka-group/unist](https://github.com/luka-group/unist)
+
+#### Long Context Question Answering via Supervised Contrastive Learning
+
+- 论文链接：[https://aclanthology.org/2022.naacl-main.207/](https://aclanthology.org/2022.naacl-main.207/)
+- 代码链接：[https://github.com/aviclu/long-context-qa-contrast](https://github.com/aviclu/long-context-qa-contrast)
+
+#### Are All the Datasets in Benchmark Necessary? A Pilot Study of Dataset Evaluation for Text Classification
+
+- 论文链接：[https://aclanthology.org/2022.naacl-main.213/](https://aclanthology.org/2022.naacl-main.213/)
+- 代码链接：[https://github.com/annonnlp-demo/acl-v2](https://github.com/annonnlp-demo/acl-v2)
+
+#### Persona-Guided Planning for Controlling the Protagonist’s Persona in Story Generation
+
+- 论文链接：[https://aclanthology.org/2022.naacl-main.245/](https://aclanthology.org/2022.naacl-main.245/)
+- 代码链接：[https://github.com/thu-coai/ConPer](https://github.com/thu-coai/ConPer)
+
+#### Learning to Transfer Prompts for Text Generation
+
+- 论文链接：[https://aclanthology.org/2022.naacl-main.257/](https://aclanthology.org/2022.naacl-main.257/)
+- 代码链接：[https://github.com/RUCAIBox/Transfer-Prompts-for-Text-Generation](https://github.com/RUCAIBox/Transfer-Prompts-for-Text-Generation)
+
+#### Benchmarking Intersectional Biases in NLP
+
+- 论文链接：[https://aclanthology.org/2022.naacl-main.263/](https://aclanthology.org/2022.naacl-main.263/)
+- 代码链接：[https://github.com/nd-hal/naacl-2022](https://github.com/nd-hal/naacl-2022)
+
+#### Unsupervised Stem-based Cross-lingual Part-of-Speech Tagging for Morphologically Rich Low-Resource Languages
+
+- 论文链接：[https://aclanthology.org/2022.naacl-main.298/](https://aclanthology.org/2022.naacl-main.298/)
+- 代码链接：[https://github.com/rnd2110/unsupervised-cross-lingual-pos-tagging](https://github.com/rnd2110/unsupervised-cross-lingual-pos-tagging)
+
+#### Generative Cross-Domain Data Augmentation for Aspect and Opinion Co-Extraction
+
+- 论文链接：[https://aclanthology.org/2022.naacl-main.312/](https://aclanthology.org/2022.naacl-main.312/)
+- 代码链接：[https://github.com/nustm/gcdda](https://github.com/nustm/gcdda)
+
+#### ProQA: Structural Prompt-based Pre-training for Unified Question Answering
+
+- 论文链接：[https://aclanthology.org/2022.naacl-main.313/](https://aclanthology.org/2022.naacl-main.313/)
+- 代码链接：[https://github.com/zhongwanjun/proqa](https://github.com/zhongwanjun/proqa)
+
+#### Generating Authentic Adversarial Examples beyond Meaning-preserving with Doubly Round-trip Translation
+
+- 论文链接：[https://aclanthology.org/2022.naacl-main.316/](https://aclanthology.org/2022.naacl-main.316/)
+- 代码链接：[https://github.com/lisasiyu/drtt](https://github.com/lisasiyu/drtt)
+
+#### CHAI: A CHatbot AI for Task-Oriented Dialogue with Offline Reinforcement Learning
+
+- 论文链接：[https://aclanthology.org/2022.naacl-main.332/](https://aclanthology.org/2022.naacl-main.332/)
+- 代码链接：[https://github.com/siddharthverma314/chai-naacl-2022](https://github.com/siddharthverma314/chai-naacl-2022)
+
+#### Symbolic Knowledge Distillation: from General Language Models to Commonsense Models
+
+- 论文链接：[https://aclanthology.org/2022.naacl-main.341/](https://aclanthology.org/2022.naacl-main.341/)
+- 代码链接：[https://github.com/peterwestai2/symbolic-knowledge-distillation](https://github.com/peterwestai2/symbolic-knowledge-distillation)
+
+#### Interactive Symbol Grounding with Complex Referential Expressions
+
+- 论文链接：[https://aclanthology.org/2022.naacl-main.358/](https://aclanthology.org/2022.naacl-main.358/)
+- 代码链接：[https://github.com/itl-ed/igre](https://github.com/itl-ed/igre)
+
+#### Generalized Quantifiers as a Source of Error in Multilingual NLU Benchmarks
+
+- 论文链接：[https://aclanthology.org/2022.naacl-main.359/](https://aclanthology.org/2022.naacl-main.359/)
+- 代码链接：[https://github.com/ruixiangcui/gqnli](https://github.com/ruixiangcui/gqnli)
+
+#### RAAT: Relation-Augmented Attention Transformer for Relation Modeling in Document-Level Event Extraction
+
+- 论文链接：[https://aclanthology.org/2022.naacl-main.367/](https://aclanthology.org/2022.naacl-main.367/)
+- 代码链接：[https://github.com/TencentYoutuResearch/EventExtraction-RAAT](https://github.com/TencentYoutuResearch/EventExtraction-RAAT)
+
+#### Meet Your Favorite Character: Open-domain Chatbot Mimicking Fictional Characters with only a Few Utterances
+
+- 论文链接：[https://aclanthology.org/2022.naacl-main.377/](https://aclanthology.org/2022.naacl-main.377/)
+- 代码链接：[https://github.com/hyperconnect/pseudo-dialog-prompting](https://github.com/hyperconnect/pseudo-dialog-prompting)
+
+#### Is “My Favorite New Movie” My Favorite Movie? Probing the Understanding of Recursive Noun Phrases
+
+- 论文链接：[https://aclanthology.org/2022.naacl-main.388/](https://aclanthology.org/2022.naacl-main.388/)
+- 代码链接：[https://github.com/veronica320/recursive-nps](https://github.com/veronica320/recursive-nps)
+
+#### When Does Syntax Mediate Neural Language Model Performance? Evidence from Dropout Probes
+
+- 论文链接：[https://aclanthology.org/2022.naacl-main.394/](https://aclanthology.org/2022.naacl-main.394/)
+- 代码链接：[https://github.com/mycal-tucker/mlm_dropout_probes](https://github.com/mycal-tucker/mlm_dropout_probes)
