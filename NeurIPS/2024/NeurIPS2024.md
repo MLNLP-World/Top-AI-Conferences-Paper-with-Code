@@ -12136,7 +12136,7 @@
 #### DMC-VB: A Benchmark for Representation Learning for Control with Visual Distractors
 
 - 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/0c946accd3ccc88c09dfae7e1cd40ffe-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/0c946accd3ccc88c09dfae7e1cd40ffe-Abstract-Datasets_and_Benchmarks_Track.html)
-- 代码链接：[https://github.com/google-deepmind/dmcvisionbenchmark](https://github.com/google-deepmind/dmcvisionbenchmark)
+- 代码链接：[https://github.com/google-deepmind/dmc_vision_benchmark](https://github.com/google-deepmind/dmc_vision_benchmark)
 
 #### BenchX: A Unified Benchmark Framework for Medical Vision-Language Pretraining on Chest X-Rays
 
@@ -13431,7 +13431,7 @@
 #### NYU CTF Bench: A Scalable Open-Source Benchmark Dataset for Evaluating LLMs in Offensive Security
 
 - 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/69d97a6493fbf016fff0a751f253ad18-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/69d97a6493fbf016fff0a751f253ad18-Abstract-Datasets_and_Benchmarks_Track.html)
-- 代码链接：[https://github.com/NYU-LLM-CTF/NYUCTFBench](https://github.com/NYU-LLM-CTF/NYUCTFBench)
+- 代码链接：[https://github.com/nyu-llm-ctf/llm_ctf_automation](https://github.com/nyu-llm-ctf/llm_ctf_automation)
 
 #### The Multimodal Universe: Enabling Large-Scale Machine Learning with 100 TB of Astronomical Scientific Data
 
@@ -14501,7 +14501,7 @@
 #### A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data
 
 - 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/b91ea2ba1b6521940e204b7b81d5ef47-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/b91ea2ba1b6521940e204b7b81d5ef47-Abstract-Datasets_and_Benchmarks_Track.html)
-- 代码链接：[https://github.com/dasGringuen/assettocorsagym](https://github.com/dasGringuen/assettocorsagym)
+- 代码链接：[https://github.com/dasgringuen/assetto_corsa_gym](https://github.com/dasgringuen/assetto_corsa_gym)
 
 #### BioTrove: A Large Curated Image Dataset Enabling AI for Biodiversity
 
@@ -15222,11 +15222,6 @@
 
 - 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f0b1515be276f6ba82b4f2b25e50bef0-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2024/hash/f0b1515be276f6ba82b4f2b25e50bef0-Abstract-Conference.html)
 - 代码链接：[https://github.com/horseee/learning-to-cache](https://github.com/horseee/learning-to-cache)
-
-#### A Practitioner's Guide to Real-World Continual Multimodal Pretraining
-
-- 论文链接：[https://papers.nips.cc/paper_files/paper/2024/hash/f1a6a2cdc7e65dbb4579e78f97cd2665-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2024/hash/f1a6a2cdc7e65dbb4579e78f97cd2665-Abstract-Datasets_and_Benchmarks_Track.html)
-- 代码链接：[https://github.com/ExplainableML/fomoinflux](https://github.com/ExplainableML/fomoinflux)
 
 #### Alleviating Distortion in Image Generation via Multi-Resolution Diffusion Models and Time-Dependent Layer Normalization
 

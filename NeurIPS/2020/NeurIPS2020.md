@@ -5343,11 +5343,6 @@
 - 论文链接：[https://papers.nips.cc/paper/2020/hash/657b96f0592803e25a4f07166fff289a-Abstract.html](https://papers.nips.cc/paper/2020/hash/657b96f0592803e25a4f07166fff289a-Abstract.html)
 - 代码链接：[https://github.com/leoozy/JointRD_Neurips2020](https://github.com/leoozy/JointRD_Neurips2020)
 
-#### SIRI: Spatial Relation Induced Network For Spatial Description Resolution
-
-- 论文链接：[https://papers.nips.cc/paper/2020/hash/778609db5dc7e1a8315717a9cdd8fd6f-Abstract.html](https://papers.nips.cc/paper/2020/hash/778609db5dc7e1a8315717a9cdd8fd6f-Abstract.html)
-- 代码链接：[https://github.com/wong-puiyiu/siri-sdr](https://github.com/wong-puiyiu/siri-sdr)
-
 #### Instance-based Generalization in Reinforcement Learning
 
 - 论文链接：[https://papers.nips.cc/paper/2020/hash/82674fc29bc0d9895cee346548c2cb5c-Abstract.html](https://papers.nips.cc/paper/2020/hash/82674fc29bc0d9895cee346548c2cb5c-Abstract.html)

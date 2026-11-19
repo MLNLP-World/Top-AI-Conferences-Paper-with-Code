@@ -10363,11 +10363,6 @@
 - 论文链接：[https://papers.nips.cc/paper_files/paper/2023/hash/6aa9a05b929fb08ff46a58cab6cf860d-Abstract-Datasets_and_Benchmarks.html](https://papers.nips.cc/paper_files/paper/2023/hash/6aa9a05b929fb08ff46a58cab6cf860d-Abstract-Datasets_and_Benchmarks.html)
 - 代码链接：[https://github.com/hlasse/data-centric-synthetic-data](https://github.com/hlasse/data-centric-synthetic-data)
 
-#### VillanDiffusion: A Unified Backdoor Attack Framework for Diffusion Models
-
-- 论文链接：[https://papers.nips.cc/paper_files/paper/2023/hash/6b055b95d689b1f704d8f92191cdb788-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2023/hash/6b055b95d689b1f704d8f92191cdb788-Abstract-Conference.html)
-- 代码链接：[https://github.com/ibm/villandiffusion](https://github.com/ibm/villandiffusion)
-
 #### Describe, Explain, Plan and Select: Interactive Planning with LLMs Enables Open-World Multi-Task Agents
 
 - 论文链接：[https://papers.nips.cc/paper_files/paper/2023/hash/6b8dfb8c0c12e6fafc6c256cb08a5ca7-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2023/hash/6b8dfb8c0c12e6fafc6c256cb08a5ca7-Abstract-Conference.html)
@@ -11168,11 +11163,6 @@
 - 论文链接：[https://papers.nips.cc/paper_files/paper/2023/hash/cb7943be26bb34f036c7e4068c490903-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2023/hash/cb7943be26bb34f036c7e4068c490903-Abstract-Conference.html)
 - 代码链接：[https://github.com/nhuang37/finegrain_expressivity_gnn](https://github.com/nhuang37/finegrain_expressivity_gnn)
 
-#### Lo-Hi: Practical ML Drug Discovery Benchmark
-
-- 论文链接：[https://papers.nips.cc/paper_files/paper/2023/hash/cb82f1f97ad0ca1d92df852a44a3bd73-Abstract-Datasets_and_Benchmarks.html](https://papers.nips.cc/paper_files/paper/2023/hash/cb82f1f97ad0ca1d92df852a44a3bd73-Abstract-Datasets_and_Benchmarks.html)
-- 代码链接：[https://github.com/SteshinSS/lohi_neurips2023Lo-Hi](https://github.com/SteshinSS/lohi_neurips2023Lo-Hi)
-
 #### LagrangeBench: A Lagrangian Fluid Mechanics Benchmarking Suite
 
 - 论文链接：[https://papers.nips.cc/paper_files/paper/2023/hash/ccac3b120c7dc86d45f56830732b62be-Abstract-Datasets_and_Benchmarks.html](https://papers.nips.cc/paper_files/paper/2023/hash/ccac3b120c7dc86d45f56830732b62be-Abstract-Datasets_and_Benchmarks.html)
@@ -11472,11 +11462,6 @@
 
 - 论文链接：[https://papers.nips.cc/paper_files/paper/2023/hash/e8916198466e8ef218a2185a491b49fa-Abstract-Datasets_and_Benchmarks.html](https://papers.nips.cc/paper_files/paper/2023/hash/e8916198466e8ef218a2185a491b49fa-Abstract-Datasets_and_Benchmarks.html)
 - 代码链接：[https://github.com/Farama-Foundation/Minigrid](https://github.com/Farama-Foundation/Minigrid)
-
-#### Contrastive Sampling Chains in Diffusion Models
-
-- 论文链接：[https://papers.nips.cc/paper_files/paper/2023/hash/e8ff788779f2e9e74ccd0d6b84607437-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2023/hash/e8ff788779f2e9e74ccd0d6b84607437-Abstract-Conference.html)
-- 代码链接：[https://github.com/bestjunyu/contrastive-sampling](https://github.com/bestjunyu/contrastive-sampling)
 
 #### TriRE: A Multi-Mechanism Learning Paradigm for Continual Knowledge Retention and Promotion
 

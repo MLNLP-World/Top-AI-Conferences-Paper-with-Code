@@ -15226,12 +15226,7 @@
 #### Decompile-Bench: Million-Scale Binary-Source Function Pairs for Real-World Binary Decompilation
 
 - 论文链接：[https://papers.nips.cc/paper_files/paper/2025/hash/079cf13ae174c31f148207d94d213bdc-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2025/hash/079cf13ae174c31f148207d94d213bdc-Abstract-Datasets_and_Benchmarks_Track.html)
-- 代码链接：[https://github.com/anonepo/LLM4Decompile](https://github.com/anonepo/LLM4Decompile)
-
-#### IRRISIGHT: A Large-Scale Multimodal Dataset and Scalable Pipeline to Address Irrigation and Water Management in Agriculture
-
-- 论文链接：[https://papers.nips.cc/paper_files/paper/2025/hash/0821a1413339bf79ba01876783d95c53-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2025/hash/0821a1413339bf79ba01876783d95c53-Abstract-Datasets_and_Benchmarks_Track.html)
-- 代码链接：[https://github.com/Nibir088/IRRISIGHThttps](https://github.com/Nibir088/IRRISIGHThttps)
+- 代码链接：[https://github.com/albertan017/LLM4Decompile](https://github.com/albertan017/LLM4Decompile)
 
 #### Hybrid Latent Reasoning via Reinforcement Learning
 
@@ -15592,11 +15587,6 @@
 
 - 论文链接：[https://papers.nips.cc/paper_files/paper/2025/hash/39a5e95b048d8184d530bd0c81afa46a-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2025/hash/39a5e95b048d8184d530bd0c81afa46a-Abstract-Conference.html)
 - 代码链接：[https://github.com/peiman-m/specconvcnp](https://github.com/peiman-m/specconvcnp)
-
-#### BRACE: A Benchmark for Robust Audio Caption Quality Evaluation
-
-- 论文链接：[https://papers.nips.cc/paper_files/paper/2025/hash/3a3ec21884760f891752e0661ecc0b0b-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2025/hash/3a3ec21884760f891752e0661ecc0b0b-Abstract-Datasets_and_Benchmarks_Track.html)
-- 代码链接：[https://github.com/HychTus/BRACEEvaluation](https://github.com/HychTus/BRACEEvaluation)
 
 #### Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach
 
@@ -16173,11 +16163,6 @@
 - 论文链接：[https://papers.nips.cc/paper_files/paper/2025/hash/91f7f71cb04699f387dc863da42a1fe3-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2025/hash/91f7f71cb04699f387dc863da42a1fe3-Abstract-Datasets_and_Benchmarks_Track.html)
 - 代码链接：[https://github.com/uiuctml/mergebench](https://github.com/uiuctml/mergebench)
 
-#### RAM-W600: A Multi-Task Wrist Dataset and Benchmark for Rheumatoid Arthritis
-
-- 论文链接：[https://papers.nips.cc/paper_files/paper/2025/hash/92059c0ca1f2db0018e49b588d4f05e9-Abstract-Datasets_and_Benchmarks_Track.html](https://papers.nips.cc/paper_files/paper/2025/hash/92059c0ca1f2db0018e49b588d4f05e9-Abstract-Datasets_and_Benchmarks_Track.html)
-- 代码链接：[https://github.com/YSongxiao/RAM-W600Data](https://github.com/YSongxiao/RAM-W600Data)
-
 #### SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond
 
 - 论文链接：[https://papers.nips.cc/paper_files/paper/2025/hash/926ec82c83afe07db613956ae48c6700-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2025/hash/926ec82c83afe07db613956ae48c6700-Abstract-Conference.html)
@@ -16402,11 +16387,6 @@
 
 - 论文链接：[https://papers.nips.cc/paper_files/paper/2025/hash/b81d5608b42518f8f5b81a71a59509aa-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2025/hash/b81d5608b42518f8f5b81a71a59509aa-Abstract-Conference.html)
 - 代码链接：[https://github.com/ltl3a87/compa](https://github.com/ltl3a87/compa)
-
-#### ReMA: Learning to Meta-Think for LLMs with Multi-agent Reinforcement Learning
-
-- 论文链接：[https://papers.nips.cc/paper_files/paper/2025/hash/b83514e453ff03741a5fb3e5e49f709b-Abstract-Conference.html](https://papers.nips.cc/paper_files/paper/2025/hash/b83514e453ff03741a5fb3e5e49f709b-Abstract-Conference.html)
-- 代码链接：[https://github.com/ziyuwan/rema-public](https://github.com/ziyuwan/rema-public)
 
 #### BOOM: Benchmarking Out-Of-distribution Molecular Property Predictions of Machine Learning Models
 

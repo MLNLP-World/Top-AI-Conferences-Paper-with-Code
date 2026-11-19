@@ -8963,11 +8963,6 @@
 - 论文链接：[https://openreview.net/pdf/bdf25dcdaec2b420c71a3c5172e293d2f492476e.pdf](https://openreview.net/pdf/bdf25dcdaec2b420c71a3c5172e293d2f492476e.pdf)
 - 代码链接：[https://github.com/Gorilla-Lab-SCUT/tango](https://github.com/Gorilla-Lab-SCUT/tango)
 
-#### InsPro: Propagating Instance Query and Proposal for Online Video Instance Segmentation
-
-- 论文链接：[https://openreview.net/pdf/eca2c338adf344ae5f769a7141236faafa479cc4.pdf](https://openreview.net/pdf/eca2c338adf344ae5f769a7141236faafa479cc4.pdf)
-- 代码链接：[https://github.com/hf1995/InsPro](https://github.com/hf1995/InsPro)
-
 #### LasUIE: Unifying Information Extraction with Latent Adaptive Structure-aware Generative Language Model
 
 - 论文链接：[https://openreview.net/pdf/b351fd6bca07667256deb21119bfe6fa900af33c.pdf](https://openreview.net/pdf/b351fd6bca07667256deb21119bfe6fa900af33c.pdf)
